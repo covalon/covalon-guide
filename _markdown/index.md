@@ -4,9 +4,10 @@
 
 :
 :
- 
+
 {{wide
 ![Covalon Logo](https://i.ibb.co/2nWwNHT/Covalon-Logo-Bold-Wood-Cropped-Small.webp) {width:50%,margin-left:160px,margin-right:auto}
+![](https://raw.githubusercontent.com/covalon/covalon-guide/gh-pages/assets/covalon/test.bmp)
 }}
 
 
@@ -25,8 +26,8 @@ Welcome to Covalon, a Pathfinder 2nd Edition living world campaign! Our campaign
 }}
 
 
-{{wide 
-Covalon is a "living world" style tabletop RPG campaign, using the Pathfinder 2e system, with a focus on providing drop-in/drop-out style adventures and role play in a post-apocalyptic fantasy setting. Our unique campaign weaves a cohesive and open narrative from the backstory and role play contributions of the players with a focus on slow and relaxed progression, giving everyone a chance to enjoy the campaign and develop their chaorracter at their own pace. Individual adventures are jam-packed with combat and intrigue without affecting an overarching plot, which allows characters to have engaging experiences without needing to worry atrbout missing out on a grander narrative. Whether you choose to play with us daily or once a week, Covalon offers fulfilling gameplay for everyone! To make this cohesive setting work, we have some special rules that you may find different from normal campaigns. In general, we try to stick to rules-as-written (RAW) as much as possible, in order to ensure that scheduled play sessions (universally referred to as "adventures" in Covalon) are run as fairly and consistently as possible between our many Game Masters (universally referred to as "dungeon guides" in Covalon). While we encourage players to invent civilizations and deities to fill out our setting, we place strict limits on homebrewed mechanical features, such as items and class features, and we do not use certain optional rules such as voluntary flaws, free archetypes, and dual classing. There are, of course, some exceptions to these rules, which can be found in this ever-updating document. 
+{{wide
+Covalon is a "living world" style tabletop RPG campaign, using the Pathfinder 2e system, with a focus on providing drop-in/drop-out style adventures and role play in a post-apocalyptic fantasy setting. Our unique campaign weaves a cohesive and open narrative from the backstory and role play contributions of the players with a focus on slow and relaxed progression, giving everyone a chance to enjoy the campaign and develop their chaorracter at their own pace. Individual adventures are jam-packed with combat and intrigue without affecting an overarching plot, which allows characters to have engaging experiences without needing to worry atrbout missing out on a grander narrative. Whether you choose to play with us daily or once a week, Covalon offers fulfilling gameplay for everyone! To make this cohesive setting work, we have some special rules that you may find different from normal campaigns. In general, we try to stick to rules-as-written (RAW) as much as possible, in order to ensure that scheduled play sessions (universally referred to as "adventures" in Covalon) are run as fairly and consistently as possible between our many Game Masters (universally referred to as "dungeon guides" in Covalon). While we encourage players to invent civilizations and deities to fill out our setting, we place strict limits on homebrewed mechanical features, such as items and class features, and we do not use certain optional rules such as voluntary flaws, free archetypes, and dual classing. There are, of course, some exceptions to these rules, which can be found in this ever-updating document.
 {{text-align:center
 [Click here to join Covalon!](https://discord.gg/covalon)
 }}
@@ -138,7 +139,7 @@ Covalon is a "living world" style tabletop RPG campaign, using the Pathfinder 2e
 # Chapter 1: Player Expectations
 
 {{subtitle
-This section covers the behavior expectations players agree to uphold while participating in Covalon, as well as a guide for getting started in the campaign. 
+This section covers the behavior expectations players agree to uphold while participating in Covalon, as well as a guide for getting started in the campaign.
 :
 }}
 {{separator}}
@@ -296,7 +297,7 @@ You're all set to begin participating in the Covalon campaign! Head into one of 
 
 {{purple,#book,text-align:center,background:#D1C7B1
 :
-##### First Steps into Covalon 
+##### First Steps into Covalon
 Need some ideas for where to start role playing? Here are some suggestions!
 
 ##### Heartstone Sanctuary
@@ -338,7 +339,7 @@ Adventures are all run in the Discord voice channels and through Foundry VTT; it
 
 \page
 {{wide
-## Covalon Creative Works Policy 
+## Covalon Creative Works Policy
 
 If you produce any creative works for Covalon, you must agree to the Covalon Creative Works Policy. Any work created by a member of the Covalon Discord server that is shared in the Covalon Discord server or as part of the Covalon campaign ("the campaign") that is considered eligible for copyright protection by the United States Copyright Act of 1976 (and its revisions) falls under this policy. The creator of the work grants Covalon a non-exclusive license to share or reproduce that work as it pertains to relevance within the campaign. All other rights are reserved by the work's creator - including ownership and the right to retract this granted license. For more information or to request that your work be removed from the campaign, please #create-a-ticket.
 }}
@@ -504,7 +505,7 @@ Covalon - the largest remaining civilization in the world - only thrives because
 # Chapter 3: Covalon Gameplay
 
 {{
-*This section details the gameplay systems present in the Covalon campaign. While many gameplay systems are similar to those of a traditional campaign, Covalon has several unique systems as well as twists on familiar ones.* 
+*This section details the gameplay systems present in the Covalon campaign. While many gameplay systems are similar to those of a traditional campaign, Covalon has several unique systems as well as twists on familiar ones.*
 
 }}
 {{separator}}
@@ -515,11 +516,11 @@ Covalon has been designed with a focus on slow, gradual progression that's jam-p
 
 ## General Rules
 
-The following are general gameplay rules for our server, including adjustments to similar rules found in the CRB. If there's ever a discrepancy between the CRB and the rules listed in this section, the rules in this section take priority. 
+The following are general gameplay rules for our server, including adjustments to similar rules found in the CRB. If there's ever a discrepancy between the CRB and the rules listed in this section, the rules in this section take priority.
 
 ### Levels and Tiers
 
-Adventurers in Covalon are broken up into tiers based on their levels, which determines the difficulty of adventures they can undertake as well as which players they can adventure alongside with. 
+Adventurers in Covalon are broken up into tiers based on their levels, which determines the difficulty of adventures they can undertake as well as which players they can adventure alongside with.
 
 {{note
 ##### Maximum Level
@@ -530,12 +531,12 @@ The maximum level a character can obtain in Covalon is determined by the highest
 
 
 ##### Table 3-1: Character Tiers by Levels
-| Tier| Character Levels| 
+| Tier| Character Levels|
 |:----------:|:--------:|
-| 1          |    1-3   | 
-| 2          |    4-6   | 
-| 3          |    7-9   | 
-| 4          |  10-12   | 
+| 1          |    1-3   |
+| 2          |    4-6   |
+| 3          |    7-9   |
+| 4          |  10-12   |
 | 5          |    13-15 |
 
 
@@ -577,10 +578,10 @@ During adventures, items with the infused trait - as well as temporary items cre
 
 
 
-To balance gameplay, Covalon implements special rules for higher-level items. Generally, characters can't use gear above their tier during adventures, except for certain cases like potions with varying strengths or magical equipment. If an item's level exceeds the character's tier, its effects are downgraded or disabled. For example, a level 2 character using a +2 flaming shortsword would only have a +1 shortsword's benefits. A level 5 character that drinks an Antidote (Major) during an adventure would gain the benefits of an Antidote (Moderate). 
+To balance gameplay, Covalon implements special rules for higher-level items. Generally, characters can't use gear above their tier during adventures, except for certain cases like potions with varying strengths or magical equipment. If an item's level exceeds the character's tier, its effects are downgraded or disabled. For example, a level 2 character using a +2 flaming shortsword would only have a +1 shortsword's benefits. A level 5 character that drinks an Antidote (Major) during an adventure would gain the benefits of an Antidote (Moderate).
 :
 
-Similarly, specific magic items lose their special properties when used by lower-tier characters. A level 2 character with a Caterwaul Sling would revert into a +1 sling during an adventure. Items made from precious materials will either lose the effect of their precious material, or revert to a lower quality version of that material if an in tier version exists. A level 5 character with a standard-grade cold iron longsword would revert to a low-grade cold iron longsword during an adventure, but a standard grade siccatite weapon would not function as siccatite below tier 4. 
+Similarly, specific magic items lose their special properties when used by lower-tier characters. A level 2 character with a Caterwaul Sling would revert into a +1 sling during an adventure. Items made from precious materials will either lose the effect of their precious material, or revert to a lower quality version of that material if an in tier version exists. A level 5 character with a standard-grade cold iron longsword would revert to a low-grade cold iron longsword during an adventure, but a standard grade siccatite weapon would not function as siccatite below tier 4.
 
 {{note
 ##### Buy! Sell! Trade!
@@ -719,13 +720,13 @@ Gift Number| Level Requirement | Gift Type | Price
 5 | 17 | Grand | 15,000 gp
 
 ### Alternate Characters
-Alternate characters allow long time players the chance to spend gold accumulated at max level on the chance to play additional characters without retiring their main character. 
+Alternate characters allow long time players the chance to spend gold accumulated at max level on the chance to play additional characters without retiring their main character.
 
 #### Unlocking Alternate Characters
 When your first character (referred to as your "main character" in these rules) reaches max level, capped experience, you may pay a gold cost to unlock a slot for an alternate character. Alternate characters are experience capped at one tier below the maximum tier of play. When all your alternate characters are at maximum level, capped experience, you may pay to unlock another alternate character slot. The cost to unlock an alternate character slot is equal to 20,000 gp times the number of characters you currently have (including your main). This purchase should be recorded in #alternate-character-tracking. Once you've purchased an alternate character slot, #create-a-ticket to submit your character using the normal character creation rules.
 
 #### Alternate Character Restrictions
-Your characters can never interact with each other in roleplay. Your characters have completely separate inventories, items and gold cannot be shared. (The one exception to this rule is paying for more alternate character slots, you may pay for another slot using gold from all/any of your characters inventories.) No matter how many characters you have, you only get one day of downtime to spend per day. You can spend this day of downtime as either your main character or your current active alternate character. Your characters may craft items for each other, but the character recieving the item must pay the full cost of the item. 
+Your characters can never interact with each other in roleplay. Your characters have completely separate inventories, items and gold cannot be shared. (The one exception to this rule is paying for more alternate character slots, you may pay for another slot using gold from all/any of your characters inventories.) No matter how many characters you have, you only get one day of downtime to spend per day. You can spend this day of downtime as either your main character or your current active alternate character. Your characters may craft items for each other, but the character recieving the item must pay the full cost of the item.
 
 #### Alternate Character Lock In Period
 If you have multiple alternate characters, you can only play one alternate character at a time. Once you choose to play an alternate character, you are locked in to that alternate for at least two weeks. During this period, you cannot use any other alternate character for downtime, roleplay, or adventures. When you switch your active alternate character, you must post in #alternate-character-tracking. Note that you can play your main character at any time. You must have the name of your main and active alternate character in your discord name (e.g. “Daryl Hall | John Oates”).
@@ -760,7 +761,7 @@ Events are scheduled according to "server time," which is Covalon's standard tim
 
 "Adventures"  in Covalon are scheduled play sessions between players and a Dungeon Guide where player characters work together to overcome adversaries, obstacles, and other challenges to receive experience points (XP) and loot.
 :
-There are several types of adventures in Covalon, each with their own unique gameplay, challenges, and rewards. The amount of loot and XP your character gains varies based on your character's level and the game type. Patrols, our shortest gamemode, always give 250 XP. In Tiers 1-3, game modes other than patrols award 500 XP. In Tiers 4 and 5, Patrols are not available to play, and all other adventure types award 250 XP. 
+There are several types of adventures in Covalon, each with their own unique gameplay, challenges, and rewards. The amount of loot and XP your character gains varies based on your character's level and the game type. Patrols, our shortest gamemode, always give 250 XP. In Tiers 1-3, game modes other than patrols award 500 XP. In Tiers 4 and 5, Patrols are not available to play, and all other adventure types award 250 XP.
 
 ### Dungeons
 The standard adventure type in Covalon is the dungeon. This adventure type involves going through a portal to a random location in the world in order to salvage supplies or recover lost treasures. They don't always take place in literal dungeons! These adventures typically last three to four hours long and include multiple combat encounters as well as puzzles, skill challenges, and roleplay opportunities. They typically award all types of treasure.
@@ -809,10 +810,10 @@ It's a fight to the (almost) death! When a team member is knocked out and taken 
 Three control points exist on the map. At the end of each round, 1 point is awarded to each team who has more allies touching the ground in a control point than their opponents do. The first team to  7 points wins. If both teams reach 7 points simultaneously, the match continues until one team creates a point lead. Unconscious bodies can't score points!
 
 #### Capture the Flag
-A flag appears at the center of the arena. A player with a free hand can use an Interact action to grab the flag, which is light bulk. The player with the flag must bring it to a specified location and use a two-action Score activity to consume the flag and score 1 point for their team. After a flag is Scored, it immediately returns to the middle of the battlefield. The first team to 3 points wins. If a team is eliminated, the surviving team wins. 
+A flag appears at the center of the arena. A player with a free hand can use an Interact action to grab the flag, which is light bulk. The player with the flag must bring it to a specified location and use a two-action Score activity to consume the flag and score 1 point for their team. After a flag is Scored, it immediately returns to the middle of the battlefield. The first team to 3 points wins. If a team is eliminated, the surviving team wins.
 
 ##### Brawl Titles
-In addition to normal rewards, when your team wins a brawl, you recieve a Gladiator Token that represents your martial prowess. Upon reaching certain milestones, players can #create-a-ticket to gain a prestigious title for their character. 
+In addition to normal rewards, when your team wins a brawl, you recieve a Gladiator Token that represents your martial prowess. Upon reaching certain milestones, players can #create-a-ticket to gain a prestigious title for their character.
 
 - **Gladiator:** 5 Tokens
 - **Slayer:** 20 Tokens
@@ -884,7 +885,7 @@ The first phase of an expedition is to establish a camp at the site of the forme
 The second phase of an expedition requires adventurers to complete a variety of missions in order to explore the area, secure the base camp, and uncover clues about the Cataclysm. Missions are a subtype of expedition adventures that are similar to dungeons, but contribute to an overarching narrative, and are available to all tiers. Each expedition features three missions which have distinct objectives and elements. Any individual mission is repeatable, though some content in the mission changes between repeats. Once several missions have been completed for a location, this phase concludes and the next phase becomes available (though the missions can still be played after the phase has concluded).
 
 #### Phase 3: Complete the Finale
-Once each expedition has been completed a certain number of times, the expedition finale unlocks. A finale involves a singular encounter against a narratively significant threat to conclude the expedition. Completing a finale unlocks a new way for participants to customize their Soul Seeds, and like missions, they are repeatable. Finales can be attempted by players in Tier 2 or higher and last 1 to 2 hours. Finales have two difficulty modes. Normal mode is the standard finale experience, which can be scaled to any tier. Hard mode can only be attempted by characters in the highest tier, and is intended for max level characters. When a finale first becomes available, it can only be attempted at hard mode. Once a finale has been cleared once, normal mode becomes available. 
+Once each expedition has been completed a certain number of times, the expedition finale unlocks. A finale involves a singular encounter against a narratively significant threat to conclude the expedition. Completing a finale unlocks a new way for participants to customize their Soul Seeds, and like missions, they are repeatable. Finales can be attempted by players in Tier 2 or higher and last 1 to 2 hours. Finales have two difficulty modes. Normal mode is the standard finale experience, which can be scaled to any tier. Hard mode can only be attempted by characters in the highest tier, and is intended for max level characters. When a finale first becomes available, it can only be attempted at hard mode. Once a finale has been cleared once, normal mode becomes available.
 
 
 #### Expedition Locations
@@ -903,7 +904,7 @@ The following is a list of currently active expeditions. For more information on
 - The Fey Courts (In Progress)
 
 }}
-}} 
+}}
 
 {{pageNumber,auto}}
 
@@ -921,9 +922,9 @@ Downtime is an important part of how your character spends their time in between
 ### Earning and Spending Downtime
 Time passes in Covalon at the same rate that time passes in real life. Player characters gain one day of downtime to spend for every real life day that passes, and can spend their downtime whenever they're not currently participating in an adventure by logging it in the appropriate channel. If you forget to log your downtime, you can log those days of missed downtime if they were missed within the past week - any days before that are lost. You may not log missed downtime for activities that your characters wouldn't have been able to perform on those days - for example, if you missed logging your downtime on Wednesday, you couldn't log it on Friday to spend it on crafting an item from a formula you acquired on Thursday. Eidolons, companions, and familiars cannot participate in downtime activities. The exact time at which player characters gain a day of downtime to spend is at midnight server time every day.
 
-Players are required to roll their downtime checks in #downtime-rolls, using our Dice Maiden bot. When rolling, please include the reason for the roll in the roll command. For example, if you were rolling a check to Earn Income using Performance and you had a +7 bonus to Performance, you would type: 
+Players are required to roll their downtime checks in #downtime-rolls, using our Dice Maiden bot. When rolling, please include the reason for the roll in the roll command. For example, if you were rolling a check to Earn Income using Performance and you had a +7 bonus to Performance, you would type:
 
-`/roll 1d20+7 !Earn Income` 
+`/roll 1d20+7 !Earn Income`
 
 }}
 
@@ -939,10 +940,10 @@ Due to the very limited equipment options available at the General Store, player
 {text-align:center}
 The DC to craft an item can be found on the [DCs by Level](https://2e.aonprd.com/Rules.aspx?ID=554) table on page 503 of the CRB. In Covalon, we adjust the DC when crafting uncommon or rarer items as per the [Adjusting Difficulty](https://2e.aonprd.com/Rules.aspx?ID=555) rules. If you have the Inventor feat, the DC to Invent the formula for an item is equal to the DC to craft that item. Many effects - such as Guidance - don't last long enough to benefit a Craft check. For more crafting-related rulings, check out #rule-clarification-and-faqs in the Discord server.
 
-}} 
+}}
 
 #### Gather Resources
-Instead of using the traditional Earn Income activity, you can instead choose to Gather Resources using an applicable Lore skill. Gathering resources earns you an amount of material suitable for crafting equal to double the amount you would earn for performing Earn Income at an equivalent task level, and you can Gather Resources up to your character level, regardless of Covalon's settlement level. For example, a level 1 player character trained in Mining Lore could 
+Instead of using the traditional Earn Income activity, you can instead choose to Gather Resources using an applicable Lore skill. Gathering resources earns you an amount of material suitable for crafting equal to double the amount you would earn for performing Earn Income at an equivalent task level, and you can Gather Resources up to your character level, regardless of Covalon's settlement level. For example, a level 1 player character trained in Mining Lore could
 
 {{pageNumber,auto}}
 
@@ -1074,7 +1075,7 @@ You visit the chapel to remove a curse. The church automatically counteracts one
 
 \page
 
-{{wide 
+{{wide
 
 ### Special Covalon Rituals
 A select few number of rituals are available in Covalon. In addition to the allowed rituals in the [Server Allowlist](https://docs.google.com/spreadsheets/d/1yUXF_IAmpim6wkB7QT5l6K_lS5DgOppv99BHjMYbNIU/edit?usp=sharing), the following rituals are also available. Like all rituals, they must be learned with the Learn a Spell activity before they can be cast, and characters without the ability to Cast a Spell can cast these rituals. These rituals must be cast by players; there are no NPCs that are capable of casting them.
@@ -1087,9 +1088,9 @@ A select few number of rituals are available in Covalon. In addition to the allo
 {{tag EXPLORATION}}
 }}
 
-**Cost** rare herbs worth a total value of the level the target wishes to reincarnate into (minimum 1) x 25 gp; 
-**Secondary Casters** 2 
-**Primary Check** Nature (expert); **Secondary Checks** Occultism, Religion 
+**Cost** rare herbs worth a total value of the level the target wishes to reincarnate into (minimum 1) x 25 gp;
+**Secondary Casters** 2
+**Primary Check** Nature (expert); **Secondary Checks** Occultism, Religion
 **Range** 10 Feet; **Target(s)** 1 living creature
 
 ---
@@ -1172,9 +1173,9 @@ In addition to increasing their guild member cap by 2, individuals and guilds th
 
 ##### MOVING A BUILDING
 {text-align:center}
-It costs 50% of the original payment to move a house, business, or guild hall to a new location. If you wish to move a building, please #create-a-ticket. 
+It costs 50% of the original payment to move a house, business, or guild hall to a new location. If you wish to move a building, please #create-a-ticket.
 
-}}  
+}}
 
 Players can own property in Covalon by purchasing a house, business, or a guild hall. A player can own only one of each type of property at a time. To purchase property, you must #create-a-ticket. Guild Halls may be located in Covalon, or any of the following Expedition districts: Ikouga, Gornlar, Middlemist, Pudersno, Ratchethallow.
 
@@ -1289,7 +1290,7 @@ Assault & Battery (Nonlethal) | Harming or attempting to harm another citizen wi
 Fraud | Misrepresenting or breaking an explicit or implicit agreement. This includes lying about the nature of goods being sold, constructing a building with shoddy or inappropriate materials, breaking a contract, or lying while under oath during a trial.
 Bribery | Bribing a juror or some other city official to receive preferential treatment.
 Destruction of Property | Defacing/destroying public property or property belonging to another citizen or guild.
-Unsanctioned Building or Burying | Building without a permit from the City Planner or burying a body without permission from the church. 
+Unsanctioned Building or Burying | Building without a permit from the City Planner or burying a body without permission from the church.
 Environmental Crimes | Exploiting or destroying the bounty that the Heart of Terra provides for Covalon, such as strip mining, clear cutting, excessive hunting, or polluting the lake.
 Irresponsible Use of Magic, Technology, or Alchemy | Using magic, technology, or alchemy that has the potential to cause harm or damage, summons a creature outside of the training ring or arena without official permission, or causes mind-influencing effects on a citizen of Covalon without official permission.
 
@@ -1308,7 +1309,7 @@ Irresponsible Use of Magic, Technology, or Alchemy | Using magic, technology, or
 
 ##### Table 3-11: Extreme Offenses
 
-Extreme Offenses are violations of our Player Expectations and will result in out-of-character consequences. 
+Extreme Offenses are violations of our Player Expectations and will result in out-of-character consequences.
 
 Extreme Offense | Description
 :---: | :---
@@ -1334,7 +1335,7 @@ Extortion | Characters may not extort each other.
 # Chapter 4: Campaign Lore
 
 {{
-*This section details all of our unique setting lore that makes Covalon and the world of Elleaterra distinct from other settings.* 
+*This section details all of our unique setting lore that makes Covalon and the world of Elleaterra distinct from other settings.*
 
 }}
 
@@ -1374,13 +1375,13 @@ Since then, the citizens have discovered that the surge of life energy the Heart
 
 ![](https://raw.githubusercontent.com/covalon/covalon-guide/gh-pages/assets/covalon/PlayersGuide/Maps/PC-Elleaterra_World_Map.webp){width:700px,margin:"0px 0px"}
 
-*The world of Elleaterra, before the Cataclysm. Designed by Rinka.* 
+*The world of Elleaterra, before the Cataclysm. Designed by Rinka.*
 {text-align:center}
 
 :
 ![](https://raw.githubusercontent.com/covalon/covalon-guide/gh-pages/assets/covalon/PlayersGuide/Maps/CovalonCity.webp){width:700px,margin:"0px 0px"}
 
-*The city of Covalon. Designed by Sheas.* 
+*The city of Covalon. Designed by Sheas.*
 {text-align:center}
 
 }}
@@ -1554,7 +1555,7 @@ Sheas
 
 }}
 
-The following characters fought the Maw's beasts. 
+The following characters fought the Maw's beasts.
 
 {{wide,columns:2
 
@@ -1738,7 +1739,7 @@ Valerie
 
 <br>
 
-The following characters fought to destroy the Vessel of the Maw being guarded at the End of Time. 
+The following characters fought to destroy the Vessel of the Maw being guarded at the End of Time.
 
 {{wide,columns:2
 
@@ -1882,7 +1883,7 @@ Valerie
 
 <br>
 
-The following characters fought against the astral raiders to defend Covalon. 
+The following characters fought against the astral raiders to defend Covalon.
 
 {{wide,columns:2
 
@@ -1980,7 +1981,7 @@ Before the Cataclysm, Covalon was nothing more than a small fief of nearly inhos
 Months later, the baron passed away due to natural causes, and the responsibility of leadership was thrust upon the heads of each of Covalon's major organizations and the City Planner. As Covalon's non-adventuring population grew, NPC stepped up to manage most of the day to day governing of the city.
 
 {{template
-#### Covalon 
+#### Covalon
 {{taglist
  {{tag City}}
 }}
@@ -2013,7 +2014,7 @@ Community events are often organized in Covalon's square, which features relaxin
 
 ![](https://raw.githubusercontent.com/covalon/covalon-guide/gh-pages/assets/covalon/PlayersGuide/Maps/TownSquare.webp){width:400px,margin:"0px 125px"}
 
-*The Town Square. Designed by Sheas.* 
+*The Town Square. Designed by Sheas.*
 {text-align:center}
 
 
@@ -2031,7 +2032,7 @@ Whether it be for official council business or for singing a new guild, the town
 :
 ![](https://github.com/covalon/covalon-guide/raw/gh-pages/assets/covalon/PlayersGuide/Maps/TownHall.webp){width:550px,margin:"0px 90px"}
 
-*The Town Hall. Designed by Sheas.* 
+*The Town Hall. Designed by Sheas.*
 {text-align:center}
 
 
@@ -2049,7 +2050,7 @@ Covalon produces what it can to sustain itself, but as more refugees flock to th
 :
 ![](https://raw.githubusercontent.com/covalon/covalon-guide/gh-pages/assets/covalon/PlayersGuide/Maps/DungeoneeringSociety.webp){width:710px,margin:"0px 0px"}
 
-*The Dungeoneering Society. Designed by Sheas.* 
+*The Dungeoneering Society. Designed by Sheas.*
 {text-align:center}
 
 
@@ -2067,7 +2068,7 @@ The collective knowledge of Covalon's citizens and historical records from the o
 :
 ![](https://github.com/covalon/covalon-guide/raw/gh-pages/assets/covalon/PlayersGuide/Maps/Library.webp){width:700px,margin:"0px 0px"}
 
-*Covalon Public Library. Designed by Sheas.* 
+*Covalon Public Library. Designed by Sheas.*
 {text-align:center}
 
 
@@ -2085,7 +2086,7 @@ Though the gods have gone silent, many citizens of Covalon cling to their faith 
 :
 ![](https://github.com/covalon/covalon-guide/raw/gh-pages/assets/covalon/PlayersGuide/Maps/Chapel.webp){width:710px,margin:"0px 0px"}
 
-*The Chapel. Designed by Sheas.* 
+*The Chapel. Designed by Sheas.*
 {text-align:center}
 
 
@@ -2103,7 +2104,7 @@ Covalon's crafters, inventors, and engineers are the backbone of its development
 :
 ![](https://github.com/covalon/covalon-guide/raw/gh-pages/assets/covalon/PlayersGuide/Maps/CraftingHall.webp){width:710px,margin:"0px 0px"}
 
-*The Crafting Hall. Designed by Sheas.* 
+*The Crafting Hall. Designed by Sheas.*
 {text-align:center}
 
 
@@ -2121,12 +2122,12 @@ Adventuring is dangerous work, especially in a post-Cataclysm world, but the alt
 :
 ![](https://github.com/covalon/covalon-guide/raw/gh-pages/assets/covalon/PlayersGuide/Maps/DocsMedResearch.webp){width:430px,margin:"0px 150px"}
 
-*Doc's Medical Center. Designed by Sheas.* 
+*Doc's Medical Center. Designed by Sheas.*
 {text-align:center}
 :
 ![](https://github.com/covalon/covalon-guide/raw/gh-pages/assets/covalon/PlayersGuide/Maps/DocsMedResearch2.webp){width:430px,margin:"0px 150px"}
 
-*Medical Research Center. Designed by Sheas.* 
+*Medical Research Center. Designed by Sheas.*
 {text-align:center}
 
 
@@ -2149,7 +2150,7 @@ Adventurers run on bread and beer, and the adventurers of Covalon are no differe
 :
 ![](https://github.com/covalon/covalon-guide/raw/gh-pages/assets/covalon/PlayersGuide/Maps/TheBrasSnail.webp){width:710px,margin:"0px 0px"}
 
-*The Brass Snail. Designed by Sheas.* 
+*The Brass Snail. Designed by Sheas.*
 {text-align:center}
 
 }}
@@ -2161,7 +2162,7 @@ Though once the only store in Covalon, the General Store has since been overshad
 :
 ![](https://github.com/covalon/covalon-guide/raw/gh-pages/assets/covalon/PlayersGuide/Maps/GeneralStore.webp){width:370px,margin:"0px -20px"}
 
-*The General Store. Designed by Sheas.* 
+*The General Store. Designed by Sheas.*
 {text-align:center}
 
 
@@ -2177,7 +2178,7 @@ Even the dark days of a post-Cataclysm world need a splash of color to brighten 
 :
 ![](https://github.com/covalon/covalon-guide/raw/gh-pages/assets/covalon/PlayersGuide/Maps/WeaversWeb.webp){width:710px,margin:"0px 0px"}
 
-*The Weaver's Web. Designed by Sheas.* 
+*The Weaver's Web. Designed by Sheas.*
 {text-align:center}
 
 
@@ -2195,13 +2196,13 @@ In the right circumstances, contradictory disciplines can often be complimentary
 
 ![](https://github.com/covalon/covalon-guide/raw/gh-pages/assets/covalon/PlayersGuide/Maps/SnowdropShop.webp){width:420px,margin:"0px 150px"}
 
-*Remedies and Afflictions. Designed by Sheas.* 
+*Remedies and Afflictions. Designed by Sheas.*
 {text-align:center}
 
 :
 ![](https://github.com/covalon/covalon-guide/raw/gh-pages/assets/covalon/PlayersGuide/Maps/SnowdropShop2.webp){width:420px,margin:"0px 150px"}
 
-*Snowdrop Residence. Designed by Sheas.* 
+*Snowdrop Residence. Designed by Sheas.*
 {text-align:center}
 
 
@@ -2223,7 +2224,7 @@ For the discerning adventurer, quality goods are a must, and no one knows qualit
 
 ![](https://github.com/covalon/covalon-guide/raw/gh-pages/assets/covalon/PlayersGuide/Maps/Accouterments-Acquisitions.webp){width:700px,margin:"0px 0px"}
 
-*Accoutrements & Acquisitions. Designed by Sheas.* 
+*Accoutrements & Acquisitions. Designed by Sheas.*
 {text-align:center}
 
 }}
@@ -2252,7 +2253,7 @@ A cultural exchange center between lizardfolk and the "soft ones," Iruxi Inc. se
 :
 ![](https://github.com/covalon/covalon-guide/raw/gh-pages/assets/covalon/PlayersGuide/Maps/IruxiInc.webp){width:710px,margin:"0px 0px"}
 
-*Iruxi Inc. Designed by Sheas.* 
+*Iruxi Inc. Designed by Sheas.*
 {text-align:center}
 
 
@@ -2269,12 +2270,12 @@ Coming soon!
 
 ![](https://github.com/covalon/covalon-guide/raw/gh-pages/assets/covalon/PlayersGuide/Maps/FlowingFirkin.webp){width:400px,margin:"0px 150px"}
 
-*The Flowing Firkin. Designed by Sheas.* 
+*The Flowing Firkin. Designed by Sheas.*
 {text-align:center}
 
 ![](https://github.com/covalon/covalon-guide/raw/gh-pages/assets/covalon/PlayersGuide/Maps/FlowingFirkin2.webp){width:400px,margin:"0px 150px"}
 
-*The Flowing Firkin Residence. Designed by Sheas.* 
+*The Flowing Firkin Residence. Designed by Sheas.*
 {text-align:center}
 
 
@@ -2292,7 +2293,7 @@ If an adventurer is ever in need of magical wood working seek out Reginald-4’s
 :
 ![](https://github.com/covalon/covalon-guide/raw/gh-pages/assets/covalon/PlayersGuide/Maps/woodshopsign.webp){width:700px,margin:"0px 0px"}
 
-*W.O.O.D. S.H.O.P. sign. Designed by Reginald-4.* 
+*W.O.O.D. S.H.O.P. sign. Designed by Reginald-4.*
 {text-align:center}
 
 }}
@@ -2307,27 +2308,27 @@ If an adventurer is ever in need of magical wood working seek out Reginald-4’s
 
 
 #### The Poisonous Pair
-WELCOME TO THE POISONOUS PAIR: 
+WELCOME TO THE POISONOUS PAIR:
 We specialize in keeping things comfortable. We keep our doors open all day and night for those who wish to talk business or even for those who wish to read from our assortment of books and enjoy some nice tea.
 
 
 
 ![](https://github.com/covalon/covalon-guide/raw/gh-pages/assets/covalon/PlayersGuide/Maps/Poisonous_PairSign.webp){width:400px,margin:"0px -40px"}
 
-*Poisonous Pair sign. Designed by Tox Faelbite.* 
+*Poisonous Pair sign. Designed by Tox Faelbite.*
 {text-align:center}
 
 {{wide
 
 ![](https://github.com/covalon/covalon-guide/raw/gh-pages/assets/covalon/PlayersGuide/Maps/Poisonous_Pair_-_Main_Floor.webp){width:400px,margin:"0px 150px"}
 
-*Poisonous Pair main floor. Designed by Tox Faelbite.* 
+*Poisonous Pair main floor. Designed by Tox Faelbite.*
 {text-align:center}
 
 
 ![](https://github.com/covalon/covalon-guide/raw/gh-pages/assets/covalon/PlayersGuide/Maps/Poisonous_Pair_-_Basement.webp){width:400px,margin:"0px 140px"}
 
-*Poisonous Pair basement. Designed by Tox Faelbite.* 
+*Poisonous Pair basement. Designed by Tox Faelbite.*
 {text-align:center}
 
 
@@ -2346,12 +2347,12 @@ A modest structure for those who wish to partake in the wilds of the forest alon
 :
 ![](https://github.com/covalon/covalon-guide/raw/gh-pages/assets/covalon/PlayersGuide/Maps/WildDroughtsSign.webp){width:400px,margin:"0px 150px"}
 
-*Wild Draughts Sign. Designed by Rinka.* 
+*Wild Draughts Sign. Designed by Rinka.*
 {text-align:center}
 :
 ![](https://github.com/covalon/covalon-guide/raw/gh-pages/assets/covalon/PlayersGuide/Maps/WildDroughts.webp){width:580px,margin:"0px 50px"}
 
-*Wild Draughts. Designed by Rinka.* 
+*Wild Draughts. Designed by Rinka.*
 {text-align:center}
 
 
@@ -2364,14 +2365,14 @@ A modest structure for those who wish to partake in the wilds of the forest alon
 {{wide
 #### Mind and Matter
 
-While the doctors of Covalon are doing a great job keeping everyone alive and healthy, not every ailment can be fixed with a bandaid and a bunch of potions. And for just these cases, Mind and Matter offers a different, more personalized approach to helping people. 
+While the doctors of Covalon are doing a great job keeping everyone alive and healthy, not every ailment can be fixed with a bandaid and a bunch of potions. And for just these cases, Mind and Matter offers a different, more personalized approach to helping people.
 The cozy shop with its comfy carpets and faint lavender scent pervading everything is filled to the brim with sky-high shelves offering crystals, medical herbs, esoteric implements, charms, and other occult items, created and sold by Ren and Chan, while Yara offers her holistic and spiritual healing services and harrowings for those seeking answers in the back. If you're not sure where to go with a problem, Mind and Matter is never a bad choice.
 
 :
 
 ![](https://github.com/covalon/covalon-guide/raw/gh-pages/assets/covalon/PlayersGuide/Maps/mind%20and%20matter.webp){width:580px,margin:"0px 50px"}
 
-*Mind and Matter. Designed by Yara.* 
+*Mind and Matter. Designed by Yara.*
 {text-align:center}
 
 
@@ -2393,7 +2394,7 @@ The post-Cataclysm world can be dreary, and everyone needs a place to relax for 
 
 ![](https://github.com/covalon/covalon-guide/raw/gh-pages/assets/covalon/PlayersGuide/Maps/FairWeatherLounge.webp){width:680px,margin:"0px 0px"}
 
-*The Fair Weather Lounge. Designed by Sheas.* 
+*The Fair Weather Lounge. Designed by Sheas.*
 {text-align:center}
 
 }}
@@ -2411,7 +2412,7 @@ Though at first glance, this deep purple yurt may invoke feelings of unease and 
 
 ![](https://github.com/covalon/covalon-guide/raw/gh-pages/assets/covalon/PlayersGuide/Maps/BubblingCoven.webp){width:680px,margin:"0px 0px"}
 
-*The Bubblin' Coven. Designed by Sheas.* 
+*The Bubblin' Coven. Designed by Sheas.*
 {text-align:center}
 
 }}
@@ -2429,7 +2430,7 @@ The soft sounds of music and the sweet smell of pastries linger around Fayne's S
 
 ![](https://github.com/covalon/covalon-guide/raw/gh-pages/assets/covalon/PlayersGuide/Maps/FaynesSweetFreedoms.webp){width:680px,margin:"0px 0px"}
 
-*Fayne's Sweet Freedoms. Designed by Sheas.* 
+*Fayne's Sweet Freedoms. Designed by Sheas.*
 {text-align:center}
 
 }}
@@ -2447,12 +2448,12 @@ Behind the maple sliding door and Japanese facade, lies a warm and comfy restaur
 :
 ![](https://github.com/covalon/covalon-guide/raw/gh-pages/assets/covalon/PlayersGuide/Maps/SeaVixensTavern.webp){width:420px,margin:"0px 150px"}
 
-*Sea Vixen's Tavern Ground Floor. Designed by Koji.* 
+*Sea Vixen's Tavern Ground Floor. Designed by Koji.*
 {text-align:center}
 :
 ![](https://github.com/covalon/covalon-guide/raw/gh-pages/assets/covalon/PlayersGuide/Maps/SeaVixensTavern2.webp){width:420px,margin:"0px 150px"}
 
-*Sea Vixen's Tavern Second Floor. Designed by Koji.* 
+*Sea Vixen's Tavern Second Floor. Designed by Koji.*
 {text-align:center}
 
 }}
@@ -2472,7 +2473,7 @@ Formerly Baron Freetide's keep, the Guard Barracks is the base of operation for 
 :
 ![](https://github.com/covalon/covalon-guide/raw/gh-pages/assets/covalon/PlayersGuide/Maps/Keep.webp){width:700px,margin:"0px 0px"}
 
-*Guard Barracks. Designed by Sheas.* 
+*Guard Barracks. Designed by Sheas.*
 {text-align:center}
 
 
@@ -2491,12 +2492,12 @@ The dangers of the outside world have necessitated the establishment of a traini
 :
 ![](https://github.com/covalon/covalon-guide/raw/gh-pages/assets/covalon/PlayersGuide/Maps/TrainingHall.webp){width:600px,margin:"0px 50px"}
 
-*The Training Hall. Designed by Sheas.* 
+*The Training Hall. Designed by Sheas.*
 {text-align:center}
 :
 ![](https://github.com/covalon/covalon-guide/raw/gh-pages/assets/covalon/PlayersGuide/Maps/BrawlArena.webp){width:500px,margin:"0px 100px"}
 
-*The Brawl Arena. Designed by Sheas.* 
+*The Brawl Arena. Designed by Sheas.*
 {text-align:center}
 
 
@@ -2515,7 +2516,7 @@ Within these walls lies the forge of a master smith and one of the few trained i
 :
 ![](https://github.com/covalon/covalon-guide/raw/gh-pages/assets/covalon/PlayersGuide/Maps/Chaosbrand_Forge.webp){width:710px,margin:"0px 0px"}
 
-*Chaosbrand Forge. Designed by Kosta.* 
+*Chaosbrand Forge. Designed by Kosta.*
 {text-align:center}
 
 
@@ -2536,12 +2537,12 @@ Symbolizing Covalon's cooperative efforts to stand against the Cataclysm, the He
 :
 ![](https://github.com/covalon/covalon-guide/raw/gh-pages/assets/covalon/PlayersGuide/Maps/HeartstoneSanctuary.webp){width:380px,margin:"0px 160px"}
 
-*Heartstone Sanctuary, ground floor. Designed by Sheas.* 
+*Heartstone Sanctuary, ground floor. Designed by Sheas.*
 {text-align:center}
 :
 ![](https://github.com/covalon/covalon-guide/raw/gh-pages/assets/covalon/PlayersGuide/Maps/HeartstoneSanctuary2.webp){width:380px,margin:"0px 160px"}
 
-*Heartstone Sanctuary, second floor. Designed by Sheas.* 
+*Heartstone Sanctuary, second floor. Designed by Sheas.*
 {text-align:center}
 
 
@@ -2564,7 +2565,7 @@ For Covalonians who can't afford property or prefer sleeping under the stars, th
 :
 ![](https://github.com/covalon/covalon-guide/raw/gh-pages/assets/covalon/PlayersGuide/Maps/LakeviewCampground.webp){width:700px,margin:"0px 0px"}
 
-*Lakeview Campgound. Designed by Sheas.* 
+*Lakeview Campgound. Designed by Sheas.*
 {text-align:center}
 
 
@@ -2580,16 +2581,16 @@ For Covalonians who can't afford property or prefer sleeping under the stars, th
 
 The Fireside, the headquarters of the Lightkeepers, is a quaint building made of simple stone bricks and wood, at first glance looking more like a home than anything else, with a thick column of white smoke coming out of the impressively sized chimney. It has small passage with a stony floor somewhat over-taken by the surrounding grass that leads to a set of double doors that give entrance to the main tavern. Here, guild members will usually man the bar or hang around with any would be patrons, offering a conversation, a drink, some song, a good story or just the warmth of the big fireplace that is always aflame to warm any weary soul. When not being used as a gathering spot for social meetings among friends or for events, The Fireside is also a hub for new dungeoneers to come ask for some help, whether in need of basic gear or just searching for tips on how to stay alive for longer out there.
 :
-*"The Fireside is always open with a flagon ready for you."* - Sign that can be read just outside the building. 
+*"The Fireside is always open with a flagon ready for you."* - Sign that can be read just outside the building.
 :
 ![](https://github.com/covalon/covalon-guide/raw/gh-pages/assets/covalon/PlayersGuide/Maps/Fireside.webp){width:380px,margin:"0px 160px"}
 
-*The Fireside, ground floor. Designed by Ren.* 
+*The Fireside, ground floor. Designed by Ren.*
 {text-align:center}
 :
 ![](https://github.com/covalon/covalon-guide/raw/gh-pages/assets/covalon/PlayersGuide/Maps/Fireside2.webp){width:380px,margin:"0px 160px"}
 
-*The Fireside, second floor. Designed by Ren.* 
+*The Fireside, second floor. Designed by Ren.*
 {text-align:center}
 
 
@@ -2608,12 +2609,12 @@ A beautiful garden that stands as a testament to the harmony between nature and 
 :
 ![](https://github.com/covalon/covalon-guide/raw/gh-pages/assets/covalon/PlayersGuide/Maps/NaturesSerenity.webp){width:380px,margin:"0px 160px"}
 
-*Nature's Serenity, ground floor. Designed by Valerie.* 
+*Nature's Serenity, ground floor. Designed by Valerie.*
 {text-align:center}
 :
 ![](https://github.com/covalon/covalon-guide/raw/gh-pages/assets/covalon/PlayersGuide/Maps/NaturesSerenity2.webp){width:380px,margin:"0px 160px"}
 
-*Nature's Serenity, basement. Designed by Valerie.* 
+*Nature's Serenity, basement. Designed by Valerie.*
 {text-align:center}
 
 
@@ -2632,7 +2633,7 @@ Between the studious halls of the school, and the reserves of Nature’s Serenit
 :
 ![](https://github.com/covalon/covalon-guide/raw/gh-pages/assets/covalon/PlayersGuide/Maps/CovalonHistoricalSociety.webp){width:700px,margin:"0px 0px"}
 
-*Covalon Historical Society. Designed by Zoe.* 
+*Covalon Historical Society. Designed by Zoe.*
 {text-align:center}
 
 
@@ -2656,7 +2657,7 @@ The Heart of Terra, Covalon's most precious artifact, rests inside a special shr
 :
 ![](https://github.com/covalon/covalon-guide/raw/gh-pages/assets/covalon/PlayersGuide/Maps/ShrineofTerra.webp){width:700px,margin:"0px 0px"}
 
-*The Shrine of Terra. Designed by Sheas.* 
+*The Shrine of Terra. Designed by Sheas.*
 {text-align:center}
 
 
@@ -2678,7 +2679,7 @@ The bustle on the docks in the morning is a surprising contrast to the remainder
 #### The North Star
 
 
-Welcome to the North Star! Covalon's first full scale galleon, which ferried our adventurers on their first expedition to Ikouga. After a mishap with a powerful Kraken left her beached, a group of dedicated explorers banded together to repair and bring it home, founding the Trella's Travellers Guild! Trellas seeks to support Covalon's efforts to reclaim and reexplore the vast world of Elleaterra. 
+Welcome to the North Star! Covalon's first full scale galleon, which ferried our adventurers on their first expedition to Ikouga. After a mishap with a powerful Kraken left her beached, a group of dedicated explorers banded together to repair and bring it home, founding the Trella's Travellers Guild! Trellas seeks to support Covalon's efforts to reclaim and reexplore the vast world of Elleaterra.
 :
 Though the North Star is now a permeant base of operations in Covalon for the guild, it still offers a plethora of spaces for it's guild members to meet, plan further expedition projects, create maps, research lost cultures, and occasionally relax and have fun!
 :
@@ -2688,7 +2689,7 @@ Though the North Star is now a permeant base of operations in Covalon for the gu
 ![](https://github.com/covalon/covalon-guide/raw/gh-pages/assets/covalon/PlayersGuide/Maps/The_North_Star_-_Progress_2022-04-02-1.webp){width:680px,margin:"0px 0px"}
 
 
-*The North Star. Designed by Mikom.* 
+*The North Star. Designed by Mikom.*
 {text-align:center}
 
 
@@ -2709,7 +2710,7 @@ The apex of Iruxi technology, Covalon's cold storage cave was constructed in ord
 :
 ![](https://github.com/covalon/covalon-guide/raw/gh-pages/assets/covalon/PlayersGuide/Maps/ColdCave.webp){width:600px,margin:"0px 50px"}
 
-*Food Storage Cold Cave. Designed by Sheas.* 
+*Food Storage Cold Cave. Designed by Sheas.*
 {text-align:center}
 
 
@@ -2728,7 +2729,7 @@ The apex of Iruxi technology, Covalon's cold storage cave was constructed in ord
 On the western side of the city overlooking the farmlands and encore district stands the Mountain View District. Predominantly a residential district this region can be called home to those that simply prefer the comforts of the mountains or the protection of dwellings built in to the hard stone of the mountains. The mountains give a perfect overlook of Covalon as the light touches this district a few moments before the rest of the city.
 :
 ### River Run District
-A primarily residential district along the western riverbank, River Run offers beautiful views and quiet relaxation, all not far from the liveliness of the Town Center. Many of the houses and businesses offer a riverside view, and the waterfront lots are particularly sought after. 
+A primarily residential district along the western riverbank, River Run offers beautiful views and quiet relaxation, all not far from the liveliness of the Town Center. Many of the houses and businesses offer a riverside view, and the waterfront lots are particularly sought after.
 
 }}
 
@@ -2737,17 +2738,17 @@ Nestled atop the hills of the River Run District, the Verdant Flame Vineyard and
 ::
 ![](https://github.com/covalon/covalon-guide/blob/gh-pages/assets/covalon/PlayersGuide/Maps/Verdant_Flame_Ground.png?raw=true){width:360px,margin:"10px -20px"}
 
-*Verdant Flame Ground. Designed by Rinka.* 
+*Verdant Flame Ground. Designed by Rinka.*
 
 \column
 
 ![](https://github.com/covalon/covalon-guide/raw/gh-pages/assets/covalon/PlayersGuide/Maps/Verdant_Flame_Sign.webp){width:250px,margin:"-15px 0px"}
 :
-*Verdant Flame Sign. Designed by Kona.* 
+*Verdant Flame Sign. Designed by Kona.*
 :
 ![](https://github.com/covalon/covalon-guide/blob/gh-pages/assets/covalon/PlayersGuide/Maps/Verdant_Flame_Upper.png?raw=true ){width:360px,margin:"-0px 0px"}
 :
-*Verdant Flame Upper. Designed by Rinka.* 
+*Verdant Flame Upper. Designed by Rinka.*
 
 
 
@@ -2781,12 +2782,12 @@ Hidden behind black stone walls and stained glass windows, the spellcasters of t
 :
 ![](https://github.com/covalon/covalon-guide/raw/gh-pages/assets/covalon/PlayersGuide/Maps/DeathsDoor.webp){width:450px,margin:"0px 120px"}
 
-*Death's Door, ground floor. Designed by Zhaal.* 
+*Death's Door, ground floor. Designed by Zhaal.*
 {text-align:center}
 :
 ![](https://github.com/covalon/covalon-guide/raw/gh-pages/assets/covalon/PlayersGuide/Maps/DeathsDoor2.webp){width:400px,margin:"0px 150px"}
 
-*Death's Door, second floor. Designed by Zhaal.* 
+*Death's Door, second floor. Designed by Zhaal.*
 {text-align:center}
 
 
@@ -2811,12 +2812,12 @@ Nestled directly beneath the great hall, the workshop plays host to an expansive
 :
 ![](https://github.com/covalon/covalon-guide/raw/gh-pages/assets/covalon/PlayersGuide/Maps/RumilAzanu.webp){width:400px,margin:"0px -35px"}
 
-*Rumil Azanul, Workshop. Designed by Kosta Chaosbrand.* 
+*Rumil Azanul, Workshop. Designed by Kosta Chaosbrand.*
 {text-align:center}
 :
 ![](https://github.com/covalon/covalon-guide/raw/gh-pages/assets/covalon/PlayersGuide/Maps/RumilAzanu2.webp){width:400px,margin:"0px -35px"}
 
-*Runil Azanul, Main Floor. Designed by Kosta Chaosbrand.* 
+*Runil Azanul, Main Floor. Designed by Kosta Chaosbrand.*
 {text-align:center}
 
 
@@ -2830,7 +2831,7 @@ Nestled directly beneath the great hall, the workshop plays host to an expansive
 
 ### Expedition Districts and Outside Covalon
 
-As Covalon has reclaimed areas of Elleaterra, we have also succeessfully managed to fortify some of our expedition camp locations into fully inhabitable districts in their own right. Many citizens choose to have their residences, businesses, or guild halls in these outer districts. 
+As Covalon has reclaimed areas of Elleaterra, we have also succeessfully managed to fortify some of our expedition camp locations into fully inhabitable districts in their own right. Many citizens choose to have their residences, businesses, or guild halls in these outer districts.
 
 #### The Second Scroll
 
@@ -2838,7 +2839,7 @@ Located in Middlemist, this cozy store serves as a one-stop-shop for scrolls and
 :
 ![](https://github.com/covalon/covalon-guide/raw/gh-pages/assets/covalon/PlayersGuide/Maps/SecondScroll.webp){width:700px,margin:"0px 0px"}
 
-*The Second Scroll. Designed by Sheas.* 
+*The Second Scroll. Designed by Sheas.*
 {text-align:center}
 
 
@@ -2860,7 +2861,7 @@ South of Covalon lies a horrific scar on the world known as the Maw. Ever since 
 :
 ![](https://github.com/covalon/covalon-guide/raw/gh-pages/assets/covalon/PlayersGuide/Maps/MawOutpost.webp){width:700px,margin:"0px 0px"}
 
-*The Maw Outpost. Designed by Sheas.* 
+*The Maw Outpost. Designed by Sheas.*
 {text-align:center}
 
 
@@ -2879,7 +2880,7 @@ South of Covalon lies a horrific scar on the world known as the Maw. Ever since 
 ## Guilds
 
 {{
-*Adventurers who share a common cause can band together to establish an official company known as a guild. Guilds foster cooperative and collaborative environments that benefit Covalon in a variety of ways.* 
+*Adventurers who share a common cause can band together to establish an official company known as a guild. Guilds foster cooperative and collaborative environments that benefit Covalon in a variety of ways.*
 
 }}
 
@@ -2924,7 +2925,7 @@ A guild dedicated to the maintenance and prosperity of Covalon's Library, throug
 {{taglist
  {{tag Guild}}
 }}
-A guild for the crafters of Covalon. 
+A guild for the crafters of Covalon.
 
 {{indented
 **Goals** Through their act of creation, restoring the foundations of civilization
@@ -2953,12 +2954,12 @@ A guild for the crafters of Covalon.
 
 ![](https://github.com/covalon/covalon-guide/blob/gh-pages/assets/covalon/PlayersGuide/Guilds/TheArchivists.png?raw=true){width:250px,margin:"0px 20px"}
 
-*The Archivists Guild Heraldry. Designed by Ateia.* 
+*The Archivists Guild Heraldry. Designed by Ateia.*
 {text-align:center}
 :
 ![](https://github.com/covalon/covalon-guide/blob/gh-pages/assets/covalon/PlayersGuide/Guilds/AuthorsofCreatrionpng.png?raw=true){width:300px,margin:"0px 0px"}
 
-*The Authors of Creation Guild Heraldry. Designed by Kosta.* 
+*The Authors of Creation Guild Heraldry. Designed by Kosta.*
 {text-align:center}
 
 {{pageNumber,auto}}
@@ -3005,10 +3006,10 @@ Healing focused adventurers dedicated to providing care to all citizens of Coval
 {{taglist
  {{tag Guild}}
 }}
-Protectors and servitors of the Heart of Terra. 
+Protectors and servitors of the Heart of Terra.
 
 {{indented
-**Goals** Understand and Execute the will of the Heart of Terra and protection of the heart and the resources it provides. 
+**Goals** Understand and Execute the will of the Heart of Terra and protection of the heart and the resources it provides.
 
 ---
 
@@ -3023,7 +3024,7 @@ Protectors and servitors of the Heart of Terra.
 **Membership Requirements** Trained in Nature or Religion
 
 
-**Anathema** Exploit or destroy the resources given by the heart, deny shelter to those in need, refuse counsel to those who ask. 
+**Anathema** Exploit or destroy the resources given by the heart, deny shelter to those in need, refuse counsel to those who ask.
 
 }}
 
@@ -3040,7 +3041,7 @@ Protectors and servitors of the Heart of Terra.
 Members of Covalon passing on their varied knowledge to others.
 
 {{indented
-**Goals** Educate the new and current generations of citizens 
+**Goals** Educate the new and current generations of citizens
 
 ---
 
@@ -3056,7 +3057,7 @@ Members of Covalon passing on their varied knowledge to others.
 
 **Values** Education, safety, positivity, encouragement
 
-**Anathema** Destroy a source of knowledge 
+**Anathema** Destroy a source of knowledge
 
 }}
 
@@ -3066,17 +3067,17 @@ Members of Covalon passing on their varied knowledge to others.
 
 ![](https://github.com/covalon/covalon-guide/raw/gh-pages/assets/covalon/PlayersGuide/Guilds/CovalonMedicalSociety.webp){width:250px,margin:"0px 50px"}
 
-*Covalon Medical Society Guild Heraldry. Designed by Kona.* 
+*Covalon Medical Society Guild Heraldry. Designed by Kona.*
 {text-align:center}
 
 ![](https://github.com/covalon/covalon-guide/blob/gh-pages/assets/covalon/PlayersGuide/Guilds/ServantsofTerra.png?raw=true){width:300px,margin:"0px 10px"}
 
-*The Servants of Terra Guild Heraldry. Designed by Sheas.* 
+*The Servants of Terra Guild Heraldry. Designed by Sheas.*
 {text-align:center}
 
 ![](https://github.com/covalon/covalon-guide/blob/gh-pages/assets/covalon/PlayersGuide/Guilds/TeachersUnion.png?raw=true){width:300px,margin:"0px 10px"}
 
-*The Teacher's Union Guild Heraldry. Designed by Sheas.* 
+*The Teacher's Union Guild Heraldry. Designed by Sheas.*
 {text-align:center}
 
 {{pageNumber,auto}}
@@ -3126,7 +3127,7 @@ Adventurers dedicated to the rediscovery of Elleaterra.
 
 ![](https://github.com/covalon/covalon-guide/blob/gh-pages/assets/covalon/PlayersGuide/Guilds/TrellasTravellers.png?raw=true){width:250px,margin:"0px 50px"}
 
-*Trella's Travellers Guild Heraldry. Designed by Kona.* 
+*Trella's Travellers Guild Heraldry. Designed by Kona.*
 {text-align:center}
 
 :::::
@@ -3148,7 +3149,7 @@ Adventurers dedicated to the rediscovery of Elleaterra.
 Spellcasters delving into the secrets of resurrection and reanimation. "Life and Death are a cycle, we learn of death to better understand our lives." This is the ethos of The House of Dusk and Dawn.
 
 {{indented
-**Goals** Research ways to extend life, promote the public image of necromancy, work collaboratively with the livng and the dead, investigate the applications of positive and negative energy.  
+**Goals** Research ways to extend life, promote the public image of necromancy, work collaboratively with the livng and the dead, investigate the applications of positive and negative energy.
 
 ---
 
@@ -3176,10 +3177,10 @@ Spellcasters delving into the secrets of resurrection and reanimation. "Life and
 {{taglist
  {{tag Guild}}
 }}
-A guild for those who seek a warm home and friendly faces in a broken world. 
+A guild for those who seek a warm home and friendly faces in a broken world.
 
 {{indented
-**Goals** Forge a new joyful existence with guidance from our past, connecting people  
+**Goals** Forge a new joyful existence with guidance from our past, connecting people
 
 ---
 
@@ -3208,10 +3209,10 @@ A guild for those who seek a warm home and friendly faces in a broken world.
 {{taglist
  {{tag Guild}}
 }}
-A community dedicated to restoring the balance of nature in the land.  
+A community dedicated to restoring the balance of nature in the land.
 
 {{indented
-**Goals** Restore nature in lands that have been cleansed of evil, foster a community of health and prosperity  
+**Goals** Restore nature in lands that have been cleansed of evil, foster a community of health and prosperity
 
 ---
 
@@ -3237,18 +3238,18 @@ A community dedicated to restoring the balance of nature in the land.
 
 ![](https://github.com/covalon/covalon-guide/blob/gh-pages/assets/covalon/PlayersGuide/Guilds/HouseofDuskandDawn.png?raw=true){width:250px,margin:"0px 50px"}
 
-*House of Dusk and Dawn Guild Heraldry. Designed by Ateia.* 
+*House of Dusk and Dawn Guild Heraldry. Designed by Ateia.*
 {text-align:center}
 
 
 
 ![](https://github.com/covalon/covalon-guide/blob/gh-pages/assets/covalon/PlayersGuide/Guilds/TheLightkeepers.png?raw=true){width:300px,margin:"0px 10px"}
-*The Lightkeepers Guild Heraldry.* 
+*The Lightkeepers Guild Heraldry.*
 {text-align:center}
 
 ![](https://github.com/covalon/covalon-guide/blob/gh-pages/assets/covalon/PlayersGuide/Guilds/ChildrenoftheChicome-Transparent.png?raw=true){width:300px,margin:"0px 10px"}
 
-*Children of the Chicome Guild Heraldry.* 
+*Children of the Chicome Guild Heraldry.*
 {text-align:center}
 
 {{pageNumber,auto}}
@@ -3264,7 +3265,7 @@ A community dedicated to restoring the balance of nature in the land.
 A guild dedicated to preserving Covalon's history.
 
 {{indented
-**Goals** Record Covalon's history, catalogue and preserve items from before the cataclysm, pursue knowledge, prepare for posterity. 
+**Goals** Record Covalon's history, catalogue and preserve items from before the cataclysm, pursue knowledge, prepare for posterity.
 
 ---
 
@@ -3292,10 +3293,10 @@ A guild dedicated to preserving Covalon's history.
 {{taglist
  {{tag Guild}}
 }}
-Modeled after an old adventuring group of the same name in Vyrm, the Stouthearts are an organization dedicated to promoting dwarven culture and protecting Covalon from corruption. 
+Modeled after an old adventuring group of the same name in Vyrm, the Stouthearts are an organization dedicated to promoting dwarven culture and protecting Covalon from corruption.
 
 {{indented
-**Goals** Protecting Covalon from the Maw’s corruption, providing kinship for dwarven folk that have lost their clan, acting as a bulwark between innocents and danger.   
+**Goals** Protecting Covalon from the Maw’s corruption, providing kinship for dwarven folk that have lost their clan, acting as a bulwark between innocents and danger.
 
 ---
 
@@ -3307,7 +3308,7 @@ Modeled after an old adventuring group of the same name in Vyrm, the Stouthearts
 
 ---
 
-**Membership Requirements** Dwarven ancestry, adopted dwarven ancestry, or dwarven lore. 
+**Membership Requirements** Dwarven ancestry, adopted dwarven ancestry, or dwarven lore.
 
 **Values** Protecting innocents from corruption and oppression (both magical and mundane), promoting dwarven culture, supporting one's kin
 
@@ -3324,13 +3325,13 @@ Modeled after an old adventuring group of the same name in Vyrm, the Stouthearts
 ::
 ![](https://github.com/covalon/covalon-guide/blob/gh-pages/assets/covalon/PlayersGuide/Guilds/CovalonHistoricalSociety.png?raw=truee){width:250px,margin:"0px 50px"}
 
-*Covalon Historical Society Guild Heraldry. Designed by Zoe.* 
+*Covalon Historical Society Guild Heraldry. Designed by Zoe.*
 {text-align:center}
 
 :::::::
 
 ![](https://github.com/covalon/covalon-guide/blob/gh-pages/assets/covalon/PlayersGuide/Guilds/TheStouthearts.png?raw=true){width:300px,margin:"0px 10px"}
-*The Stouthearts Guild Heraldry. Designed by Gabbro.* 
+*The Stouthearts Guild Heraldry. Designed by Gabbro.*
 {text-align:center}
 
 
@@ -3344,10 +3345,10 @@ Modeled after an old adventuring group of the same name in Vyrm, the Stouthearts
 {{taglist
  {{tag Guild}}
 }}
-'To join the guards in the city they want ya ta learn all this stuff about how ta wage war, and that's well and good an all but we all know that all ya really need to defend the people are a good cause or a real good sword arm! So if you wanna fight for the good folks of Covalon and help us to start new civilizations then come join us and fight like a real goblin knight!'  
+'To join the guards in the city they want ya ta learn all this stuff about how ta wage war, and that's well and good an all but we all know that all ya really need to defend the people are a good cause or a real good sword arm! So if you wanna fight for the good folks of Covalon and help us to start new civilizations then come join us and fight like a real goblin knight!'
 
 {{indented
-**Goals** Protect the flame of civilization, help the spread of new civilizations, make every place you go stronger than how you left it  
+**Goals** Protect the flame of civilization, help the spread of new civilizations, make every place you go stronger than how you left it
 
 ---
 
@@ -3373,7 +3374,7 @@ Modeled after an old adventuring group of the same name in Vyrm, the Stouthearts
 ::
 ![](https://github.com/covalon/covalon-guide/blob/gh-pages/assets/covalon/PlayersGuide/Guilds/TheGreenKnightsoftheSquare.png?raw=true){width:250px,margin:"0px 50px"}
 
-*The Green Knights of the Square Guild Heraldry.* 
+*The Green Knights of the Square Guild Heraldry.*
 {text-align:center}
 
 
@@ -3390,7 +3391,7 @@ Modeled after an old adventuring group of the same name in Vyrm, the Stouthearts
 ## Pre-Cataclysm Civilizations
 
 {{
-*Before the Cataclysm, the world flourished with nations and societies across the world. Now, only one remains: Covalon. Still, many refugees keep the faith that one day they may be able to reclaim their homelands from the terrible fates that befell them.* 
+*Before the Cataclysm, the world flourished with nations and societies across the world. Now, only one remains: Covalon. Still, many refugees keep the faith that one day they may be able to reclaim their homelands from the terrible fates that befell them.*
 
 }}
 
@@ -3401,13 +3402,13 @@ Modeled after an old adventuring group of the same name in Vyrm, the Stouthearts
 
 {{template
 {{
-### Alatar  
+### Alatar
 {{label CREATED BY HIRAWA HANAKO}}
 }}
 {{taglist
 {{tag Civilization}}
 }}
-The separated collective. 
+The separated collective.
 {{indented
 **Government** Loose alliance
 
@@ -3424,7 +3425,7 @@ The separated collective.
 
 ---
 
-Alatar was built on a mountain range close to the ocean and made up of many small governments in a loose alliance with one another. All gods were worshipped there. If more than 1 person had different religious views, it was common practice to simply not talk about religion with said people. Communities with more status typically lived higher up in the mountains as the land was believed to be closer to the gods. 
+Alatar was built on a mountain range close to the ocean and made up of many small governments in a loose alliance with one another. All gods were worshipped there. If more than 1 person had different religious views, it was common practice to simply not talk about religion with said people. Communities with more status typically lived higher up in the mountains as the land was believed to be closer to the gods.
 :
 At the very tops of the mountains lived the communities known as peak communities, of which there were 6. They had high expectations placed on them from those in their respective communities. They also typically only worshipped 1 or 2 deities per community, as religious obligations sometimes conflicted with laws otherwise. The laws were significantly stricter than those who lived lower down the mountains in terms of the punishments and definitions of the laws. They were usually the example for the lower communities to follow. Lying was extremely frowned upon as a result of Aelia’s overall strong influence and the fact that people just don’t like being lied to in general. In fact, in many communities, but not all, it was illegal to lie. It was also illegal for two communities to go to war.
 :
@@ -3434,13 +3435,13 @@ After the Cataclysm, a wave of evil and negative energies rained down from the s
 :
 {{template
 {{
-### Armed Steppes  
+### Armed Steppes
 {{label CREATED BY ONYAT AND YKSYS}}
 }}
 {{taglist
  {{tag Civilization}}
 }}
-The separated collective. 
+The separated collective.
 {{indented
 **Government** Chiefs (nomadic war tribes)
 
@@ -3471,13 +3472,13 @@ Millenia ago, the Tengeriin Uul Mountains served as a focal point for outsiders 
 {{wide
 {{template
 {{
-### The Briarmurk  
+### The Briarmurk
 {{label }}
 }}
 {{taglist
  {{tag Civilization}}
 }}
-A poisonous, swampy wilderness. 
+A poisonous, swampy wilderness.
 {{indented
 **Government** Segmented tribes
 
@@ -3499,7 +3500,7 @@ The Briarmurk was less of a nation and more of an inhospitable wasteland dominat
 :
 {{template
 {{
-### Drifthaven  
+### Drifthaven
 {{label }}
 }}
 {{taglist
@@ -3580,9 +3581,9 @@ Celeste (Cleric 15)
 
 Yksys (Champion 15)
 
-Cinna (Sorcerer 15) 
+Cinna (Sorcerer 15)
 
-Valerie (FighteR 15) 
+Valerie (FighteR 15)
 
 Tox (Thaumaturge 15)
 
@@ -3594,7 +3595,7 @@ Kouzo (Gunslinger 15)
 
 ![](https://raw.githubusercontent.com/covalon/covalon-guide/gh-pages/assets/covalon/PlayersGuide/ExpeditionLog/DrifthavenOutpost.webp){width:490px,margin:"0px 0px"}
 
-*Covalon's disguised yurt in Drifthaven. Designed by Rinka.* 
+*Covalon's disguised yurt in Drifthaven. Designed by Rinka.*
 {text-align:left}
 
 
@@ -3612,7 +3613,7 @@ Kouzo (Gunslinger 15)
 
 {{template
 {{
-### The Fey Courts  
+### The Fey Courts
 {{label }}
 }}
 {{taglist
@@ -3650,7 +3651,7 @@ Travel is underway to the Fey Courts - more to come soon!
 
 {{template
 {{
-### Garn 
+### Garn
 {{label }}
 }}
 {{taglist
@@ -3679,7 +3680,7 @@ Before the Cataclysm, Garn was a place where goblinkind could live without fear 
 
 {{template
 {{
-### Gornlar  
+### Gornlar
 {{label }}
 }}
 {{taglist
@@ -3710,17 +3711,17 @@ Gornlar began as a collection of hunters and mercenaries constructing hunting ou
 
 #### Gornlar Expedition Log
 
-Efforts to reclaim Gornlar are complete! Due to roaming dragons, the safest way to approach Gornlar was a clockwork drill to bore a tunnel through the mountains to the west of Covalon. The drill needed significant upgrades in order to complete this task, including layers of potency crystal coating to empower its drill bit, fulus of fire suppression for temperature control, and black powder kegs to blast through anything that the drill can't penetrate. The adventurers of Trella's Travelers took charge in augmenting the drill, transforming it into a mechanical marvel known as The Den Maker. 
+Efforts to reclaim Gornlar are complete! Due to roaming dragons, the safest way to approach Gornlar was a clockwork drill to bore a tunnel through the mountains to the west of Covalon. The drill needed significant upgrades in order to complete this task, including layers of potency crystal coating to empower its drill bit, fulus of fire suppression for temperature control, and black powder kegs to blast through anything that the drill can't penetrate. The adventurers of Trella's Travelers took charge in augmenting the drill, transforming it into a mechanical marvel known as The Den Maker.
 
 
 ![](https://raw.githubusercontent.com/covalon/covalon-guide/gh-pages/assets/covalon/PlayersGuide/ExpeditionLog/TheDenMaker.webp ){width:350px,margin:"0px -20px"}
 
-*The Den Maker. Designed by Sheas.* 
+*The Den Maker. Designed by Sheas.*
 {text-align:center}
 
 
 Upon breaching the mountain between Covalon and Gornlar, the drill was set upon by a pair of ancient dragons. Amidst a storm of frost and magma, it went into overdrive to burrow into a nearby cliff.  Luckily, the drill uncovered a series of tunnels that led into the domains of the two dragons - a conjoined pair of mountains, one covered in flame, and the other covered in frost. By exploring these mountains, we discovered information crucuial to defeating the two dragons.
-Ashgut, the magma dragon, and Fjordcarver, the white dragon, were mortal enemies for centuries before they knocked each other into comas in a fierce battle. The cataclysm reawakened the two, and their ensuing battles razed Gornlar to the ground. The Covalonians found that these two mighty dragons were invincible when challenged on their own, but by battling both at the same time, they were able to turn the dragons' elemental powers against them. Ashgut and Fjordcarver were felled in a ravine at the intersection of the conjoined mountains, where a Vessel of the Maw was discovered and destroyed by our own Seed of Terra. 
+Ashgut, the magma dragon, and Fjordcarver, the white dragon, were mortal enemies for centuries before they knocked each other into comas in a fierce battle. The cataclysm reawakened the two, and their ensuing battles razed Gornlar to the ground. The Covalonians found that these two mighty dragons were invincible when challenged on their own, but by battling both at the same time, they were able to turn the dragons' elemental powers against them. Ashgut and Fjordcarver were felled in a ravine at the intersection of the conjoined mountains, where a Vessel of the Maw was discovered and destroyed by our own Seed of Terra.
 
 {{pageNumber,auto}}
 
@@ -3784,10 +3785,10 @@ Victor Minato (Wizard 12)
 
 ![](https://raw.githubusercontent.com/covalon/covalon-guide/gh-pages/assets/covalon/PlayersGuide/ExpeditionLog/GornlarOutpost.webp ){width:470px,margin:"0px 0px"}
 
-*Covalon's outpost in Gornlar. Designed by Sheas.* 
+*Covalon's outpost in Gornlar. Designed by Sheas.*
 {text-align:center}
 
- 
+
 }}
 
 {{wide
@@ -3795,7 +3796,7 @@ Victor Minato (Wizard 12)
 
 {{template
 {{
-### Ikouga  
+### Ikouga
 {{label CREATED BY Kipza Quickclaw}}
 }}
 {{taglist
@@ -3822,7 +3823,7 @@ In spite of their wealth and knowledge, the denizens of Ikouga found themselves 
 
 }}
 
-}} 
+}}
 
 
 
@@ -3838,14 +3839,14 @@ In spite of their wealth and knowledge, the denizens of Ikouga found themselves 
 
 Efforts to reclaim Ikouga are complete! Thanks to the contributions of Kelani Snowdrop and other citizens, Covalon was able to construct a galley and a large number of feather tokens (fan) to propel them across the windless ocean of the Noctune Tropic. Dubbed The North Star, adventurers boarded the Trella-themed vessel with starry eyes, eager to see what awaited them in Ikouga.
 
-On the last leg of the journey, disaster struck. The ship was attacked by an unseen creature below the waves of the ocean, and the ship crashed onto the city's beach. Luckily, everyone survived, and a base camp was erected on Ikouga's docks. A portal has been created between the base camp at Ikouga and Covalon, and the North Star was repaired, rehabilitated, and sailed home to be the guild hall of the newly created guild Trella's Travellers. 
+On the last leg of the journey, disaster struck. The ship was attacked by an unseen creature below the waves of the ocean, and the ship crashed onto the city's beach. Luckily, everyone survived, and a base camp was erected on Ikouga's docks. A portal has been created between the base camp at Ikouga and Covalon, and the North Star was repaired, rehabilitated, and sailed home to be the guild hall of the newly created guild Trella's Travellers.
 
 \column
 
 
 ![](https://raw.githubusercontent.com/covalon/covalon-guide/gh-pages/assets/covalon/PlayersGuide/ExpeditionLog/NorthStarFlag.webp ){width:350px,margin:"0px 0px"}
 
-*The flag of The North Star. Designed by Kona Snowdrop.* 
+*The flag of The North Star. Designed by Kona Snowdrop.*
 {text-align:center}
 
 {{wide
@@ -3889,7 +3890,7 @@ Stellarys Amaris (Sorcerer 12)
 }}
 
 ![](https://github.com/covalon/covalon-guide/raw/gh-pages/assets/covalon/PlayersGuide/ExpeditionLog/IkougaOutpost.webp ){width:470px,margin:"0px 0px"}
-{{width:70px}} *Covalon's outpost in Ikouga. Designed by Sheas.* 
+{{width:70px}} *Covalon's outpost in Ikouga. Designed by Sheas.*
 {text-align:left}
 
 }}
@@ -3904,7 +3905,7 @@ Stellarys Amaris (Sorcerer 12)
 
 {{template
 {{
-### Kuraimori (暗い森)  
+### Kuraimori (暗い森)
 {{label CREATED BY RINKA}}
 }}
 {{taglist
@@ -3938,7 +3939,7 @@ When the Cataclysm arose, celestials sought out Kuraimori seeing its never endin
 
 {{template
 {{
-### Middlemist 
+### Middlemist
 {{label }}
 }}
 {{taglist
@@ -3973,7 +3974,7 @@ What we found though was not the mist shrouded forest our records recalled but i
 This entity turned out to be the Shadow Titan, a being of pure shadow, composed of two grasping hands and a hideous visage all working in tandem to attempt to thwart our attempts to reclaim Middlemist from darkness. Though bombarded with a torrent of lasers, slaps and shadowspawn we were ultimately triumphant. We destroyed the Vessel of the Maw and shed light on Middlemist once more.
 
 
-}} 
+}}
 
 {{pageNumber,auto}}
 
@@ -4001,7 +4002,7 @@ Resh (Fighter 14)
 }}
 
 ![](https://i.imgur.com/LvTLkOm.jpeg ){width:470px,margin:"0px 0px"}
-{{width:70px}} *Covalon's outpost in Middlemist. Designed by Rinka.* 
+{{width:70px}} *Covalon's outpost in Middlemist. Designed by Rinka.*
 {text-align:left}
 
 }}
@@ -4011,7 +4012,7 @@ Resh (Fighter 14)
 
 {{template
 {{
-### The Misty Shores  
+### The Misty Shores
 {{label CREATED BY Seph}}
 }}
 {{taglist
@@ -4039,7 +4040,7 @@ Though once a major port for the kingdom of Vyrm, the Misty Shores were overtake
 
 {{template
 {{
-### Ostengrad  
+### Ostengrad
 {{label CREATED BY Arto Applefield}}
 }}
 {{taglist
@@ -4063,7 +4064,7 @@ Monument of magical mastery.
 Ostengrad was home to the renowned Ravenrook Academy of the Arcane Arts, a well established and highly regarded school for arcane and occult practitioners. Ostengrad kept its expansion hungry neighbours sweet with regular spellcasting services, along with heavy investment in casters practiced in warfare. A deeply nationalistic city-state proud of its place in the world, and of having survived the first wave of the Cataclysm that brought the rest of the world to its knees. Ultimately, that pride was its undoing.
 }}
 
-}} 
+}}
 
 
 
@@ -4080,7 +4081,7 @@ Ostengrad was home to the renowned Ravenrook Academy of the Arcane Arts, a well 
 
 {{template
 {{
-### Primrose  
+### Primrose
 {{label CREATED BY Kipza Quickclaw}}
 }}
 {{taglist
@@ -4111,13 +4112,13 @@ Primrose was the result of Kujanite doctrine giving birth to a culture obsessed 
 
 Efforts to reclaim Primrose are complete. The city had been buried under the dunes of the desert, and conventional reclamation was mostly out of the question, but it was entirely possible that some buildings may have survived and could be dug into. Trella's Travelers constructed the Oasis Seeker for this purpose - an alchemical scorpion mech that would be able to dig into the desert while crystallizing the sand left in its wake to prevent cave-ins. The journey was tumultuous and risky, with the Oasis Seeker threatening to fall apart at multiple points throughout the journey, but the Covalonians eventually reached Primrose and managed to bore into its underground sewer system known as the Ratways… or so they thought.
 :
-The floor of the sewers gave out beneath the hulking mech, and the Covalonians fell into a massive underground cavern. From atop a tall shelf, they looked down and saw myriads of colorful lights dancing among sandstone monuments. As their eyes adjusted to the darkness they could make out buildings, streets, and a huge palace - they had discovered a thriving city far underneath Primrose! Their arrival did not go unnoticed. A small fire wisp approached the camp and delivered an envelope sealed with the mark of a Shah - one of Primrose's oligarchal elite. It contained a letter from Al-Fazim, a former noble of Primrose who now called herself a Shah of Duneveil. She explained that the city below them was an ancient civilization devoted to uncovering the secrets of immortality, and that in the wake of the Cataclysm, the Shahs of Primrose had usurped the city and taken command. Their sultan had plans to raise an army of undead and elementals in order to reconquer the surface world, but Al-Fazim and the other Shahs of Primrose have offered to help the Covalonians put a stop to his plans in return for assisting their own ambitious agendas. In addition to potentially locating a Vessel of the Maw, the Covalonians found themselves tasked with infiltrating a city, sowing political discord, and overthrowing a tyrant before a new force of destruction comes for their homes. Thankfully, we were able to defeat Saddam Syed, Sultan of the Sky before his plans could come to fruition, and destroy the Maw Vessel in Primrose in the process, bringing a tentative peace to the underground city. 
+The floor of the sewers gave out beneath the hulking mech, and the Covalonians fell into a massive underground cavern. From atop a tall shelf, they looked down and saw myriads of colorful lights dancing among sandstone monuments. As their eyes adjusted to the darkness they could make out buildings, streets, and a huge palace - they had discovered a thriving city far underneath Primrose! Their arrival did not go unnoticed. A small fire wisp approached the camp and delivered an envelope sealed with the mark of a Shah - one of Primrose's oligarchal elite. It contained a letter from Al-Fazim, a former noble of Primrose who now called herself a Shah of Duneveil. She explained that the city below them was an ancient civilization devoted to uncovering the secrets of immortality, and that in the wake of the Cataclysm, the Shahs of Primrose had usurped the city and taken command. Their sultan had plans to raise an army of undead and elementals in order to reconquer the surface world, but Al-Fazim and the other Shahs of Primrose have offered to help the Covalonians put a stop to his plans in return for assisting their own ambitious agendas. In addition to potentially locating a Vessel of the Maw, the Covalonians found themselves tasked with infiltrating a city, sowing political discord, and overthrowing a tyrant before a new force of destruction comes for their homes. Thankfully, we were able to defeat Saddam Syed, Sultan of the Sky before his plans could come to fruition, and destroy the Maw Vessel in Primrose in the process, bringing a tentative peace to the underground city.
 
 
 
 ![](https://raw.githubusercontent.com/covalon/covalon-guide/gh-pages/assets/covalon/PlayersGuide/ExpeditionLog/Letter_from_Al-Fazim.webp ){width:380px,margin:"0px -40px"}
 :
- *Al-Fazim's Letter.* 
+ *Al-Fazim's Letter.*
 {text-align:center}
 
 {{pageNumber,auto}}
@@ -4173,12 +4174,12 @@ Violeta (Sorcerer 12)
 :
 ![](https://raw.githubusercontent.com/covalon/covalon-guide/gh-pages/assets/covalon/PlayersGuide/ExpeditionLog/PrimroseOutpost.webp ){width:455px,margin:"0px 0px"}
 
- *Covalon's outpost under Duneveil. Designed by Sheas.* 
+ *Covalon's outpost under Duneveil. Designed by Sheas.*
 {text-align:left}
 ::
 {{template
 {{
-### Pudersnö 
+### Pudersnö
 {{label }}
 }}
 {{taglist
@@ -4212,7 +4213,7 @@ Our efforts to reclaim Pudersnö are complete! A journey so far into the frozen 
 :
 It was impossible to know though just how bitterly cold those frozen lands had become and it wasn't long before our heating systems needed urgent repairs. Wrenches clanging and bolts bolting we managed to keep the ship aloft, if only barely. While we thought this was the worst of it, truly the worst was yet to come…
 Just as the furnaces were needed to heat our hands, our precious supplies of cocoa were needed to warm our hearts and they were under siege by a swarm of impossibly cute mice! Few remember how we managed the rest of the journey after these losses, but manage we did.
-Then it happened. 
+Then it happened.
 
 }}
 {{pageNumber,auto}}
@@ -4252,7 +4253,7 @@ Zhaal Revane (Wizard 15)
 
 ![](https://raw.githubusercontent.com/covalon/covalon-guide/gh-pages/assets/covalon/PlayersGuide/ExpeditionLog/PudersnoOutpost.webp ){width:465px,margin:"0px 0px"}
 
- *Covalon's outpost in Pudersnö. Designed by Rinka.* 
+ *Covalon's outpost in Pudersnö. Designed by Rinka.*
 {text-align:left}
 
 }}
@@ -4261,7 +4262,7 @@ Zhaal Revane (Wizard 15)
 :
 {{template
 {{
-### Ratchethallow 
+### Ratchethallow
 {{label }}
 }}
 {{taglist
@@ -4284,10 +4285,10 @@ The inexorable march of progress.
 ---
 Ratchethallow was a small city, specialising in the march of mechanical progress. Whirring cogs and whistling machines lined the cramped walkways of the city. Between brass houses and belching furnaces, the city attracted the brightest and most curious minds. Nowhere else in Elleaterra could boast such unfettered access to raw materials, precision tools and most importantly a distinct lack of bureaucratic red tape. Ratchethallow knew that failure was just a step towards progress, and that so called ‘Safety Regulations’ prevented progress more than any explosion could!
 :
-Yet even Ratchethallow knew that the Cataclysm would claim them eventually. The brightest minds converged in the development of the city’s greatest machine yet. A sprawling mass of exposing wiring, tubes and ingenuity designed to keep the city safe from even the unstoppable forces of the Cataclysm. Nothing was heard from Ratchethallow after the day the machine was due to be powered on. The fate of Ratchethallow remains unknown. 
+Yet even Ratchethallow knew that the Cataclysm would claim them eventually. The brightest minds converged in the development of the city’s greatest machine yet. A sprawling mass of exposing wiring, tubes and ingenuity designed to keep the city safe from even the unstoppable forces of the Cataclysm. Nothing was heard from Ratchethallow after the day the machine was due to be powered on. The fate of Ratchethallow remains unknown.
 
 }}
-}} 
+}}
 
 
 {{pageNumber,auto}}
@@ -4329,7 +4330,7 @@ The Lord of Gears appeared to be a massive construct housed in a workshop in the
 
 ![](https://raw.githubusercontent.com/covalon/covalon-guide/gh-pages/assets/covalon/PlayersGuide/ExpeditionLog/RachethallowOutpost.webp ){width:700px,margin:"0px 0px"}
 :
- *Covalon's outpost in Ratchethallow Designed by Rinka.* 
+ *Covalon's outpost in Ratchethallow Designed by Rinka.*
 {text-align:center}
 
 }}
@@ -4402,7 +4403,7 @@ Yali Fa'el (Alchemist 12)
 
 {{template
 {{
-### Taltain 
+### Taltain
 {{label }}
 }}
 {{taglist
@@ -4442,7 +4443,7 @@ Finally, their efforts paid off - they learned that there was a Vessel of the Ma
 
 ![](https://github.com/covalon/covalon-guide/raw/gh-pages/assets/covalon/PlayersGuide/ExpeditionLog/TaltainOutpost.webp){width:370px,margin:"0px -30px"}
 
- *Covalon's outpost in Taltain. Designed by Sheas.* 
+ *Covalon's outpost in Taltain. Designed by Sheas.*
 {text-align:center}
 
 
@@ -4454,7 +4455,7 @@ Finally, their efforts paid off - they learned that there was a Vessel of the Ma
 
 {{template
 {{
-### Tarunga 
+### Tarunga
 {{label CREATED BY EKKO}}
 }}
 {{taglist
@@ -4475,13 +4476,13 @@ The port to anywhere.
 **Fate** swallowed by the ocean
 }}
 ---
-Tarunga reigned as one of the naval powerhouses of Elleaterra. The island nation had regulated forests  for the production of ships, numerous port cities that served as waypoints in a ship's travels, and warehouses filled with goods. The capital, sharing the same name as the nation, was a sprawling port in which hundreds of ships could be seen coming and going. The Seven Guilds ruled, collaborating to ensure proper trading practices and prices of goods were regulated. 
+Tarunga reigned as one of the naval powerhouses of Elleaterra. The island nation had regulated forests  for the production of ships, numerous port cities that served as waypoints in a ship's travels, and warehouses filled with goods. The capital, sharing the same name as the nation, was a sprawling port in which hundreds of ships could be seen coming and going. The Seven Guilds ruled, collaborating to ensure proper trading practices and prices of goods were regulated.
 When the Cataclysm came for Tarunga, it came as swelling oceans and titan tsunamis. The Seven Guilds tried to organize the nation, offloading much of the stored goods onto ships. By the time the island had been swallowed whole by the waves, most of the goods had been successfully transported away into now deadly waters. What became of those ships, only Noctune can tell.
 }}
 :
 {{template
 {{
-### Tymoria 
+### Tymoria
 {{label CREATED BY Fae}}
 }}
 {{taglist
@@ -4507,7 +4508,7 @@ The small island of Tymoria was hidden within the Misty Sea. It was known to be 
 :
 {{template
 {{
-### The Kingdom of Varceta 
+### The Kingdom of Varceta
 {{label CREATED BY VIVIENNE}}
 }}
 {{taglist
@@ -4548,7 +4549,7 @@ The last of the kingdom to fall was Darkwood Shire, a relatively peaceful rural 
 
 {{template
 {{
-### Verndhelt 
+### Verndhelt
 {{label }}
 }}
 {{taglist
@@ -4624,7 +4625,7 @@ Our investigations ultimately led us to face down a diabolical general named Yaz
 
 {{template
 {{
-### The Kingdom of Vyrm 
+### The Kingdom of Vyrm
 {{label }}
 }}
 {{taglist
@@ -4652,7 +4653,7 @@ The Kingdom of Vyrm had a storied history of success due to its unique partnersh
 
 {{template
 {{
-### Whitespire 
+### Whitespire
 {{label CREATED BY DORDEN MCRALL}}
 }}
 {{taglist
@@ -4689,7 +4690,7 @@ The generational home of countless dwarves, Whitespire was a shining beacon of l
 ## Deities, Faith, and Ideologies
 {{
 
-The various religions practiced in Elleaterra are as varied and distinct as the people themselves. The religions listed in this section are by no means a comprehensive list, but represent major religions practiced in Elleaterra. These deities are all player submitted and free for anyone to use for their characters. If you're looking to worship a deity with a particular thematic you feel is missing, feel free to #create-a-ticket with a deity submission. 
+The various religions practiced in Elleaterra are as varied and distinct as the people themselves. The religions listed in this section are by no means a comprehensive list, but represent major religions practiced in Elleaterra. These deities are all player submitted and free for anyone to use for their characters. If you're looking to worship a deity with a particular thematic you feel is missing, feel free to #create-a-ticket with a deity submission.
 
 ##### Table 4-1: Deities
 | Diety                                | Sanctification   | Domains                                 | Alt Domains          |
@@ -4727,7 +4728,7 @@ The various religions practiced in Elleaterra are as varied and distinct as the 
 | Novissime, The Orchid Reaper         |must choose unholy| death, secrecy, zeal                    | fate                 |
 | Oenos                                | can choose holy  | confidence, indulgence, luck            | none                 |
 | The Path of the Great Spirits        | can choose holy  | family, freedom, knowledge, nature      | none                 |
-                
+
 
 }}
 }}
@@ -4763,13 +4764,13 @@ The various religions practiced in Elleaterra are as varied and distinct as the 
 {{
 Aelia was one of the most worshiped gods in the world before the destruction. She was loved not only for bringing light and heat to the world daily without fail, but was also worshiped for her offers of redemption to those who asked for it. Aelia came to be at The Beginning. She started out as a floating consciousness shooting through the endless void. Aelia wished to slow down and think for some time and so she changed her form to that of a large sphere. Realizing that she could change her own form, she attempted to create other forms to accompany her and soon she had created nine other spheres of all different sizes. The void was cold, dark, and lonely though and Aelia wished to create friends to play with and as such, she implanted different personalities in them. Now the void wasn't lonely, but it was still cold and dark. She created a fire so bright and hot and surrounded herself with it. Now there was light and heat, but it was too much for some of her friends, and so they had to move away from her, and this formed the Solar System with Aelia as the Sun, and her friends lined up continuously going circles around her. The planets are now worshiped as other gods with Aelia as their leader. Aelia's clergy is generally very kind, passionate, warmhearted people and are known for healing those in need, no matter the personal cost, their truthfulness, and their endless patience.
 :
-**Edicts** destroy evil undead, protect the weak, provide aid to the sick and wounded, seek and allow redemption  
-**Anathema** create undead, create magical darkness, lie, deny a repentant creature an opportunity for redemption, fail to strike down evil  
+**Edicts** destroy evil undead, protect the weak, provide aid to the sick and wounded, seek and allow redemption
+**Anathema** create undead, create magical darkness, lie, deny a repentant creature an opportunity for redemption, fail to strike down evil
 :
-#### Devotee Benefits  
-  
+#### Devotee Benefits
+
 **Divine Font** heal <br>
-**Divine Sanctification** can choose holy <br> 
+**Divine Sanctification** can choose holy <br>
 **Divine Skill** medicine <br>
 **Favored Weapon** morningstar <br>
 **Domains** fire, healing, sun, truth <br>
@@ -4783,11 +4784,11 @@ Aelia was one of the most worshiped gods in the world before the destruction. Sh
 {{
 A’shir was once a god of fate and time, a god of diviners, worshiped by those wishing to see a glimpse into their own futures. He worked closely with the other gods in order to keep order in the world. That is until one day A’shir revealed a grim prophecy, that he would one day turn against the gods, destroying them and all their creations. The gods quickly grew fearful of A’shirs prophecy and swiftly imprisoned him deep within the plane of fire where they thought none would ever survive long enough to set him free. For ages he was imprisoned, the flames of the realm searing his flesh, it was not long before his understanding gave way to anger. With each passing year his rage grew until it mixed with the potent magics in the realm of fire, transforming him into a beast of fire and hatred. Still bound by divine chains, A’shir now vows to destroy the other gods and all they have made for their crimes against him.ssionate, warmhearted people and are known for healing those in need, no matter the personal cost, their truthfulness, and their endless patience.
 :
-**Edicts** stoke flames, divine the future, help bring about the fated end  
-**Anathema** Put out flames, Worship other gods, attempt to escape your fate  
+**Edicts** stoke flames, divine the future, help bring about the fated end
+**Anathema** Put out flames, Worship other gods, attempt to escape your fate
 :
-#### Devotee Benefits  
-  
+#### Devotee Benefits
+
 **Divine Font** harm or heal <br>
 **Divine Sanctification** can choose unholy <br>
 **Divine Skill** occultism <br>
@@ -4801,8 +4802,8 @@ A’shir was once a god of fate and time, a god of diviners, worshiped by those 
 {{wide
 ### Axnos
 {{
-Axnos teaches that every crumbling monument and weathered relic holds a story waiting to be unveiled, a window into the past that illuminates the present and future alike. They serve as a patron deity and guiding force for explorers and scholars, drawing a particularly devoted following among archaeologists and anthropologists. While Axnos' followers would never hesitate to extoll the virtues of study and the reading of history, Axnos is most pleased when their followers take to the field, hold the holy artifacts of civilizations in their hands, partake in the rituals of those unlike themselves, and stand in the ruins that once housed heroes of an era. To read about the past is one thing, but to partake directly in it grants a knowledge of how much one shares in common with their forbearers that a book could never impart. This relentless pursuit of the past also serves to humble many of Axnos' followers and reminds themselves they are just a small footnote in the grand tapestry of civilization and society. In the same way they study the artifacts of the past, someone in the future may study the iconography and rituals they hold dear today. Axnos' holy symbol depicts an hour glass surrounded by a serpent devouring its own tail. 
-<br> 
+Axnos teaches that every crumbling monument and weathered relic holds a story waiting to be unveiled, a window into the past that illuminates the present and future alike. They serve as a patron deity and guiding force for explorers and scholars, drawing a particularly devoted following among archaeologists and anthropologists. While Axnos' followers would never hesitate to extoll the virtues of study and the reading of history, Axnos is most pleased when their followers take to the field, hold the holy artifacts of civilizations in their hands, partake in the rituals of those unlike themselves, and stand in the ruins that once housed heroes of an era. To read about the past is one thing, but to partake directly in it grants a knowledge of how much one shares in common with their forbearers that a book could never impart. This relentless pursuit of the past also serves to humble many of Axnos' followers and reminds themselves they are just a small footnote in the grand tapestry of civilization and society. In the same way they study the artifacts of the past, someone in the future may study the iconography and rituals they hold dear today. Axnos' holy symbol depicts an hour glass surrounded by a serpent devouring its own tail.
+<br>
 :
 Followers venerate and pray to Axnos in the hopes of being granted opportunities to explore forgotten locales, for safety from what lurks in abandoned ruins, to remain humble and aware of how small their part is to play in civilization's story, and to one day be able to uncover the past with the same level of divine insight and perspective unburdened by lived experiences like their deity. By emulating Axnos' humility, thirst for knowledge, and respect for the past, their followers are able to deeply appreciate their similarities to bygone peoples, directly engage with the history and stories that shape the world they live in, and are more well equipped to navigate an unknown future and avoid the pitfalls past peoples fell into.
 :
@@ -4827,12 +4828,12 @@ Followers venerate and pray to Axnos in the hopes of being granted opportunities
 {{
 The Circle of Stars is a loose pantheon of celestial deities of both day and night. It is worshipped primarily by agrarian cultures who place heavy reliance on their community’s safety. They recognize the union of the sun, moon, and stars as important as the union between seed and soil. The sun provides their crops, the night provides their rest, while the moon and stars keep them lit well enough to keep watch over their fields. Different communities and individuals may value different gods or goddesses within the pantheon differently, placing a greater emphasis on love or celebration of newcomers, or on maintaining a purifying fire in the face of the undead. Regardless, those who worship The Circle of Stars form strong bonds with those around them, and will do anything to keep them safe.
 :
-**Edicts** foster community with bonds as bright as stars, heal the downtrodden, improve your talents for the sake of your community, celebrate your bonds regularly  
-**Anathema** turn away a weary or wounded traveler, allow harm to come to a member of your community through negligence, maintain bonds with those who do not honor yours    
+**Edicts** foster community with bonds as bright as stars, heal the downtrodden, improve your talents for the sake of your community, celebrate your bonds regularly
+**Anathema** turn away a weary or wounded traveler, allow harm to come to a member of your community through negligence, maintain bonds with those who do not honor yours
 **Pantheon Members** Aelia, Noctune, Trella
 :
-#### Devotee Benefits  
-  
+#### Devotee Benefits
+
 **Divine Font** heal <br>
 **Divine Sanctification** can choose holy <br>
 **Divine Skill** medicine <br>
@@ -4857,7 +4858,7 @@ The final goddess of an unknown pantheon. Records suggest that she was just anot
 
 **Divine Font** harm <br>
 **Divine Sanctification** can choose unholy <br>
-**Divine Skill** acrobatics <br> 
+**Divine Skill** acrobatics <br>
 **Favored Weapon** bladed scarf <br>
 **Domains** death, decay, cold <br>
 **Alternate Domain** trickery <br>
@@ -5693,7 +5694,7 @@ A cave worm that was once feared by many and consumed all without prejudice, Ves
 **Alternate Domain** soul, swarm<br>
 **Cleric Spells** 2nd: feast of ashes, 5th: grisly growths, 7th: warp mind
 }}
-}} 
+}}
 
 {{pageNumber,auto}}
 \page
@@ -5741,7 +5742,7 @@ A relatively unkown deity, Xeesis is a god of secrets and hidden knowledge. They
 
 
 <div id='headerbox' class='headerLeft'>
-  
+
 # Menu
 
 <div class='toc'>
@@ -5904,6 +5905,6 @@ A relatively unkown deity, Xeesis is a god of secrets and hidden knowledge. They
 </div>
 
 
-  
+
 </div>
 
