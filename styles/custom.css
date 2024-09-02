@@ -783,3 +783,36 @@ Converted to WOFF2 by Transfonter - https://transfonter.org
 .brewRenderer {
   overflow-y: auto;
 }
+
+/* Fix H3s for Civilizations */
+.page .template .block:has(h3 + .label) {
+  font-family: Tauri;
+  border-bottom: 1px solid black;
+  color: black;
+  text-transform: uppercase;
+  font-size: 17px;
+  display: flex;
+  justify-content: flex-start;
+  gap: 5px;
+  align-items: baseline;
+  text-align: left;
+  font-variant: small-caps;
+  line-height: .971em;
+  font-weight: bold;
+}
+
+.page .template .block h3:has(+ .label) {
+  font-family: Tauri;
+  font-size: 1em;
+  color: black;
+}
+
+.page .template h3 + .label {
+  margin-left: auto;
+  font-size: 0.9em;
+}
+
+/* Fix the "Heroes of XYZ" sidebars */
+.page .descriptive.right:has([id^="heroes-of"]) p {
+  text-indent: 0;
+}
