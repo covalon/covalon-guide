@@ -1,4 +1,4 @@
-{{titlebar,width:60% Covalon Player's Guide rev 24.09.03 }}
+{{titlebar,width:60% Covalon Player's Guide rev 24.09.06 }}
 
 
 
@@ -38,6 +38,7 @@ Covalon is a "living world" style tabletop RPG campaign, using the Pathfinder 2e
 
 {{toc,wide
 # Contents
+
 - ### [{{ Covalon Player’s Guide}}{{ 1}}](#p1)
   - #### [{{ What is Covalon?}}{{ 1}}](#p1)
 - ### [{{ Chapter 1: Player Expectations}}{{ 3}}](#p3)
@@ -96,10 +97,10 @@ Covalon is a "living world" style tabletop RPG campaign, using the Pathfinder 2e
   - #### [{{ Covalon Gazetteer}}{{ 32}}](#p32)
     -  [{{ City District}}{{ 32}}](#p32)
     -  [{{ Market District}}{{ 39}}](#p39)
-    -  [{{ Encore District}}{{ 50}}](#p50)
-    -  [{{ Armory District}}{{ 54}}](#p54)
-    -  [{{ Lake District}}{{ 57}}](#p57)
-    -  [{{ Heart’s Forest}}{{ 62}}](#p62)
+    -  [{{ Encore District}}{{ 49}}](#p49)
+    -  [{{ Armory District}}{{ 53}}](#p53)
+    -  [{{ Lake District}}{{ 56}}](#p56)
+    -  [{{ Heart’s Forest}}{{ 61}}](#p61)
     -  [{{ The Docks}}{{ 63}}](#p63)
     -  [{{ The Farm}}{{ 64}}](#p64)
     -  [{{ Mountain View District}}{{ 65}}](#p65)
@@ -122,6 +123,8 @@ Covalon is a "living world" style tabletop RPG campaign, using the Pathfinder 2e
   - #### [{{ Pre-Cataclysm Civilizations}}{{ 75}}](#p75)
   - #### [{{ Deities, Faith, and Ideologies}}{{ 92}}](#p92)
 }}
+
+
 {{pageNumber,auto}}
 
 \page
@@ -947,6 +950,7 @@ choose to gather generic ore, which would earn them 4 sp worth of ore on a succe
 
 Gathering resources can also be used to obtain precious materials for crafting. The following table contains all of the precious materials that can currently be gathered in Covalon. More varieties of precious materials may become available in the future as Covalon expands and players discover new sources of materials.
 
+##### Table 3-5: Available Precious Materials
 Precious Material | Applicable Lores
 :---: | :---:
 Cold iron | Mining, Caves, etc.
@@ -991,9 +995,6 @@ Character Level | Retraining Cost (per day)
 14 | 20 gp
 15 | 28 gp
 
-
-
-
 ::
 
 ##### PURCHASE CONTRACT OF TERRAN REVIVAL
@@ -1002,7 +1003,7 @@ Character Level | Retraining Cost (per day)
 {{tag Covalon}}{{tag Exploration}}
 }}
 
-**Cost** Cost a fragment of your soul plus an amount of money as detailed on Table 3-4: Contract Pricing
+**Cost** Cost a fragment of your soul plus an amount of money as detailed on Table 3-7: Contract Pricing
 
 ------
 You imbue a fragment of your soul into the Heart of Terra, which will regenerate your body and soul in the event of your death (except by natural causes). When you purchase the contract, choose a level up to your character's current level and pay the associated cost. If you die while in an adventure, your contract is consumed and the Heart of Terra regenerates your body and soul in Covalon. You return to life at a level equal or lower to the level of contract you purchased, and your XP towards the next level is reset to 0. It takes some time for your soul to adjust to regeneration, leaving you clumsy 2, drained 2, and enfeebled 2 for 1 week; these conditions can't be removed or reduced by any means until the week has passed. You can upgrade your contract to a higher level by paying the cost difference.
@@ -1015,11 +1016,32 @@ You can purchase a Contract of Terran Revival for your animal companion or famil
 
 }}
 
+
+ 
+
 {{pageNumber,auto}}
 
 \page
 
+##### Table 3-7: Contract Pricing
 
+Level | Cost
+:---: | :---:
+1 | 30 gp
+2 | 60 gp
+3 | 90 gp
+4 | 150 gp
+5 | 240 gp
+6 | 375 gp
+7 | 540 gp
+8 | 750 gp
+9 | 1,050 gp
+10 | 1,500 gp
+11 | 2,100 gp
+12 | 3,000 gp
+13 | 4,500 gp
+14 | 6,600 gp
+15 | 10,500 gp
 
 ##### RAISE A CREATURE
 -----
@@ -1033,7 +1055,7 @@ You can purchase a Contract of Terran Revival for your animal companion or famil
 You invoke the power of the Heart of Terra to create a new creature from the sample of an old one. The Heart consumes the sample you provide it and produces an egg, which you spend seven days of consecutive downtime to incubate and care for. After seven days, this egg hatches into a creature of the same species as the one from the provided sample. If you have a feat or feature that gives you access to an animal companion, this creature can serve as your animal companion, using the stat blocks of a similar type of animal companion if an entry for this creature does not exist. Alternatively, the creature may be kept as a vanity pet, and you can own a maximum of four vanity pets.
 
 In order for a creature to be approved for Raise a Creature, it must have the animal or beast tag, not be a Maw-related creature, not have any vaguely humanoid characteristics, not have the Spirit or Dragon tag, and must not be a custom or 3rd-party creature. Creatures created from Raise a Creature have their diet changed to consist of meat or plants commonly found in rations and have none of the abilities or spellcasting usually associated with their creature type (though they keep their forms of movement). Vanity pets become small or tiny in size, have their intelligence modifier reduced to -4, and lose the ability to speak any languages. Creatures hatched via the Raise a Creature activity can be traded to other players.
-
+\column
 <br>
 
 ##### SEEK TREATMENT
@@ -1050,8 +1072,6 @@ You visit Doc's Medical Center and solicit treatment from a healer. You are rest
 By paying 1 gp, the infirmary will also remove any conditions affecting you. The infirmary can remove any conditions (except doomed) as long as that condition was inflicted by an environmental effect, a creature or hazard with a level lesser than or equal to that of the settlement's, or by a spell with a level lesser than or equal to that of half the settlement's level (rounded up). (For a list of applicable conditions, see pages 618 - 623 in the Core Rulebook.)
 
 <br>
-
-\column
 
 ##### Cure a Curse
 -----
@@ -1504,6 +1524,8 @@ When Covalon's walls were young and untested there came a time where dark clouds
 Creeping, crawling, hungry hordes of undead made their approach, but this was no ordinary undead menace. These mindless monsters moved in strategic formations, halting and maneuvering as though beckoned by an unseen and demanding hand. On the sands outside of ranged attacks, they waited, standing at grisly attention, threatening to at any moment bear down upon the survivors of the world's apocalypse. Finally the true threat prepared to make itself known. A titanic five legged Dracolich shook the earth as it clawed its way out from the maw to drive its armies of horror forward! Covalon's defenders prepared themselves for the fight of their lives, forming five squads of her strongest and most guileful to assault the massive beast. Their plan, Operation Siege Breaker, was to cut it down to size, assaulting each leg simultaneously while a brave vanguard kept at its head to hold its attention on themselves.
 
 As the hordes of undead descended to assault the walls, the heroes of covalon cut through waves of horrors towards their targets. The battle raged and the monster seemed poised to overtake the vanguard who were reeling on the edge of life when finally the beast was brought down by a powerful kick that destroyed its vestigal fifth leg. With the dracolich destroyed there was no hand to control the undead hordes and they too fell or fled back whence they came.
+:
+A recording of the briefings and debriefings from The Siege of Covalon can be found on Youtube [here.](https://youtu.be/glI4TM0ZKEw)
 
 
 
@@ -2358,28 +2380,6 @@ We specialize in keeping things comfortable. We keep our doors open all day and 
 \page
 
 {{wide
-#### Wild Draughts
-
-A modest structure for those who wish to partake in the wilds of the forest alongside the comforts of town. The Heart’s Forest provides the herbalists Rinka and Yksys with ample resources for their elixirs and tonics, and they, in turn, wish to share this bounty with all Covalonians. An open deck provides seating for those who wish to linger among the growth whilst enjoying the small waterfall and a curated variety of teas and herbal infusions served throughout the day. Come at the right time and perhaps catch a glimpse of the two proprietors at work at their vats and retorts and learn a bit about diverse alchemical traditions. Rinka’s connection to the unchecked vitality of nature and Yksys’s commitment to the hospitality of the Heart’s Sanctuary blend to yield a taste of serenity in this trying world we find ourselves in.
-:
-![](https://github.com/covalon/covalon-guide/raw/gh-pages/assets/covalon/PlayersGuide/Maps/WildDroughtsSign.webp){width:400px,margin:"0px 150px"}
-
-*Wild Draughts Sign. Designed by Rinka.* 
-{text-align:center}
-:
-![](https://github.com/covalon/covalon-guide/raw/gh-pages/assets/covalon/PlayersGuide/Maps/WildDroughts.webp){width:580px,margin:"0px 50px"}
-
-*Wild Draughts. Designed by Rinka.* 
-{text-align:center}
-
-
-}}
-
-{{pageNumber,auto}}
-
-\page
-
-{{wide
 #### Mind and Matter
 
 While the doctors of Covalon are doing a great job keeping everyone alive and healthy, not every ailment can be fixed with a bandaid and a bunch of potions. And for just these cases, Mind and Matter offers a different, more personalized approach to helping people. 
@@ -2678,12 +2678,32 @@ The Heart of Terra, Covalon's most precious artifact, rests inside a special shr
 {text-align:center}
 
 
+}}
 
+{{pageNumber,auto}}
+
+\page
+
+{{wide
+#### Wild Draughts
+
+A modest structure for those who wish to partake in the wilds of the forest alongside the comforts of town. The Heart’s Forest provides the herbalists Rinka and Yksys with ample resources for their elixirs and tonics, and they, in turn, wish to share this bounty with all Covalonians. An open deck provides seating for those who wish to linger among the growth whilst enjoying the small waterfall and a curated variety of teas and herbal infusions served throughout the day. Come at the right time and perhaps catch a glimpse of the two proprietors at work at their vats and retorts and learn a bit about diverse alchemical traditions. Rinka’s connection to the unchecked vitality of nature and Yksys’s commitment to the hospitality of the Heart’s Sanctuary blend to yield a taste of serenity in this trying world we find ourselves in.
+:
+![](https://github.com/covalon/covalon-guide/raw/gh-pages/assets/covalon/PlayersGuide/Maps/WildDroughtsSign.webp){width:400px,margin:"0px 150px"}
+
+*Wild Draughts Sign. Designed by Rinka.* 
+{text-align:center}
+:
+![](https://github.com/covalon/covalon-guide/raw/gh-pages/assets/covalon/PlayersGuide/Maps/WildDroughts.webp){width:580px,margin:"0px 50px"}
+
+*Wild Draughts. Designed by Rinka.* 
+{text-align:center}
 
 
 }}
 
 {{pageNumber,auto}}
+
 
 \page
 
@@ -4703,7 +4723,7 @@ The various religions practiced in Elleaterra are as varied and distinct as the 
 | Kohtalo, Patron of Fate Forgers      | can choose holy  | ambition, creative, fate, zeal          | confidence           |
 | Krun Darr                            | can choose either| lightning, change, creation, destruction| might                |
 | Kujani                               | none             | ambition, duty, freedom, perfection     | dust                 |
-| Levona, Duchess of Hell              |must choose unholy| confidence, fire, trickery, tyrrany     | none                 |
+| Levona, Duchess of Hell              |must choose unholy| confidence, fire, trickery, tyranny     | none                 |
 | Lotus                                | can choose holy  | change, healing, magic, protection      | none                 |
 | Luxandra, The Everbloom              | can choose holy  | creation, passion, protection, zeal     | none                 |
 | Lysanthyr, the Unending Delight      | can choose unholy| delirium, indulgence, passion, undeath  | none                 |
@@ -5535,6 +5555,7 @@ A relatively unkown deity, Xeesis is a god of secrets and hidden knowledge. They
 # Menu
 
 <div class='toc'>
+
 - ### [{{ Covalon Player’s Guide}}{{ 1}}](#p1)
   - #### [{{ What is Covalon?}}{{ 1}}](#p1)
 - ### [{{ Chapter 1: Player Expectations}}{{ 3}}](#p3)
@@ -5593,10 +5614,10 @@ A relatively unkown deity, Xeesis is a god of secrets and hidden knowledge. They
   - #### [{{ Covalon Gazetteer}}{{ 32}}](#p32)
     -  [{{ City District}}{{ 32}}](#p32)
     -  [{{ Market District}}{{ 39}}](#p39)
-    -  [{{ Encore District}}{{ 50}}](#p50)
-    -  [{{ Armory District}}{{ 54}}](#p54)
-    -  [{{ Lake District}}{{ 57}}](#p57)
-    -  [{{ Heart’s Forest}}{{ 62}}](#p62)
+    -  [{{ Encore District}}{{ 49}}](#p49)
+    -  [{{ Armory District}}{{ 53}}](#p53)
+    -  [{{ Lake District}}{{ 56}}](#p56)
+    -  [{{ Heart’s Forest}}{{ 61}}](#p61)
     -  [{{ The Docks}}{{ 63}}](#p63)
     -  [{{ The Farm}}{{ 64}}](#p64)
     -  [{{ Mountain View District}}{{ 65}}](#p65)
@@ -5686,9 +5707,8 @@ A relatively unkown deity, Xeesis is a god of secrets and hidden knowledge. They
     -  [{{ Veskahule}}{{ 109}}](#p109)
     -  [{{ Xan’Zyx, the First Incarnation}}{{ 110}}](#p110)
     -  [{{ Xeesis}}{{ 110}}](#p110)
+- ### [{{ Menu}}{{ 111}}](#p111)
 </div>
 
-
-  
 </div>
 

@@ -5,20 +5,52 @@
         <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
         <link href="https://use.fontawesome.com/releases/v5.15.1/css/all.css" rel="stylesheet" />
         <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700" rel="stylesheet" type="text/css" />
-        <link href='https://covalon.github.io/covalon-guide/bundle.css' rel='stylesheet' />
+        <link href='https://assets.dungeonsandmarkdown.spjak.com/bundle.css' rel='stylesheet' />
         <base target="_blank">
     </head>
     <body>
         <div>
             <div class="frame-content">
                 <div class="brewRenderer">
-                    <link href="https://covalon.github.io/covalon-guide/themes/V3/Blank/style.css" rel="stylesheet">
-                    <link href="https://covalon.github.io/covalon-guide/themes/V3/5ePHB/style.css" rel="stylesheet">
-					<link href='https://covalon.github.io/covalon-guide/styles/custom.css' rel='stylesheet' />                   
+                    <link href="https://assets.dungeonsandmarkdown.spjak.com/themes/V3/Blank/style.css" rel="stylesheet">
+                    <link href="https://assets.dungeonsandmarkdown.spjak.com/themes/V3/5ePHB/style.css" rel="stylesheet">
+                    <style>
+                    .page p {
+                        color: black
+                    }
+                    .page li {
+                        color: black
+                    }
+                    .page table {
+                        color: black
+                    }
+                    .page h5 {
+                        color: black
+                    }
+                    .page h6 {
+                        color: black
+                    }
+                    .page dl {
+                        color: black
+                    }
+                    .page .monster hr:last-of-type~:is(dl,p) {
+                        color: black
+                    }
+                    .page #example + table td {
+                        border:1px dashed #00000030;
+                    }
+                    .page {
+                        padding-bottom : 1.1cm
+                    }
+                    .page .watermark {
+                        z-index: -500
+                    }
+                    </style>
+                    
                     <div class="pages">
                         
 		<div class="page" id="p1" key="0" >
-			<div class="columnWrapper"><span class="inline-block titlebar"  style="width:60%;">Covalon Player’s Guide rev 24.09.03 </span><div class='blank'>  </div><div class='blank'>  </div><div class="block wide"  ><p><img class=" "  style="width:50%; margin-left:160px; margin-right:auto;" src="https://i.ibb.co/2nWwNHT/Covalon-Logo-Bold-Wood-Cropped-Small.webp" alt="Covalon Logo"></p>
+			<div class="columnWrapper"><span class="inline-block titlebar"  style="width:60%;">Covalon Player’s Guide rev 24.09.06 </span><div class='blank'>  </div><div class='blank'>  </div><div class="block wide"  ><p><img class=" "  style="width:50%; margin-left:160px; margin-right:auto;" src="https://i.ibb.co/2nWwNHT/Covalon-Logo-Bold-Wood-Cropped-Small.webp" alt="Covalon Logo"></p>
 </div><h1 id="covalon-players-guide">Covalon Player’s Guide</h1>
 <div class="block wide"  ><div class="block subtitle"  ><p>Welcome to Covalon, a Pathfinder 2nd Edition living world campaign! Our campaign offers players a way to experience the Pathfinder 2e roleplaying game at their own pace. Whether you want to dive into dangerous dungeons every other day or just do a bit of text roleplaying a couple of times a month, Covalon has something for everyone.</p>
 </div></div><span class="inline-block separator"  ></span><div class="block wide"  style="text-align:center;"><h2 id="what-is-covalon">What is Covalon?</h2>
@@ -136,10 +168,10 @@
 <ul>
 <li><a href="#p32" target="_self"><span class="inline-block ">City District</span><span class="inline-block ">32</span></a></li>
 <li><a href="#p39" target="_self"><span class="inline-block ">Market District</span><span class="inline-block ">39</span></a></li>
-<li><a href="#p50" target="_self"><span class="inline-block ">Encore District</span><span class="inline-block ">50</span></a></li>
-<li><a href="#p54" target="_self"><span class="inline-block ">Armory District</span><span class="inline-block ">54</span></a></li>
-<li><a href="#p57" target="_self"><span class="inline-block ">Lake District</span><span class="inline-block ">57</span></a></li>
-<li><a href="#p62" target="_self"><span class="inline-block ">Heart’s Forest</span><span class="inline-block ">62</span></a></li>
+<li><a href="#p49" target="_self"><span class="inline-block ">Encore District</span><span class="inline-block ">49</span></a></li>
+<li><a href="#p53" target="_self"><span class="inline-block ">Armory District</span><span class="inline-block ">53</span></a></li>
+<li><a href="#p56" target="_self"><span class="inline-block ">Lake District</span><span class="inline-block ">56</span></a></li>
+<li><a href="#p61" target="_self"><span class="inline-block ">Heart’s Forest</span><span class="inline-block ">61</span></a></li>
 <li><a href="#p63" target="_self"><span class="inline-block ">The Docks</span><span class="inline-block ">63</span></a></li>
 <li><a href="#p64" target="_self"><span class="inline-block ">The Farm</span><span class="inline-block ">64</span></a></li>
 <li><a href="#p65" target="_self"><span class="inline-block ">Mountain View District</span><span class="inline-block ">65</span></a></li>
@@ -692,6 +724,7 @@ Covalon has been designed with a focus on slow, gradual progression that’s jam
 		<div class="page" id="p19" key="18" >
 			<div class="columnWrapper"><p>choose to gather generic ore, which would earn them 4 sp worth of ore on a success instead of the 2 sp in coin normally earned from Earn Income, and could be used in lieu of gold when crafting a metal item. Crafting material obtained this way can alternatively be sold to the General Store for half value. All feats and abilities which specifically affect the Earn Income ability also affect Gather Resources, and the DC to Gather Resources for a particular Task Level is equivalent to the DC to Earn Income for that same Task Level.</p>
 <p>Gathering resources can also be used to obtain precious materials for crafting. The following table contains all of the precious materials that can currently be gathered in Covalon. More varieties of precious materials may become available in the future as Covalon expands and players discover new sources of materials.</p>
+<h5 id="table-3-5-available-precious-materials">Table 3-5: Available Precious Materials</h5>
 <table><thead><tr><th align=center>Precious Material</th>
 <th align=center>Applicable Lores</th>
 </tr></thead><tbody><tr><td align=center>Cold iron</td>
@@ -748,7 +781,7 @@ Covalon has been designed with a focus on slow, gradual progression that’s jam
 <td align=center>28 gp</td>
 </tr></tbody></table><div class='blank'> </div><div class='blank'> </div><h5 id="purchase-contract-of-terran-revival">PURCHASE CONTRACT OF TERRAN REVIVAL</h5>
 <hr>
-<div class="block taglist"  ><span class="inline-block tag"  >Covalon</span><span class="inline-block tag"  >Exploration</span></div><p><strong>Cost</strong> Cost a fragment of your soul plus an amount of money as detailed on Table 3-4: Contract Pricing</p>
+<div class="block taglist"  ><span class="inline-block tag"  >Covalon</span><span class="inline-block tag"  >Exploration</span></div><p><strong>Cost</strong> Cost a fragment of your soul plus an amount of money as detailed on Table 3-7: Contract Pricing</p>
 <hr>
 <p>You imbue a fragment of your soul into the Heart of Terra, which will regenerate your body and soul in the event of your death (except by natural causes). When you purchase the contract, choose a level up to your character’s current level and pay the associated cost. If you die while in an adventure, your contract is consumed and the Heart of Terra regenerates your body and soul in Covalon. You return to life at a level equal or lower to the level of contract you purchased, and your XP towards the next level is reset to 0. It takes some time for your soul to adjust to regeneration, leaving you clumsy 2, drained 2, and enfeebled 2 for 1 week; these conditions can’t be removed or reduced by any means until the week has passed. You can upgrade your contract to a higher level by paying the cost difference.</p>
 <div class="block note"  ><h5 class=" "  style="text-align:center;" id="contracts-for-companions">CONTRACTS FOR COMPANIONS</h5>
@@ -758,13 +791,46 @@ Covalon has been designed with a focus on slow, gradual progression that’s jam
 </div>
 		</div>
 		<div class="page" id="p20" key="19" >
-			<div class="columnWrapper"><h5 id="raise-a-creature">RAISE A CREATURE</h5>
+			<div class="columnWrapper"><h5 id="table-3-7-contract-pricing">Table 3-7: Contract Pricing</h5>
+<table><thead><tr><th align=center>Level</th>
+<th align=center>Cost</th>
+</tr></thead><tbody><tr><td align=center>1</td>
+<td align=center>30 gp</td>
+</tr><tr><td align=center>2</td>
+<td align=center>60 gp</td>
+</tr><tr><td align=center>3</td>
+<td align=center>90 gp</td>
+</tr><tr><td align=center>4</td>
+<td align=center>150 gp</td>
+</tr><tr><td align=center>5</td>
+<td align=center>240 gp</td>
+</tr><tr><td align=center>6</td>
+<td align=center>375 gp</td>
+</tr><tr><td align=center>7</td>
+<td align=center>540 gp</td>
+</tr><tr><td align=center>8</td>
+<td align=center>750 gp</td>
+</tr><tr><td align=center>9</td>
+<td align=center>1,050 gp</td>
+</tr><tr><td align=center>10</td>
+<td align=center>1,500 gp</td>
+</tr><tr><td align=center>11</td>
+<td align=center>2,100 gp</td>
+</tr><tr><td align=center>12</td>
+<td align=center>3,000 gp</td>
+</tr><tr><td align=center>13</td>
+<td align=center>4,500 gp</td>
+</tr><tr><td align=center>14</td>
+<td align=center>6,600 gp</td>
+</tr><tr><td align=center>15</td>
+<td align=center>10,500 gp</td>
+</tr></tbody></table><h5 id="raise-a-creature">RAISE A CREATURE</h5>
 <hr>
 <div class="block taglist"  ><span class="inline-block tag"  >Covalon</span><span class="inline-block tag"  >Downtime</span></div><p><strong>Requirements</strong> You have taken a sample of a creature defeated during an adventure with the beast or animal trait, and you have had this creature sample approved after submitting a ticket.</p>
 <hr>
 <p>You invoke the power of the Heart of Terra to create a new creature from the sample of an old one. The Heart consumes the sample you provide it and produces an egg, which you spend seven days of consecutive downtime to incubate and care for. After seven days, this egg hatches into a creature of the same species as the one from the provided sample. If you have a feat or feature that gives you access to an animal companion, this creature can serve as your animal companion, using the stat blocks of a similar type of animal companion if an entry for this creature does not exist. Alternatively, the creature may be kept as a vanity pet, and you can own a maximum of four vanity pets.</p>
 <p>In order for a creature to be approved for Raise a Creature, it must have the animal or beast tag, not be a Maw-related creature, not have any vaguely humanoid characteristics, not have the Spirit or Dragon tag, and must not be a custom or 3rd-party creature. Creatures created from Raise a Creature have their diet changed to consist of meat or plants commonly found in rations and have none of the abilities or spellcasting usually associated with their creature type (though they keep their forms of movement). Vanity pets become small or tiny in size, have their intelligence modifier reduced to -4, and lose the ability to speak any languages. Creatures hatched via the Raise a Creature activity can be traded to other players.</p>
-<br>
+<div class='columnSplit'>  </div><br>
 
 <h5 id="seek-treatment">SEEK TREATMENT</h5>
 <hr>
@@ -774,8 +840,7 @@ Covalon has been designed with a focus on slow, gradual progression that’s jam
 <p>By paying 1 gp, the infirmary will also remove any conditions affecting you. The infirmary can remove any conditions (except doomed) as long as that condition was inflicted by an environmental effect, a creature or hazard with a level lesser than or equal to that of the settlement’s, or by a spell with a level lesser than or equal to that of half the settlement’s level (rounded up). (For a list of applicable conditions, see pages 618 - 623 in the Core Rulebook.)</p>
 <br>
 
-
-<div class='columnSplit'>  </div><h5 id="cure-a-curse">Cure a Curse</h5>
+<h5 id="cure-a-curse">Cure a Curse</h5>
 <hr>
 <div class="block taglist"  ><span class="inline-block tag"  >Covalon</span><span class="inline-block tag"  >Exploration</span></div><p><strong>Frequency</strong> once per day; <strong>Cost</strong> 40 gp</p>
 <hr>
@@ -1036,6 +1101,7 @@ Covalon has been designed with a focus on slow, gradual progression that’s jam
 <p>When Covalon’s walls were young and untested there came a time where dark clouds formed on the desert horizon. Day after day the darkness grew, hungrily eating at sky. Scouts told of purple lightning balling and piercing through the roiling clouds as anguished cries echoed from the maw’s chasm. While as yet unaware of what this foretold, the adventurers of Covalon set to prepare in the best ways they knew how. Each did as they could. Some produced bandages and medicines, blacksmiths forged armor and sharpened weapons, and the bookish sought to uncover the secrets of the vile sorcery that had begun to blot out the sun over their heads. A keening wind brought news of undeath walking the dunes as nightmares plagued Covalon’s dreamers.</p>
 <p>Creeping, crawling, hungry hordes of undead made their approach, but this was no ordinary undead menace. These mindless monsters moved in strategic formations, halting and maneuvering as though beckoned by an unseen and demanding hand. On the sands outside of ranged attacks, they waited, standing at grisly attention, threatening to at any moment bear down upon the survivors of the world’s apocalypse. Finally the true threat prepared to make itself known. A titanic five legged Dracolich shook the earth as it clawed its way out from the maw to drive its armies of horror forward! Covalon’s defenders prepared themselves for the fight of their lives, forming five squads of her strongest and most guileful to assault the massive beast. Their plan, Operation Siege Breaker, was to cut it down to size, assaulting each leg simultaneously while a brave vanguard kept at its head to hold its attention on themselves.</p>
 <p>As the hordes of undead descended to assault the walls, the heroes of covalon cut through waves of horrors towards their targets. The battle raged and the monster seemed poised to overtake the vanguard who were reeling on the edge of life when finally the beast was brought down by a powerful kick that destroyed its vestigal fifth leg. With the dracolich destroyed there was no hand to control the undead hordes and they too fell or fled back whence they came.</p>
+<div class='blank'>  </div><p>A recording of the briefings and debriefings from The Siege of Covalon can be found on Youtube <a href="https://youtu.be/glI4TM0ZKEw">here.</a></p>
 </div><span class="inline-block pageNumber auto"  ></span><p>&nbsp;</p>
 <div class='columnSplit'>  </div><p>&nbsp;</p>
 </div>
@@ -1438,17 +1504,6 @@ We specialize in keeping things comfortable. We keep our doors open all day and 
 </div>
 		</div>
 		<div class="page" id="p48" key="47" >
-			<div class="columnWrapper"><div class="block wide"  ><h4 id="wild-draughts">Wild Draughts</h4>
-<p>A modest structure for those who wish to partake in the wilds of the forest alongside the comforts of town. The Heart’s Forest provides the herbalists Rinka and Yksys with ample resources for their elixirs and tonics, and they, in turn, wish to share this bounty with all Covalonians. An open deck provides seating for those who wish to linger among the growth whilst enjoying the small waterfall and a curated variety of teas and herbal infusions served throughout the day. Come at the right time and perhaps catch a glimpse of the two proprietors at work at their vats and retorts and learn a bit about diverse alchemical traditions. Rinka’s connection to the unchecked vitality of nature and Yksys’s commitment to the hospitality of the Heart’s Sanctuary blend to yield a taste of serenity in this trying world we find ourselves in.</p>
-<div class='blank'>  </div><p><img class=" "  style="width:400px; margin:0px 150px;" src="https://github.com/covalon/covalon-guide/raw/gh-pages/assets/covalon/PlayersGuide/Maps/WildDroughtsSign.webp" alt=""></p>
-<p class=" "  style="text-align:center;"><em>Wild Draughts Sign. Designed by Rinka.</em> </p>
-<div class='blank'>  </div><p><img class=" "  style="width:580px; margin:0px 50px;" src="https://github.com/covalon/covalon-guide/raw/gh-pages/assets/covalon/PlayersGuide/Maps/WildDroughts.webp" alt=""></p>
-<p class=" "  style="text-align:center;"><em>Wild Draughts. Designed by Rinka.</em> </p>
-</div><span class="inline-block pageNumber auto"  ></span><p>&nbsp;</p>
-<div class='columnSplit'>  </div><p>&nbsp;</p>
-</div>
-		</div>
-		<div class="page" id="p49" key="48" >
 			<div class="columnWrapper"><div class="block wide"  ><h4 id="mind-and-matter">Mind and Matter</h4>
 <p>While the doctors of Covalon are doing a great job keeping everyone alive and healthy, not every ailment can be fixed with a bandaid and a bunch of potions. And for just these cases, Mind and Matter offers a different, more personalized approach to helping people. 
 The cozy shop with its comfy carpets and faint lavender scent pervading everything is filled to the brim with sky-high shelves offering crystals, medical herbs, esoteric implements, charms, and other occult items, created and sold by Ren and Chan, while Yara offers her holistic and spiritual healing services and harrowings for those seeking answers in the back. If you’re not sure where to go with a problem, Mind and Matter is never a bad choice.</p>
@@ -1458,7 +1513,7 @@ The cozy shop with its comfy carpets and faint lavender scent pervading everythi
 <div class='columnSplit'>  </div><p>&nbsp;</p>
 </div>
 		</div>
-		<div class="page" id="p50" key="49" >
+		<div class="page" id="p49" key="48" >
 			<div class="columnWrapper"><div class="block wide"  ><h3 id="encore-district">Encore District</h3>
 <p>The district of yurts akin to that of Drifthaven has shops and businesses for your relaxation! The Encore District is a contrast to the busier Market District in both appearance and ambiance, with much more colourful and cozy yurts, come on by if you need some relaxation!</p>
 <h4 id="fair-weather-lounge">Fair Weather Lounge</h4>
@@ -1469,7 +1524,7 @@ The cozy shop with its comfy carpets and faint lavender scent pervading everythi
 <div class='columnSplit'>  </div><p>&nbsp;</p>
 </div>
 		</div>
-		<div class="page" id="p51" key="50" >
+		<div class="page" id="p50" key="49" >
 			<div class="columnWrapper"><div class="block wide"  ><h4 id="the-bubblin-coven">The Bubblin’ Coven</h4>
 <p>Though at first glance, this deep purple yurt may invoke feelings of unease and fear, those who know the eccentric owner know that the Bubblin’ Coven is a welcoming place. Run by Myka Fa’el (female elf changeling witch) and her familiar Willow, they supply the town with occult crafts and services. Curse removal and potions are common purchases, but the store is also known for two specialties: serums of sex shift and careful uses of the bestial curse to help others try and find their true selves.</p>
 <div class='blank'>  </div><p><img class=" "  style="width:680px; margin:0px 0px;" src="https://github.com/covalon/covalon-guide/raw/gh-pages/assets/covalon/PlayersGuide/Maps/BubblingCoven.webp" alt=""></p>
@@ -1478,7 +1533,7 @@ The cozy shop with its comfy carpets and faint lavender scent pervading everythi
 <div class='columnSplit'>  </div><p>&nbsp;</p>
 </div>
 		</div>
-		<div class="page" id="p52" key="51" >
+		<div class="page" id="p51" key="50" >
 			<div class="columnWrapper"><div class="block wide"  ><h4 id="faynes-sweet-freedoms">Fayne’s Sweet Freedoms</h4>
 <p>The soft sounds of music and the sweet smell of pastries linger around Fayne’s Sweet Freedom, owned by Mima Melonbun (female halfling witch). She prides herself on creating a safe and comfortable space for all ages, personally greeting each customer when she isn’t at work on the next batch of pastries. Along with Mima’s pastries, potions, and spellcasting services, the establishment also demos and sells toys made by Alora (female halfling ganzi summoner), and Rhia Fizzlefang (female gnoll champion) can often be found helping with orders and entertaining guests.</p>
 <div class='blank'>  </div><p><img class=" "  style="width:680px; margin:0px 0px;" src="https://github.com/covalon/covalon-guide/raw/gh-pages/assets/covalon/PlayersGuide/Maps/FaynesSweetFreedoms.webp" alt=""></p>
@@ -1487,7 +1542,7 @@ The cozy shop with its comfy carpets and faint lavender scent pervading everythi
 <div class='columnSplit'>  </div><p>&nbsp;</p>
 </div>
 		</div>
-		<div class="page" id="p53" key="52" >
+		<div class="page" id="p52" key="51" >
 			<div class="columnWrapper"><div class="block wide"  ><h4 id="the-sea-vixens-tavern">The Sea Vixen’s Tavern</h4>
 <p>Behind the maple sliding door and Japanese facade, lies a warm and comfy restaurant. This restaurant serves all types of seafood, you name it, she can cook it and you can even challenge the chef! Near the back, is an open air kitchen where you can watch the chef prepare and cook the food, providing a experience where it feels like you are included in every part of it. Come on in if you want to enjoy some of the best seafood in Covalon or if you want to just chill out and drink tea!</p>
 <div class='blank'>  </div><p><img class=" "  style="width:420px; margin:0px 150px;" src="https://github.com/covalon/covalon-guide/raw/gh-pages/assets/covalon/PlayersGuide/Maps/SeaVixensTavern.webp" alt=""></p>
@@ -1498,7 +1553,7 @@ The cozy shop with its comfy carpets and faint lavender scent pervading everythi
 <div class='columnSplit'>  </div><p>&nbsp;</p>
 </div>
 		</div>
-		<div class="page" id="p54" key="53" >
+		<div class="page" id="p53" key="52" >
 			<div class="columnWrapper"><div class="block wide"  ><h3 id="armory-district">Armory District</h3>
 <p>Covalon, The City at the End of the World, to stand against the Maw has bolstered their populace and have kept their militant district primed to face the threats from beyond the walls. The sounds of steel and magic can often be heard from this district as adventurers and guards alike practice their abilities on the grounds, ready to protect the city!</p>
 <h4 id="guard-barracks">Guard Barracks</h4>
@@ -1509,7 +1564,7 @@ The cozy shop with its comfy carpets and faint lavender scent pervading everythi
 <div class='columnSplit'>  </div><p>&nbsp;</p>
 </div>
 		</div>
-		<div class="page" id="p55" key="54" >
+		<div class="page" id="p54" key="53" >
 			<div class="columnWrapper"><div class="block wide"  ><h4 id="the-training-hall">The Training Hall</h4>
 <p>The dangers of the outside world have necessitated the establishment of a training grounds for both the adventurers and the town guard to hone their martial prowess. Throughout the day, the bold and the valiant can be found here, refining their fundamentals and developing new techniques for use in battle, and occasionally, friendly duels or three-on-three brawls take place.</p>
 <div class='blank'>  </div><p><img class=" "  style="width:600px; margin:0px 50px;" src="https://github.com/covalon/covalon-guide/raw/gh-pages/assets/covalon/PlayersGuide/Maps/TrainingHall.webp" alt=""></p>
@@ -1520,7 +1575,7 @@ The cozy shop with its comfy carpets and faint lavender scent pervading everythi
 <div class='columnSplit'>  </div><p>&nbsp;</p>
 </div>
 		</div>
-		<div class="page" id="p56" key="55" >
+		<div class="page" id="p55" key="54" >
 			<div class="columnWrapper"><div class="block wide"  ><h4 id="chaosbrand-forge">Chaosbrand Forge</h4>
 <p>Within these walls lies the forge of a master smith and one of the few trained in the halls of Whitespire.  The Choasbrand Forge serves as workshop and home to Kosta Chaosbrand (Male Dwarf Magus).  Kosta specializes in the dwarven art of the blacksmithing, a heritage he wishes to share with Covalon.  His forge is open to all who wish to acquire fine arms of dwarven make, in need of a good smith, or who wish to learn a bit of dwarven culture and craft.</p>
 <div class='blank'>  </div><p><img class=" "  style="width:710px; margin:0px 0px;" src="https://github.com/covalon/covalon-guide/raw/gh-pages/assets/covalon/PlayersGuide/Maps/Chaosbrand_Forge.webp" alt=""></p>
@@ -1529,7 +1584,7 @@ The cozy shop with its comfy carpets and faint lavender scent pervading everythi
 <div class='columnSplit'>  </div><p>&nbsp;</p>
 </div>
 		</div>
-		<div class="page" id="p57" key="56" >
+		<div class="page" id="p56" key="55" >
 			<div class="columnWrapper"><div class="block wide"  ><h3 id="lake-district">Lake District</h3>
 <p>Looking to escape the busier areas of the city? The Lake District may be of interest to you! From curated camp grounds, to properly organized guilds, the Lake District is the quietest district of the city, perfect for relaxing after adventuring!</p>
 <h4 id="the-heartstone-sanctuary">The Heartstone Sanctuary</h4>
@@ -1542,7 +1597,7 @@ The cozy shop with its comfy carpets and faint lavender scent pervading everythi
 <div class='columnSplit'>  </div><p>&nbsp;</p>
 </div>
 		</div>
-		<div class="page" id="p58" key="57" >
+		<div class="page" id="p57" key="56" >
 			<div class="columnWrapper"><div class="block wide"  ><h4 id="the-school">The School</h4>
 <p>While adventurers and guards keep the town safe the children still need an education for the future! The School is supplied with plenty of books and educational materials to ensure that the next generation will be knowledgable enough to help with rebuilding the world after the Cataclysm.</p>
 <h4 id="lakeview-campground">Lakeview Campground</h4>
@@ -1553,7 +1608,7 @@ The cozy shop with its comfy carpets and faint lavender scent pervading everythi
 <div class='columnSplit'>  </div><p>&nbsp;</p>
 </div>
 		</div>
-		<div class="page" id="p59" key="58" >
+		<div class="page" id="p58" key="57" >
 			<div class="columnWrapper"><div class="block wide"  ><h4 id="the-fireside">The Fireside</h4>
 <p>The Fireside, the headquarters of the Lightkeepers, is a quaint building made of simple stone bricks and wood, at first glance looking more like a home than anything else, with a thick column of white smoke coming out of the impressively sized chimney. It has small passage with a stony floor somewhat over-taken by the surrounding grass that leads to a set of double doors that give entrance to the main tavern. Here, guild members will usually man the bar or hang around with any would be patrons, offering a conversation, a drink, some song, a good story or just the warmth of the big fireplace that is always aflame to warm any weary soul. When not being used as a gathering spot for social meetings among friends or for events, The Fireside is also a hub for new dungeoneers to come ask for some help, whether in need of basic gear or just searching for tips on how to stay alive for longer out there.</p>
 <div class='blank'>  </div><p><em>“The Fireside is always open with a flagon ready for you.”</em> - Sign that can be read just outside the building. </p>
@@ -1565,7 +1620,7 @@ The cozy shop with its comfy carpets and faint lavender scent pervading everythi
 <div class='columnSplit'>  </div><p>&nbsp;</p>
 </div>
 		</div>
-		<div class="page" id="p60" key="59" >
+		<div class="page" id="p59" key="58" >
 			<div class="columnWrapper"><div class="block wide"  ><h4 id="natures-serenity">Nature’s Serenity</h4>
 <p>A beautiful garden that stands as a testament to the harmony between nature and humanoids is the center of the Children of the Chicome. The garden is filled with both flowers and various plants that grow herbs and fruits. In the center is a well maintened pond with lovely lillypads resting on top of the surface. On a nearby tree rests a swingset, so once may relax and take in the eneviornment around them. In the back is a greenhouse dedicated to more sensitive plants. Stone steps intertwined with roots lead down to an underground den. Here guildmates may relax and rest, protected from the weather upstairs. Various forms of comfort such as pillows, blankets, and bundles of hay are here for those who may need or want them. A lovely rock garden showcases another beautiful aspect of nature. One can also see a well maintained shrine to the Circle of the Stars to honor a fallen member.</p>
 <div class='blank'>  </div><p><img class=" "  style="width:380px; margin:0px 160px;" src="https://github.com/covalon/covalon-guide/raw/gh-pages/assets/covalon/PlayersGuide/Maps/NaturesSerenity.webp" alt=""></p>
@@ -1576,7 +1631,7 @@ The cozy shop with its comfy carpets and faint lavender scent pervading everythi
 <div class='columnSplit'>  </div><p>&nbsp;</p>
 </div>
 		</div>
-		<div class="page" id="p61" key="60" >
+		<div class="page" id="p60" key="59" >
 			<div class="columnWrapper"><div class="block wide"  ><h4 id="covalon-historical-society">Covalon Historical Society</h4>
 <p>Between the studious halls of the school, and the reserves of Nature’s Serenity, lies the Covalon Historical Society. An impressive stonework facade gives way to welcoming wooden interior, and a bustling entryway laden with notes and records of the exhibits within. The lower floor consists of a few smaller exhibits, as well as a grand ballroom complete with vaulted ceilings and stone pedestals for magically preserved specimen. The upper floors consist of more smaller exhibits, and a more complete archive room to supplement the ledger in the lobby.</p>
 <div class='blank'>  </div><p><img class=" "  style="width:700px; margin:0px 0px;" src="https://github.com/covalon/covalon-guide/raw/gh-pages/assets/covalon/PlayersGuide/Maps/CovalonHistoricalSociety.webp" alt=""></p>
@@ -1585,13 +1640,24 @@ The cozy shop with its comfy carpets and faint lavender scent pervading everythi
 <div class='columnSplit'>  </div><p>&nbsp;</p>
 </div>
 		</div>
-		<div class="page" id="p62" key="61" >
+		<div class="page" id="p61" key="60" >
 			<div class="columnWrapper"><div class="block wide"  ><h3 id="hearts-forest">Heart’s Forest</h3>
 <p>Amid the arid conditions of the region, Covalon, and more specifically the Heart’s Forest stands in defiance to the wastes beyond the walls. Tall trees, sturdy shrubs, and bountiful flora have been brought forward by the Heart of Terra’s magic, leaving visible evidence of the powerful artifact’s effects on the city.</p>
 <h4 id="the-shrine-of-terra">The Shrine of Terra</h4>
 <p>The Heart of Terra, Covalon’s most precious artifact, rests inside a special shrine where it is closely guarded. The Servants of Terra occasionally travel to the shrine to commune with the Heart or execute resurrection contracts, but most of the city’s citizens stay a respectful distance away out of reverence for the relic that ensures their survival.</p>
 <div class='blank'>  </div><p><img class=" "  style="width:685px; margin:0px 0px;" src="https://github.com/covalon/covalon-guide/raw/gh-pages/assets/covalon/PlayersGuide/Maps/ShrineofTerra.webp" alt=""></p>
 <p class=" "  style="text-align:center;"><em>The Shrine of Terra. Designed by Sheas.</em> </p>
+</div><span class="inline-block pageNumber auto"  ></span><p>&nbsp;</p>
+<div class='columnSplit'>  </div><p>&nbsp;</p>
+</div>
+		</div>
+		<div class="page" id="p62" key="61" >
+			<div class="columnWrapper"><div class="block wide"  ><h4 id="wild-draughts">Wild Draughts</h4>
+<p>A modest structure for those who wish to partake in the wilds of the forest alongside the comforts of town. The Heart’s Forest provides the herbalists Rinka and Yksys with ample resources for their elixirs and tonics, and they, in turn, wish to share this bounty with all Covalonians. An open deck provides seating for those who wish to linger among the growth whilst enjoying the small waterfall and a curated variety of teas and herbal infusions served throughout the day. Come at the right time and perhaps catch a glimpse of the two proprietors at work at their vats and retorts and learn a bit about diverse alchemical traditions. Rinka’s connection to the unchecked vitality of nature and Yksys’s commitment to the hospitality of the Heart’s Sanctuary blend to yield a taste of serenity in this trying world we find ourselves in.</p>
+<div class='blank'>  </div><p><img class=" "  style="width:400px; margin:0px 150px;" src="https://github.com/covalon/covalon-guide/raw/gh-pages/assets/covalon/PlayersGuide/Maps/WildDroughtsSign.webp" alt=""></p>
+<p class=" "  style="text-align:center;"><em>Wild Draughts Sign. Designed by Rinka.</em> </p>
+<div class='blank'>  </div><p><img class=" "  style="width:580px; margin:0px 50px;" src="https://github.com/covalon/covalon-guide/raw/gh-pages/assets/covalon/PlayersGuide/Maps/WildDroughts.webp" alt=""></p>
+<p class=" "  style="text-align:center;"><em>Wild Draughts. Designed by Rinka.</em> </p>
 </div><span class="inline-block pageNumber auto"  ></span><p>&nbsp;</p>
 <div class='columnSplit'>  </div><p>&nbsp;</p>
 </div>
@@ -2508,7 +2574,7 @@ When the Cataclysm came for Tarunga, it came as swelling oceans and titan tsunam
 <td align=center>dust</td>
 </tr><tr><td align=left>Levona, Duchess of Hell</td>
 <td align=left>must choose unholy</td>
-<td align=left>confidence, fire, trickery, tyrrany</td>
+<td align=left>confidence, fire, trickery, tyranny</td>
 <td align=center>none</td>
 </tr><tr><td align=left>Lotus</td>
 <td align=left>can choose holy</td>
@@ -3271,220 +3337,226 @@ His followers pledge their soul to the defense of their nation, and connect it t
 			<div class="columnWrapper"><div id='headerbox' class='headerLeft'>
   
 <h1 id="menu">Menu</h1>
-<div class='toc'> <ul>
-<li><h3 id="covalon-players-guide1"><a href="#p1"><span class="inline-block ">Covalon Player’s Guide</span><span class="inline-block ">1</span></a></h3>
+<div class='toc'>
+
 <ul>
-<li><h4 id="what-is-covalon1"><a href="#p1"><span class="inline-block ">What is Covalon?</span><span class="inline-block ">1</span></a></h4>
-</li>
-</ul>
-</li>
-<li><h3 id="chapter-1-player-expectations3"><a href="#p3"><span class="inline-block ">Chapter 1: Player Expectations</span><span class="inline-block ">3</span></a></h3>
+<li><h3 id="covalon-players-guide1"><a href="#p1" target="_self"><span class="inline-block ">Covalon Player’s Guide</span><span class="inline-block ">1</span></a></h3>
 <ul>
-<li><h4 id="community-guidelines3"><a href="#p3"><span class="inline-block ">Community Guidelines</span><span class="inline-block ">3</span></a></h4>
-</li>
-<li><h4 id="roleplay-guidelines4"><a href="#p4"><span class="inline-block ">Roleplay Guidelines</span><span class="inline-block ">4</span></a></h4>
-</li>
-<li><h4 id="gameplay-guidelines4"><a href="#p4"><span class="inline-block ">Gameplay Guidelines</span><span class="inline-block ">4</span></a></h4>
-</li>
-<li><h4 id="getting-started5"><a href="#p5"><span class="inline-block ">Getting Started</span><span class="inline-block ">5</span></a></h4>
-</li>
-<li><h4 id="covalon-adventures5"><a href="#p5"><span class="inline-block ">Covalon Adventures</span><span class="inline-block ">5</span></a></h4>
-</li>
-<li><h4 id="covalon-creative-works-policy6"><a href="#p6"><span class="inline-block ">Covalon Creative Works Policy</span><span class="inline-block ">6</span></a></h4>
+<li><h4 id="what-is-covalon1"><a href="#p1" target="_self"><span class="inline-block ">What is Covalon?</span><span class="inline-block ">1</span></a></h4>
 </li>
 </ul>
 </li>
-<li><h3 id="chapter-2-character-creation7"><a href="#p7"><span class="inline-block ">Chapter 2: Character Creation</span><span class="inline-block ">7</span></a></h3>
+<li><h3 id="chapter-1-player-expectations3"><a href="#p3" target="_self"><span class="inline-block ">Chapter 1: Player Expectations</span><span class="inline-block ">3</span></a></h3>
 <ul>
-<li><h4 id="character-creation-rules7"><a href="#p7"><span class="inline-block ">Character Creation Rules</span><span class="inline-block ">7</span></a></h4>
+<li><h4 id="community-guidelines3"><a href="#p3" target="_self"><span class="inline-block ">Community Guidelines</span><span class="inline-block ">3</span></a></h4>
 </li>
-<li><h4 id="character-backstory8"><a href="#p8"><span class="inline-block ">Character Backstory</span><span class="inline-block ">8</span></a></h4>
+<li><h4 id="roleplay-guidelines4"><a href="#p4" target="_self"><span class="inline-block ">Roleplay Guidelines</span><span class="inline-block ">4</span></a></h4>
 </li>
-<li><h4 id="web-and-app-based-character-sheets8"><a href="#p8"><span class="inline-block ">Web and App-Based Character Sheets</span><span class="inline-block ">8</span></a></h4>
+<li><h4 id="gameplay-guidelines4"><a href="#p4" target="_self"><span class="inline-block ">Gameplay Guidelines</span><span class="inline-block ">4</span></a></h4>
 </li>
-<li><h4 id="requesting-new-character-options8"><a href="#p8"><span class="inline-block ">Requesting New Character Options</span><span class="inline-block ">8</span></a></h4>
+<li><h4 id="getting-started5"><a href="#p5" target="_self"><span class="inline-block ">Getting Started</span><span class="inline-block ">5</span></a></h4>
 </li>
-<li><h4 id="rebuilding-your-character8"><a href="#p8"><span class="inline-block ">Rebuilding Your Character</span><span class="inline-block ">8</span></a></h4>
+<li><h4 id="covalon-adventures5"><a href="#p5" target="_self"><span class="inline-block ">Covalon Adventures</span><span class="inline-block ">5</span></a></h4>
 </li>
-<li><h4 id="retiring-your-character9"><a href="#p9"><span class="inline-block ">Retiring Your Character</span><span class="inline-block ">9</span></a></h4>
+<li><h4 id="covalon-creative-works-policy6"><a href="#p6" target="_self"><span class="inline-block ">Covalon Creative Works Policy</span><span class="inline-block ">6</span></a></h4>
 </li>
 </ul>
 </li>
-<li><h3 id="chapter-3-covalon-gameplay10"><a href="#p10"><span class="inline-block ">Chapter 3: Covalon Gameplay</span><span class="inline-block ">10</span></a></h3>
+<li><h3 id="chapter-2-character-creation7"><a href="#p7" target="_self"><span class="inline-block ">Chapter 2: Character Creation</span><span class="inline-block ">7</span></a></h3>
 <ul>
-<li><h4 id="general-rules10"><a href="#p10"><span class="inline-block ">General Rules</span><span class="inline-block ">10</span></a></h4>
+<li><h4 id="character-creation-rules7"><a href="#p7" target="_self"><span class="inline-block ">Character Creation Rules</span><span class="inline-block ">7</span></a></h4>
+</li>
+<li><h4 id="character-backstory8"><a href="#p8" target="_self"><span class="inline-block ">Character Backstory</span><span class="inline-block ">8</span></a></h4>
+</li>
+<li><h4 id="web-and-app-based-character-sheets8"><a href="#p8" target="_self"><span class="inline-block ">Web and App-Based Character Sheets</span><span class="inline-block ">8</span></a></h4>
+</li>
+<li><h4 id="requesting-new-character-options8"><a href="#p8" target="_self"><span class="inline-block ">Requesting New Character Options</span><span class="inline-block ">8</span></a></h4>
+</li>
+<li><h4 id="rebuilding-your-character8"><a href="#p8" target="_self"><span class="inline-block ">Rebuilding Your Character</span><span class="inline-block ">8</span></a></h4>
+</li>
+<li><h4 id="retiring-your-character9"><a href="#p9" target="_self"><span class="inline-block ">Retiring Your Character</span><span class="inline-block ">9</span></a></h4>
+</li>
+</ul>
+</li>
+<li><h3 id="chapter-3-covalon-gameplay10"><a href="#p10" target="_self"><span class="inline-block ">Chapter 3: Covalon Gameplay</span><span class="inline-block ">10</span></a></h3>
 <ul>
-<li><a href="#p10"><span class="inline-block ">Levels and Tiers</span><span class="inline-block ">10</span></a></li>
-<li><a href="#p10"><span class="inline-block ">Resting and Daily Preparations</span><span class="inline-block ">10</span></a></li>
-<li><a href="#p10"><span class="inline-block ">Purchasing Equipment</span><span class="inline-block ">10</span></a></li>
-<li><a href="#p10"><span class="inline-block ">Infused and Temporary Items</span><span class="inline-block ">10</span></a></li>
-<li><a href="#p11"><span class="inline-block ">Using Higher Tier Equipment</span><span class="inline-block ">11</span></a></li>
-<li><a href="#p11"><span class="inline-block ">Mentorship System</span><span class="inline-block ">11</span></a></li>
-<li><a href="#p11"><span class="inline-block ">Afflictions</span><span class="inline-block ">11</span></a></li>
-<li><a href="#p12"><span class="inline-block ">Learning Spells</span><span class="inline-block ">12</span></a></li>
-<li><a href="#p12"><span class="inline-block ">Soul Seeds</span><span class="inline-block ">12</span></a></li>
-<li><a href="#p13"><span class="inline-block ">Alternate Characters</span><span class="inline-block ">13</span></a></li>
-</ul>
-</li>
-<li><h4 id="adventures14"><a href="#p14"><span class="inline-block ">Adventures</span><span class="inline-block ">14</span></a></h4>
+<li><h4 id="general-rules10"><a href="#p10" target="_self"><span class="inline-block ">General Rules</span><span class="inline-block ">10</span></a></h4>
 <ul>
-<li><a href="#p14"><span class="inline-block ">Dungeons</span><span class="inline-block ">14</span></a></li>
-<li><a href="#p14"><span class="inline-block ">Patrols</span><span class="inline-block ">14</span></a></li>
-<li><a href="#p15"><span class="inline-block ">Brawls</span><span class="inline-block ">15</span></a></li>
-<li><a href="#p16"><span class="inline-block ">Descents</span><span class="inline-block ">16</span></a></li>
-<li><a href="#p17"><span class="inline-block ">Expeditions</span><span class="inline-block ">17</span></a></li>
-<li><a href="#p18"><span class="inline-block ">Excursions</span><span class="inline-block ">18</span></a></li>
+<li><a href="#p10" target="_self"><span class="inline-block ">Levels and Tiers</span><span class="inline-block ">10</span></a></li>
+<li><a href="#p10" target="_self"><span class="inline-block ">Resting and Daily Preparations</span><span class="inline-block ">10</span></a></li>
+<li><a href="#p10" target="_self"><span class="inline-block ">Purchasing Equipment</span><span class="inline-block ">10</span></a></li>
+<li><a href="#p10" target="_self"><span class="inline-block ">Infused and Temporary Items</span><span class="inline-block ">10</span></a></li>
+<li><a href="#p11" target="_self"><span class="inline-block ">Using Higher Tier Equipment</span><span class="inline-block ">11</span></a></li>
+<li><a href="#p11" target="_self"><span class="inline-block ">Mentorship System</span><span class="inline-block ">11</span></a></li>
+<li><a href="#p11" target="_self"><span class="inline-block ">Afflictions</span><span class="inline-block ">11</span></a></li>
+<li><a href="#p12" target="_self"><span class="inline-block ">Learning Spells</span><span class="inline-block ">12</span></a></li>
+<li><a href="#p12" target="_self"><span class="inline-block ">Soul Seeds</span><span class="inline-block ">12</span></a></li>
+<li><a href="#p13" target="_self"><span class="inline-block ">Alternate Characters</span><span class="inline-block ">13</span></a></li>
 </ul>
 </li>
-<li><h4 id="downtime18"><a href="#p18"><span class="inline-block ">Downtime</span><span class="inline-block ">18</span></a></h4>
+<li><h4 id="adventures14"><a href="#p14" target="_self"><span class="inline-block ">Adventures</span><span class="inline-block ">14</span></a></h4>
 <ul>
-<li><a href="#p18"><span class="inline-block ">Earning and Spending Downtime</span><span class="inline-block ">18</span></a></li>
-<li><a href="#p19"><span class="inline-block ">Special Covalon Activities</span><span class="inline-block ">19</span></a></li>
-<li><a href="#p21"><span class="inline-block ">Special Covalon Rituals</span><span class="inline-block ">21</span></a></li>
+<li><a href="#p14" target="_self"><span class="inline-block ">Dungeons</span><span class="inline-block ">14</span></a></li>
+<li><a href="#p14" target="_self"><span class="inline-block ">Patrols</span><span class="inline-block ">14</span></a></li>
+<li><a href="#p15" target="_self"><span class="inline-block ">Brawls</span><span class="inline-block ">15</span></a></li>
+<li><a href="#p16" target="_self"><span class="inline-block ">Descents</span><span class="inline-block ">16</span></a></li>
+<li><a href="#p17" target="_self"><span class="inline-block ">Expeditions</span><span class="inline-block ">17</span></a></li>
+<li><a href="#p18" target="_self"><span class="inline-block ">Excursions</span><span class="inline-block ">18</span></a></li>
 </ul>
 </li>
-<li><h4 id="roleplay22"><a href="#p22"><span class="inline-block ">Roleplay</span><span class="inline-block ">22</span></a></h4>
+<li><h4 id="downtime18"><a href="#p18" target="_self"><span class="inline-block ">Downtime</span><span class="inline-block ">18</span></a></h4>
 <ul>
-<li><a href="#p22"><span class="inline-block ">Guilds</span><span class="inline-block ">22</span></a></li>
-<li><a href="#p22"><span class="inline-block ">Guild Event Rewards</span><span class="inline-block ">22</span></a></li>
-<li><a href="#p22"><span class="inline-block ">Housing, Businesses, and Guild Halls</span><span class="inline-block ">22</span></a></li>
-<li><a href="#p24"><span class="inline-block ">Crime and Punishment</span><span class="inline-block ">24</span></a></li>
+<li><a href="#p18" target="_self"><span class="inline-block ">Earning and Spending Downtime</span><span class="inline-block ">18</span></a></li>
+<li><a href="#p19" target="_self"><span class="inline-block ">Special Covalon Activities</span><span class="inline-block ">19</span></a></li>
+<li><a href="#p21" target="_self"><span class="inline-block ">Special Covalon Rituals</span><span class="inline-block ">21</span></a></li>
 </ul>
 </li>
-</ul>
-</li>
-<li><h3 id="chapter-4-campaign-lore26"><a href="#p26"><span class="inline-block ">Chapter 4: Campaign Lore</span><span class="inline-block ">26</span></a></h3>
+<li><h4 id="roleplay22"><a href="#p22" target="_self"><span class="inline-block ">Roleplay</span><span class="inline-block ">22</span></a></h4>
 <ul>
-<li><h4 id="basic-lore26"><a href="#p26"><span class="inline-block ">Basic Lore</span><span class="inline-block ">26</span></a></h4>
+<li><a href="#p22" target="_self"><span class="inline-block ">Guilds</span><span class="inline-block ">22</span></a></li>
+<li><a href="#p22" target="_self"><span class="inline-block ">Guild Event Rewards</span><span class="inline-block ">22</span></a></li>
+<li><a href="#p22" target="_self"><span class="inline-block ">Housing, Businesses, and Guild Halls</span><span class="inline-block ">22</span></a></li>
+<li><a href="#p24" target="_self"><span class="inline-block ">Crime and Punishment</span><span class="inline-block ">24</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><h3 id="chapter-4-campaign-lore26"><a href="#p26" target="_self"><span class="inline-block ">Chapter 4: Campaign Lore</span><span class="inline-block ">26</span></a></h3>
 <ul>
-<li><a href="#p26"><span class="inline-block ">The Cataclysm</span><span class="inline-block ">26</span></a></li>
-<li><a href="#p26"><span class="inline-block ">Covalon</span><span class="inline-block ">26</span></a></li>
-<li><a href="#p26"><span class="inline-block ">The Heart of Terra</span><span class="inline-block ">26</span></a></li>
-<li><a href="#p26"><span class="inline-block ">The Maw</span><span class="inline-block ">26</span></a></li>
-</ul>
-</li>
-<li><h4 id="maps-of-elleaterra27"><a href="#p27"><span class="inline-block ">Maps of Elleaterra</span><span class="inline-block ">27</span></a></h4>
-</li>
-<li><h4 id="the-siege-of-covalon28"><a href="#p28"><span class="inline-block ">The Siege of Covalon</span><span class="inline-block ">28</span></a></h4>
-</li>
-<li><h4 id="operation-heartbreaker29"><a href="#p29"><span class="inline-block ">Operation Heartbreaker</span><span class="inline-block ">29</span></a></h4>
-</li>
-<li><h4 id="covalon-out-of-time30"><a href="#p30"><span class="inline-block ">Covalon: Out of Time</span><span class="inline-block ">30</span></a></h4>
-</li>
-<li><h4 id="covalon-the-endless-gray31"><a href="#p31"><span class="inline-block ">Covalon: The Endless Gray</span><span class="inline-block ">31</span></a></h4>
-</li>
-<li><h4 id="covalon-gazetteer32"><a href="#p32"><span class="inline-block ">Covalon Gazetteer</span><span class="inline-block ">32</span></a></h4>
+<li><h4 id="basic-lore26"><a href="#p26" target="_self"><span class="inline-block ">Basic Lore</span><span class="inline-block ">26</span></a></h4>
 <ul>
-<li><a href="#p32"><span class="inline-block ">City District</span><span class="inline-block ">32</span></a></li>
-<li><a href="#p39"><span class="inline-block ">Market District</span><span class="inline-block ">39</span></a></li>
-<li><a href="#p50"><span class="inline-block ">Encore District</span><span class="inline-block ">50</span></a></li>
-<li><a href="#p54"><span class="inline-block ">Armory District</span><span class="inline-block ">54</span></a></li>
-<li><a href="#p57"><span class="inline-block ">Lake District</span><span class="inline-block ">57</span></a></li>
-<li><a href="#p62"><span class="inline-block ">Heart’s Forest</span><span class="inline-block ">62</span></a></li>
-<li><a href="#p63"><span class="inline-block ">The Docks</span><span class="inline-block ">63</span></a></li>
-<li><a href="#p64"><span class="inline-block ">The Farm</span><span class="inline-block ">64</span></a></li>
-<li><a href="#p65"><span class="inline-block ">Mountain View District</span><span class="inline-block ">65</span></a></li>
-<li><a href="#p65"><span class="inline-block ">River Run District</span><span class="inline-block ">65</span></a></li>
-<li><a href="#p66"><span class="inline-block ">North Gate District</span><span class="inline-block ">66</span></a></li>
-<li><a href="#p68"><span class="inline-block ">Expedition Districts and Outside Covalon</span><span class="inline-block ">68</span></a></li>
+<li><a href="#p26" target="_self"><span class="inline-block ">The Cataclysm</span><span class="inline-block ">26</span></a></li>
+<li><a href="#p26" target="_self"><span class="inline-block ">Covalon</span><span class="inline-block ">26</span></a></li>
+<li><a href="#p26" target="_self"><span class="inline-block ">The Heart of Terra</span><span class="inline-block ">26</span></a></li>
+<li><a href="#p26" target="_self"><span class="inline-block ">The Maw</span><span class="inline-block ">26</span></a></li>
 </ul>
 </li>
-<li><h4 id="guilds70"><a href="#p70"><span class="inline-block ">Guilds</span><span class="inline-block ">70</span></a></h4>
+<li><h4 id="maps-of-elleaterra27"><a href="#p27" target="_self"><span class="inline-block ">Maps of Elleaterra</span><span class="inline-block ">27</span></a></h4>
+</li>
+<li><h4 id="the-siege-of-covalon28"><a href="#p28" target="_self"><span class="inline-block ">The Siege of Covalon</span><span class="inline-block ">28</span></a></h4>
+</li>
+<li><h4 id="operation-heartbreaker29"><a href="#p29" target="_self"><span class="inline-block ">Operation Heartbreaker</span><span class="inline-block ">29</span></a></h4>
+</li>
+<li><h4 id="covalon-out-of-time30"><a href="#p30" target="_self"><span class="inline-block ">Covalon: Out of Time</span><span class="inline-block ">30</span></a></h4>
+</li>
+<li><h4 id="covalon-the-endless-gray31"><a href="#p31" target="_self"><span class="inline-block ">Covalon: The Endless Gray</span><span class="inline-block ">31</span></a></h4>
+</li>
+<li><h4 id="covalon-gazetteer32"><a href="#p32" target="_self"><span class="inline-block ">Covalon Gazetteer</span><span class="inline-block ">32</span></a></h4>
 <ul>
-<li><a href="#p70"><span class="inline-block ">The Archivists</span><span class="inline-block ">70</span></a></li>
-<li><a href="#p70"><span class="inline-block ">The Authors of Creation</span><span class="inline-block ">70</span></a></li>
-<li><a href="#p71"><span class="inline-block ">Covalon Medical Society</span><span class="inline-block ">71</span></a></li>
-<li><a href="#p71"><span class="inline-block ">The Servants of Terra</span><span class="inline-block ">71</span></a></li>
-<li><a href="#p71"><span class="inline-block ">The Teacher’s Union</span><span class="inline-block ">71</span></a></li>
-<li><a href="#p72"><span class="inline-block ">Trella’s Travellers</span><span class="inline-block ">72</span></a></li>
-<li><a href="#p72"><span class="inline-block ">The House of Dusk and Dawn</span><span class="inline-block ">72</span></a></li>
-<li><a href="#p72"><span class="inline-block ">The Lightkeepers</span><span class="inline-block ">72</span></a></li>
-<li><a href="#p73"><span class="inline-block ">Children of the Chicome</span><span class="inline-block ">73</span></a></li>
-<li><a href="#p73"><span class="inline-block ">Covalon Historical Society</span><span class="inline-block ">73</span></a></li>
-<li><a href="#p73"><span class="inline-block ">The Stouthearts</span><span class="inline-block ">73</span></a></li>
-<li><a href="#p74"><span class="inline-block ">The Green Knights of the Square</span><span class="inline-block ">74</span></a></li>
+<li><a href="#p32" target="_self"><span class="inline-block ">City District</span><span class="inline-block ">32</span></a></li>
+<li><a href="#p39" target="_self"><span class="inline-block ">Market District</span><span class="inline-block ">39</span></a></li>
+<li><a href="#p49" target="_self"><span class="inline-block ">Encore District</span><span class="inline-block ">49</span></a></li>
+<li><a href="#p53" target="_self"><span class="inline-block ">Armory District</span><span class="inline-block ">53</span></a></li>
+<li><a href="#p56" target="_self"><span class="inline-block ">Lake District</span><span class="inline-block ">56</span></a></li>
+<li><a href="#p61" target="_self"><span class="inline-block ">Heart’s Forest</span><span class="inline-block ">61</span></a></li>
+<li><a href="#p63" target="_self"><span class="inline-block ">The Docks</span><span class="inline-block ">63</span></a></li>
+<li><a href="#p64" target="_self"><span class="inline-block ">The Farm</span><span class="inline-block ">64</span></a></li>
+<li><a href="#p65" target="_self"><span class="inline-block ">Mountain View District</span><span class="inline-block ">65</span></a></li>
+<li><a href="#p65" target="_self"><span class="inline-block ">River Run District</span><span class="inline-block ">65</span></a></li>
+<li><a href="#p66" target="_self"><span class="inline-block ">North Gate District</span><span class="inline-block ">66</span></a></li>
+<li><a href="#p68" target="_self"><span class="inline-block ">Expedition Districts and Outside Covalon</span><span class="inline-block ">68</span></a></li>
 </ul>
 </li>
-<li><h4 id="pre-cataclysm-civilizations75"><a href="#p75"><span class="inline-block ">Pre-Cataclysm Civilizations</span><span class="inline-block ">75</span></a></h4>
+<li><h4 id="guilds70"><a href="#p70" target="_self"><span class="inline-block ">Guilds</span><span class="inline-block ">70</span></a></h4>
 <ul>
-<li><a href="#p75"><span class="inline-block ">Alatar</span><span class="inline-block ">75</span></a></li>
-<li><a href="#p75"><span class="inline-block ">Armed Steppes</span><span class="inline-block ">75</span></a></li>
-<li><a href="#p76"><span class="inline-block ">The Briarmurk</span><span class="inline-block ">76</span></a></li>
-<li><a href="#p76"><span class="inline-block ">Drifthaven</span><span class="inline-block ">76</span></a></li>
-<li><a href="#p78"><span class="inline-block ">The Fey Courts</span><span class="inline-block ">78</span></a></li>
-<li><a href="#p79"><span class="inline-block ">Garn</span><span class="inline-block ">79</span></a></li>
-<li><a href="#p79"><span class="inline-block ">Gornlar</span><span class="inline-block ">79</span></a></li>
-<li><a href="#p80"><span class="inline-block ">Ikouga</span><span class="inline-block ">80</span></a></li>
-<li><a href="#p82"><span class="inline-block ">Kuraimori (暗い森)</span><span class="inline-block ">82</span></a></li>
-<li><a href="#p82"><span class="inline-block ">Middlemist</span><span class="inline-block ">82</span></a></li>
-<li><a href="#p83"><span class="inline-block ">The Misty Shores</span><span class="inline-block ">83</span></a></li>
-<li><a href="#p83"><span class="inline-block ">Ostengrad</span><span class="inline-block ">83</span></a></li>
-<li><a href="#p84"><span class="inline-block ">Primrose</span><span class="inline-block ">84</span></a></li>
-<li><a href="#p85"><span class="inline-block ">Pudersnö</span><span class="inline-block ">85</span></a></li>
-<li><a href="#p86"><span class="inline-block ">Ratchethallow</span><span class="inline-block ">86</span></a></li>
-<li><a href="#p88"><span class="inline-block ">Taltain</span><span class="inline-block ">88</span></a></li>
-<li><a href="#p89"><span class="inline-block ">Tarunga</span><span class="inline-block ">89</span></a></li>
-<li><a href="#p89"><span class="inline-block ">Tymoria</span><span class="inline-block ">89</span></a></li>
-<li><a href="#p89"><span class="inline-block ">The Kingdom of Varceta</span><span class="inline-block ">89</span></a></li>
-<li><a href="#p90"><span class="inline-block ">Verndhelt</span><span class="inline-block ">90</span></a></li>
-<li><a href="#p91"><span class="inline-block ">The Kingdom of Vyrm</span><span class="inline-block ">91</span></a></li>
-<li><a href="#p91"><span class="inline-block ">Whitespire</span><span class="inline-block ">91</span></a></li>
+<li><a href="#p70" target="_self"><span class="inline-block ">The Archivists</span><span class="inline-block ">70</span></a></li>
+<li><a href="#p70" target="_self"><span class="inline-block ">The Authors of Creation</span><span class="inline-block ">70</span></a></li>
+<li><a href="#p71" target="_self"><span class="inline-block ">Covalon Medical Society</span><span class="inline-block ">71</span></a></li>
+<li><a href="#p71" target="_self"><span class="inline-block ">The Servants of Terra</span><span class="inline-block ">71</span></a></li>
+<li><a href="#p71" target="_self"><span class="inline-block ">The Teacher’s Union</span><span class="inline-block ">71</span></a></li>
+<li><a href="#p72" target="_self"><span class="inline-block ">Trella’s Travellers</span><span class="inline-block ">72</span></a></li>
+<li><a href="#p72" target="_self"><span class="inline-block ">The House of Dusk and Dawn</span><span class="inline-block ">72</span></a></li>
+<li><a href="#p72" target="_self"><span class="inline-block ">The Lightkeepers</span><span class="inline-block ">72</span></a></li>
+<li><a href="#p73" target="_self"><span class="inline-block ">Children of the Chicome</span><span class="inline-block ">73</span></a></li>
+<li><a href="#p73" target="_self"><span class="inline-block ">Covalon Historical Society</span><span class="inline-block ">73</span></a></li>
+<li><a href="#p73" target="_self"><span class="inline-block ">The Stouthearts</span><span class="inline-block ">73</span></a></li>
+<li><a href="#p74" target="_self"><span class="inline-block ">The Green Knights of the Square</span><span class="inline-block ">74</span></a></li>
 </ul>
 </li>
-<li><h4 id="deities-faith-and-ideologies92"><a href="#p92"><span class="inline-block ">Deities, Faith, and Ideologies</span><span class="inline-block ">92</span></a></h4>
+<li><h4 id="pre-cataclysm-civilizations75"><a href="#p75" target="_self"><span class="inline-block ">Pre-Cataclysm Civilizations</span><span class="inline-block ">75</span></a></h4>
 <ul>
-<li><a href="#p94"><span class="inline-block ">Aelia</span><span class="inline-block ">94</span></a></li>
-<li><a href="#p94"><span class="inline-block ">A’shir, the Fated Flame</span><span class="inline-block ">94</span></a></li>
-<li><a href="#p95"><span class="inline-block ">Axnos</span><span class="inline-block ">95</span></a></li>
-<li><a href="#p95"><span class="inline-block ">The Circle of Stars</span><span class="inline-block ">95</span></a></li>
-<li><a href="#p96"><span class="inline-block ">The Cheshire</span><span class="inline-block ">96</span></a></li>
-<li><a href="#p96"><span class="inline-block ">Derelis</span><span class="inline-block ">96</span></a></li>
-<li><a href="#p96"><span class="inline-block ">Erimia</span><span class="inline-block ">96</span></a></li>
-<li><a href="#p96"><span class="inline-block ">Fah’rin, The Howling Blizzard</span><span class="inline-block ">96</span></a></li>
-<li><a href="#p97"><span class="inline-block ">Fayne Lightfeet</span><span class="inline-block ">97</span></a></li>
-<li><a href="#p97"><span class="inline-block ">Golgolgoss, The Watcher</span><span class="inline-block ">97</span></a></li>
-<li><a href="#p97"><span class="inline-block ">The Grey Ocean</span><span class="inline-block ">97</span></a></li>
-<li><a href="#p98"><span class="inline-block ">Gunvald</span><span class="inline-block ">98</span></a></li>
-<li><a href="#p98"><span class="inline-block ">Gutom, The Bloody Rose</span><span class="inline-block ">98</span></a></li>
-<li><a href="#p98"><span class="inline-block ">Heleniel, The Sin Seeker</span><span class="inline-block ">98</span></a></li>
-<li><a href="#p98"><span class="inline-block ">Hestora</span><span class="inline-block ">98</span></a></li>
-<li><a href="#p99"><span class="inline-block ">Heures</span><span class="inline-block ">99</span></a></li>
-<li><a href="#p99"><span class="inline-block ">The Home of Hearth and Health</span><span class="inline-block ">99</span></a></li>
-<li><a href="#p99"><span class="inline-block ">Kohtalo, Patron of Fate Forgers</span><span class="inline-block ">99</span></a></li>
-<li><a href="#p100"><span class="inline-block ">Krun Darr</span><span class="inline-block ">100</span></a></li>
-<li><a href="#p100"><span class="inline-block ">Kujani</span><span class="inline-block ">100</span></a></li>
-<li><a href="#p100"><span class="inline-block ">Levona, Duchess of Hell</span><span class="inline-block ">100</span></a></li>
-<li><a href="#p101"><span class="inline-block ">Lotus</span><span class="inline-block ">101</span></a></li>
-<li><a href="#p101"><span class="inline-block ">Luxandra, The Everbloom</span><span class="inline-block ">101</span></a></li>
-<li><a href="#p101"><span class="inline-block ">Lysanthyr, The Unending Delight</span><span class="inline-block ">101</span></a></li>
-<li><a href="#p102"><span class="inline-block ">The Great and Noble Manaat Al-Karim</span><span class="inline-block ">102</span></a></li>
-<li><a href="#p102"><span class="inline-block ">Maiden of the Garden</span><span class="inline-block ">102</span></a></li>
-<li><a href="#p103"><span class="inline-block ">Mendastarum, Devourer of Truth</span><span class="inline-block ">103</span></a></li>
-<li><a href="#p103"><span class="inline-block ">Nesdonin</span><span class="inline-block ">103</span></a></li>
-<li><a href="#p103"><span class="inline-block ">Nimane, The Forge Matron</span><span class="inline-block ">103</span></a></li>
-<li><a href="#p104"><span class="inline-block ">Noctune</span><span class="inline-block ">104</span></a></li>
-<li><a href="#p104"><span class="inline-block ">Novissime, The Orchid Reaper</span><span class="inline-block ">104</span></a></li>
-<li><a href="#p104"><span class="inline-block ">Oenos</span><span class="inline-block ">104</span></a></li>
-<li><a href="#p105"><span class="inline-block ">The Path of the Great Spirits</span><span class="inline-block ">105</span></a></li>
-<li><a href="#p105"><span class="inline-block ">Peko-Amuzo, The Trickster Prince</span><span class="inline-block ">105</span></a></li>
-<li><a href="#p105"><span class="inline-block ">Riahn, He Who Eclipses the Stars</span><span class="inline-block ">105</span></a></li>
-<li><a href="#p106"><span class="inline-block ">Seraphion, The Highest Throne</span><span class="inline-block ">106</span></a></li>
-<li><a href="#p106"><span class="inline-block ">Sinnesh, The Den Mother</span><span class="inline-block ">106</span></a></li>
-<li><a href="#p106"><span class="inline-block ">The Eyes</span><span class="inline-block ">106</span></a></li>
-<li><a href="#p107"><span class="inline-block ">The Living Mandate</span><span class="inline-block ">107</span></a></li>
-<li><a href="#p107"><span class="inline-block ">The Three Sisters</span><span class="inline-block ">107</span></a></li>
-<li><a href="#p108"><span class="inline-block ">The World Weave</span><span class="inline-block ">108</span></a></li>
-<li><a href="#p108"><span class="inline-block ">Trella, The Night Sky</span><span class="inline-block ">108</span></a></li>
-<li><a href="#p109"><span class="inline-block ">Unmortus, The Dead Guardian</span><span class="inline-block ">109</span></a></li>
-<li><a href="#p109"><span class="inline-block ">Veskahule</span><span class="inline-block ">109</span></a></li>
-<li><a href="#p110"><span class="inline-block ">Xan’Zyx, the First Incarnation</span><span class="inline-block ">110</span></a></li>
-<li><a href="#p110"><span class="inline-block ">Xeesis</span><span class="inline-block ">110</span></a></li>
+<li><a href="#p75" target="_self"><span class="inline-block ">Alatar</span><span class="inline-block ">75</span></a></li>
+<li><a href="#p75" target="_self"><span class="inline-block ">Armed Steppes</span><span class="inline-block ">75</span></a></li>
+<li><a href="#p76" target="_self"><span class="inline-block ">The Briarmurk</span><span class="inline-block ">76</span></a></li>
+<li><a href="#p76" target="_self"><span class="inline-block ">Drifthaven</span><span class="inline-block ">76</span></a></li>
+<li><a href="#p78" target="_self"><span class="inline-block ">The Fey Courts</span><span class="inline-block ">78</span></a></li>
+<li><a href="#p79" target="_self"><span class="inline-block ">Garn</span><span class="inline-block ">79</span></a></li>
+<li><a href="#p79" target="_self"><span class="inline-block ">Gornlar</span><span class="inline-block ">79</span></a></li>
+<li><a href="#p80" target="_self"><span class="inline-block ">Ikouga</span><span class="inline-block ">80</span></a></li>
+<li><a href="#p82" target="_self"><span class="inline-block ">Kuraimori (暗い森)</span><span class="inline-block ">82</span></a></li>
+<li><a href="#p82" target="_self"><span class="inline-block ">Middlemist</span><span class="inline-block ">82</span></a></li>
+<li><a href="#p83" target="_self"><span class="inline-block ">The Misty Shores</span><span class="inline-block ">83</span></a></li>
+<li><a href="#p83" target="_self"><span class="inline-block ">Ostengrad</span><span class="inline-block ">83</span></a></li>
+<li><a href="#p84" target="_self"><span class="inline-block ">Primrose</span><span class="inline-block ">84</span></a></li>
+<li><a href="#p85" target="_self"><span class="inline-block ">Pudersnö</span><span class="inline-block ">85</span></a></li>
+<li><a href="#p86" target="_self"><span class="inline-block ">Ratchethallow</span><span class="inline-block ">86</span></a></li>
+<li><a href="#p88" target="_self"><span class="inline-block ">Taltain</span><span class="inline-block ">88</span></a></li>
+<li><a href="#p89" target="_self"><span class="inline-block ">Tarunga</span><span class="inline-block ">89</span></a></li>
+<li><a href="#p89" target="_self"><span class="inline-block ">Tymoria</span><span class="inline-block ">89</span></a></li>
+<li><a href="#p89" target="_self"><span class="inline-block ">The Kingdom of Varceta</span><span class="inline-block ">89</span></a></li>
+<li><a href="#p90" target="_self"><span class="inline-block ">Verndhelt</span><span class="inline-block ">90</span></a></li>
+<li><a href="#p91" target="_self"><span class="inline-block ">The Kingdom of Vyrm</span><span class="inline-block ">91</span></a></li>
+<li><a href="#p91" target="_self"><span class="inline-block ">Whitespire</span><span class="inline-block ">91</span></a></li>
+</ul>
+</li>
+<li><h4 id="deities-faith-and-ideologies92"><a href="#p92" target="_self"><span class="inline-block ">Deities, Faith, and Ideologies</span><span class="inline-block ">92</span></a></h4>
+<ul>
+<li><a href="#p94" target="_self"><span class="inline-block ">Aelia</span><span class="inline-block ">94</span></a></li>
+<li><a href="#p94" target="_self"><span class="inline-block ">A’shir, the Fated Flame</span><span class="inline-block ">94</span></a></li>
+<li><a href="#p95" target="_self"><span class="inline-block ">Axnos</span><span class="inline-block ">95</span></a></li>
+<li><a href="#p95" target="_self"><span class="inline-block ">The Circle of Stars</span><span class="inline-block ">95</span></a></li>
+<li><a href="#p96" target="_self"><span class="inline-block ">The Cheshire</span><span class="inline-block ">96</span></a></li>
+<li><a href="#p96" target="_self"><span class="inline-block ">Derelis</span><span class="inline-block ">96</span></a></li>
+<li><a href="#p96" target="_self"><span class="inline-block ">Erimia</span><span class="inline-block ">96</span></a></li>
+<li><a href="#p96" target="_self"><span class="inline-block ">Fah’rin, The Howling Blizzard</span><span class="inline-block ">96</span></a></li>
+<li><a href="#p97" target="_self"><span class="inline-block ">Fayne Lightfeet</span><span class="inline-block ">97</span></a></li>
+<li><a href="#p97" target="_self"><span class="inline-block ">Golgolgoss, The Watcher</span><span class="inline-block ">97</span></a></li>
+<li><a href="#p97" target="_self"><span class="inline-block ">The Grey Ocean</span><span class="inline-block ">97</span></a></li>
+<li><a href="#p98" target="_self"><span class="inline-block ">Gunvald</span><span class="inline-block ">98</span></a></li>
+<li><a href="#p98" target="_self"><span class="inline-block ">Gutom, The Bloody Rose</span><span class="inline-block ">98</span></a></li>
+<li><a href="#p98" target="_self"><span class="inline-block ">Heleniel, The Sin Seeker</span><span class="inline-block ">98</span></a></li>
+<li><a href="#p98" target="_self"><span class="inline-block ">Hestora</span><span class="inline-block ">98</span></a></li>
+<li><a href="#p99" target="_self"><span class="inline-block ">Heures</span><span class="inline-block ">99</span></a></li>
+<li><a href="#p99" target="_self"><span class="inline-block ">The Home of Hearth and Health</span><span class="inline-block ">99</span></a></li>
+<li><a href="#p99" target="_self"><span class="inline-block ">Kohtalo, Patron of Fate Forgers</span><span class="inline-block ">99</span></a></li>
+<li><a href="#p100" target="_self"><span class="inline-block ">Krun Darr</span><span class="inline-block ">100</span></a></li>
+<li><a href="#p100" target="_self"><span class="inline-block ">Kujani</span><span class="inline-block ">100</span></a></li>
+<li><a href="#p100" target="_self"><span class="inline-block ">Levona, Duchess of Hell</span><span class="inline-block ">100</span></a></li>
+<li><a href="#p101" target="_self"><span class="inline-block ">Lotus</span><span class="inline-block ">101</span></a></li>
+<li><a href="#p101" target="_self"><span class="inline-block ">Luxandra, The Everbloom</span><span class="inline-block ">101</span></a></li>
+<li><a href="#p101" target="_self"><span class="inline-block ">Lysanthyr, The Unending Delight</span><span class="inline-block ">101</span></a></li>
+<li><a href="#p102" target="_self"><span class="inline-block ">The Great and Noble Manaat Al-Karim</span><span class="inline-block ">102</span></a></li>
+<li><a href="#p102" target="_self"><span class="inline-block ">Maiden of the Garden</span><span class="inline-block ">102</span></a></li>
+<li><a href="#p103" target="_self"><span class="inline-block ">Mendastarum, Devourer of Truth</span><span class="inline-block ">103</span></a></li>
+<li><a href="#p103" target="_self"><span class="inline-block ">Nesdonin</span><span class="inline-block ">103</span></a></li>
+<li><a href="#p103" target="_self"><span class="inline-block ">Nimane, The Forge Matron</span><span class="inline-block ">103</span></a></li>
+<li><a href="#p104" target="_self"><span class="inline-block ">Noctune</span><span class="inline-block ">104</span></a></li>
+<li><a href="#p104" target="_self"><span class="inline-block ">Novissime, The Orchid Reaper</span><span class="inline-block ">104</span></a></li>
+<li><a href="#p104" target="_self"><span class="inline-block ">Oenos</span><span class="inline-block ">104</span></a></li>
+<li><a href="#p105" target="_self"><span class="inline-block ">The Path of the Great Spirits</span><span class="inline-block ">105</span></a></li>
+<li><a href="#p105" target="_self"><span class="inline-block ">Peko-Amuzo, The Trickster Prince</span><span class="inline-block ">105</span></a></li>
+<li><a href="#p105" target="_self"><span class="inline-block ">Riahn, He Who Eclipses the Stars</span><span class="inline-block ">105</span></a></li>
+<li><a href="#p106" target="_self"><span class="inline-block ">Seraphion, The Highest Throne</span><span class="inline-block ">106</span></a></li>
+<li><a href="#p106" target="_self"><span class="inline-block ">Sinnesh, The Den Mother</span><span class="inline-block ">106</span></a></li>
+<li><a href="#p106" target="_self"><span class="inline-block ">The Eyes</span><span class="inline-block ">106</span></a></li>
+<li><a href="#p107" target="_self"><span class="inline-block ">The Living Mandate</span><span class="inline-block ">107</span></a></li>
+<li><a href="#p107" target="_self"><span class="inline-block ">The Three Sisters</span><span class="inline-block ">107</span></a></li>
+<li><a href="#p108" target="_self"><span class="inline-block ">The World Weave</span><span class="inline-block ">108</span></a></li>
+<li><a href="#p108" target="_self"><span class="inline-block ">Trella, The Night Sky</span><span class="inline-block ">108</span></a></li>
+<li><a href="#p109" target="_self"><span class="inline-block ">Unmortus, The Dead Guardian</span><span class="inline-block ">109</span></a></li>
+<li><a href="#p109" target="_self"><span class="inline-block ">Veskahule</span><span class="inline-block ">109</span></a></li>
+<li><a href="#p110" target="_self"><span class="inline-block ">Xan’Zyx, the First Incarnation</span><span class="inline-block ">110</span></a></li>
+<li><a href="#p110" target="_self"><span class="inline-block ">Xeesis</span><span class="inline-block ">110</span></a></li>
 </ul>
 </li>
 </ul>
 </li>
+<li><h3 id="menu111"><a href="#p111" target="_self"><span class="inline-block ">Menu</span><span class="inline-block ">111</span></a></h3>
+</li>
 </ul>
- </div></div>
+</div>
+
+</div>
 
 
 
