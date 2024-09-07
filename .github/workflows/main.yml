@@ -1,0 +1,63 @@
+name: Modify and Deploy HTML
+'on':
+  push:
+    branches:
+      - gh-pages
+  workflow_dispatch: null
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: pages
+  cancel-in-progress: false
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Modify index.html if it does not already contain the custom.css link
+        run: >
+          if ! grep -q
+          'https://covalon.github.io/covalon-guide/styles/custom.css'
+          index.html; then
+            echo "index.html does not contain the custom.css link; applying changes..."
+            sed -i 's/assets.dungeonsandmarkdown.spjak.com/covalon.github.io\/covalon-guide/g' index.html
+            sed -i '17,48d' index.html  # Delete a style element
+            sed -i '17i<link href="https://covalon.github.io/covalon-guide/styles/custom.css" rel="stylesheet" />' index.html
+          else
+            echo "index.html already contains the custom.css link; no changes needed."
+          fi
+      - name: Modify gm.html if it does not already contain the custom.css link
+        run: >
+          if ! grep -q
+          'https://covalon.github.io/covalon-guide/styles/custom.css' gm.html;
+          then
+            echo "gm.html does not contain the custom.css link; applying changes..."
+            sed -i 's/assets.dungeonsandmarkdown.spjak.com/covalon.github.io\/covalon-guide/g' gm.html
+            sed -i '17,48d' gm.html  # Delete a style element
+            sed -i '17i<link href="https://covalon.github.io/covalon-guide/styles/custom.css" rel="stylesheet" />' gm.html
+          else
+            echo "gm.html already contains the custom.css link; no changes needed."
+          fi
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v3
+      - name: Build with Jekyll
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./
+          destination: ./_site
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v2
+  deploy:
+    needs: build
+    environment:
+      name: github-pages
+      url: '${{ steps.deployment.outputs.page_url }}'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v2
