@@ -916,16 +916,18 @@ Excursions are a special game type that features up to three connected Excursion
 Downtime is an important part of how your character spends their time in between adventures in Covalon. Your character can spend downtime to earn income, craft items, retrain their abilities, and perform other special activities to improve themselves and get ready for future adventures.
 
 ### Earning and Spending Downtime
+
 Time passes in Covalon at the same rate that time passes in real life. Player characters gain one day of downtime to spend for every real life day that passes, and can spend their downtime whenever they're not currently participating in an adventure by logging it in the appropriate channel. If you forget to log your downtime, you can log those days of missed downtime if they were missed within the past week - any days before that are lost. You may not log missed downtime for activities that your characters wouldn't have been able to perform on those days - for example, if you missed logging your downtime on Wednesday, you couldn't log it on Friday to spend it on crafting an item from a formula you acquired on Thursday. Eidolons, companions, and familiars cannot participate in downtime activities. The exact time at which player characters gain a day of downtime to spend is at midnight server time every day.
 
 Players are required to roll their downtime checks in #downtime-rolls, using our Dice Maiden bot. When rolling, please include the reason for the roll in the roll command. For example, if you were rolling a check to Earn Income using Performance and you had a +7 bonus to Performance, you would type: 
 
 `/roll 1d20+7 !Earn Income` 
 
+
 }}
 
 #### Earn Income
-When using the Earn Income activity, you must roll for each individual day of downtime spent instead of once for every four days, and you can choose a Task Level up to the settlement's level (which can be found in the Covalon Gazetteer) or your character's level, whichever is lower. When you critically fail a check to earn income, you earn nothing for that day's work, but you are not prevented from attempting again tomorrow or in the future.
+When using the Earn Income activity, you must roll for each individual day of downtime spent instead of once for every four days, and you can choose a Task Level up to the settlement's level (which can be found in the Covalon Gazetteer) or your character's level, whichever is lower. When you critically fail a check to earn income, you earn nothing for that day's work, but you are not prevented from attempting again tomorrow or in the future. In Covalon, you may use Crafting, Performance, or any Lore skill to Earn Income. Some feats may allow you to use other skills.
 
 #### Crafting
 
@@ -939,14 +941,13 @@ The DC to craft an item can be found on the [DCs by Level](https://2e.aonprd.com
 }} 
 
 #### Gather Resources
-Instead of using the traditional Earn Income activity, you can instead choose to Gather Resources using an applicable Lore skill. Gathering resources earns you an amount of material suitable for crafting equal to double the amount you would earn for performing Earn Income at an equivalent task level, and you can Gather Resources up to your character level, regardless of Covalon's settlement level. For example, a level 1 player character trained in Mining Lore could 
+Instead of using the traditional Earn Income activity, you can instead choose to Gather Resources using an applicable Lore skill. Gathering resources earns you an amount of material suitable for crafting equal to double the amount you would earn for performing Earn Income at an equivalent task level, and you can Gather Resources up to your character level, regardless of Covalon's settlement level. For example, a level 1 player character trained in Mining Lore could choose to gather generic ore, which would earn them 4 sp worth of ore on a success instead of the 2 sp in coin normally earned from Earn Income, and could be used in lieu of gold when crafting a metal item.
 
 {{pageNumber,auto}}
 
 \page
 
-
-choose to gather generic ore, which would earn them 4 sp worth of ore on a success instead of the 2 sp in coin normally earned from Earn Income, and could be used in lieu of gold when crafting a metal item. Crafting material obtained this way can alternatively be sold to the General Store for half value. All feats and abilities which specifically affect the Earn Income ability also affect Gather Resources, and the DC to Gather Resources for a particular Task Level is equivalent to the DC to Earn Income for that same Task Level.
+  Crafting material obtained this way can alternatively be sold to the General Store for half value. All feats and abilities which specifically affect the Earn Income ability also affect Gather Resources, and the DC to Gather Resources for a particular Task Level is equivalent to the DC to Earn Income for that same Task Level.
 
 Gathering resources can also be used to obtain precious materials for crafting. The following table contains all of the precious materials that can currently be gathered in Covalon. More varieties of precious materials may become available in the future as Covalon expands and players discover new sources of materials.
 
@@ -4791,7 +4792,7 @@ Now the void wasn't lonely, but it was still cold and dark. She created a fire s
 
 A’shir was once a god of fate and time, a god of diviners, worshiped by those wishing to see a glimpse into their own futures. He worked closely with the other gods in order to keep order in the world. That is until one day A’shir revealed a grim prophecy, that he would one day turn against the gods, destroying them and all their creations. The gods quickly grew fearful of A’shirs prophecy and swiftly imprisoned him deep within the plane of fire where they thought none would ever survive long enough to set him free. For ages he was imprisoned, the flames of the realm searing his flesh, it was not long before his understanding gave way to anger. With each passing year his rage grew until it mixed with the potent magics in the realm of fire, transforming him into a beast of fire and hatred. 
 
-Still bound by divine chains, A’shir now vows to destroy the other gods and all they have made for their crimes against him.ssionate, warmhearted people and are known for healing those in need, no matter the personal cost, their truthfulness, and their endless patience.
+Still bound by divine chains, A’shir now vows to destroy the other gods and all they have made for their crimes against him.
 :
 **Edicts** stoke flames, divine the future, help bring about the fated end  
 **Anathema** Put out flames, Worship other gods, attempt to escape your fate  
