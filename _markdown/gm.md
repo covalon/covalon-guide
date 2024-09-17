@@ -1,6 +1,6 @@
 
 
-{{titlebar,width:60% Covalon GM's Guide rev 2024.07.07 }}
+{{titlebar,width:60% Covalon GM's Guide rev 2024.09.16 }}
 ::::
 {{wide
 # Covalon GM's Guide
@@ -28,7 +28,8 @@ Our game types, explained in greater detail below, have guidelines on how to bui
 We use Rules As Written (RAW) rulings as much as possible to reduce the burden on Dungeon Guides of needing to learn a multitude of server-specific rules in order to run games. You should be able to run an adventure and reference core rules of the game in order to make mid-session judgements if needed without having to reference a thousand other documents.
 :
 There are however occasions in which we have made non-RAW rulings in order to better fit a Living World Campaign. These can be found in the #!?Rule-Clarifications-and-faqs channel.
-:::::
+\column
+
 ### Choose your table
 As a Covalon Dungeon Guide you have full autonomy to choose who sits at your table. You will never be mandated to run for specific people or groups, and we will never implement server systems that impact who you take at your table.
 :
@@ -51,77 +52,71 @@ Highly trusted, experienced Dungeon Guides who have demonstrated a clear underst
 \page
 
 
-
 {{toc,wide
-# Table Of Contents
+# Contents
 
-{{separator}}
-
-- ### [{{ Covalon GM's Guide}}{{ 1}}](#p1)
+- ### [{{ Covalon GM’s Guide}}{{ 1}}](#p1)
   - #### [{{ Running Games in Covalon}}{{ 1}}](#p1)
-    - [{{ Host when you want to}}{{ 1}}](#p1)
-    - [{{ Consistency of Games}}{{ 1}}](#p1)
-    - [{{ Give It To Me RAW!}}{{ 1}}](#p1)
-    - [{{ Choose your table}}{{ 1}}](#p1)
+
 - ### [{{ Chapter 1: Getting Started}}{{ 3}}](#p3)
-  - [{{ Your Adventure Outline}}{{ 3}}](#p3)
-  - [{{ Your Portal Specialist NPC}}{{ 3}}](#p3)
-  - [{{ Scheduling A Shadow}}{{ 3}}](#p3)
+  - #### [{{ Your Adventure Outline}}{{ 3}}](#p3)
+  - #### [{{ Your Portal Specialist NPC}}{{ 3}}](#p3)
+  - #### [{{ Scheduling A Shadow}}{{ 3}}](#p3)
 - ### [{{ Chapter 2: Designing Games}}{{ 4}}](#p4)
-  - [{{ Core Rules }}{{ 4}}](#p4)
-  - [{{ APL and Party Size}}{{ 4}}](#p4)
-  - [{{ Building Encounters}}{{ 4}}](#p4)
-  - [{{ Covalon Considerations}}{{ 4}}](#p4)
-  - [{{ Alternate Encounters}}{{ 5}}](#p5)
+  - #### [{{ Core Rules}}{{ 4}}](#p4)
+  - #### [{{ APL and Party Size}}{{ 4}}](#p4)
+  - #### [{{ Building Encounters}}{{ 4}}](#p4)
+  - #### [{{ Covalon Considerations}}{{ 4}}](#p4)
+  - #### [{{ Alternate Encounters}}{{ 5}}](#p5)
 - ### [{{ Chapter 3: Treasure and Rewards}}{{ 6}}](#p6)
-  - [{{ Loot Should Contain}}{{ 7}}](#p7)
-  - [{{ Loot Should Not Contain}}{{ 7}}](#p7)
-  - [{{ GM Rewards }}{{ 8}}](#p8)
-  - [{{ Hero Points and Keepsakes}}{{ 8}}](#p8)
-  - [{{ Vanity Pet Samples}}{{ 8}}](#p8)
+  - #### [{{ Loot Should Contain}}{{ 7}}](#p7)
+  - #### [{{ Loot Should Not Contain}}{{ 7}}](#p7)
+  - #### [{{ GM Rewards}}{{ 8}}](#p8)
+  - #### [{{ Hero Points and Keepsakes}}{{ 8}}](#p8)
+  - #### [{{ Vanity Pet Samples}}{{ 8}}](#p8)
 - ### [{{ Chapter 4: Adventure Types}}{{ 9}}](#p9)
-  - [{{ Dungeons }}{{ 9}}](#p9)
-  - [{{ Patrols}}{{ 9}}](#p9)
-  - [{{ Expeditions}}{{ 10}}](#p10)
-  - [{{ Excursions and Sagas}}{{ 10}}](#p10)
-  - [{{ Descents}}{{ 10}}](#p10)
-  - [{{ Brawls}}{{ 11}}](#p11)
-  - [{{ Duels}}{{ 11}}](#p11)
-- ### [{{ Chapter 5: Dungeoneering Society }}{{ 12}}](#p12)
-  - [{{ Portal Specialists}}{{ 12}}](#p12)
-  - [{{ Portal Keys}}{{ 12}}](#p12)
-  - [{{ Dungeoneering Contracts}}{{ 12}}](#p12)
-  - [{{ Emotional Resonance}}{{ 12}}](#p12)
-  - [{{ Holding Portals Open}}{{ 12}}](#p12)
-  - [{{ Aftermath}}{{ 12}}](#p12)
+  - #### [{{ Dungeons}}{{ 9}}](#p9)
+  - #### [{{ Patrols}}{{ 9}}](#p9)
+  - #### [{{ Expeditions}}{{ 10}}](#p10)
+  - #### [{{ Excursions and Sagas}}{{ 10}}](#p10)
+  - #### [{{ Descents}}{{ 11}}](#p11)
+  - #### [{{ Brawls}}{{ 11}}](#p11)
+  - #### [{{ Duels}}{{ 11}}](#p11)
+- ### [{{ Chapter 5: Dungeoneering Society}}{{ 12}}](#p12)
+  - #### [{{ Portal Specialists}}{{ 12}}](#p12)
+  - #### [{{ Portal Keys}}{{ 12}}](#p12)
+  - #### [{{ Dungeoneering Contracts}}{{ 12}}](#p12)
+  - #### [{{ Emotional Resonance}}{{ 12}}](#p12)
+  - #### [{{ Holding Portals Open}}{{ 12}}](#p12)
+  - #### [{{ Aftermath}}{{ 12}}](#p12)
 - ### [{{ Chapter 6: Adventure Lore}}{{ 13}}](#p13)
-  - [{{ Purpose}}{{ 13}}](#p13)
-  - [{{ Locations}}{{ 13}}](#p13)
-  - [{{ NPCs}}{{ 13}}](#p13)
-  - [{{ Technology}}{{ 13}}](#p13)
+  - #### [{{ Purpose}}{{ 13}}](#p13)
+  - #### [{{ Locations}}{{ 13}}](#p13)
+  - #### [{{ NPCs}}{{ 13}}](#p13)
+  - #### [{{ Technology}}{{ 13}}](#p13)
 - ### [{{ Chapter 7: Running Games}}{{ 14}}](#p14)
   - #### [{{ Gathering Players}}{{ 14}}](#p14)
-    - [{{ LFGM}}{{ 14}}](#p14)
-    - [{{ Scheduled Events}}{{ 14}}](#p14)
-    - [{{ Mentors}}{{ 14}}](#p14)
-    - [{{ Making Adjustments}}{{ 14}}](#p14)
-    - [{{ Post your Adventure}}{{ 14}}](#p14)
+    -  [{{ LFGM}}{{ 14}}](#p14)
+    -  [{{ Scheduled Events}}{{ 14}}](#p14)
+    -  [{{ Mentors}}{{ 14}}](#p14)
+    -  [{{ Making Adjustments}}{{ 14}}](#p14)
+    -  [{{ Post your Adventure}}{{ 14}}](#p14)
   - #### [{{ During the Session}}{{ 14}}](#p14)
-    - [{{ Setting Ground Rules}}{{ 14}}](#p14)
-    - [{{ Managing Disruptions}}{{ 15}}](#p15)
-    - [{{ Adjudicating Rules}}{{ 15}}](#p15)
-    - [{{ Death and Downed Characters}}{{ 15}}](#p15)
+    -  [{{ Setting Ground Rules}}{{ 14}}](#p14)
+    -  [{{ Managing Disruptions}}{{ 15}}](#p15)
+    -  [{{ Adjudicating Rules}}{{ 15}}](#p15)
+    -  [{{ Death and Downed Characters}}{{ 15}}](#p15)
   - #### [{{ After the Adventure}}{{ 15}}](#p15)
-    - [{{ Loot Distribution}}{{ 15}}](#p15)
-    - [{{ Lingering Affects}}{{ 16}}](#p16)
-    - [{{ Dungeon Summary}}{{ 16}}](#p16)
-    - [{{ Delete Your Post}}{{ 16}}](#p16)
+    -  [{{ Loot Distribution}}{{ 15}}](#p15)
+    -  [{{ Lingering Affects}}{{ 16}}](#p16)
+    -  [{{ Dungeon Summary}}{{ 16}}](#p16)
+    -  [{{ Delete Your Post}}{{ 16}}](#p16)
 - ### [{{ Chapter 8: Covalon Specific Tools}}{{ 17}}](#p17)
-  - [{{ Covalon Module }}{{ 17}}](#p17)
-  - [{{ Adventure Approval Submission Tool}}{{ 17}}](#p17)
-  - [{{ Hammertime}}{{ 17}}](#p17)
+  - #### [{{ Covalon Module}}{{ 17}}](#p17)
+  - #### [{{ Adventure Approval Submission Tool}}{{ 17}}](#p17)
+  - #### [{{ Hammertime}}{{ 17}}](#p17)
+  - #### [{{ When2Meet}}{{ 17}}](#p17)
 }}
-
 
 
 
@@ -551,11 +546,20 @@ Patrols for levels 7-9 take place in the immediate vicinity of our Expedition Ca
 ### Expeditions
 Expedition missions are a special game-mode that is heavily intertwined with the ongoing meta-narrative of Covalon, beyond gathering supplies and going through portals. Expeditions represent our efforts to reclaim the world after the Cataclysm and face the challenges left behind in a shattered realm. Expeditions require the installation of the Covalon Expedition Module on Foundry. Expeditions consist of a choice of three missions that have special instructions that can be found inside the Module.
 
-{{note
-##### Expedition Finales
-Expedition Finales are a single boss encounter with special mechanics that are narratively tied to defending the planted Seeds of Terra used to purify reclaimed areas of the world map from Maw monsters. Check out the Expedition Module for more details on how to run each finale!
 
-}}
+#### Expedition Finales
+Expedition Finales are fully pre-built boss encounters with special mechanics that are narratively tied to defending the planted Seeds of Terra used to purify reclaimed areas of the world map from Maw monsters. Every Finale has a set of individual rules and instructions laid out in the Expedition Module, but all Finales have some things in common.
+
+##### APL Adjustments
+Finales are generally designed as encounters of moderate+ difficulty for the middle APL of their tier, e.g. APL 11 for Tier 4. To run a Finale for a different APL than the one they were designed for, they can be adjusted using the Weak or Elite templates.
+The only exceptions to this rule are Taltain and Ikouga, which were designed for the highest APL of their tier, e.g. APL 15 for Tier 5. You can manually adjust these down if you wish, but this is not recommended.
+
+##### Normal Mode and Hard Mode
+Finales come in two versions: Normal Mode or Hard Mode. For a short time when a Finale first releases (usually the release weekend), it can only be run by Covalon administrators, moderators, and Senior Dungeon Guides, and only in Hard Mode, for the maximum APL in the highest two tiers of play. This is because the opening weekend is the "canonical" version of the boss fight. Every time the finale is run after this, the boss is flavored as a "facsimile," a copy created by the Maw with all the same combat capabilities. After the initial period, the Finale can be run by any Dungeon Guide in either Normal or Hard Mode. Normal Mode can be run in Tier 3 and above, while Hard Mode is intended only for max level characters in the highest two tiers of play.   
+\column
+##### Modifications
+Every Finale has three different modifications that alter the encounter, usually by adding the boss an additional ability or improving an existing one. To run a Normal Mode Finale, a GM chooses or randomly picks one of the available modifications. Do not tell the players which modifications is in effect. In Hard Mode, all three modifications are active at the same time
+
 
 ### Excursions and Sagas
 In Excursions, players explore areas surrounding liberated Expedition locations in an in-world effort to maintain security of settlements and build goodwill with nearby survivors. In contrast to dungeons, these adventures feature some narrative continuity, longer adventuring days, and a larger experience budget."Excursion" refers to one mission in a set of up to three narratively linked sessions. This set of sessions is called a "Saga" or "Excursion Saga."
@@ -568,7 +572,9 @@ Encounters in excursions follow the normal rules for Dungeons. Each excursion ha
 :
 Excursion submissions must include a narrative. These storylines cannot affect Covalon as a whole (e.g. new deities, attacks or plots against on Covalon itself) and must focus on the Excursion's region. Dungeon Summary posts for Excursions should be no more than 200 words long.
 
+{{pageNumber,auto}}
 
+\page
 
 ### Descents
 A Descent may currently only be run by Senior DGs and Administrators. These adventures are exclusively for the current highest and second highest tier of play, and always balanced for the maximum level players in these tiers can achieve.
@@ -581,20 +587,14 @@ Descents have a maximum time limit of 4 hours. If the third encounter is complet
 :
 Descents are composed of combat encounters exclusively. No narrative, puzzles, exploration, or roleplay will be present.
 :
-Clearing at least one room rewards the party with 250 experience in total and 1376 gp per room per player. These gp rewards should be flavored as "Maw Stones" that Arto uses Covalon Funds to purchase from the players.
+Clearing at least one room rewards the party with 250 experience in total and 1376 gp per room per player in T5, or 415 gp per room per player in T4. These gp rewards should be flavored as "Maw Stones" that Arto uses Covalon Funds to purchase from the players.
 :
 The first encounter in a Descent is moderate difficulty. Each subsequent encounter must be severe difficulty. The restricted monster list does not apply to Descents, and you may use more sinister environments when designing Descent rooms.
 :
 Descents are usually run for 6 players, but can be run for a party of smaller than 6. Encounters should still be balanced as Moderate for the first encounter, and then Severe for each subsequent room. The time limit is reduced by 15 minutes per player less than 6.
 :
 For the purposes of prebuffing, only 1 hour or longer duration effects can be applied before entering the Maw. After an encounter, each player gets exactly ten minutes to take an activity or use other actions. As the group travels to the next room, ten minutes of "travel time" occurs, flavored as timey wimey Maw magic.
-
-{{pageNumber,auto}}
-
-\page
-
-
-
+\column
 ### Brawls
 Specific PVP events where two teams of three players face off against each other are brawls. Brawls may only be hosted by Senior Dungeon Guides.
 :
@@ -882,69 +882,68 @@ You can make a copy of this tool here: [Covalon Adventure Submission Tool](https
 
 <div class='toc'>
   
-- ### [{{ Covalon GM's Guide}}{{ 1}}](#p1)
+
+- ### [{{ Covalon GM’s Guide}}{{ 1}}](#p1)
   - #### [{{ Running Games in Covalon}}{{ 1}}](#p1)
-    - [{{ Host when you want to}}{{ 1}}](#p1)
-    - [{{ Consistency of Games}}{{ 1}}](#p1)
-    - [{{ Give It To Me RAW!}}{{ 1}}](#p1)
-    - [{{ Choose your table}}{{ 1}}](#p1)
+
 - ### [{{ Chapter 1: Getting Started}}{{ 3}}](#p3)
-  - [{{ Your Adventure Outline}}{{ 3}}](#p3)
-  - [{{ Your Portal Specialist NPC}}{{ 3}}](#p3)
-  - [{{ Scheduling A Shadow}}{{ 3}}](#p3)
+  - #### [{{ Your Adventure Outline}}{{ 3}}](#p3)
+  - #### [{{ Your Portal Specialist NPC}}{{ 3}}](#p3)
+  - #### [{{ Scheduling A Shadow}}{{ 3}}](#p3)
 - ### [{{ Chapter 2: Designing Games}}{{ 4}}](#p4)
-  - [{{ Core Rules }}{{ 4}}](#p4)
-  - [{{ APL and Party Size}}{{ 4}}](#p4)
-  - [{{ Building Encounters}}{{ 4}}](#p4)
-  - [{{ Covalon Considerations}}{{ 4}}](#p4)
-  - [{{ Alternate Encounters}}{{ 5}}](#p5)
+  - #### [{{ Core Rules}}{{ 4}}](#p4)
+  - #### [{{ APL and Party Size}}{{ 4}}](#p4)
+  - #### [{{ Building Encounters}}{{ 4}}](#p4)
+  - #### [{{ Covalon Considerations}}{{ 4}}](#p4)
+  - #### [{{ Alternate Encounters}}{{ 5}}](#p5)
 - ### [{{ Chapter 3: Treasure and Rewards}}{{ 6}}](#p6)
-  - [{{ Loot Should Contain}}{{ 7}}](#p7)
-  - [{{ Loot Should Not Contain}}{{ 7}}](#p7)
-  - [{{ GM Rewards }}{{ 8}}](#p8)
-  - [{{ Hero Points and Keepsakes}}{{ 8}}](#p8)
-  - [{{ Vanity Pet Samples}}{{ 8}}](#p8)
+  - #### [{{ Loot Should Contain}}{{ 7}}](#p7)
+  - #### [{{ Loot Should Not Contain}}{{ 7}}](#p7)
+  - #### [{{ GM Rewards}}{{ 8}}](#p8)
+  - #### [{{ Hero Points and Keepsakes}}{{ 8}}](#p8)
+  - #### [{{ Vanity Pet Samples}}{{ 8}}](#p8)
 - ### [{{ Chapter 4: Adventure Types}}{{ 9}}](#p9)
-  - [{{ Dungeons }}{{ 9}}](#p9)
-  - [{{ Patrols}}{{ 9}}](#p9)
-  - [{{ Expeditions}}{{ 10}}](#p10)
-  - [{{ Excursions and Sagas}}{{ 10}}](#p10)
-  - [{{ Descents}}{{ 10}}](#p10)
-  - [{{ Brawls}}{{ 11}}](#p11)
-  - [{{ Duels}}{{ 11}}](#p11)
-- ### [{{ Chapter 5: Dungeoneering Society }}{{ 12}}](#p12)
-  - [{{ Portal Specialists}}{{ 12}}](#p12)
-  - [{{ Portal Keys}}{{ 12}}](#p12)
-  - [{{ Dungeoneering Contracts}}{{ 12}}](#p12)
-  - [{{ Emotional Resonance}}{{ 12}}](#p12)
-  - [{{ Holding Portals Open}}{{ 12}}](#p12)
-  - [{{ Aftermath}}{{ 12}}](#p12)
+  - #### [{{ Dungeons}}{{ 9}}](#p9)
+  - #### [{{ Patrols}}{{ 9}}](#p9)
+  - #### [{{ Expeditions}}{{ 10}}](#p10)
+  - #### [{{ Excursions and Sagas}}{{ 10}}](#p10)
+  - #### [{{ Descents}}{{ 11}}](#p11)
+  - #### [{{ Brawls}}{{ 11}}](#p11)
+  - #### [{{ Duels}}{{ 11}}](#p11)
+- ### [{{ Chapter 5: Dungeoneering Society}}{{ 12}}](#p12)
+  - #### [{{ Portal Specialists}}{{ 12}}](#p12)
+  - #### [{{ Portal Keys}}{{ 12}}](#p12)
+  - #### [{{ Dungeoneering Contracts}}{{ 12}}](#p12)
+  - #### [{{ Emotional Resonance}}{{ 12}}](#p12)
+  - #### [{{ Holding Portals Open}}{{ 12}}](#p12)
+  - #### [{{ Aftermath}}{{ 12}}](#p12)
 - ### [{{ Chapter 6: Adventure Lore}}{{ 13}}](#p13)
-  - [{{ Purpose}}{{ 13}}](#p13)
-  - [{{ Locations}}{{ 13}}](#p13)
-  - [{{ NPCs}}{{ 13}}](#p13)
-  - [{{ Technology}}{{ 13}}](#p13)
+  - #### [{{ Purpose}}{{ 13}}](#p13)
+  - #### [{{ Locations}}{{ 13}}](#p13)
+  - #### [{{ NPCs}}{{ 13}}](#p13)
+  - #### [{{ Technology}}{{ 13}}](#p13)
 - ### [{{ Chapter 7: Running Games}}{{ 14}}](#p14)
   - #### [{{ Gathering Players}}{{ 14}}](#p14)
-    - [{{ LFGM}}{{ 14}}](#p14)
-    - [{{ Scheduled Events}}{{ 14}}](#p14)
-    - [{{ Mentors}}{{ 14}}](#p14)
-    - [{{ Making Adjustments}}{{ 14}}](#p14)
-    - [{{ Post your Adventure}}{{ 14}}](#p14)
+    -  [{{ LFGM}}{{ 14}}](#p14)
+    -  [{{ Scheduled Events}}{{ 14}}](#p14)
+    -  [{{ Mentors}}{{ 14}}](#p14)
+    -  [{{ Making Adjustments}}{{ 14}}](#p14)
+    -  [{{ Post your Adventure}}{{ 14}}](#p14)
   - #### [{{ During the Session}}{{ 14}}](#p14)
-    - [{{ Setting Ground Rules}}{{ 14}}](#p14)
-    - [{{ Managing Disruptions}}{{ 15}}](#p15)
-    - [{{ Adjudicating Rules}}{{ 15}}](#p15)
-    - [{{ Death and Downed Characters}}{{ 15}}](#p15)
+    -  [{{ Setting Ground Rules}}{{ 14}}](#p14)
+    -  [{{ Managing Disruptions}}{{ 15}}](#p15)
+    -  [{{ Adjudicating Rules}}{{ 15}}](#p15)
+    -  [{{ Death and Downed Characters}}{{ 15}}](#p15)
   - #### [{{ After the Adventure}}{{ 15}}](#p15)
-    - [{{ Loot Distribution}}{{ 15}}](#p15)
-    - [{{ Lingering Affects}}{{ 16}}](#p16)
-    - [{{ Dungeon Summary}}{{ 16}}](#p16)
-    - [{{ Delete Your Post}}{{ 16}}](#p16)
+    -  [{{ Loot Distribution}}{{ 15}}](#p15)
+    -  [{{ Lingering Affects}}{{ 16}}](#p16)
+    -  [{{ Dungeon Summary}}{{ 16}}](#p16)
+    -  [{{ Delete Your Post}}{{ 16}}](#p16)
 - ### [{{ Chapter 8: Covalon Specific Tools}}{{ 17}}](#p17)
-  - [{{ Covalon Module }}{{ 17}}](#p17)
-  - [{{ Adventure Approval Submission Tool}}{{ 17}}](#p17)
-  - [{{ Hammertime}}{{ 17}}](#p17)
+  - #### [{{ Covalon Module}}{{ 17}}](#p17)
+  - #### [{{ Adventure Approval Submission Tool}}{{ 17}}](#p17)
+  - #### [{{ Hammertime}}{{ 17}}](#p17)
+  - #### [{{ When2Meet}}{{ 17}}](#p17)
 </div>
 
 
