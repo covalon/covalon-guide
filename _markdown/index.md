@@ -1,4 +1,4 @@
-{{titlebar,width:60% Covalon Player's Guide rev 24.09.06 }}
+{{titlebar,width:60% Covalon Player's Guide rev 24.09.18 }}
 
 
 
@@ -881,7 +881,7 @@ The first phase of an expedition is to establish a camp at the site of the forme
 The second phase of an expedition requires adventurers to complete a variety of missions in order to explore the area, secure the base camp, and uncover clues about the Cataclysm. Missions are a subtype of expedition adventures that are similar to dungeons, but contribute to an overarching narrative, and are available to all tiers. Each expedition features three missions which have distinct objectives and elements. Any individual mission is repeatable, though some content in the mission changes between repeats. Once several missions have been completed for a location, this phase concludes and the next phase becomes available (though the missions can still be played after the phase has concluded).
 
 #### Phase 3: Complete the Finale
-Once each expedition has been completed a certain number of times, the expedition finale unlocks. A finale involves a singular encounter against a narratively significant threat to conclude the expedition. Completing a finale unlocks a new way for participants to customize their Soul Seeds, and like missions, they are repeatable. Finales can be attempted by players in Tier 2 or higher and last 1 to 2 hours. Finales have two difficulty modes. Normal mode is the standard finale experience, which can be scaled to any tier. Hard mode can only be attempted by characters in the highest tier, and is intended for max level characters. When a finale first becomes available, it can only be attempted at hard mode. Once a finale has been cleared once, normal mode becomes available. 
+Once each expedition has been completed a certain number of times, the expedition finale unlocks. A finale involves a singular encounter against a narratively significant threat to conclude the expedition. Completing a finale unlocks a new way for participants to customize their Soul Seeds, and like missions, they are repeatable. Finales can be attempted by players in Tier 3 or higher and last 1 to 2 hours. Finales have two difficulty modes. Normal mode is the standard finale experience, which can be scaled to any tier. Hard mode can only be attempted by characters in the highest and second highest tiers, and is intended for max level characters. When a finale first becomes available, it can only be attempted at hard mode. Once a finale has been cleared once, normal mode becomes available. 
 
 
 #### Expedition Locations
@@ -3243,7 +3243,7 @@ A community dedicated to restoring the balance of nature in the land.
 
 **Leader** Valerie 
 
-**Members** Cinna, Seren
+**Members** Cinna, Seren, Lovell, Elysia, Shawna, Iris
 
 ---
 
