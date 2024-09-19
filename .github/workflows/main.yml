@@ -26,6 +26,11 @@ jobs:
             sed -i 's/assets.dungeonsandmarkdown.spjak.com/covalon.github.io\/covalon-guide/g' index.html
             sed -i '17,48d' index.html  # Delete a style element
             sed -i '17i<link href="https://covalon.github.io/covalon-guide/styles/custom.css" rel="stylesheet" />' index.html
+            sed -i '4a\
+            <title>Covalon Player'\''s Guide</title>\
+            <link rel="shortcut icon" href="https://github.com/covalon/covalon-guide/raw/gh-pages/assets/covalon/favicon.webp">\
+            ' index.html
+            sed -i 's/<img/<img loading="lazy"/g' index.html
           else
             echo "index.html already contains the custom.css link; no changes needed."
           fi
@@ -38,6 +43,11 @@ jobs:
             sed -i 's/assets.dungeonsandmarkdown.spjak.com/covalon.github.io\/covalon-guide/g' gm.html
             sed -i '17,48d' gm.html  # Delete a style element
             sed -i '17i<link href="https://covalon.github.io/covalon-guide/styles/custom.css" rel="stylesheet" />' gm.html
+            sed -i '4a\
+            <title>Covalon GM'\''s Guide</title>\
+            <link rel="shortcut icon" href="https://github.com/covalon/covalon-guide/raw/gh-pages/assets/covalon/favicon.webp">\
+            ' gm.html
+            sed -i 's/<img/<img loading="lazy"/g' gm.html
           else
             echo "gm.html already contains the custom.css link; no changes needed."
           fi

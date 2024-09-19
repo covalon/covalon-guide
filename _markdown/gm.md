@@ -6,7 +6,7 @@
 # Covalon GM's Guide
 
 {{
-*Welcome to the GM's guide for running adventures in the Covalon Living World server. This guide offers new and existing GM's a single location for all of the rules, guidelines and tools available for running high quality, fun adventures in Covalon!* 
+*Welcome to the GM's guide for running adventures in the Covalon Living World server. This guide offers new and existing GM's a single location for all of the rules, guidelines and tools available for running high quality, fun adventures in Covalon!*
 
 }}
 {{separator}}
@@ -37,9 +37,9 @@ As a Covalon Dungeon Guide you have full autonomy to choose who sits at your tab
 ##### GM Roles
 {text-align:center}
 
-There are 3 key roles for Dungeon Guides in Covalon. 
+There are 3 key roles for Dungeon Guides in Covalon.
 
-##### Aspiring Dungeon Guides 
+##### Aspiring Dungeon Guides
 Individuals that have expressed an interest in running games in Covalon and have yet to complete their shadowed adventure(s).
 ##### Dungeon Guides
 Individuals that have completed their shadowing and have a good understanding of Covalon's systems.
@@ -126,7 +126,7 @@ Highly trusted, experienced Dungeon Guides who have demonstrated a clear underst
 
 \page
 
-{{wide 
+{{wide
 # Chapter 1: Getting Started
 
 
@@ -171,7 +171,7 @@ Once you are approved and have a moderator ready, you're good to run your advent
 
 \page
 
-{{wide 
+{{wide
 # Chapter 2: Designing Games
 
 
@@ -180,14 +180,14 @@ Once you are approved and have a moderator ready, you're good to run your advent
 
 }}
 
-### Core Rules 
+### Core Rules
 Before starting to design games for Covalon, it is strongly recommended that you read through [chapter 9](https://2e.aonprd.com/Rules.aspx?ID=311) and [chapter 10](https://2e.aonprd.com/Rules.aspx?ID=480) of the Core Rulebook. This includes the core rules of the system in terms of creating encounters that are balanced, challenging and fun!
 
 ### APL and Party Size
 When designing a game adventure, you should start with determining your Average Party Level (APL). You can do this by working out the average of your party members if you know them in advance, or selecting an APL in advance you expect to have.
 
 
-Most adventures in Covalon assume **6 players** in attendance. You can run an adventure with a minimum of 4 and a maximum of 6 players. 
+Most adventures in Covalon assume **6 players** in attendance. You can run an adventure with a minimum of 4 and a maximum of 6 players.
 
 
 Keep in mind that your party size will impact your [experience Budget](https://2e.aonprd.com/Rules.aspx?ID=498). Sometimes you will find that the average party level of a group is in the middle of two whole levels. In the event of finding you have a party of a 0.5 interval, you should balance for one additional player of the lower level. For example, if you have a party of six with an APL of 6.5, you should balance for 7 level 6 characters.
@@ -197,65 +197,65 @@ Keep in mind that your party size will impact your [experience Budget](https://2
 {{descriptive,right,width:135px
 #### Level 1 Characters
 {text-align:center}
-Level 1 characters are especially fragile. When a first level character is present, no creatures above level 3 can be used. 
+Level 1 characters are especially fragile. When a first level character is present, no creatures above level 3 can be used.
 }}
 
 It's time to select your creatures! For most Covalon game modes, you need to design for Moderate difficulty encounters. [This page](https://2e.aonprd.com/Rules.aspx?ID=497) is the perfect place to check the experience values of monsters you are selecting for your challenges. Keep in mind you cannot select a monster that is more than 3 levels above the lowest level player in the party. Keep this in mind when designing encounters, especially if you don't know who your players are yet.
 
-Of course, monsters aren't the only challenges your players will face. You can find the experience costs of [hazards here](https://2e.aonprd.com/Rules.aspx?ID=679). 
+Of course, monsters aren't the only challenges your players will face. You can find the experience costs of [hazards here](https://2e.aonprd.com/Rules.aspx?ID=679).
 
-Sometimes you may wish to use particular environments, weather, magical terrain or other non-creature, non-hazard considerations within your adventure. This should be included within your approval, and often will require an experience value associated with it. The experience value should be proportionate to how heavily it will affect the party. A large patch of difficult terrain might only be 10 experience, but a patch of Energy Surge Terrain with on-type monsters might be worth 20 or more experience. 
+Sometimes you may wish to use particular environments, weather, magical terrain or other non-creature, non-hazard considerations within your adventure. This should be included within your approval, and often will require an experience value associated with it. The experience value should be proportionate to how heavily it will affect the party. A large patch of difficult terrain might only be 10 experience, but a patch of Energy Surge Terrain with on-type monsters might be worth 20 or more experience.
 
 Always make sure to double check the [Restricted Monsters](https://docs.google.com/spreadsheets/d/15CFU66rjnT7x-91z630Dg9P4_hTRFr25dCOWVqGvx6Q/edit?usp=sharing) list for any experience adjustments that need to be made for certain monsters in Covalon adventures!
 
 {{note
 ##### Custom Creatures
 {text-align:center}
-Sometimes, you may not be able to find a creature that fits the thematic of the adventure you're running, or the creatures that do fit are the wrong level for your intended APL. 
+Sometimes, you may not be able to find a creature that fits the thematic of the adventure you're running, or the creatures that do fit are the wrong level for your intended APL.
 
 
-In these cases you can use the [Building Creatures](https://2e.aonprd.com/Rules.aspx?ID=995) rules in order to create or scale a custom creature. There are similar rules for [Building Hazards](https://2e.aonprd.com/Rules.aspx?ID=1043). Wheng so, please submit the full statblock as part of your approval. 
+In these cases you can use the [Building Creatures](https://2e.aonprd.com/Rules.aspx?ID=995) rules in order to create or scale a custom creature. There are similar rules for [Building Hazards](https://2e.aonprd.com/Rules.aspx?ID=1043). Wheng so, please submit the full statblock as part of your approval.
 }}
 ### Covalon Considerations
 Unless specified otherwise in the game type instructions, all adventures in Covalon must follow the following rules:
 
-* Each player gets one Hero Point at the start of the adventure, up to the usual maximum of 3 if they already have any. Unlike other Hero Points, if this Hero Point is not used by the end of the adventure it is lost. 
-* The party must be able to try to escape if they choose to. The portal cannot close behind them, and they cannot be locked into an area. 
-* The adventure must stick to the timeframe for the game type. If it appears to be going over time, wrap the adventure up early. 
-* As long as players overcome at least one challenge or encounter, they receive full experience if they leave early. They receive all of the loot that they have found so far. 
+* Each player gets one Hero Point at the start of the adventure, up to the usual maximum of 3 if they already have any. Unlike other Hero Points, if this Hero Point is not used by the end of the adventure it is lost.
+* The party must be able to try to escape if they choose to. The portal cannot close behind them, and they cannot be locked into an area.
+* The adventure must stick to the timeframe for the game type. If it appears to be going over time, wrap the adventure up early.
+* As long as players overcome at least one challenge or encounter, they receive full experience if they leave early. They receive all of the loot that they have found so far.
 {{pageNumber,auto}}
 
 \page
 
 
 ### Alternate Encounters
-Alternate encounters are any kind of encounter that counts towards the adventure's XP budget but is not a standard combat. Some examples of this are chases, skill challenges, or social encounters. The following are just some examples of the many subsystems detailed in chapter 4 of the [Gamemastery Guide](https://2e.aonprd.com/Rules.aspx?ID=1187). As long as encounters are balanced, fun, and fit within Covalon's general adventure rules, we're willing to review them for use in your Covalon adventures! Many Expedition missions include examples of using subsystems. 
+Alternate encounters are any kind of encounter that counts towards the adventure's XP budget but is not a standard combat. Some examples of this are chases, skill challenges, or social encounters. The following are just some examples of the many subsystems detailed in chapter 4 of the [Gamemastery Guide](https://2e.aonprd.com/Rules.aspx?ID=1187). As long as encounters are balanced, fun, and fit within Covalon's general adventure rules, we're willing to review them for use in your Covalon adventures! Many Expedition missions include examples of using subsystems.
 
 #### Chases
 
-For chases, please include all obstacles, their relevant skills and DC of those checks, and the failure condition. There are many ways to run a chase! Some of the most common are having every PC take damage equal to Table 2-16 Complex Damage in the hazard building rules at the end of a round, or something happens at the end of each round based on how many total successes and failures the party obtained. More guidance on chases can be found on [this](https://2e.aonprd.com/Rules.aspx?ID=1210) Archives of Nethys page. 
+For chases, please include all obstacles, their relevant skills and DC of those checks, and the failure condition. There are many ways to run a chase! Some of the most common are having every PC take damage equal to Table 2-16 Complex Damage in the hazard building rules at the end of a round, or something happens at the end of each round based on how many total successes and failures the party obtained. More guidance on chases can be found on [this](https://2e.aonprd.com/Rules.aspx?ID=1210) Archives of Nethys page.
 
 #### Influence/Social Encounters
 
-The Influence subsystem is one way to run a structured social encounter. If you wish to submit an influence encounter, please provide the influence stat blocks of your NPCs.  Note that if a social encounter doesn't really have a clear goal or consequences, it might be better off as just an NPC the party can interact with, and not a social encounter that is worth XP. More guidance on the Influence subsystem can be found on [this](https://2e.aonprd.com/Rules.aspx?ID=1201) Archives of Nethys page. 
+The Influence subsystem is one way to run a structured social encounter. If you wish to submit an influence encounter, please provide the influence stat blocks of your NPCs.  Note that if a social encounter doesn't really have a clear goal or consequences, it might be better off as just an NPC the party can interact with, and not a social encounter that is worth XP. More guidance on the Influence subsystem can be found on [this](https://2e.aonprd.com/Rules.aspx?ID=1201) Archives of Nethys page.
 
 #### Skill Challenges/Victory Points
 
-Skill challenges and social encounters can also be less defined, or take place over a longer time than a typical initiative round. For example, maybe the party needs to succeed at certain checks X number of times before they fail such checks Y number of times, or overcome different obstacles as they travel to a dangerous location. In order to approve these, we will need a description of the challenge, relevant skills, DCs of all checks, and the consequences or benefits of failure and success.  
+Skill challenges and social encounters can also be less defined, or take place over a longer time than a typical initiative round. For example, maybe the party needs to succeed at certain checks X number of times before they fail such checks Y number of times, or overcome different obstacles as they travel to a dangerous location. In order to approve these, we will need a description of the challenge, relevant skills, DCs of all checks, and the consequences or benefits of failure and success.
 
 \column
 
 #### Expedition Examples
 
-See the end of this document for instructions to install the Covalon module, which contains our campaign's Foundry VTT content, including our expedition missions. Many of these expedition missions use unique subsystems and mechanics that you can reference as an example before building your own! 
+See the end of this document for instructions to install the Covalon module, which contains our campaign's Foundry VTT content, including our expedition missions. Many of these expedition missions use unique subsystems and mechanics that you can reference as an example before building your own!
 :
-Verndhelt B: Playing Both Sides has an example of a structured social encounter using the Influence rules, and a free form social/skill encounter using a simple Victory Point system. 
+Verndhelt B: Playing Both Sides has an example of a structured social encounter using the Influence rules, and a free form social/skill encounter using a simple Victory Point system.
 :
-Verndhelt C: Search the Sinkhole and Middlemist A: Delve the Dark both use a hex grid and skill checks to represent hexploration. 
+Verndhelt C: Search the Sinkhole and Middlemist A: Delve the Dark both use a hex grid and skill checks to represent hexploration.
 :
-Ikouga B: Investigate the Goop uses a simple skill challenge to research goop. 
+Ikouga B: Investigate the Goop uses a simple skill challenge to research goop.
 :
-Gornlar Mission B: Explore the Fire Mountain and Primrose Mission B: Playing Politics both utilize the chase subsystem for one of their required encounters. 
+Gornlar Mission B: Explore the Fire Mountain and Primrose Mission B: Playing Politics both utilize the chase subsystem for one of their required encounters.
 
 {{pageNumber,auto}}
 
@@ -314,12 +314,12 @@ APL | Total Gold Value of Loot | EXP
 7 | 1092g | 250
 8 | 1500g | 250
 9 | 2142g  | 250
-10| N/A   | N/A 
-11| N/A   | N/A 
-12| N/A   | N/A 
-13| N/A   |  N/A 
-14| N/A   |  N/A  
-15| N/A   |N/A 
+10| N/A   | N/A
+11| N/A   | N/A
+12| N/A   | N/A
+13| N/A   |  N/A
+14| N/A   |  N/A
+15| N/A   |N/A
 }}
 :
 Keep in mind that the above tables are for a 6 person party. You will need to adjust for a lower number of party members if you are running for fewer than 6 players! You can do this by dividing the above figures by 6, and multiplying the resulting number by the total number of players you will be running for.
@@ -378,12 +378,12 @@ Any items marked as disallowed on our server allowlist, which can be viewed [her
 #### How much Precious Material can be given out in a single adventure?
 {text-align:center}
 
-##### Table 3-3: Precious Material Values 
+##### Table 3-3: Precious Material Values
 {text-align:center}
-Tier of Play | Precious Material Value Permitted 
+Tier of Play | Precious Material Value Permitted
 :---: | :---: |
 1 | 2-3g |
-2 | 8-10g | 
+2 | 8-10g |
 3 | 45-55g |
 4 | 120-160g |
 5 | 2500g (not a typo) |
@@ -398,15 +398,15 @@ Tier of Play | Precious Material Value Permitted
 
 {{wide
 
-### GM Rewards 
-For running a game in Covalon, you recieve a Hero Point, up to the normal cap of 3. You also receive the rewards listed in tables 3-4 and 3-5. When your adventure ends, you may choose to forgo the rewards in these tables if you wish. If you forgo these rewards, you must forfeit both the experience and the gold. You cannot take one without the other. You can choose to take or forgo the Hero Point. 
+### GM Rewards
+For running a game in Covalon, you recieve a Hero Point, up to the normal cap of 3. You also receive the rewards listed in tables 3-4 and 3-5. When your adventure ends, you may choose to forgo the rewards in these tables if you wish. If you forgo these rewards, you must forfeit both the experience and the gold. You cannot take one without the other. You can choose to take or forgo the Hero Point.
 
 {{column-count:2
 ##### Table 3-4: Non-Patrol* GM Rewards
-GM Character Level | Experience Reward | Gold Reward | 
+GM Character Level | Experience Reward | Gold Reward |
 --- | :---: | :---: |
 1 | 500 | 22g
-2 | 500 | 38g 
+2 | 500 | 38g
 3 | 500 | 64g
 4 | 500 | 108g
 5 | 500 | 170g
@@ -421,11 +421,11 @@ GM Character Level | Experience Reward | Gold Reward |
 14| 250  | 2282g
 15| 250  | 3407g
 
-##### Table 3-5: Patrol GM Rewards 
-GM Character Level | Experience Reward | Gold Reward | 
+##### Table 3-5: Patrol GM Rewards
+GM Character Level | Experience Reward | Gold Reward |
 --- | :---: | :---: |
 1 | 250 | 11g
-2 | 250 | 19g 
+2 | 250 | 19g
 3 | 250 | 32g
 4 | 250 | 54g
 5 | 250 | 85g
@@ -441,7 +441,7 @@ GM Character Level | Experience Reward | Gold Reward |
 15| 0  | 852g
 }}
 
-'* Non-Patrol rewards consist of Dungeons, Descents, Expeditions, Finales, Excursions, and Brawls. 
+'* Non-Patrol rewards consist of Dungeons, Descents, Expeditions, Finales, Excursions, and Brawls.
 
 
 }}
@@ -463,7 +463,7 @@ You can give players a 'sample' of a creature that has either the Animal or Beas
 
 \page
 
-{{wide 
+{{wide
 # Chapter 4: Adventure Types
 
 
@@ -473,32 +473,32 @@ You can give players a 'sample' of a creature that has either the Animal or Beas
 
 {{wide
 
-##### Table 4-1: Adventure Types 
-Adventure Type | Duration | Description | 
+##### Table 4-1: Adventure Types
+Adventure Type | Duration | Description |
 --- | :---: | :---: |
 Dungeon    | 3-4 hours | A supply gathering adventure to distant lands that takes the party through a portal.
-Patrol     | 1 hour    | A short combat encounter of moderate difficulty near Covalon-controlled areas. 
+Patrol     | 1 hour    | A short combat encounter of moderate difficulty near Covalon-controlled areas.
 Expedition | 3-4 hours | Narratively linked adventures that tie in to the Covalon Meta-Narrative.
 Finale     | 2-3 hours | A Boss Fight style encounter that is the culmination of an expedition arc.
-Excursion  | 3-4 hours | An adventure that is part of a narratively connected set of missions called a Saga. 
-Descent    | 4 hours   | A brutal dungeon crawl against the hardest encounters Covalon has to offer. 
+Excursion  | 3-4 hours | An adventure that is part of a narratively connected set of missions called a Saga.
+Descent    | 4 hours   | A brutal dungeon crawl against the hardest encounters Covalon has to offer.
 Brawl      | 2-4 hours | 3v3 PvP Arena combat where the strongest team wins glory and prestige!
-Duel       | 0.5-1 hour| 1v1 narrative duels with no rewards except bragging rights. 
+Duel       | 0.5-1 hour| 1v1 narrative duels with no rewards except bragging rights.
 
 
 
 
-### Dungeons 
+### Dungeons
 
 {{descriptive,right,width:220px
 #### Singular Sessions
-Excluding Excursions, all adventures must be entirely self-contained. You may not run a dungeon or patrol that is a sequel, prequel or otherwise narratively linked to another adventure. 
+Excluding Excursions, all adventures must be entirely self-contained. You may not run a dungeon or patrol that is a sequel, prequel or otherwise narratively linked to another adventure.
 
 }}
 
 Dungeons are a game type initiated as a mission from the Dungeoneering Society. Your Portal Specialist transports the party to faraway lands via portal magic to investigate mysteries, gather supplies and defeat dangers.
 
-A dungeon generally consists of three moderate encounters that are appropriate for the Average Party Level. These adventures generally take about 3 hours and must not go longer than 4 hours. Activities besides combat may be budgeted as an encounter, such as a trap, a puzzle, a social encounter, or exploration/travel, with approval in your approval ticket. 
+A dungeon generally consists of three moderate encounters that are appropriate for the Average Party Level. These adventures generally take about 3 hours and must not go longer than 4 hours. Activities besides combat may be budgeted as an encounter, such as a trap, a puzzle, a social encounter, or exploration/travel, with approval in your approval ticket.
 
 
 }}
@@ -555,7 +555,7 @@ Finales are generally designed as encounters of moderate+ difficulty for the mid
 The only exceptions to this rule are Taltain and Ikouga, which were designed for the highest APL of their tier, e.g. APL 15 for Tier 5. You can manually adjust these down if you wish, but this is not recommended.
 
 ##### Normal Mode and Hard Mode
-Finales come in two versions: Normal Mode or Hard Mode. For a short time when a Finale first releases (usually the release weekend), it can only be run by Covalon administrators, moderators, and Senior Dungeon Guides, and only in Hard Mode, for the maximum APL in the highest two tiers of play. This is because the opening weekend is the "canonical" version of the boss fight. Every time the finale is run after this, the boss is flavored as a "facsimile," a copy created by the Maw with all the same combat capabilities. After the initial period, the Finale can be run by any Dungeon Guide in either Normal or Hard Mode. Normal Mode can be run in Tier 3 and above, while Hard Mode is intended only for max level characters in the highest two tiers of play.   
+Finales come in two versions: Normal Mode or Hard Mode. For a short time when a Finale first releases (usually the release weekend), it can only be run by Covalon administrators, moderators, and Senior Dungeon Guides, and only in Hard Mode, for the maximum APL in the highest two tiers of play. This is because the opening weekend is the "canonical" version of the boss fight. Every time the finale is run after this, the boss is flavored as a "facsimile," a copy created by the Maw with all the same combat capabilities. After the initial period, the Finale can be run by any Dungeon Guide in either Normal or Hard Mode. Normal Mode can be run in Tier 3 and above, while Hard Mode is intended only for max level characters in the highest two tiers of play.
 \column
 ##### Modifications
 Every Finale has three different modifications that alter the encounter, usually by adding the boss an additional ability or improving an existing one. To run a Normal Mode Finale, a GM chooses or randomly picks one of the available modifications. Do not tell the players which modifications is in effect. In Hard Mode, all three modifications are active at the same time
@@ -567,7 +567,7 @@ In Excursions, players explore areas surrounding liberated Expedition locations 
 
 Each Excursion in a Saga should last between 3 and 4 hours, but not more than 4, and each Saga must include between 1 and 3 Excursions lasting up to 1 day in-world. Excursions have no effect on Downtime activities, and GMs are not required to run Excursions in a given Saga for the same group or tier.
 :
-Each Excursion within a Saga can include recurring NPCs, locations, and themes. 
+Each Excursion within a Saga can include recurring NPCs, locations, and themes.
 Encounters in excursions follow the normal rules for Dungeons. Each excursion has an additional 40 XP (30 or 20 for parties of smaller size) added to the total session budget. This XP can be used to include additional creatures or hazards at any point in the excursion, including to create encounters more difficult than a 120 XP Moderate Encounter (100, or 80 for parties of smaller size).
 :
 Excursion submissions must include a narrative. These storylines cannot affect Covalon as a whole (e.g. new deities, attacks or plots against on Covalon itself) and must focus on the Excursion's region. Dungeon Summary posts for Excursions should be no more than 200 words long.
@@ -612,8 +612,8 @@ You must confirm with the participants that they have had their duel approved in
 
 \page
 
-{{wide 
-# Chapter 5: Dungeoneering Society 
+{{wide
+# Chapter 5: Dungeoneering Society
 
 
 {{separator}}
@@ -634,7 +634,7 @@ It is possible to use a living creature as a portal key. This was only ever done
 }}
 
 ### Dungeoneering Contracts
-All new characters to the dungeoneering society must sign a dungeoneering contract before they can complete any adventures on behalf of Covalon. This is a great opportunity to have people introduce their character to a group, and a copy of the contract can be found in the Covalon Module. 
+All new characters to the dungeoneering society must sign a dungeoneering contract before they can complete any adventures on behalf of Covalon. This is a great opportunity to have people introduce their character to a group, and a copy of the contract can be found in the Covalon Module.
 
 ### Emotional Resonance
 Areas where strong emotions were released tend to magnetize portals to those areas. For example, say a village burned to the ground during the cataclysm and all the villagers were incinerated in a matter of minutes. The screams of terror and pain from the villagers would create a strong emotional magnet that might influence a portal key more than anything else in its object memory (hence why many portals tend to open to ruins or other sites of tragedy). The other major factor that influences portals are ley lines, which are invisible loci of magical power scattered across the world. Ley line interference is highly unpredictable, and can cause portals to open quite a distance off from the source of the object memory feeding the portal. As a result, it is impossible to "pinpoint" a specific location with portals.
@@ -653,7 +653,7 @@ After a portal key has been used and a dungeon has been finished, portal special
 
 \page
 
-{{wide 
+{{wide
 # Chapter 6: Adventure Lore
 
 
@@ -684,7 +684,7 @@ NPCs can never return to Covalon. Magical defenses physically prevent any outsid
 ### Technology
 The level of technology for the setting can be summarised as 'Gunpowder and Clockwork'. Stasian technology is too advanced, and even the most advanced pre-Cataclysm civilisations were only in the very early stages of industrialisation.
 :
-This means that settings that include heavy sci-fi elements, factories, heavy industralisation or similarly non-clockwork mechanical elements are not appropriate for Covalon adventures. Mixtures of magic and machine are suitable, however. If you're unsure if your setting. 
+This means that settings that include heavy sci-fi elements, factories, heavy industralisation or similarly non-clockwork mechanical elements are not appropriate for Covalon adventures. Mixtures of magic and machine are suitable, however. If you're unsure if your setting.
 
 {{wide
 {{note
@@ -700,7 +700,7 @@ You may choose to include NPCs that sell items in your adventures. You may also 
 
 \page
 
-{{wide 
+{{wide
 # Chapter 7: Running Games
 
 
@@ -836,7 +836,7 @@ Once everything else is done, and you have done everything else you need to do, 
 
 \page
 
-{{wide 
+{{wide
 # Chapter 8: Covalon Specific Tools
 
 
@@ -846,16 +846,16 @@ Once everything else is done, and you have done everything else you need to do, 
 }}
 
 
-### Covalon Module 
+### Covalon Module
 The Covalon Module provides a compendium of all information required to run games in Covalon, including all of our current Mentors, Expeditions and Deities. You can install the Covalon Module at the below Manifest URL.
 
 {{note
 
 
-##### Manifest URL: 
+##### Manifest URL:
 https://github.com/covalon/covalon/releases/latest/download/module.json
 :
-Paste this URL into the module manifest URL link inside Foundry. Do not download the json file, it won't be useful for you. 
+Paste this URL into the module manifest URL link inside Foundry. Do not download the json file, it won't be useful for you.
 
 }}
 
@@ -869,7 +869,7 @@ You can make a copy of this tool here: [Covalon Adventure Submission Tool](https
 [Hammertime](https://hammertime.cyou/) is a very useful tool that provides a code that converts time into a user's local time in Discord. This is very useful for organising games or events inside Covalon!
 
 ### When2Meet
-[When2Meet](https://www.when2meet.com/) is a website that lets you and others put availability into a calendar. This can be great for finding a time that works for a GM and group of players. 
+[When2Meet](https://www.when2meet.com/) is a website that lets you and others put availability into a calendar. This can be great for finding a time that works for a GM and group of players.
 
 {{pageNumber,auto}}
 
@@ -877,11 +877,11 @@ You can make a copy of this tool here: [Covalon Adventure Submission Tool](https
 
 
 <div id='headerbox' class='headerLeft'>
-  
+
 # Menu
 
 <div class='toc'>
-  
+
 
 - ### [{{ Covalon GM’s Guide}}{{ 1}}](#p1)
   - #### [{{ Running Games in Covalon}}{{ 1}}](#p1)
@@ -947,5 +947,5 @@ You can make a copy of this tool here: [Covalon Adventure Submission Tool](https
 </div>
 
 
-  
+
 </div>
