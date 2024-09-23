@@ -1,4 +1,4 @@
-{{titlebar,width:60% Covalon Player's Guide rev 24.09.18 }}
+{{titlebar,width:60% Covalon Player's Guide rev 24.09.23 }}
 
 
 
@@ -961,7 +961,10 @@ Adamantine | Mining, Caves, etc.
 Duskwood | Woodcutting, Forest, etc.
 Dragonhide | Tanning, Dragon, etc.
 Siccatite (hot and cold) | Mining, Caves, Gornlar, etc.
-
+Abysium | Mining, Metal, etc.
+Djezet | Mining, Metal, etc.
+Inubrix | Mining, Metal, etc.
+Noqual | Mining, Metal, etc.
 
 
 #### Retraining
@@ -3586,7 +3589,7 @@ Yksys (Champion 15)
 
 Cinna (Sorcerer 15) 
 
-Valerie (FighteR 15) 
+Valerie (Fighter 15) 
 
 Tox (Thaumaturge 15)
 
@@ -3645,12 +3648,65 @@ Three or so centuries ago, the Fey Court returned at the behest of the Ailidian 
 
 #### Fey Courts Expedition Log
 
-Expedition missions in the Fey Courts are currently underway - more to come soon!
+The Fey Courts expedition has been COMPLETED - summary to come! 
+
+{{descriptive,right,width:190px
+
+#### Heroes of the Fey Courts
+
+The following characters were the first to defeat the metal elemental Lethallica in the Fey Court's expedition finale.
 :
-![](https://github.com/covalon/covalon-guide/raw/97e8a890004b0ccb730185fc63da8e958076d977/assets/covalon/PlayersGuide/Maps/Fey_Courts_Camp.webp){width:680px,margin:"0px 0px"}
+Aerin Velika (Cleric 10)
+
+Bhoomi (Fighter 15)
+
+Brumata (Summoner 15)
+
+Cressida (Rogue 11)
+
+Cinna (Sorcerer 15)
+
+Durbal (Rogue 15)
+
+Foram (Fighter 11)
+
+Kelani Snowdrop (Inventor 15)
+
+Koji (Oracle 15)
+
+Komainu (Rogue 15)
+
+Kona Snowdrop (Alchemist 15)
+
+Kosta (Magus 15)
+
+Kouzo (Gunslinger 15)
+
+Mira (Ranger 15)
+
+Nina (Sorcerer 12)
+
+Phillip (Wizard 15)
+
+Rinka (Witch 15)
+
+Samerio (Swashbuckler 12)
+
+Seren (Swashbuckler 12)
+
+Thurg (Barbarian 15)
+
+Valerie (Swashbuckler 15)
+
+Zoe (Summoner 15)
+
+}}
+ 
+:
+![](https://github.com/covalon/covalon-guide/raw/97e8a890004b0ccb730185fc63da8e958076d977/assets/covalon/PlayersGuide/Maps/Fey_Courts_Camp.webp){width:470px,margin:"0px 0px"}
 
 *Covalon's hidden camp in the trees. Designed by Rinka.* 
-{text-align:center}
+{text-align:left}
 
  
 
@@ -4675,7 +4731,7 @@ The lodestone of dwarven culture.
 
 **Population** dwarves, humans, gnomes, halflings
 
-**Religion** ocal legends (the Iron Fathers), Nimane
+**Religion** Local legends (the Iron Fathers), Nimane
 
 **Primary Exports** raw ores, precious metals, weapons
 
