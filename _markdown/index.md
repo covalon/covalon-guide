@@ -1,4 +1,4 @@
-{{titlebar,width:60% Covalon Player's Guide rev 24.09.23 }}
+{{titlebar,width:60% Covalon Player's Guide rev 24.11.18 }}
 
 
 
@@ -57,72 +57,74 @@ Covalon is a "living world" style tabletop RPG campaign, using the Pathfinder 2e
   - #### [{{ Retiring Your Character}}{{ 9}}](#p9)
 - ### [{{ Chapter 3: Covalon Gameplay}}{{ 10}}](#p10)
   - #### [{{ General Rules}}{{ 10}}](#p10)
-    -  [{{ Levels and Tiers}}{{ 10}}](#p10)
-    -  [{{ Resting and Daily Preparations}}{{ 10}}](#p10)
-    -  [{{ Purchasing Equipment}}{{ 10}}](#p10)
-    -  [{{ Infused and Temporary Items}}{{ 10}}](#p10)
-    -  [{{ Using Higher Tier Equipment}}{{ 11}}](#p11)
-    -  [{{ Mentorship System}}{{ 11}}](#p11)
-    -  [{{ Afflictions}}{{ 11}}](#p11)
-    -  [{{ Learning Spells}}{{ 12}}](#p12)
-    -  [{{ Soul Seeds}}{{ 12}}](#p12)
-    -  [{{ Alternate Characters}}{{ 13}}](#p13)
+    - [{{ Levels and Tiers}}{{ 10}}](#p10)
+    - [{{ Resting and Daily Preparations}}{{ 10}}](#p10)
+    - [{{ Purchasing Equipment}}{{ 10}}](#p10)
+    - [{{ Infused and Temporary Items}}{{ 10}}](#p10)
+    - [{{ Using Higher Tier Equipment}}{{ 11}}](#p11)
+    - [{{ Mentorship System}}{{ 11}}](#p11)
+    - [{{ Afflictions}}{{ 11}}](#p11)
+    - [{{ Learning Spells}}{{ 12}}](#p12)
+    - [{{ Soul Seeds}}{{ 12}}](#p12)
+    - [{{ Alternate Characters}}{{ 13}}](#p13)
   - #### [{{ Adventures}}{{ 14}}](#p14)
-    -  [{{ Dungeons}}{{ 14}}](#p14)
-    -  [{{ Patrols}}{{ 14}}](#p14)
-    -  [{{ Brawls}}{{ 15}}](#p15)
-    -  [{{ Descents}}{{ 16}}](#p16)
-    -  [{{ Expeditions}}{{ 17}}](#p17)
-    -  [{{ Excursions}}{{ 18}}](#p18)
+    - [{{ Dungeons}}{{ 14}}](#p14)
+    - [{{ Patrols}}{{ 14}}](#p14)
+    - [{{ Brawls}}{{ 15}}](#p15)
+    - [{{ Descents}}{{ 16}}](#p16)
+    - [{{ Expeditions}}{{ 17}}](#p17)
+    - [{{ Excursions}}{{ 18}}](#p18)
   - #### [{{ Downtime}}{{ 18}}](#p18)
-    -  [{{ Earning and Spending Downtime}}{{ 18}}](#p18)
-    -  [{{ Special Covalon Activities}}{{ 19}}](#p19)
-    -  [{{ Special Covalon Rituals}}{{ 21}}](#p21)
+    - [{{ Earning and Spending Downtime}}{{ 18}}](#p18)
+    - [{{ Special Covalon Activities}}{{ 19}}](#p19)
+    - [{{ Special Covalon Rituals}}{{ 21}}](#p21)
   - #### [{{ Roleplay}}{{ 22}}](#p22)
-    -  [{{ Guilds}}{{ 22}}](#p22)
-    -  [{{ Guild Event Rewards}}{{ 22}}](#p22)
-    -  [{{ Housing, Businesses, and Guild Halls}}{{ 22}}](#p22)
-    -  [{{ Crime and Punishment}}{{ 24}}](#p24)
+    - [{{ Guilds}}{{ 22}}](#p22)
+    - [{{ Guild Event Rewards}}{{ 22}}](#p22)
+    - [{{ Housing, Businesses, and Guild Halls}}{{ 22}}](#p22)
+    - [{{ Crime and Punishment}}{{ 24}}](#p24)
 - ### [{{ Chapter 4: Campaign Lore}}{{ 26}}](#p26)
   - #### [{{ Basic Lore}}{{ 26}}](#p26)
-    -  [{{ The Cataclysm}}{{ 26}}](#p26)
-    -  [{{ Covalon}}{{ 26}}](#p26)
-    -  [{{ The Heart of Terra}}{{ 26}}](#p26)
-    -  [{{ The Maw}}{{ 26}}](#p26)
+    - [{{ The Cataclysm}}{{ 26}}](#p26)
+    - [{{ Covalon}}{{ 26}}](#p26)
+    - [{{ The Heart of Terra}}{{ 26}}](#p26)
+    - [{{ The Maw}}{{ 26}}](#p26)
   - #### [{{ Maps of Elleaterra}}{{ 27}}](#p27)
   - #### [{{ The Siege of Covalon}}{{ 28}}](#p28)
   - #### [{{ Operation Heartbreaker}}{{ 29}}](#p29)
   - #### [{{ Covalon: Out of Time}}{{ 30}}](#p30)
   - #### [{{ Covalon: The Endless Gray}}{{ 31}}](#p31)
   - #### [{{ Covalon Gazetteer}}{{ 32}}](#p32)
-    -  [{{ City District}}{{ 32}}](#p32)
-    -  [{{ Market District}}{{ 39}}](#p39)
-    -  [{{ Encore District}}{{ 49}}](#p49)
-    -  [{{ Armory District}}{{ 53}}](#p53)
-    -  [{{ Lake District}}{{ 56}}](#p56)
-    -  [{{ Heart’s Forest}}{{ 61}}](#p61)
-    -  [{{ The Docks}}{{ 63}}](#p63)
-    -  [{{ The Farm}}{{ 64}}](#p64)
-    -  [{{ Mountain View District}}{{ 65}}](#p65)
-    -  [{{ River Run District}}{{ 65}}](#p65)
-    -  [{{ North Gate District}}{{ 66}}](#p66)
-    -  [{{ Expedition Districts and Outside Covalon}}{{ 68}}](#p68)
+    - [{{ City District}}{{ 32}}](#p32)
+    - [{{ Market District}}{{ 39}}](#p39)
+    - [{{ Encore District}}{{ 49}}](#p49)
+    - [{{ Armory District}}{{ 53}}](#p53)
+    - [{{ Lake District}}{{ 56}}](#p56)
+    - [{{ Heart’s Forest}}{{ 61}}](#p61)
+    - [{{ The Docks}}{{ 63}}](#p63)
+    - [{{ The Farm}}{{ 64}}](#p64)
+    - [{{ Mountain View District}}{{ 65}}](#p65)
+    - [{{ River Run District}}{{ 65}}](#p65)
+    - [{{ North Gate District}}{{ 66}}](#p66)
+    - [{{ Expedition Districts and Outside Covalon}}{{ 68}}](#p68)
   - #### [{{ Guilds}}{{ 70}}](#p70)
-    -  [{{ The Archivists}}{{ 70}}](#p70)
-    -  [{{ The Authors of Creation}}{{ 70}}](#p70)
-    -  [{{ Covalon Medical Society}}{{ 71}}](#p71)
-    -  [{{ The Servants of Terra}}{{ 71}}](#p71)
-    -  [{{ The Teacher’s Union}}{{ 71}}](#p71)
-    -  [{{ Trella’s Travellers}}{{ 72}}](#p72)
-    -  [{{ The House of Dusk and Dawn}}{{ 72}}](#p72)
-    -  [{{ The Lightkeepers}}{{ 72}}](#p72)
-    -  [{{ Children of the Chicome}}{{ 73}}](#p73)
-    -  [{{ Covalon Historical Society}}{{ 73}}](#p73)
-    -  [{{ The Stouthearts}}{{ 73}}](#p73)
-    -  [{{ The Green Knights of the Square}}{{ 74}}](#p74)
+    - [{{ The Archivists}}{{ 70}}](#p70)
+    - [{{ The Authors of Creation}}{{ 70}}](#p70)
+    - [{{ Covalon Medical Society}}{{ 71}}](#p71)
+    - [{{ The Servants of Terra}}{{ 71}}](#p71)
+    - [{{ The Teacher’s Union}}{{ 71}}](#p71)
+    - [{{ Trella’s Travellers}}{{ 72}}](#p72)
+    - [{{ The House of Dusk and Dawn}}{{ 72}}](#p72)
+    - [{{ The Lightkeepers}}{{ 72}}](#p72)
+    - [{{ Children of the Chicome}}{{ 73}}](#p73)
+    - [{{ Covalon Historical Society}}{{ 73}}](#p73)
+    - [{{ The Stouthearts}}{{ 73}}](#p73)
+    - [{{ The Green Knights of the Square}}{{ 74}}](#p74)
   - #### [{{ Pre-Cataclysm Civilizations}}{{ 75}}](#p75)
   - #### [{{ Deities, Faith, and Ideologies}}{{ 92}}](#p92)
+
 }}
+
 
 
 {{pageNumber,auto}}
@@ -4762,7 +4764,8 @@ The various religions practiced in Elleaterra are as varied and distinct as the 
 | :------------------------------------ | :---------------- | :--------------------------------------- | :--------------------: |
 | Aelia                                | can choose holy  | fire, healing, sun, truth               | duty                 |
 | A'shir, the Fated Flame              | can choose unholy| destruction, fate, fire, time           | none                 |
-| Axnos             | can choose either| cities, knowledge, introspection, toil           | travel                |
+| Axnos             | can choose either| cities, knowledge, introspection, toil           | travel   
+The Brakeman | can choose holy | toil, protection, might, travel | metal, death|
 | The Circle of Stars                  | can choose holy  | healing, moon, star, sun                | travel               |
 | The Cheshire                         | can choose unholy| death, decay, cold                      | trickery             |
 | Derelis                              | must choose holy | ambition, protection, wyrmkin, zeal     | duty                 |
@@ -4792,7 +4795,7 @@ The various religions practiced in Elleaterra are as varied and distinct as the 
 | Noctune                              | none             | change, moon, passion, water            | delirium             |
 | Novissime, The Orchid Reaper         |must choose unholy| death, secrecy, zeal                    | fate                 |
 | Oenos                                | can choose holy  | confidence, indulgence, luck            | none                 |
-| The Path of the Great Spirits        | can choose holy  | family, freedom, knowledge, nature      | none                 |
+
                 
 
 }}
@@ -4804,10 +4807,12 @@ The various religions practiced in Elleaterra are as varied and distinct as the 
 ##### Table 4-1: Deities cont.
 | Diety                                | Sanctification   | Domains                                 | Alt Domains          |
 | :------------------------------------ | :---------------- | :--------------------------------------- | :--------------------: |
+| The Path of the Great Spirits        | can choose holy  | family, freedom, knowledge, nature      | none                 |
 | Peko-Amuzo, The Trickster Prince     | can choose unholy| change, indulgence, passion, trickery   | abomination          |
 | Riahn, He who Eclipsed the Stars     |can choose either            | cities, cold, darkness, wealth          | dreams               |
 | Seraphion, the Highest Throne              | can choose holy  | duty, protection, sun, wealth     | none               |
-| Sinnesh, the Den Mother              | can choose holy  | creation, earth, family, protection     | travel               |
+| Sinnesh, the Den Mother              | can choose holy  | creation, earth, family, protection     | travel 
+Satya, the Peerless Seeker | can choose holy | truth, introspection, knowledge, change | perfection|
 | The Eyes                             |must choose unholy| abomination, nightmare, pain, void      | none                 |
 | The Living Mandate                   | can choose either| ambition, destruction, freedom, wealth  | none                 |
 | The Three Sisters                    | can choose holy  | healing, knowledge, truth, vigil        | travel               |
@@ -4863,16 +4868,26 @@ Still bound by divine chains, A’shir now vows to destroy the other gods and al
 **Cleric Spells** 1st: ill omen, 4th: wall of fire, 6th: flame vortex <br>
 
 }}
-{{pageNumber,auto}}
-\page
 ### Axnos
 {{wide,columns:2
-Axnos teaches that every crumbling monument and weathered relic holds a story waiting to be unveiled, a window into the past that illuminates the present and future. They serve as a patron deity for explorers and scholars, drawing a particularly devoted following among archaeologists and anthropologists. While Axnos' followers would never hesitate to extoll the virtues of study and the reading of history, Axnos is most pleased when their followers take to the field, hold the holy artifacts of civilizations in their hands, partake in the rituals of those unlike themselves, and stand in the ruins that once housed heroes of an era. 
+Axnos teaches that every crumbling monument and weathered relic holds a story waiting to be unveiled, a window into the past that illuminates the present and future. They serve as a patron deity for explorers and scholars, drawing a particularly devoted following among archaeologists and anthropologists. While Axnos' followers would never hesitate to extoll the virtues of study and the reading of history, Axnos is most pleased when their followers take to the field, hold the holy artifacts of civilizations in their hands, 
 
-To read about the past is one thing, but to partake directly in it grants a knowledge of how much one shares in common with their forbearers that a book could never impart. This pursuit of the past also serves to humble many of Axnos' followers and reminds themselves they are a small footnote in the grand tapestry of civilization. In the same way they study the artifacts of the past, someone in the future may study the iconography and rituals they hold dear today. Axnos' holy symbol depicts an hour glass surrounded by a serpent devouring its own tail.
+\column
 
+partake in the rituals of those unlike themselves, and stand in the ruins that once housed heroes of an era.
+
+To read about the past is one thing, but to partake directly in it grants a knowledge of how much one shares in common with their forbearers that a book could never impart. This pursuit of the past also serves to humble many of Axnos' followers and reminds themselves they are a small footnote in the grand tapestry of civilization. In the same way they study the artifacts of the past, someone in the future 
+
+}}
+
+{{pageNumber,auto}}
+\page
+
+{{wide,columns:2
+ 
+may study the iconography and rituals they hold dear today. Axnos' holy symbol depicts an hour glass surrounded by a serpent devouring its own tail.
 Followers pray to Axnos in the hopes of being granted opportunities to explore forgotten locales, for safety from what lurks in old ruins, to remain humble and aware of how small their part is to play in civilization's story, and to one day uncover the past with the same level of divine insight and perspective unburdened by lived experiences. By emulating Axnos' humility, thirst for knowledge, and respect for the past, their followers deeply appreciate similarities to bygone peoples, engage with the history and stories that shape the world they live in, and are more well equipped to navigate an unknown future and avoid the pitfalls past peoples fell into.
-:
+<br>
 **Edicts** unearth the veiled histories, partake in local customs, document the past, keep your curiosity unbound <br>
 **Anathema** desecrate historical sites, be intolerant of other cultures, remain willfully ignorant, spurn past societies
 
@@ -4885,6 +4900,22 @@ Followers pray to Axnos in the hopes of being granted opportunities to explore f
 **Domains** cities, knowledge, introspection, toil <br>
 **Alternate Domain** travel <br>
 **Cleric Spells** 1st: share lore, 3rd: hypercognition, 7th: retrocognition
+}}
+### The Brakeman
+{{wide,columns:2
+The Brakeman started as a figure of rumor and folklore among rail workers: when an accident was avoided through seemingly miraculous means, they'd credit an anonymous "Brakeman at the switch." When misfortune befell management who had treated employees badly, it was credited to the  same figure  with "The Brakeman is watching". Over time, the superstitious invocation of the Brakeman became an actual cult, invoked to  watch over the safety of public works, those traveling by mechanical conveyance, and to bless labor movements and wildcat strikes.  Some Brakeman stories associate the figure with guiding the souls of the dead to the afterlife, gathering them aboard a phantom train as it heads towards what they dub the last stop.
+
+**Edicts** Protect others on vehicles, assist with large infrastructure projects<br>
+**Anathema** Trust Management, use forced labor<br>
+#### Devotee Benefits  
+  
+**Divine Font** heal <br>
+**Divine Sanctification** can choose holy <br>
+**Divine Skill** athletics <br>
+**Favored Weapon** maul <br>
+**Domains** toil, protection, might, travel <br>
+**Alternate Domain** metal, death <br>
+**Cleric Spells** 1st: carryall, 4th: sliding blocks, 7th: heaving earth <br>
 }}
 ### The Circle of Stars
 {{wide,columns:2
@@ -5417,12 +5448,8 @@ Riahn, twin deity to Trella, was once known as the God of the South Star. His ro
 \page
 ### Seraphion, The Highest Throne
 {{wide,columns:2
-The prince fretting over his upcoming betrothal, the noble diligently hearing the pleas of their subjects at court, and the queen charging to battle to defend her nation - all do so at the whim of Seraphion’s divine decree. The deity of opulence, gems, and nobility, Seraphion teaches that those in power must wield it with wisdom and grace, and for the betterment of all who find themselves their subjects.
-
-From their shining throne at the apex of The Resplendent Court, Seraphion garbs themselves in glittering gems and golden robes; the perfect depiction of noble bearing. But while this opulence allows them to shine bright above their subjects, it is also a reminder of the weight of responsibility those in power must bear. Each gem reflects the dreams of their faithful and each carefully woven thread, the destiny of a nation.
-
-The Highest Throne’s worship reached far across Elleterra prior to the cataclysm. Within grand halls the aristocracy dutifully tended to shrines to their glory, within the streets the common folk brought offerings to their priests to bring the people's plight to the ears of the nobility. Only the most corrupt and decadent nations denied The Highest Throne their due, so entrenched were their edicts in people’s lives.
-:
+The prince fretting over his upcoming betrothal, the noble diligently hearing the pleas of their subjects at court, and the queen charging to battle to defend her nation - all do so at the whim of Seraphion’s divine decree. Deity of opulence, gems, and nobility, Seraphion teaches that those in power must wield it with wisdom and grace, and for the betterment of all their subjects.
+From their shining throne at the apex of The Resplendent Court, Seraphion garbs themselves in glittering gems and golden robes; the perfect depiction of noble bearing. But while this opulence allows them to shine bright above their subjects, it is also a reminder of the weight of responsibility those in power must bear. Each gem reflects the dreams of their faithful and each carefully woven thread, the destiny of a nation. The Highest Throne’s worship reached far across Elleterra prior to the cataclysm. Within grand halls the aristocracy dutifully tended to shrines to their glory, within the streets the common folk brought offerings to their priests to bring the people's plight to the ears of the nobility. Only the most corrupt and decadent nations denied The Highest Throne their due, so entrenched were their edicts in people’s lives.<br>
 **Edicts** take pride in your appearance, wear gemstones, consider the needs of those you have authority over, accept responsibility for your actions<br>
 **Anathema** refuse to listen to someone's point of view, disrespect a gemstone, deny support to those under your care, neglect your duty to those you serve<br>
 #### Devotee Benefits
@@ -5435,8 +5462,7 @@ The Highest Throne’s worship reached far across Elleterra prior to the catacly
 }}
 ### Sinnesh, The Den Mother
 {{wide,columns:2
-The Den Mother is an ancient being who originally gained power due to the worship of warren dwelling Ysoki. She is a deity of earth, family, and crafting, usually depicted as either a matronly Ysoki woman or as a massive subterranean rat. Though still somewhat of a patron diety to many Ysoki clans, she has also become popular with all folk who live or travel beneath the surface, mine and utilize underground resources, or value strong familial ties. Her holy symbol is a rat, curled up as though sleeping in a snug den.
-:
+The Den Mother is an ancient being who originally gained power due to the worship of warren dwelling Ysoki. She is a deity of earth, family, and crafting, usually depicted as either a matronly Ysoki woman or as a massive subterranean rat. Though still somewhat of a patron diety to many Ysoki clans, she has also become popular with all folk who live or travel beneath the surface, mine and utilize underground resources, or value strong familial ties. Her holy symbol is a rat, curled up sleeping in a snug den. <br>
 **Edicts** respect natural caves and underground spaces, value the knowledge of your elders, utilize the resources you gather, assist underground travellers <br>
 **Anathema** end the life of a child, let precious minerals or metals go to waste, abandon a family member who cherishes and respects you <br>
 #### Devotee Benefits
@@ -5448,6 +5474,26 @@ The Den Mother is an ancient being who originally gained power due to the worshi
 **Alternate Domain** travel<br>
 **Cleric Spells** 1st: shattering gem, 3rd: earthbind, 5th: wall of stone
 }}
+
+### Satya, the Peerless Seeker
+{{wide,columns:2
+Satya was once a mortal ascetic, a human devoted to the concept of objective truth and self-rule. In his enlightenment, and subsequent ascension, he learned the most valuable truth: that there is no objective truth. There is only the truth of the individual, each person has their own truth, and it is folly to peddle the lie of an ‘objective’ truth. Satya also learned a second truth: that despite there being no objective truth, the truth is still an absolute value of our reality.
+Ever since his ascension, Satya’s godly overview remains in his mortal devotion, reigning as a god of Truth, Complete Self-Rule, and Harmony. As the strict pursuit of the truth leads to self-rule and harmony of one's self and environment. The clergy of Satya traditionally use their pursuit of truth to collect and spread lost knowledge, teach others beneficial concepts that they otherwise wouldn’t know, and lastly, defend the world from those who seek to desecrate the truth with petty lies.
+Satya’s monks traditionally carry a holy symbol shaped into a circular mirror with engraved Chrysanthemums.  <br> 
+**Edicts** Find your personal truth, look within yourself and hone your mind, body and spirit, Seek and undo as much misinformation whenever possible.<br>
+**Anathema** Threaten another to accept the truth, willingly spread misinformation or hide your truth, let your desires cloud your mind/practice hedonism <br>
+#### Devotee Benefits
+**Divine Font** heal or harm<br>
+**Divine Sanctification** may choose holy<br>
+**Divine Skill** diplomacy<br>
+**Favored Weapon** talwar<br>
+**Domains** truth, introspection, knowledge, change<br>
+**Alternate Domain** perfection<br>
+**Cleric Spells** 1st: liberating command, 3rd: hypercognition, 6th: mantle of the unwavering heart
+}}
+
+{{pageNumber,auto}}
+\page
 ### The Eyes
 {{wide,columns:2
 Lurking in the deepest reaches of the sea, The Eyes watch, The Eyes wait. The Eyes share knowledge with any who seek it. For those that touch upon The Eyes truth are forever reshaped, and their souls forever marked by madness. The Eyes know all, and see all, but require it's followers to seek more madness and fear, to learn more secrets of the unending void. For only in the rantings of a mad broken soul, can the truth be seen. The eyes followers attempt to destroy the minds of others, for a broken mind serves as sustanance to The Eyes, although the followers do not know this. The Eyes cares not for it's followers as long as they continue to feed them with broken minds and knowledge. As long as madness exists in the world, The Eyes will always be waiting.
@@ -5462,8 +5508,7 @@ Lurking in the deepest reaches of the sea, The Eyes watch, The Eyes wait. The Ey
 **Domains** abomination, nightmare, pain, void<br>
 **Cleric Spells** 2nd: paranoia, 4th: vision of death, 7th: mask of terror
 }}
-{{pageNumber,auto}}
-\page
+
 ### The Living Mandate
 {{wide,columns:2
 The Living Mandate is an unseen manifestation of mortals' rejection of the natural world and all it entails. They have existed since the start of the very first civilization to stray from the wilds, to carve its place unto the world and rise above the rest, growing as more and more have followed. Called by many names or philosophies they exist as an ideal or guiding deity in various cultures. Long ago, many believed that they watched over all civilization, ensuring progress at any cost. Though lacking any major allegiances, they heavily favour those who seek to innovate, to change, to seize their destiny. They have come to be characterized by ambition, progress and liberty. However, there are always two sides to a coin and with unrestricted progress comes greed, destruction, war and more. Still, always, The Living Mandate always sides with unrestricted advancement regardless of consequences. Now their worshippers include a variety of individuals from all backgrounds, good or bad, each seeking to manifest their destiny.
@@ -5613,6 +5658,7 @@ A relatively unkown deity, Xeesis is a god of secrets and hidden knowledge. They
 
 <div class='toc'>
 
+
 - ### [{{ Covalon Player’s Guide}}{{ 1}}](#p1)
   - #### [{{ What is Covalon?}}{{ 1}}](#p1)
 - ### [{{ Chapter 1: Player Expectations}}{{ 3}}](#p3)
@@ -5631,141 +5677,145 @@ A relatively unkown deity, Xeesis is a god of secrets and hidden knowledge. They
   - #### [{{ Retiring Your Character}}{{ 9}}](#p9)
 - ### [{{ Chapter 3: Covalon Gameplay}}{{ 10}}](#p10)
   - #### [{{ General Rules}}{{ 10}}](#p10)
-    -  [{{ Levels and Tiers}}{{ 10}}](#p10)
-    -  [{{ Resting and Daily Preparations}}{{ 10}}](#p10)
-    -  [{{ Purchasing Equipment}}{{ 10}}](#p10)
-    -  [{{ Infused and Temporary Items}}{{ 10}}](#p10)
-    -  [{{ Using Higher Tier Equipment}}{{ 11}}](#p11)
-    -  [{{ Mentorship System}}{{ 11}}](#p11)
-    -  [{{ Afflictions}}{{ 11}}](#p11)
-    -  [{{ Learning Spells}}{{ 12}}](#p12)
-    -  [{{ Soul Seeds}}{{ 12}}](#p12)
-    -  [{{ Alternate Characters}}{{ 13}}](#p13)
+    - [{{ Levels and Tiers}}{{ 10}}](#p10)
+    - [{{ Resting and Daily Preparations}}{{ 10}}](#p10)
+    - [{{ Purchasing Equipment}}{{ 10}}](#p10)
+    - [{{ Infused and Temporary Items}}{{ 10}}](#p10)
+    - [{{ Using Higher Tier Equipment}}{{ 11}}](#p11)
+    - [{{ Mentorship System}}{{ 11}}](#p11)
+    - [{{ Afflictions}}{{ 11}}](#p11)
+    - [{{ Learning Spells}}{{ 12}}](#p12)
+    - [{{ Soul Seeds}}{{ 12}}](#p12)
+    - [{{ Alternate Characters}}{{ 13}}](#p13)
   - #### [{{ Adventures}}{{ 14}}](#p14)
-    -  [{{ Dungeons}}{{ 14}}](#p14)
-    -  [{{ Patrols}}{{ 14}}](#p14)
-    -  [{{ Brawls}}{{ 15}}](#p15)
-    -  [{{ Descents}}{{ 16}}](#p16)
-    -  [{{ Expeditions}}{{ 17}}](#p17)
-    -  [{{ Excursions}}{{ 18}}](#p18)
+    - [{{ Dungeons}}{{ 14}}](#p14)
+    - [{{ Patrols}}{{ 14}}](#p14)
+    - [{{ Brawls}}{{ 15}}](#p15)
+    - [{{ Descents}}{{ 16}}](#p16)
+    - [{{ Expeditions}}{{ 17}}](#p17)
+    - [{{ Excursions}}{{ 18}}](#p18)
   - #### [{{ Downtime}}{{ 18}}](#p18)
-    -  [{{ Earning and Spending Downtime}}{{ 18}}](#p18)
-    -  [{{ Special Covalon Activities}}{{ 19}}](#p19)
-    -  [{{ Special Covalon Rituals}}{{ 21}}](#p21)
+    - [{{ Earning and Spending Downtime}}{{ 18}}](#p18)
+    - [{{ Special Covalon Activities}}{{ 19}}](#p19)
+    - [{{ Special Covalon Rituals}}{{ 21}}](#p21)
   - #### [{{ Roleplay}}{{ 22}}](#p22)
-    -  [{{ Guilds}}{{ 22}}](#p22)
-    -  [{{ Guild Event Rewards}}{{ 22}}](#p22)
-    -  [{{ Housing, Businesses, and Guild Halls}}{{ 22}}](#p22)
-    -  [{{ Crime and Punishment}}{{ 24}}](#p24)
+    - [{{ Guilds}}{{ 22}}](#p22)
+    - [{{ Guild Event Rewards}}{{ 22}}](#p22)
+    - [{{ Housing, Businesses, and Guild Halls}}{{ 22}}](#p22)
+    - [{{ Crime and Punishment}}{{ 24}}](#p24)
 - ### [{{ Chapter 4: Campaign Lore}}{{ 26}}](#p26)
   - #### [{{ Basic Lore}}{{ 26}}](#p26)
-    -  [{{ The Cataclysm}}{{ 26}}](#p26)
-    -  [{{ Covalon}}{{ 26}}](#p26)
-    -  [{{ The Heart of Terra}}{{ 26}}](#p26)
-    -  [{{ The Maw}}{{ 26}}](#p26)
+    - [{{ The Cataclysm}}{{ 26}}](#p26)
+    - [{{ Covalon}}{{ 26}}](#p26)
+    - [{{ The Heart of Terra}}{{ 26}}](#p26)
+    - [{{ The Maw}}{{ 26}}](#p26)
   - #### [{{ Maps of Elleaterra}}{{ 27}}](#p27)
   - #### [{{ The Siege of Covalon}}{{ 28}}](#p28)
   - #### [{{ Operation Heartbreaker}}{{ 29}}](#p29)
   - #### [{{ Covalon: Out of Time}}{{ 30}}](#p30)
   - #### [{{ Covalon: The Endless Gray}}{{ 31}}](#p31)
   - #### [{{ Covalon Gazetteer}}{{ 32}}](#p32)
-    -  [{{ City District}}{{ 32}}](#p32)
-    -  [{{ Market District}}{{ 39}}](#p39)
-    -  [{{ Encore District}}{{ 49}}](#p49)
-    -  [{{ Armory District}}{{ 53}}](#p53)
-    -  [{{ Lake District}}{{ 56}}](#p56)
-    -  [{{ Heart’s Forest}}{{ 61}}](#p61)
-    -  [{{ The Docks}}{{ 63}}](#p63)
-    -  [{{ The Farm}}{{ 64}}](#p64)
-    -  [{{ Mountain View District}}{{ 65}}](#p65)
-    -  [{{ River Run District}}{{ 65}}](#p65)
-    -  [{{ North Gate District}}{{ 66}}](#p66)
-    -  [{{ Expedition Districts and Outside Covalon}}{{ 68}}](#p68)
+    - [{{ City District}}{{ 32}}](#p32)
+    - [{{ Market District}}{{ 39}}](#p39)
+    - [{{ Encore District}}{{ 49}}](#p49)
+    - [{{ Armory District}}{{ 53}}](#p53)
+    - [{{ Lake District}}{{ 56}}](#p56)
+    - [{{ Heart’s Forest}}{{ 61}}](#p61)
+    - [{{ The Docks}}{{ 63}}](#p63)
+    - [{{ The Farm}}{{ 64}}](#p64)
+    - [{{ Mountain View District}}{{ 65}}](#p65)
+    - [{{ River Run District}}{{ 65}}](#p65)
+    - [{{ North Gate District}}{{ 66}}](#p66)
+    - [{{ Expedition Districts and Outside Covalon}}{{ 68}}](#p68)
   - #### [{{ Guilds}}{{ 70}}](#p70)
-    -  [{{ The Archivists}}{{ 70}}](#p70)
-    -  [{{ The Authors of Creation}}{{ 70}}](#p70)
-    -  [{{ Covalon Medical Society}}{{ 71}}](#p71)
-    -  [{{ The Servants of Terra}}{{ 71}}](#p71)
-    -  [{{ The Teacher’s Union}}{{ 71}}](#p71)
-    -  [{{ Trella’s Travellers}}{{ 72}}](#p72)
-    -  [{{ The House of Dusk and Dawn}}{{ 72}}](#p72)
-    -  [{{ The Lightkeepers}}{{ 72}}](#p72)
-    -  [{{ Children of the Chicome}}{{ 73}}](#p73)
-    -  [{{ Covalon Historical Society}}{{ 73}}](#p73)
-    -  [{{ The Stouthearts}}{{ 73}}](#p73)
-    -  [{{ The Green Knights of the Square}}{{ 74}}](#p74)
+    - [{{ The Archivists}}{{ 70}}](#p70)
+    - [{{ The Authors of Creation}}{{ 70}}](#p70)
+    - [{{ Covalon Medical Society}}{{ 71}}](#p71)
+    - [{{ The Servants of Terra}}{{ 71}}](#p71)
+    - [{{ The Teacher’s Union}}{{ 71}}](#p71)
+    - [{{ Trella’s Travellers}}{{ 72}}](#p72)
+    - [{{ The House of Dusk and Dawn}}{{ 72}}](#p72)
+    - [{{ The Lightkeepers}}{{ 72}}](#p72)
+    - [{{ Children of the Chicome}}{{ 73}}](#p73)
+    - [{{ Covalon Historical Society}}{{ 73}}](#p73)
+    - [{{ The Stouthearts}}{{ 73}}](#p73)
+    - [{{ The Green Knights of the Square}}{{ 74}}](#p74)
   - #### [{{ Pre-Cataclysm Civilizations}}{{ 75}}](#p75)
-    -  [{{ Alatar}}{{ 75}}](#p75)
-    -  [{{ Armed Steppes}}{{ 75}}](#p75)
-    -  [{{ The Briarmurk}}{{ 76}}](#p76)
-    -  [{{ Drifthaven}}{{ 76}}](#p76)
-    -  [{{ The Fey Courts}}{{ 78}}](#p78)
-    -  [{{ Garn}}{{ 79}}](#p79)
-    -  [{{ Gornlar}}{{ 79}}](#p79)
-    -  [{{ Ikouga}}{{ 80}}](#p80)
-    -  [{{ Kuraimori (暗い森)}}{{ 82}}](#p82)
-    -  [{{ Middlemist}}{{ 82}}](#p82)
-    -  [{{ The Misty Shores}}{{ 83}}](#p83)
-    -  [{{ Ostengrad}}{{ 83}}](#p83)
-    -  [{{ Primrose}}{{ 84}}](#p84)
-    -  [{{ Pudersnö}}{{ 85}}](#p85)
-    -  [{{ Ratchethallow}}{{ 86}}](#p86)
-    -  [{{ Taltain}}{{ 88}}](#p88)
-    -  [{{ Tarunga}}{{ 89}}](#p89)
-    -  [{{ Tymoria}}{{ 89}}](#p89)
-    -  [{{ The Kingdom of Varceta}}{{ 89}}](#p89)
-    -  [{{ Verndhelt}}{{ 90}}](#p90)
-    -  [{{ The Kingdom of Vyrm}}{{ 91}}](#p91)
-    -  [{{ Whitespire}}{{ 91}}](#p91)
+    - [{{ Alatar}}{{ 75}}](#p75)
+    - [{{ Armed Steppes}}{{ 75}}](#p75)
+    - [{{ The Briarmurk}}{{ 76}}](#p76)
+    - [{{ Drifthaven}}{{ 76}}](#p76)
+    - [{{ The Fey Courts}}{{ 78}}](#p78)
+    - [{{ Garn}}{{ 79}}](#p79)
+    - [{{ Gornlar}}{{ 79}}](#p79)
+    - [{{ Ikouga}}{{ 80}}](#p80)
+    - [{{ Kuraimori (暗い森)}}{{ 82}}](#p82)
+    - [{{ Middlemist}}{{ 82}}](#p82)
+    - [{{ The Misty Shores}}{{ 83}}](#p83)
+    - [{{ Ostengrad}}{{ 83}}](#p83)
+    - [{{ Primrose}}{{ 84}}](#p84)
+    - [{{ Pudersnö}}{{ 85}}](#p85)
+    - [{{ Ratchethallow}}{{ 86}}](#p86)
+    - [{{ Taltain}}{{ 88}}](#p88)
+    - [{{ Tarunga}}{{ 89}}](#p89)
+    - [{{ Tymoria}}{{ 89}}](#p89)
+    - [{{ The Kingdom of Varceta}}{{ 89}}](#p89)
+    - [{{ Verndhelt}}{{ 90}}](#p90)
+    - [{{ The Kingdom of Vyrm}}{{ 91}}](#p91)
+    - [{{ Whitespire}}{{ 91}}](#p91)
   - #### [{{ Deities, Faith, and Ideologies}}{{ 92}}](#p92)
-    -  [{{ Aelia}}{{ 94}}](#p94)
-    -  [{{ A’shir, the Fated Flame}}{{ 94}}](#p94)
-    -  [{{ Axnos}}{{ 95}}](#p95)
-    -  [{{ The Circle of Stars}}{{ 95}}](#p95)
-    -  [{{ The Cheshire}}{{ 96}}](#p96)
-    -  [{{ Derelis}}{{ 96}}](#p96)
-    -  [{{ Erimia}}{{ 96}}](#p96)
-    -  [{{ Fah’rin, The Howling Blizzard}}{{ 96}}](#p96)
-    -  [{{ Fayne Lightfeet}}{{ 97}}](#p97)
-    -  [{{ Golgolgoss, The Watcher}}{{ 97}}](#p97)
-    -  [{{ The Grey Ocean}}{{ 97}}](#p97)
-    -  [{{ Gunvald}}{{ 98}}](#p98)
-    -  [{{ Gutom, The Bloody Rose}}{{ 98}}](#p98)
-    -  [{{ Heleniel, The Sin Seeker}}{{ 98}}](#p98)
-    -  [{{ Hestora}}{{ 98}}](#p98)
-    -  [{{ Heures}}{{ 99}}](#p99)
-    -  [{{ The Home of Hearth and Health}}{{ 99}}](#p99)
-    -  [{{ Kohtalo, Patron of Fate Forgers}}{{ 99}}](#p99)
-    -  [{{ Krun Darr}}{{ 100}}](#p100)
-    -  [{{ Kujani}}{{ 100}}](#p100)
-    -  [{{ Levona, Duchess of Hell}}{{ 100}}](#p100)
-    -  [{{ Lotus}}{{ 101}}](#p101)
-    -  [{{ Luxandra, The Everbloom}}{{ 101}}](#p101)
-    -  [{{ Lysanthyr, The Unending Delight}}{{ 101}}](#p101)
-    -  [{{ The Great and Noble Manaat Al-Karim}}{{ 102}}](#p102)
-    -  [{{ Maiden of the Garden}}{{ 102}}](#p102)
-    -  [{{ Mendastarum, Devourer of Truth}}{{ 103}}](#p103)
-    -  [{{ Nesdonin}}{{ 103}}](#p103)
-    -  [{{ Nimane, The Forge Matron}}{{ 103}}](#p103)
-    -  [{{ Noctune}}{{ 104}}](#p104)
-    -  [{{ Novissime, The Orchid Reaper}}{{ 104}}](#p104)
-    -  [{{ Oenos}}{{ 104}}](#p104)
-    -  [{{ The Path of the Great Spirits}}{{ 105}}](#p105)
-    -  [{{ Peko-Amuzo, The Trickster Prince}}{{ 105}}](#p105)
-    -  [{{ Riahn, He Who Eclipses the Stars}}{{ 105}}](#p105)
-    -  [{{ Seraphion, The Highest Throne}}{{ 106}}](#p106)
-    -  [{{ Sinnesh, The Den Mother}}{{ 106}}](#p106)
-    -  [{{ The Eyes}}{{ 106}}](#p106)
-    -  [{{ The Living Mandate}}{{ 107}}](#p107)
-    -  [{{ The Three Sisters}}{{ 107}}](#p107)
-    -  [{{ The World Weave}}{{ 108}}](#p108)
-    -  [{{ Trella, The Night Sky}}{{ 108}}](#p108)
-    -  [{{ Unmortus, The Dead Guardian}}{{ 109}}](#p109)
-    -  [{{ Veskahule}}{{ 109}}](#p109)
-    -  [{{ Xan’Zyx, the First Incarnation}}{{ 110}}](#p110)
-    -  [{{ Xeesis}}{{ 110}}](#p110)
+    - [{{ Aelia}}{{ 94}}](#p94)
+    - [{{ A’shir, the Fated Flame}}{{ 94}}](#p94)
+    - [{{ Axnos}}{{ 94}}](#p94)
+    - [{{ The Brakeman}}{{ 95}}](#p95)
+    - [{{ The Circle of Stars}}{{ 95}}](#p95)
+    - [{{ The Cheshire}}{{ 96}}](#p96)
+    - [{{ Derelis}}{{ 96}}](#p96)
+    - [{{ Erimia}}{{ 96}}](#p96)
+    - [{{ Fah’rin, The Howling Blizzard}}{{ 96}}](#p96)
+    - [{{ Fayne Lightfeet}}{{ 97}}](#p97)
+    - [{{ Golgolgoss, The Watcher}}{{ 97}}](#p97)
+    - [{{ The Grey Ocean}}{{ 97}}](#p97)
+    - [{{ Gunvald}}{{ 98}}](#p98)
+    - [{{ Gutom, The Bloody Rose}}{{ 98}}](#p98)
+    - [{{ Heleniel, The Sin Seeker}}{{ 98}}](#p98)
+    - [{{ Hestora}}{{ 98}}](#p98)
+    - [{{ Heures}}{{ 99}}](#p99)
+    - [{{ The Home of Hearth and Health}}{{ 99}}](#p99)
+    - [{{ Kohtalo, Patron of Fate Forgers}}{{ 99}}](#p99)
+    - [{{ Krun Darr}}{{ 100}}](#p100)
+    - [{{ Kujani}}{{ 100}}](#p100)
+    - [{{ Levona, Duchess of Hell}}{{ 100}}](#p100)
+    - [{{ Lotus}}{{ 101}}](#p101)
+    - [{{ Luxandra, The Everbloom}}{{ 101}}](#p101)
+    - [{{ Lysanthyr, The Unending Delight}}{{ 101}}](#p101)
+    - [{{ The Great and Noble Manaat Al-Karim}}{{ 102}}](#p102)
+    - [{{ Maiden of the Garden}}{{ 102}}](#p102)
+    - [{{ Mendastarum, Devourer of Truth}}{{ 103}}](#p103)
+    - [{{ Nesdonin}}{{ 103}}](#p103)
+    - [{{ Nimane, The Forge Matron}}{{ 103}}](#p103)
+    - [{{ Noctune}}{{ 104}}](#p104)
+    - [{{ Novissime, The Orchid Reaper}}{{ 104}}](#p104)
+    - [{{ Oenos}}{{ 104}}](#p104)
+    - [{{ The Path of the Great Spirits}}{{ 105}}](#p105)
+    - [{{ Peko-Amuzo, The Trickster Prince}}{{ 105}}](#p105)
+    - [{{ Riahn, He Who Eclipses the Stars}}{{ 105}}](#p105)
+    - [{{ Seraphion, The Highest Throne}}{{ 106}}](#p106)
+    - [{{ Sinnesh, The Den Mother}}{{ 106}}](#p106)
+    - [{{ Satya, the Peerless Seeker}}{{ 106}}](#p106)
+    - [{{ The Eyes}}{{ 107}}](#p107)
+    - [{{ The Living Mandate}}{{ 107}}](#p107)
+    - [{{ The Three Sisters}}{{ 107}}](#p107)
+    - [{{ The World Weave}}{{ 108}}](#p108)
+    - [{{ Trella, The Night Sky}}{{ 108}}](#p108)
+    - [{{ Unmortus, The Dead Guardian}}{{ 109}}](#p109)
+    - [{{ Veskahule}}{{ 109}}](#p109)
+    - [{{ Xan’Zyx, the First Incarnation}}{{ 110}}](#p110)
+    - [{{ Xeesis}}{{ 110}}](#p110)
 - ### [{{ Menu}}{{ 111}}](#p111)
+
 </div>
 
 </div>
+
 
