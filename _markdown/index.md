@@ -1,4 +1,4 @@
-{{titlebar,width:60% Covalon Player's Guide rev 24.11.18 }}
+{{titlebar,width:60% Covalon Player's Guide rev 24.12.15 }}
 
 
 
@@ -4781,7 +4781,7 @@ The Brakeman | can choose holy | toil, protection, might, travel | metal, death|
 | Heures                               | can choose holy  | time, vigil, wyrmkin, introspection     | none                 |
 | The Home of Hearth and Health        | can choose holy  | family, healing, fire, protection       | none                 |
 | Kohtalo, Patron of Fate Forgers      | can choose holy  | ambition, creative, fate, zeal          | confidence           |
-| Krun Darr                            | can choose either| lightning, change, creation, destruction| might                |
+| Krun Darr                            | can choose either| lightning, change, creation, destruction| dragon, might                |
 | Kujani                               | none             | ambition, duty, freedom, perfection     | dust                 |
 | Levona, Duchess of Hell              |must choose unholy| confidence, fire, trickery, tyranny     | none                 |
 | Lotus                                | can choose holy  | change, healing, magic, protection      | none                 |
@@ -4819,7 +4819,7 @@ Satya, the Peerless Seeker | can choose holy | truth, introspection, knowledge, 
 | The World Weave          | can choose either  | air, earth, fire, water, metal, wood      | none              |
 | Trella, the Night Sky                | can choose holy  | fate, moon, stars, travel               | void                 |
 | Unmortus, The Dead Guardian          | can choose holy  | cities, protection, soul, undeath       | family               |
-| Veskahule          | none            | abomination, creation, dreams, nightmares     | soul, swarm |
+| Veskahule          | none            | abomination, creation, dreams, nightmares     | soul, naga |
 | Xan'zyk, the First Incantation       | can choose either| ambition, destruction, glyph, magic     | none                 |
 | Xeesis                               | can choose either| darkness, protection, secrecy, trickery | fate                 |
 
@@ -5185,7 +5185,7 @@ Not a particularly well-known deity, Krun Darr is nevertheless deeply respected 
 **Divine Skill** athletics<br>
 **Favored Weapon** Scorpion Whip<br>
 **Domains** lightning, change, creation, destruction<br>
-**Alternate Domain** might<br>
+**Alternate Domain** dragon, might<br>
 **Cleric Spells** 1st: shocking grasp, 3rd: lightning bolt, 6th: chain lightning
 }}
 ### Kujani
@@ -5613,7 +5613,7 @@ A cave worm that was once feared by many and consumed all without prejudice, Ves
 **Divine Skill** occultism<br>
 **Favored Weapon** urumi<br>
 **Domains** abomination, creation, dreams, nightmares<br>
-**Alternate Domain** soul, swarm<br>
+**Alternate Domain** soul, naga<br>
 **Cleric Spells** 2nd: feast of ashes, 5th: grisly growths, 7th: warp mind
 }}
 {{pageNumber,auto}}
@@ -5815,7 +5815,6 @@ A relatively unkown deity, Xeesis is a god of secrets and hidden knowledge. They
 - ### [{{ Menu}}{{ 111}}](#p111)
 
 </div>
-
 </div>
 
 
