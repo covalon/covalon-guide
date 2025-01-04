@@ -1,4 +1,4 @@
-{{titlebar,width:60% Covalon Player's Guide rev 24.12.15 }}
+{{titlebar,width:60% Covalon Player's Guide rev 25.01.04 }}
 
 
 
@@ -375,7 +375,7 @@ Voluntary Flaws - the optional rule to take additional ability flaws - are not a
 
 ### Variant Rules
 
-Covalon does not use any of the Variant Rules systems from the Gamemastery Guide (GMG). This includes Free Archetype, Dual-Class PCs, Ancestry Paragon, Proficiency without Level, etc.
+Covalon does not use any of the following Variant Rules: Free Archetype, Dual-Class PCs, Ancestry Paragon, Proficiency without Level, Mythic Callings, etc.
 
 ### Character Option Rarity
 
@@ -840,6 +840,30 @@ In addition to normal rewards, when your team wins a brawl, you recieve a Gladia
 
 {{wide
 
+#### Alternate Brawl Mode: Monster Mash
+{{descriptive,right,width:200px
+
+##### Dino Brawl Roll Table
+Number | Dino
+:---: | :---:
+1 | Ankylosaurus
+2 | Brontosaurus
+3 | Carnotarus
+4 | Iguanodon
+5 | Majungasaurus
+6 | Pachycephalosaurus
+7 | Stegosaurus
+8 | Therizinosaurus
+9 | Triceratops
+10| Tyrannosaurus
+}}
+A brawl where players are all polymorphed by Dungeoneering Society staff into a variety of monsters! The currently available stat blocks in the Covalon Foundry Module for Monster Mash is DINOSAURS. SDGs may create alternate stat block lists and additional lists may be added to the module in the future. This brawl type must be decided on in advance. Players can be from ANY tier, and each gain individual gold and experience rewards based on their character's level from the GM's Guide table 3-1. (Your GM will let you know how much this is.)
+:
+Before the game, each player rolls two dice, each number corresponding to a stat block on a roll table of all available stat blocks for the brawl. They can be the same number. The table for dinosaur stat blocks is provided. When the brawl starts, the players are Mythic Polymorphed into the stat block corresponding to the first dice roll. None of a PC's abilities or feats work while Mythic Polymorphed. Players should be given control over both stat blocks they roll before the game so they can read the sheet.
+:
+Monster Mash is a modified Death Match won by the first team to cause 4 respawns of the opposing team. On a respawn, players can elect to stay in their first stat block or switch to the second. Monsters respawn upright and ready to fight!
+
+
 ### Descents
 
 Players who seek a challenge more difficult than standard adventures need look no further than descents, which are the most dangerous but also the most lucrative of adventure types offered in Covalon. They are similar to dungeons, but feature increased encounter difficulty and challenging modifiers that vary depending on the location in which the descent takes place. These adventures last up to four hours long and reward increased treasure compared to normal adventures, but are only open to the highest two tiers of players (and it is recommended that only max level players in each tier attempt them). Only Senior Dungeon Guides may run descents, and descents can only be scheduled by pre-formed teams using the #lfgm channel. Additionally, the location in which the descent takes place influences some of the rules of the descent.
@@ -899,7 +923,7 @@ The following is a list of currently active expeditions. For more information on
 - Ratchethallow (Complete)
 - Verndhelt (Complete)
 - Drifthaven (Complete)
-- The Fey Courts (In Progress)
+- The Fey Courts (Complete)
 
 }}
 }} 
@@ -5390,7 +5414,7 @@ When the ancient world discovered alchohol, Oenos took his first drink. When the
 **Divine Sanctification** can choose holy<br>
 **Divine Skill** diplomacy<br>
 **Favored Weapon** fist<br>
-**Domains** confidence, indulgence, and luck<br>
+**Domains** confidence, indulgence, luck<br>
 **Cleric Spells** 1st: friendfetch, 3rd: cozy cabin, 5th: summon giant
 }}
 }}
