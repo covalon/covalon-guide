@@ -1,7 +1,4 @@
-{{titlebar,width:60% Covalon Player's Guide rev 25.01.04 }}
-
-
-
+{{titlebar,width:60% Covalon Player's Guide rev 25.01.25 }}
 :
 :
  
@@ -71,59 +68,59 @@ Covalon is a "living world" style tabletop RPG campaign, using the Pathfinder 2e
     - [{{ Dungeons}}{{ 14}}](#p14)
     - [{{ Patrols}}{{ 14}}](#p14)
     - [{{ Brawls}}{{ 15}}](#p15)
-    - [{{ Descents}}{{ 16}}](#p16)
-    - [{{ Expeditions}}{{ 17}}](#p17)
-    - [{{ Excursions}}{{ 18}}](#p18)
-  - #### [{{ Downtime}}{{ 18}}](#p18)
-    - [{{ Earning and Spending Downtime}}{{ 18}}](#p18)
-    - [{{ Special Covalon Activities}}{{ 19}}](#p19)
-    - [{{ Special Covalon Rituals}}{{ 21}}](#p21)
-  - #### [{{ Roleplay}}{{ 22}}](#p22)
-    - [{{ Guilds}}{{ 22}}](#p22)
-    - [{{ Guild Event Rewards}}{{ 22}}](#p22)
-    - [{{ Housing, Businesses, and Guild Halls}}{{ 22}}](#p22)
-    - [{{ Crime and Punishment}}{{ 24}}](#p24)
-- ### [{{ Chapter 4: Campaign Lore}}{{ 26}}](#p26)
-  - #### [{{ Basic Lore}}{{ 26}}](#p26)
-    - [{{ The Cataclysm}}{{ 26}}](#p26)
-    - [{{ Covalon}}{{ 26}}](#p26)
-    - [{{ The Heart of Terra}}{{ 26}}](#p26)
-    - [{{ The Maw}}{{ 26}}](#p26)
-  - #### [{{ Maps of Elleaterra}}{{ 27}}](#p27)
-  - #### [{{ The Siege of Covalon}}{{ 28}}](#p28)
-  - #### [{{ Operation Heartbreaker}}{{ 29}}](#p29)
-  - #### [{{ Covalon: Out of Time}}{{ 30}}](#p30)
-  - #### [{{ Covalon: The Endless Gray}}{{ 31}}](#p31)
-  - #### [{{ Covalon Gazetteer}}{{ 32}}](#p32)
-    - [{{ City District}}{{ 32}}](#p32)
-    - [{{ Market District}}{{ 39}}](#p39)
-    - [{{ Encore District}}{{ 49}}](#p49)
-    - [{{ Armory District}}{{ 53}}](#p53)
-    - [{{ Lake District}}{{ 56}}](#p56)
-    - [{{ Heart’s Forest}}{{ 61}}](#p61)
-    - [{{ The Docks}}{{ 63}}](#p63)
-    - [{{ The Farm}}{{ 64}}](#p64)
-    - [{{ Mountain View District}}{{ 65}}](#p65)
-    - [{{ River Run District}}{{ 65}}](#p65)
-    - [{{ North Gate District}}{{ 66}}](#p66)
-    - [{{ Expedition Districts and Outside Covalon}}{{ 68}}](#p68)
-  - #### [{{ Guilds}}{{ 70}}](#p70)
-    - [{{ The Archivists}}{{ 70}}](#p70)
-    - [{{ The Authors of Creation}}{{ 70}}](#p70)
-    - [{{ Covalon Medical Society}}{{ 71}}](#p71)
-    - [{{ The Servants of Terra}}{{ 71}}](#p71)
-    - [{{ The Teacher’s Union}}{{ 71}}](#p71)
-    - [{{ Trella’s Travellers}}{{ 72}}](#p72)
-    - [{{ The House of Dusk and Dawn}}{{ 72}}](#p72)
-    - [{{ The Lightkeepers}}{{ 72}}](#p72)
-    - [{{ Children of the Chicome}}{{ 73}}](#p73)
-    - [{{ Covalon Historical Society}}{{ 73}}](#p73)
-    - [{{ The Stouthearts}}{{ 73}}](#p73)
-    - [{{ The Green Knights of the Square}}{{ 74}}](#p74)
-  - #### [{{ Pre-Cataclysm Civilizations}}{{ 75}}](#p75)
-  - #### [{{ Deities, Faith, and Ideologies}}{{ 92}}](#p92)
-
+    - [{{ Descents}}{{ 17}}](#p17)
+    - [{{ Expeditions}}{{ 18}}](#p18)
+    - [{{ Excursions}}{{ 19}}](#p19)
+  - #### [{{ Downtime}}{{ 19}}](#p19)
+    - [{{ Earning and Spending Downtime}}{{ 19}}](#p19)
+    - [{{ Special Covalon Activities}}{{ 20}}](#p20)
+    - [{{ Special Covalon Rituals}}{{ 22}}](#p22)
+  - #### [{{ Roleplay}}{{ 23}}](#p23)
+    - [{{ Guilds}}{{ 23}}](#p23)
+    - [{{ Guild Event Rewards}}{{ 23}}](#p23)
+    - [{{ Housing, Businesses, and Guild Halls}}{{ 23}}](#p23)
+    - [{{ Crime and Punishment}}{{ 25}}](#p25)
+- ### [{{ Chapter 4: Campaign Lore}}{{ 27}}](#p27)
+  - #### [{{ Basic Lore}}{{ 27}}](#p27)
+    - [{{ The Cataclysm}}{{ 27}}](#p27)
+    - [{{ Covalon}}{{ 27}}](#p27)
+    - [{{ The Heart of Terra}}{{ 27}}](#p27)
+    - [{{ The Maw}}{{ 27}}](#p27)
+  - #### [{{ Maps of Elleaterra}}{{ 28}}](#p28)
+  - #### [{{ The Siege of Covalon}}{{ 29}}](#p29)
+  - #### [{{ Operation Heartbreaker}}{{ 30}}](#p30)
+  - #### [{{ Covalon: Out of Time}}{{ 31}}](#p31)
+  - #### [{{ Covalon: The Endless Gray}}{{ 32}}](#p32)
+  - #### [{{ Covalon Gazetteer}}{{ 33}}](#p33)
+    - [{{ City District}}{{ 33}}](#p33)
+    - [{{ Market District}}{{ 40}}](#p40)
+    - [{{ Encore District}}{{ 50}}](#p50)
+    - [{{ Armory District}}{{ 54}}](#p54)
+    - [{{ Lake District}}{{ 57}}](#p57)
+    - [{{ Heart’s Forest}}{{ 62}}](#p62)
+    - [{{ The Docks}}{{ 64}}](#p64)
+    - [{{ The Farm}}{{ 65}}](#p65)
+    - [{{ Mountain View District}}{{ 66}}](#p66)
+    - [{{ River Run District}}{{ 66}}](#p66)
+    - [{{ North Gate District}}{{ 67}}](#p67)
+    - [{{ Expedition Districts and Outside Covalon}}{{ 69}}](#p69)
+  - #### [{{ Guilds}}{{ 71}}](#p71)
+    - [{{ The Archivists}}{{ 71}}](#p71)
+    - [{{ The Authors of Creation}}{{ 71}}](#p71)
+    - [{{ Covalon Medical Society}}{{ 72}}](#p72)
+    - [{{ The Servants of Terra}}{{ 72}}](#p72)
+    - [{{ The Teacher’s Union}}{{ 72}}](#p72)
+    - [{{ Trella’s Travellers}}{{ 73}}](#p73)
+    - [{{ The House of Dusk and Dawn}}{{ 73}}](#p73)
+    - [{{ The Lightkeepers}}{{ 73}}](#p73)
+    - [{{ Children of the Chicome}}{{ 74}}](#p74)
+    - [{{ Covalon Historical Society}}{{ 74}}](#p74)
+    - [{{ The Stouthearts}}{{ 74}}](#p74)
+    - [{{ The Green Knights of the Square}}{{ 75}}](#p75)
+  - #### [{{ Pre-Cataclysm Civilizations}}{{ 76}}](#p76)
+  - #### [{{ Deities, Faith, and Ideologies}}{{ 93}}](#p93)
 }}
+
 
 
 
@@ -597,7 +594,7 @@ Players who simply wish to give away equipment can do so in the #charity channel
 
 Covalon's mentor system allows higher-level players to borrow pre-made characters to play with lower-level players. Mentor characters can be played in Tier 3 and under games, and can be played by players whose character is in a higher tier than the adventure. For example, a player with a Tier 3 character could play as a mentor in Tier 1 and 2 games. Mentor players are always added to the waitlist; player characters of the appropriate tier are given priority for table slots.
 :
-There are currently sixteen mentors available, one for each class in the Core Rulebook and Advanced Player's Guide. A mentor player can choose which class they'd like to play in advance, or they can browse the available mentors and select one once the GM opens their Foundry server for mustering. When you play a mentor character, you do not earn any XP, but any gp or items you obtain are transferred to your player character. You also receive 1 Hero Point for your player character (see the Hero Point sidebar in the Adventures section).
+There are currently sixteen mentors available, one for each class in the Core Rulebook and Advanced Player's Guide. A mentor player can choose which class they'd like to play in advance, or they can browse the available mentors and select one once the GM opens their Foundry server for mustering. When you play a mentor character, you do not earn any XP, but any gp or items you obtain are transferred to your player character. You also receive 1 Hero Point (see the Hero Point sidebar in the Adventures section).
 
 #### Covalon's Mentors
 
@@ -687,10 +684,6 @@ Time | Automatically unlocked*
 Water | Ikouga
 .* The Time aspect is automatically unlocked once a player obtains their Soul Seed. ||
 
-Initially, a character's Soul Seed can only obtain minor gifts, and their Soul Seed can only be customized with gifts from a single aspect. Completing certain Expedition Finales upgrades their Soul Seed with the ability to use stronger gifts or gifts from a second aspect. Table 3-3 lists which expedition finales must be completed to unlock a particular Soul Seed upgrade.
-
-To add a new gift to a Soul Seed, a character must commune with the Heart of Terra and pay a gold cost. This does not consume downtime, but can only be performed in between adventures. A character also must meet a minimum level requirement, based on the gift they are attempting to add. Table 3-4 lists the cost and minimum level requirement for adding a new gift.
-
 ##### Table 3-3: Soul Seed Upgrade Unlocks
 Upgrade | Expedition Finale to Unlock
 :---: | :---:
@@ -698,47 +691,53 @@ Second Aspect | Ratchethallow
 Major Gifts | ???
 Grand Gifts | ???
 
+Initially, a character's Soul Seed can only obtain minor gifts, and their Soul Seed can only be customized with gifts from a single aspect. Completing certain Expedition Finales upgrades their Soul Seed with the ability to use stronger gifts or gifts from a second aspect. Table 3-3 lists which expedition finales must be completed to unlock a particular Soul Seed upgrade.
+
+To add a new gift to a Soul Seed, a character must commune with the Heart of Terra and pay a gold cost. This does not consume downtime, but can only be performed in between adventures. A character also must meet a minimum level requirement, based on the gift they are attempting to add. Table 3-4 lists the cost and minimum level requirement for adding a new gift.
+
+
+
 {{pageNumber,auto}}
 
 \page
 
-Once a gift has been added to a Soul Seed, it cannot be removed. It can be changed to a different gift within the aspect with four days of retraining. A character can also retrain one or more of their Soul Seed's aspects, which also takes four days. When a Soul Seed's aspect is retrained, any incompatible gifts it has are rendered inert until they are retrained. Characters may use Terran Reincarnation to change their Soul Seed's gifts or aspects.
+Once a gift has been added to a Soul Seed, it cannot be removed. It can be changed to a different gift within the aspect with four days of retraining. A character can also retrain one or more of their Soul Seed's aspects, which also takes four days. When a Soul Seed's aspect is retrained, any incompatible gifts it has are rendered inert until they are retrained. Terran Reincarnation can be used to change Soul Seed's gifts or aspects.
 
 ##### Table 3-4: Adding Gifts to a Soul Seed
-Gift Number| Level Requirement | Gift Type | Price
-:----: | :----: | :----: | :----:
-1 | 1 | Minor | 20 gp
-2 | 5 | Minor | 160 gp
-3 | 9 | Major | 700 gp
-4 | 13 | Major | 3,000 gp
-5 | 17 | Grand | 15,000 gp
+Gift Number| Level Requirement | Gift Type | Price (gp)
+:----: | :----: | :----: | :-----:
+1 | 1 | Minor | 20 
+2 | 5 | Minor | 160 
+3 | 9 | Major | 700 
+4 | 13 | Major | 3,000 
+5 | 17 | Grand | 15,000 
 
 ### Alternate Characters
-Alternate characters allow long time players to spend excess gold on the chance to play additional characters without retiring their main character. 
+Alternate characters ("alt characters") allow long time players to spend excess gold on the chance to play additional characters without retiring their main character. 
 
 #### Unlocking Alternate Characters
-When your first character (referred to as your "main character" in these rules) reaches max level, capped experience, you may pay a gold cost to unlock a slot for an alternate character. Alternate characters are experience capped at one tier below the maximum tier of play. When all your alternate characters are at maximum level, capped experience, you may pay to unlock another alternate character slot. The cost to unlock an alternate character slot is equal to 20,000 gp times the number of characters you currently have (including your main). This purchase should be recorded in #alternate-character-tracking. Once you've purchased an alternate character slot, #create-a-ticket to submit your character using the normal character creation rules.
+When your first character (your "main character") reaches max level, capped EXP, you may pay a gold cost to unlock a slot for an alt character. Alt characters are EXP capped one tier below the maximum tier of play. When all your alt characters are at maximum level, capped experience, you may pay to unlock another alt character slot. The cost to unlock a slot is equal to 20,000 gp times the number of characters you currently have (including your main). This purchase should be recorded in #alternate-character-tracking. Once you've purchased an alt character slot, #create-a-ticket to submit your character using normal character creation rules.
 
 #### Alternate Character Restrictions
-Your characters can never interact with each other in roleplay. Your characters have completely separate inventories, items and gold cannot be shared. (The one exception to this rule is paying for more alternate character slots, you may pay for another slot using gold from all/any of your characters inventories.) No matter how many characters you have, you only get one day of downtime to spend per day. You can spend this day of downtime as either your main character or your current active alternate character. Your characters may craft items for each other, but the character recieving the item must pay the full cost of the item. 
+Your characters can never interact with each other in roleplay. Your characters have completely separate inventories, items and gold cannot be shared. (The one exception to this rule is paying for more alternate character slots, you may pay for another slot using gold from all/any of your characters inventories.) No matter how many characters you have, you only get one day of downtime to spend per day. You can spend this day of downtime as either your main character or your active alt character. Your characters may craft items for each other, but the character recieving the item must pay the full cost of the item. 
 
 #### Alternate Character Lock In Period
-If you have multiple alternate characters, you can only play one alternate character at a time. Once you choose to play an alternate character, you are locked in to that alternate for at least two weeks. During this period, you cannot use any other alternate character for downtime, roleplay, or adventures. When you switch your active alternate character, you must post in #alternate-character-tracking. Note that you can play your main character at any time. You must have the name of your main and active alternate character in your discord name (e.g. “Daryl Hall | John Oates”).
+If you have multiple alt characters, you can only play one alt character at a time. Once you choose to play an alt character, you are locked in to that alt for at least two weeks. During this period, you cannot use any other alt character for downtime, roleplay, or adventures. When you switch your active alt character, you must post in #alternate-character-tracking. Note that you can play your main character at any time. You must have the name of your main and active alt character in your discord name (e.g. “Daryl Hall | John Oates”).
 
 #### Swapping your Main Character
-If you wish, you may swap your main character to be an alternate character. When you choose to do this, your current main character is immediately deleveled to one tier below the highest tier, and the alternate character you choose to be your new main character is no longer capped at the second highest tier. If the alternate character you picked was capped with maximum experience, they immediately level up. When you swap your main character, you must post in #alternate-character-tracking, and you are locked into that main character and cannot swap again for a month.
+If you wish, you may swap your main character to be an alt character. When you choose to do this, your current main character is immediately deleveled to one tier below the highest tier, and the alt character you choose to be your new main character is no longer capped at the second highest tier. If the alt character you picked was capped with maximum experience, they immediately level up. When you swap your main character, you must post in #alternate-character-tracking, and you are locked into that main character and cannot swap again for a month.
 
 #### Alternate Character Role Play
 Your characters can never interact together in RP. You may not role play as multiple characters at the same time, even in different channels or threads. We appreciate that “time bubbles” happen and the goal is for players to not be actively doing RP as two different characters at the same time.
 
 #### GM and Mentoring Rewards
-As a GM, you can choose to have your GM rewards and experience go to your main or alternate character. The amount of the reward is based on the level of the PC receiving the reward. The rewards gained for mentoring can be applied to the active alternate character if they are above the tier of play for the mentored game.
+As a GM, you can choose to have your GM rewards and experience go to your main or alt character. The amount of the reward is based on the level of the PC receiving the reward. The gold and item rewards gained for mentoring can be applied to the active alt character if they are above the tier of play for the mentored game.
 
 #### Brawl Gladiator Tokens and Hero Points
-These rewards are given to the player (and not the individual characters). Thus, they are shared across PCs for determining brawl titles (which are fancy player discord tags).
+These rewards are given to the player (and not the individual characters). Thus, they are shared across PCs for determining whether you can earn further hero points or brawl titles (which are fancy player discord tags).
 
 #### Soul Seeds and Guilds
-Alternate characters must complete finales to gain access to soul seeds as normal. Alternates can be in up to two guilds and take up slots in guilds as normal, even if they are not an active alternate character.
+Alt characters must complete finales to gain access to soul seeds as normal. Alternates can be in up to two guilds and take up slots in guilds as normal, even if they are not an active alt character.
 
 {{pageNumber,auto}}
 
@@ -841,9 +840,16 @@ In addition to normal rewards, when your team wins a brawl, you recieve a Gladia
 {{wide
 
 #### Alternate Brawl Mode: Monster Mash
-{{descriptive,right,width:200px
 
-##### Dino Brawl Roll Table
+A brawl where players are all polymorphed by Dungeoneering Society staff into a variety of monsters! The currently available stat blocks in the Covalon module for this mode are listed below. SDGs may create alternate stat block lists and additional lists may be added to the module in the future. This brawl type must be decided on in advance. Players can be from ANY tier, and each gain individual gold and experience rewards based on their character's level from the GM's Guide table 3-1. (Your GM will let you know how much this is.)
+:
+Before the game, each player rolls two dice, each number corresponding to a stat block on a roll table of all available stat blocks for the brawl. If a player rolls the same number twice, have them reroll one die until they have two different stat blocks available to them. When the brawl starts, the players are Mythic Polymorphed into the stat block corresponding to the first dice roll. PCs can pick either stat block to start the brawl as. None of a PC's abilities or feats work while Mythic Polymorphed. Players should be given control over both stat blocks they roll before the game so they can read the sheet.
+:
+Monster Mash is a modified Death Match won by the first team to score 4 points. A point is scored when a player on the enemy team is knocked to Dying 4, or respawns. A respawn is triggered when a player begins their turn with the unconscious or dying conditions. If a player is knocked to dying, move their intiative as normal. If they take damage again and hit dying 4, they become untargetable and respawn on their initiative. On a respawn, players can elect to stay in the same stat block or switch to their other option. When you respawn, you remove all negative conditions and refresh any used abilties, such as spells or breath weapons. Unlike normal brawls, in Monster Mash you respawn upright and can immediatly take a turn. 
+}}
+
+{{wide,columns:3
+##### Dino Brawl 
 Number | Dino
 :---: | :---:
 1 | Ankylosaurus
@@ -856,16 +862,52 @@ Number | Dino
 8 | Therizinosaurus
 9 | Triceratops
 10| Tyrannosaurus
+:
+Stat block complexity: Low, recommended for players newer to PF2e's rules.
+
+\column
+##### Furious Fey
+Number | Fey
+:---: | :---:
+1 | Baobhan Sith
+2 | Dryad
+3 | Elananx
+4 | Lampad
+5 | Mighty Faerie Dragon
+6 | Naiad
+7 | Pixie
+8 | Redcap
+9 | Satyr
+10| Unicorn
+:
+Stat block complexity: Moderate, includes spells and unique abilities.
+
+\column
+##### Dragons
+Number | Dragon
+:---: | :---:
+1 | Adamantine Dragon
+2 | Brine Dragon
+3 | Conspirator Dragon
+4 | Crystal Dragon
+5 | Diabolic Dragon
+6 | Empyreal Dragon
+7 | Ice Dragon
+8 | Magma Dragon
+9 | Omen Dragon
+10| Sky Dragon
+:
+Stat block complexity: High, includes spells, special abilities, and fly speeds. Not recommended for players that are less familiar with PF2e.
 }}
-A brawl where players are all polymorphed by Dungeoneering Society staff into a variety of monsters! The currently available stat blocks in the Covalon Foundry Module for Monster Mash is DINOSAURS. SDGs may create alternate stat block lists and additional lists may be added to the module in the future. This brawl type must be decided on in advance. Players can be from ANY tier, and each gain individual gold and experience rewards based on their character's level from the GM's Guide table 3-1. (Your GM will let you know how much this is.)
-:
-Before the game, each player rolls two dice, each number corresponding to a stat block on a roll table of all available stat blocks for the brawl. They can be the same number. The table for dinosaur stat blocks is provided. When the brawl starts, the players are Mythic Polymorphed into the stat block corresponding to the first dice roll. None of a PC's abilities or feats work while Mythic Polymorphed. Players should be given control over both stat blocks they roll before the game so they can read the sheet.
-:
-Monster Mash is a modified Death Match won by the first team to cause 4 respawns of the opposing team. On a respawn, players can elect to stay in their first stat block or switch to the second. Monsters respawn upright and ready to fight!
 
 
+
+{{pageNumber,auto}}
+
+\page
+
+{{wide
 ### Descents
-
 Players who seek a challenge more difficult than standard adventures need look no further than descents, which are the most dangerous but also the most lucrative of adventure types offered in Covalon. They are similar to dungeons, but feature increased encounter difficulty and challenging modifiers that vary depending on the location in which the descent takes place. These adventures last up to four hours long and reward increased treasure compared to normal adventures, but are only open to the highest two tiers of players (and it is recommended that only max level players in each tier attempt them). Only Senior Dungeon Guides may run descents, and descents can only be scheduled by pre-formed teams using the #lfgm channel. Additionally, the location in which the descent takes place influences some of the rules of the descent.
 
 #### The Maw
@@ -2954,7 +2996,7 @@ A guild dedicated to the maintenance and prosperity of Covalon's Library, throug
 
 **Leader** Ateia
 
-**Members** Cinna, Phillip Stildori, Tox Faelbite, Einheri, Zoe, Yeva
+**Members** Cinna, Phillip Stildori, Tox Faelbite, Einheri
 
 ---
 
@@ -5682,7 +5724,6 @@ A relatively unkown deity, Xeesis is a god of secrets and hidden knowledge. They
 
 <div class='toc'>
 
-
 - ### [{{ Covalon Player’s Guide}}{{ 1}}](#p1)
   - #### [{{ What is Covalon?}}{{ 1}}](#p1)
 - ### [{{ Chapter 1: Player Expectations}}{{ 3}}](#p3)
@@ -5715,128 +5756,128 @@ A relatively unkown deity, Xeesis is a god of secrets and hidden knowledge. They
     - [{{ Dungeons}}{{ 14}}](#p14)
     - [{{ Patrols}}{{ 14}}](#p14)
     - [{{ Brawls}}{{ 15}}](#p15)
-    - [{{ Descents}}{{ 16}}](#p16)
-    - [{{ Expeditions}}{{ 17}}](#p17)
-    - [{{ Excursions}}{{ 18}}](#p18)
-  - #### [{{ Downtime}}{{ 18}}](#p18)
-    - [{{ Earning and Spending Downtime}}{{ 18}}](#p18)
-    - [{{ Special Covalon Activities}}{{ 19}}](#p19)
-    - [{{ Special Covalon Rituals}}{{ 21}}](#p21)
-  - #### [{{ Roleplay}}{{ 22}}](#p22)
-    - [{{ Guilds}}{{ 22}}](#p22)
-    - [{{ Guild Event Rewards}}{{ 22}}](#p22)
-    - [{{ Housing, Businesses, and Guild Halls}}{{ 22}}](#p22)
-    - [{{ Crime and Punishment}}{{ 24}}](#p24)
-- ### [{{ Chapter 4: Campaign Lore}}{{ 26}}](#p26)
-  - #### [{{ Basic Lore}}{{ 26}}](#p26)
-    - [{{ The Cataclysm}}{{ 26}}](#p26)
-    - [{{ Covalon}}{{ 26}}](#p26)
-    - [{{ The Heart of Terra}}{{ 26}}](#p26)
-    - [{{ The Maw}}{{ 26}}](#p26)
-  - #### [{{ Maps of Elleaterra}}{{ 27}}](#p27)
-  - #### [{{ The Siege of Covalon}}{{ 28}}](#p28)
-  - #### [{{ Operation Heartbreaker}}{{ 29}}](#p29)
-  - #### [{{ Covalon: Out of Time}}{{ 30}}](#p30)
-  - #### [{{ Covalon: The Endless Gray}}{{ 31}}](#p31)
-  - #### [{{ Covalon Gazetteer}}{{ 32}}](#p32)
-    - [{{ City District}}{{ 32}}](#p32)
-    - [{{ Market District}}{{ 39}}](#p39)
-    - [{{ Encore District}}{{ 49}}](#p49)
-    - [{{ Armory District}}{{ 53}}](#p53)
-    - [{{ Lake District}}{{ 56}}](#p56)
-    - [{{ Heart’s Forest}}{{ 61}}](#p61)
-    - [{{ The Docks}}{{ 63}}](#p63)
-    - [{{ The Farm}}{{ 64}}](#p64)
-    - [{{ Mountain View District}}{{ 65}}](#p65)
-    - [{{ River Run District}}{{ 65}}](#p65)
-    - [{{ North Gate District}}{{ 66}}](#p66)
-    - [{{ Expedition Districts and Outside Covalon}}{{ 68}}](#p68)
-  - #### [{{ Guilds}}{{ 70}}](#p70)
-    - [{{ The Archivists}}{{ 70}}](#p70)
-    - [{{ The Authors of Creation}}{{ 70}}](#p70)
-    - [{{ Covalon Medical Society}}{{ 71}}](#p71)
-    - [{{ The Servants of Terra}}{{ 71}}](#p71)
-    - [{{ The Teacher’s Union}}{{ 71}}](#p71)
-    - [{{ Trella’s Travellers}}{{ 72}}](#p72)
-    - [{{ The House of Dusk and Dawn}}{{ 72}}](#p72)
-    - [{{ The Lightkeepers}}{{ 72}}](#p72)
-    - [{{ Children of the Chicome}}{{ 73}}](#p73)
-    - [{{ Covalon Historical Society}}{{ 73}}](#p73)
-    - [{{ The Stouthearts}}{{ 73}}](#p73)
-    - [{{ The Green Knights of the Square}}{{ 74}}](#p74)
-  - #### [{{ Pre-Cataclysm Civilizations}}{{ 75}}](#p75)
-    - [{{ Alatar}}{{ 75}}](#p75)
-    - [{{ Armed Steppes}}{{ 75}}](#p75)
-    - [{{ The Briarmurk}}{{ 76}}](#p76)
-    - [{{ Drifthaven}}{{ 76}}](#p76)
-    - [{{ The Fey Courts}}{{ 78}}](#p78)
-    - [{{ Garn}}{{ 79}}](#p79)
-    - [{{ Gornlar}}{{ 79}}](#p79)
-    - [{{ Ikouga}}{{ 80}}](#p80)
-    - [{{ Kuraimori (暗い森)}}{{ 82}}](#p82)
-    - [{{ Middlemist}}{{ 82}}](#p82)
-    - [{{ The Misty Shores}}{{ 83}}](#p83)
-    - [{{ Ostengrad}}{{ 83}}](#p83)
-    - [{{ Primrose}}{{ 84}}](#p84)
-    - [{{ Pudersnö}}{{ 85}}](#p85)
-    - [{{ Ratchethallow}}{{ 86}}](#p86)
-    - [{{ Taltain}}{{ 88}}](#p88)
-    - [{{ Tarunga}}{{ 89}}](#p89)
-    - [{{ Tymoria}}{{ 89}}](#p89)
-    - [{{ The Kingdom of Varceta}}{{ 89}}](#p89)
-    - [{{ Verndhelt}}{{ 90}}](#p90)
-    - [{{ The Kingdom of Vyrm}}{{ 91}}](#p91)
-    - [{{ Whitespire}}{{ 91}}](#p91)
-  - #### [{{ Deities, Faith, and Ideologies}}{{ 92}}](#p92)
-    - [{{ Aelia}}{{ 94}}](#p94)
-    - [{{ A’shir, the Fated Flame}}{{ 94}}](#p94)
-    - [{{ Axnos}}{{ 94}}](#p94)
-    - [{{ The Brakeman}}{{ 95}}](#p95)
-    - [{{ The Circle of Stars}}{{ 95}}](#p95)
-    - [{{ The Cheshire}}{{ 96}}](#p96)
-    - [{{ Derelis}}{{ 96}}](#p96)
-    - [{{ Erimia}}{{ 96}}](#p96)
-    - [{{ Fah’rin, The Howling Blizzard}}{{ 96}}](#p96)
-    - [{{ Fayne Lightfeet}}{{ 97}}](#p97)
-    - [{{ Golgolgoss, The Watcher}}{{ 97}}](#p97)
-    - [{{ The Grey Ocean}}{{ 97}}](#p97)
-    - [{{ Gunvald}}{{ 98}}](#p98)
-    - [{{ Gutom, The Bloody Rose}}{{ 98}}](#p98)
-    - [{{ Heleniel, The Sin Seeker}}{{ 98}}](#p98)
-    - [{{ Hestora}}{{ 98}}](#p98)
-    - [{{ Heures}}{{ 99}}](#p99)
-    - [{{ The Home of Hearth and Health}}{{ 99}}](#p99)
-    - [{{ Kohtalo, Patron of Fate Forgers}}{{ 99}}](#p99)
-    - [{{ Krun Darr}}{{ 100}}](#p100)
-    - [{{ Kujani}}{{ 100}}](#p100)
-    - [{{ Levona, Duchess of Hell}}{{ 100}}](#p100)
-    - [{{ Lotus}}{{ 101}}](#p101)
-    - [{{ Luxandra, The Everbloom}}{{ 101}}](#p101)
-    - [{{ Lysanthyr, The Unending Delight}}{{ 101}}](#p101)
-    - [{{ The Great and Noble Manaat Al-Karim}}{{ 102}}](#p102)
-    - [{{ Maiden of the Garden}}{{ 102}}](#p102)
-    - [{{ Mendastarum, Devourer of Truth}}{{ 103}}](#p103)
-    - [{{ Nesdonin}}{{ 103}}](#p103)
-    - [{{ Nimane, The Forge Matron}}{{ 103}}](#p103)
-    - [{{ Noctune}}{{ 104}}](#p104)
-    - [{{ Novissime, The Orchid Reaper}}{{ 104}}](#p104)
-    - [{{ Oenos}}{{ 104}}](#p104)
-    - [{{ The Path of the Great Spirits}}{{ 105}}](#p105)
-    - [{{ Peko-Amuzo, The Trickster Prince}}{{ 105}}](#p105)
-    - [{{ Riahn, He Who Eclipses the Stars}}{{ 105}}](#p105)
-    - [{{ Seraphion, The Highest Throne}}{{ 106}}](#p106)
-    - [{{ Sinnesh, The Den Mother}}{{ 106}}](#p106)
-    - [{{ Satya, the Peerless Seeker}}{{ 106}}](#p106)
-    - [{{ The Eyes}}{{ 107}}](#p107)
-    - [{{ The Living Mandate}}{{ 107}}](#p107)
-    - [{{ The Three Sisters}}{{ 107}}](#p107)
-    - [{{ The World Weave}}{{ 108}}](#p108)
-    - [{{ Trella, The Night Sky}}{{ 108}}](#p108)
-    - [{{ Unmortus, The Dead Guardian}}{{ 109}}](#p109)
-    - [{{ Veskahule}}{{ 109}}](#p109)
-    - [{{ Xan’Zyx, the First Incarnation}}{{ 110}}](#p110)
-    - [{{ Xeesis}}{{ 110}}](#p110)
-- ### [{{ Menu}}{{ 111}}](#p111)
+    - [{{ Descents}}{{ 17}}](#p17)
+    - [{{ Expeditions}}{{ 18}}](#p18)
+    - [{{ Excursions}}{{ 19}}](#p19)
+  - #### [{{ Downtime}}{{ 19}}](#p19)
+    - [{{ Earning and Spending Downtime}}{{ 19}}](#p19)
+    - [{{ Special Covalon Activities}}{{ 20}}](#p20)
+    - [{{ Special Covalon Rituals}}{{ 22}}](#p22)
+  - #### [{{ Roleplay}}{{ 23}}](#p23)
+    - [{{ Guilds}}{{ 23}}](#p23)
+    - [{{ Guild Event Rewards}}{{ 23}}](#p23)
+    - [{{ Housing, Businesses, and Guild Halls}}{{ 23}}](#p23)
+    - [{{ Crime and Punishment}}{{ 25}}](#p25)
+- ### [{{ Chapter 4: Campaign Lore}}{{ 27}}](#p27)
+  - #### [{{ Basic Lore}}{{ 27}}](#p27)
+    - [{{ The Cataclysm}}{{ 27}}](#p27)
+    - [{{ Covalon}}{{ 27}}](#p27)
+    - [{{ The Heart of Terra}}{{ 27}}](#p27)
+    - [{{ The Maw}}{{ 27}}](#p27)
+  - #### [{{ Maps of Elleaterra}}{{ 28}}](#p28)
+  - #### [{{ The Siege of Covalon}}{{ 29}}](#p29)
+  - #### [{{ Operation Heartbreaker}}{{ 30}}](#p30)
+  - #### [{{ Covalon: Out of Time}}{{ 31}}](#p31)
+  - #### [{{ Covalon: The Endless Gray}}{{ 32}}](#p32)
+  - #### [{{ Covalon Gazetteer}}{{ 33}}](#p33)
+    - [{{ City District}}{{ 33}}](#p33)
+    - [{{ Market District}}{{ 40}}](#p40)
+    - [{{ Encore District}}{{ 50}}](#p50)
+    - [{{ Armory District}}{{ 54}}](#p54)
+    - [{{ Lake District}}{{ 57}}](#p57)
+    - [{{ Heart’s Forest}}{{ 62}}](#p62)
+    - [{{ The Docks}}{{ 64}}](#p64)
+    - [{{ The Farm}}{{ 65}}](#p65)
+    - [{{ Mountain View District}}{{ 66}}](#p66)
+    - [{{ River Run District}}{{ 66}}](#p66)
+    - [{{ North Gate District}}{{ 67}}](#p67)
+    - [{{ Expedition Districts and Outside Covalon}}{{ 69}}](#p69)
+  - #### [{{ Guilds}}{{ 71}}](#p71)
+    - [{{ The Archivists}}{{ 71}}](#p71)
+    - [{{ The Authors of Creation}}{{ 71}}](#p71)
+    - [{{ Covalon Medical Society}}{{ 72}}](#p72)
+    - [{{ The Servants of Terra}}{{ 72}}](#p72)
+    - [{{ The Teacher’s Union}}{{ 72}}](#p72)
+    - [{{ Trella’s Travellers}}{{ 73}}](#p73)
+    - [{{ The House of Dusk and Dawn}}{{ 73}}](#p73)
+    - [{{ The Lightkeepers}}{{ 73}}](#p73)
+    - [{{ Children of the Chicome}}{{ 74}}](#p74)
+    - [{{ Covalon Historical Society}}{{ 74}}](#p74)
+    - [{{ The Stouthearts}}{{ 74}}](#p74)
+    - [{{ The Green Knights of the Square}}{{ 75}}](#p75)
+  - #### [{{ Pre-Cataclysm Civilizations}}{{ 76}}](#p76)
+    - [{{ Alatar}}{{ 76}}](#p76)
+    - [{{ Armed Steppes}}{{ 76}}](#p76)
+    - [{{ The Briarmurk}}{{ 77}}](#p77)
+    - [{{ Drifthaven}}{{ 77}}](#p77)
+    - [{{ The Fey Courts}}{{ 79}}](#p79)
+    - [{{ Garn}}{{ 80}}](#p80)
+    - [{{ Gornlar}}{{ 80}}](#p80)
+    - [{{ Ikouga}}{{ 81}}](#p81)
+    - [{{ Kuraimori (暗い森)}}{{ 83}}](#p83)
+    - [{{ Middlemist}}{{ 83}}](#p83)
+    - [{{ The Misty Shores}}{{ 84}}](#p84)
+    - [{{ Ostengrad}}{{ 84}}](#p84)
+    - [{{ Primrose}}{{ 85}}](#p85)
+    - [{{ Pudersnö}}{{ 86}}](#p86)
+    - [{{ Ratchethallow}}{{ 87}}](#p87)
+    - [{{ Taltain}}{{ 89}}](#p89)
+    - [{{ Tarunga}}{{ 90}}](#p90)
+    - [{{ Tymoria}}{{ 90}}](#p90)
+    - [{{ The Kingdom of Varceta}}{{ 90}}](#p90)
+    - [{{ Verndhelt}}{{ 91}}](#p91)
+    - [{{ The Kingdom of Vyrm}}{{ 92}}](#p92)
+    - [{{ Whitespire}}{{ 92}}](#p92)
+  - #### [{{ Deities, Faith, and Ideologies}}{{ 93}}](#p93)
+    - [{{ Aelia}}{{ 95}}](#p95)
+    - [{{ A’shir, the Fated Flame}}{{ 95}}](#p95)
+    - [{{ Axnos}}{{ 95}}](#p95)
+    - [{{ The Brakeman}}{{ 96}}](#p96)
+    - [{{ The Circle of Stars}}{{ 96}}](#p96)
+    - [{{ The Cheshire}}{{ 97}}](#p97)
+    - [{{ Derelis}}{{ 97}}](#p97)
+    - [{{ Erimia}}{{ 97}}](#p97)
+    - [{{ Fah’rin, The Howling Blizzard}}{{ 97}}](#p97)
+    - [{{ Fayne Lightfeet}}{{ 98}}](#p98)
+    - [{{ Golgolgoss, The Watcher}}{{ 98}}](#p98)
+    - [{{ The Grey Ocean}}{{ 98}}](#p98)
+    - [{{ Gunvald}}{{ 99}}](#p99)
+    - [{{ Gutom, The Bloody Rose}}{{ 99}}](#p99)
+    - [{{ Heleniel, The Sin Seeker}}{{ 99}}](#p99)
+    - [{{ Hestora}}{{ 99}}](#p99)
+    - [{{ Heures}}{{ 100}}](#p100)
+    - [{{ The Home of Hearth and Health}}{{ 100}}](#p100)
+    - [{{ Kohtalo, Patron of Fate Forgers}}{{ 100}}](#p100)
+    - [{{ Krun Darr}}{{ 101}}](#p101)
+    - [{{ Kujani}}{{ 101}}](#p101)
+    - [{{ Levona, Duchess of Hell}}{{ 101}}](#p101)
+    - [{{ Lotus}}{{ 102}}](#p102)
+    - [{{ Luxandra, The Everbloom}}{{ 102}}](#p102)
+    - [{{ Lysanthyr, The Unending Delight}}{{ 102}}](#p102)
+    - [{{ The Great and Noble Manaat Al-Karim}}{{ 103}}](#p103)
+    - [{{ Maiden of the Garden}}{{ 103}}](#p103)
+    - [{{ Mendastarum, Devourer of Truth}}{{ 104}}](#p104)
+    - [{{ Nesdonin}}{{ 104}}](#p104)
+    - [{{ Nimane, The Forge Matron}}{{ 104}}](#p104)
+    - [{{ Noctune}}{{ 105}}](#p105)
+    - [{{ Novissime, The Orchid Reaper}}{{ 105}}](#p105)
+    - [{{ Oenos}}{{ 105}}](#p105)
+    - [{{ The Path of the Great Spirits}}{{ 106}}](#p106)
+    - [{{ Peko-Amuzo, The Trickster Prince}}{{ 106}}](#p106)
+    - [{{ Riahn, He Who Eclipses the Stars}}{{ 106}}](#p106)
+    - [{{ Seraphion, The Highest Throne}}{{ 107}}](#p107)
+    - [{{ Sinnesh, The Den Mother}}{{ 107}}](#p107)
+    - [{{ Satya, the Peerless Seeker}}{{ 107}}](#p107)
+    - [{{ The Eyes}}{{ 108}}](#p108)
+    - [{{ The Living Mandate}}{{ 108}}](#p108)
+    - [{{ The Three Sisters}}{{ 108}}](#p108)
+    - [{{ The World Weave}}{{ 109}}](#p109)
+    - [{{ Trella, The Night Sky}}{{ 109}}](#p109)
+    - [{{ Unmortus, The Dead Guardian}}{{ 110}}](#p110)
+    - [{{ Veskahule}}{{ 110}}](#p110)
+    - [{{ Xan’Zyx, the First Incarnation}}{{ 111}}](#p111)
+    - [{{ Xeesis}}{{ 111}}](#p111)
+- ### [{{ Menu}}{{ 112}}](#p112)
 
 </div>
 </div>
