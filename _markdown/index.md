@@ -1,4 +1,4 @@
-{{titlebar,width:60% Covalon Player's Guide rev 25.01.25 }}
+{{titlebar,width:60% Covalon Player's Guide rev 25.02.01 }}
 :
 :
  
@@ -120,6 +120,7 @@ Covalon is a "living world" style tabletop RPG campaign, using the Pathfinder 2e
   - #### [{{ Pre-Cataclysm Civilizations}}{{ 76}}](#p76)
   - #### [{{ Deities, Faith, and Ideologies}}{{ 93}}](#p93)
 }}
+
 
 
 
@@ -551,7 +552,7 @@ Most of the stores ran by NPCs in Covalon are little more than market stalls sel
 
 - All Uncommon level 0 classic firearms
 
-- Uncommon level 0 weapons for which Covalon has the formula listed in the [Crafting Hall](https://docs.google.com/spreadsheets/d/1WpVq0OUl0jGqQNaYonDDJEmdGMiRynHVLnqjGmkTg4c/edit#gid=0)
+- Uncommon level 0 weapons for which Covalon has the formula listed in the [Crafting Hall](https://docs.google.com/spreadsheets/d/1gcVr4Zk02KkMo44fHfEk5RPuspAKWAwyKj6pAYrwWzM/edit?gid=1191624151#gid=1191624151)
 
 - Common formulas for items with levels less than or equal to the settlement's level
 
@@ -880,7 +881,7 @@ Number | Fey
 9 | Satyr
 10| Unicorn
 :
-Stat block complexity: Moderate, includes spells and unique abilities.
+Stat block complexity: Moderate, includes spells and unique abilities, including healing.
 
 \column
 ##### Dragons
@@ -999,7 +1000,7 @@ When using the Earn Income activity, you must roll for each individual day of do
 
 #### Crafting
 
-Due to the very limited equipment options available at the General Store, players will need to obtain most of the items they need through crafting. The crafting hall sells formulas for all common items with a level less than or equal to the settlement's level, but higher level formulas or formulas that are uncommon or rarer will can only be recovered from adventures. Formulas found on adventures and formulas invented by players (either through deconstruction or the Inventor feat) can be posted on the [public bulletin board](https://docs.google.com/spreadsheets/d/1WpVq0OUl0jGqQNaYonDDJEmdGMiRynHVLnqjGmkTg4c/edit#gid=0) - these formulas are free for anyone to copy.
+Due to the very limited equipment options available at the General Store, players will need to obtain most of the items they need through crafting. The crafting hall sells formulas for all common items with a level less than or equal to the settlement's level, but higher level formulas or formulas that are uncommon or rarer will can only be recovered from adventures. Formulas found on adventures and formulas invented by players (either through deconstruction or the Inventor feat) can be posted on the [public bulletin board](https://docs.google.com/spreadsheets/d/1gcVr4Zk02KkMo44fHfEk5RPuspAKWAwyKj6pAYrwWzM/edit?gid=1191624151#gid=1191624151) - these formulas are free for anyone to copy.
 
 {{note
 ##### DC to Craft an Item
@@ -1037,7 +1038,7 @@ Noqual | Mining, Metal, etc.
 
 #### Retraining
 
-Covalon's robust training facility and expansive library allows characters to retrain faster than in a traditional campaign. Retraining a feat, skill increase, or spell in a spell repertoire takes only four days of downtime, and retraining any other type of class feature only takes fourteen days. The use of these amenities is not free, however - for every day spent retraining, your character must pay the amount of gold listed for their level in Table 3-6: Retraining Costs.
+Covalon's robust training facility and expansive library allows characters to retrain faster than in a traditional campaign. Retraining a feat, skill increase, selected language, or spell in a spell repertoire takes only four days of downtime, and retraining any other type of class feature only takes fourteen days. The use of these amenities is not free, however - for every day spent retraining, your character must pay the amount of gold listed for their level in Table 3-6: Retraining Costs.
 
 Ancestry, heritage, background, class, and ability scores cannot be retrained. A player who wishes to change these things about their character will need to undergo a Terran Reincarnation ritual instead.
 :
@@ -3077,7 +3078,7 @@ Healing focused adventurers dedicated to providing care to all citizens of Coval
 
 **Leader** None
 
-**Members** Akuma Chitsuki, Brumata, Kelani Snowdrop, Kona Snowdrop, Komainu, Micir, Myka Fa'el, Mira, Rinka, Yali Fa'el, Pyre Toof
+**Members** Akuma Chitsuki, Brumata, Kelani Snowdrop, Kona Snowdrop, Komainu, Micir, Mina Maplesmith, Myka Fa'el, Mira, Rinka, Yali Fa'el, Pyre Toof
 
 ---
 
@@ -3195,7 +3196,7 @@ Adventurers dedicated to the rediscovery of Elleaterra.
 
 **Leader** None
 
-**Members** Kona Snowdrop, Kelani Snowdrop, Brynn Ebonheart, Mikom, Resh, Komainu
+**Members** Kona Snowdrop, Kelani Snowdrop, Brynn Ebonheart, Mikom, Resh, Komainu, Emmenarthe
 
 ---
 
@@ -4823,44 +4824,36 @@ The generational home of countless dwarves, Whitespire was a shining beacon of l
 ## Deities, Faith, and Ideologies
 {{
 
-The various religions practiced in Elleaterra are as varied and distinct as the people themselves. The religions listed in this section are by no means a comprehensive list, but represent major religions practiced in Elleaterra. These deities are all player submitted and free for anyone to use for their characters. If you're looking to worship a deity with a particular thematic you feel is missing, feel free to #create-a-ticket with a deity submission. 
+The various religions practiced in Elleaterra are as varied and distinct as the people themselves. The religions listed in this section are not comprehensive list, but represent major religions practiced in Elleaterra. These deities are all player submitted and free for anyone to use for their characters. If you're looking to worship a deity witha thematic or mechanics you feel are missing, feel free to #create-a-ticket with a deity submission. 
 
 ##### Table 4-1: Deities
-| Diety                                | Sanctification   | Domains                                 | Alt Domains          |
-| :------------------------------------ | :---------------- | :--------------------------------------- | :--------------------: |
-| Aelia                                | can choose holy  | fire, healing, sun, truth               | duty                 |
-| A'shir, the Fated Flame              | can choose unholy| destruction, fate, fire, time           | none                 |
-| Axnos             | can choose either| cities, knowledge, introspection, toil           | travel   
-The Brakeman | can choose holy | toil, protection, might, travel | metal, death|
-| The Circle of Stars                  | can choose holy  | healing, moon, star, sun                | travel               |
-| The Cheshire                         | can choose unholy| death, decay, cold                      | trickery             |
-| Derelis                              | must choose holy | ambition, protection, wyrmkin, zeal     | duty                 |
-| Erimia                               | none             | earth, nature, water, wood              | fire, air            |
-| Fah'rin, The Howling Blizzard        | can choose unholy| air, cold, perfection, void             | none
-| Fayne Lightfeet                      | can choose holy  | creation, protection, travel, trickery  | family               |
-| Golgolgoss, The Watcher              | can choose either| death, decay, nature                    | undeath              |
-| The Grey Ocean                       | none             | death, repose, water, fate              | healing, introspection |
-| Gunvald                              |can choose holy   | duty, freedom, might, protection        | none                 |
-| Gutom, the Bloody Rose               |must choose unholy| destruction, indulgence, might, nature  | earth                |
-| Heleniel The Sin Seeker              | must choose holy | cities, duty, protection, zeal          | none                 |
-| Hestora                              |can choose holy   | family, earth, fire, protection         | none                 |
-| Heures                               | can choose holy  | time, vigil, wyrmkin, introspection     | none                 |
-| The Home of Hearth and Health        | can choose holy  | family, healing, fire, protection       | none                 |
-| Kohtalo, Patron of Fate Forgers      | can choose holy  | ambition, creative, fate, zeal          | confidence           |
-| Krun Darr                            | can choose either| lightning, change, creation, destruction| dragon, might                |
-| Kujani                               | none             | ambition, duty, freedom, perfection     | dust                 |
-| Levona, Duchess of Hell              |must choose unholy| confidence, fire, trickery, tyranny     | none                 |
-| Lotus                                | can choose holy  | change, healing, magic, protection      | none                 |
-| Luxandra, The Everbloom              | can choose holy  | creation, passion, protection, zeal     | none                 |
-| Lysanthyr, the Unending Delight      | can choose unholy| delirium, indulgence, passion, undeath  | none                 |
-| Maiden of the Garden                 | can choose either| passion, wealth, time, luck             | none                 |
-| Manaat al-Karim                      | can choose holy  | air, fire, dust                         | sun, freedom         |
-| Mendastarum, Devourer of Truth                             |must choose unholy| delirium, knowledge, magic, trickery              | glyph                |
-| Nesdonin                             |must choose unholy| decay, pain, plague, swarm              | death                |
-| Nimane, the Forge Matron             | can choose holy  | creation, fire, metal, perfection       | might, toil          |
-| Noctune                              | none             | change, moon, passion, water            | delirium             |
-| Novissime, The Orchid Reaper         |must choose unholy| death, secrecy, zeal                    | fate                 |
-| Oenos                                | can choose holy  | confidence, indulgence, luck            | none                 |
+| Diety                                | Sanctification   | Domains                                 | Alt Domains          | Weapon
+| :------------------------------------| :----------------| :---------------------------------------| :------------------: | :----------- |
+| Aelia                                | can choose holy  | fire, healing, sun, truth               | duty                 | morningstar  |
+| A'shir, the Fated Flame              | can choose unholy| destruction, fate, fire, time           | none                 | fire poi     |
+| Axnos                                | can choose either| cities, knowledge, introspection, toil  | travel               | polytool     |
+| The Brakeman                         | can choose holy  | toil, protection, might, travel         | metal, death         | maul         |
+| The Circle of Stars                  | can choose holy  | healing, moon, star, sun                | travel               | sickle       |
+| The Cheshire                         | can choose unholy| death, decay, cold                      | trickery             | bladed scarf |
+| Derelis                              | must choose holy | ambition, protection, wyrmkin, zeal     | duty                 | longsword    |
+| Erimia                               | none             | earth, nature, water, wood              | fire, air            | staff        |
+| Fah'rin, The Howling Blizzard        | can choose unholy| air, cold, perfection, void             | none                 | kukri        |
+| Fayne Lightfeet                      | can choose holy  | creation, protection, travel, trickery  | family               | light hammer |
+| Golgolgoss, The Watcher              | can choose either| death, decay, nature                    | undeath              | hatchet      |
+| The Grey Ocean                       | none             | death, repose, water, fate              | healing, introspection | trident    |
+| Gunvald                              |can choose holy   | duty, freedom, might, protection        | none                 | spear or longsword |
+| Gutom, the Bloody Rose               |must choose unholy| destruction, indulgence, might, nature  | earth                | bow staff    |
+| Heleniel The Sin Seeker              | must choose holy | cities, duty, protection, zeal          | none                 | bastard sword|
+| Hestora                              |can choose holy   | family, earth, fire, protection         | none                 | shears       |
+| Heures                               | can choose holy  | time, vigil, wyrmkin, introspection     | none                 | staff        |
+| The Home of Hearth and Health        | can choose holy  | family, healing, fire, protection       | none                 | spear        |
+| Kohtalo, Patron of Fate Forgers      | can choose holy  | ambition, creative, fate, zeal          | confidence           | pick         |
+| Krun Darr                            | can choose either| lightning, change, creation, destruction| dragon, might        | scorpion whip|
+| Kujani                               | none             | ambition, duty, freedom, perfection     | dust                 | fist         |
+| Levona, Duchess of Hell              |must choose unholy| confidence, fire, trickery, tyranny     | none                 | whip         |
+| Lotus                                | can choose holy  | change, healing, magic, protection      | none                 | fist         |
+| Luxandra, The Everbloom              | can choose holy  | creation, passion, protection, zeal     | none                 | longbow      |
+| Lysanthyr, the Unending Delight      | can choose unholy| delirium, indulgence, passion, undeath  | none                 | asp coil     |
 
                 
 
@@ -4871,23 +4864,32 @@ The Brakeman | can choose holy | toil, protection, might, travel | metal, death|
 
 {{wide
 ##### Table 4-1: Deities cont.
-| Diety                                | Sanctification   | Domains                                 | Alt Domains          |
-| :------------------------------------ | :---------------- | :--------------------------------------- | :--------------------: |
-| The Path of the Great Spirits        | can choose holy  | family, freedom, knowledge, nature      | none                 |
-| Peko-Amuzo, The Trickster Prince     | can choose unholy| change, indulgence, passion, trickery   | abomination          |
-| Riahn, He who Eclipsed the Stars     |can choose either            | cities, cold, darkness, wealth          | dreams               |
-| Seraphion, the Highest Throne              | can choose holy  | duty, protection, sun, wealth     | none               |
-| Sinnesh, the Den Mother              | can choose holy  | creation, earth, family, protection     | travel 
-Satya, the Peerless Seeker | can choose holy | truth, introspection, knowledge, change | perfection|
-| The Eyes                             |must choose unholy| abomination, nightmare, pain, void      | none                 |
-| The Living Mandate                   | can choose either| ambition, destruction, freedom, wealth  | none                 |
-| The Three Sisters                    | can choose holy  | healing, knowledge, truth, vigil        | travel               |
-| The World Weave          | can choose either  | air, earth, fire, water, metal, wood      | none              |
-| Trella, the Night Sky                | can choose holy  | fate, moon, stars, travel               | void                 |
-| Unmortus, The Dead Guardian          | can choose holy  | cities, protection, soul, undeath       | family               |
-| Veskahule          | none            | abomination, creation, dreams, nightmares     | soul, naga |
-| Xan'zyk, the First Incantation       | can choose either| ambition, destruction, glyph, magic     | none                 |
-| Xeesis                               | can choose either| darkness, protection, secrecy, trickery | fate                 |
+| Diety                                | Sanctification   | Domains                                 | Alt Domains          | Weapon
+| :------------------------------------ | :---------------- | :--------------------------------------- | :--------------------: | :---------- |
+| Maiden of the Garden                 | can choose either| passion, wealth, time, luck             | none                 | shield boss|
+| Manaat al-Karim                      | can choose holy  | air, fire, dust                         | sun, freedom         | wish knife or wish blade  |
+| Mendastarum, Devourer of Truth       |must choose unholy| delirium, knowledge, magic, tric        | glyph                | asp coil     |
+| Nesdonin                             |must choose unholy| decay, pain, plague, swarm              | death                | dagger       |
+| Nimane, the Forge Matron             | can choose holy  | creation, fire, metal, perfection       | might, toil          | longsword    |
+| Noctune                              | none             | change, moon, passion, water            | delirium             | trident      |
+| Novissime, The Orchid Reaper         |must choose unholy| death, secrecy, zeal                    | fate                 | sawtooth saber|
+| Oenos                                | can choose holy  | confidence, indulgence, luck            | none                 | fist         |
+| The Path of the Great Spirits        | can choose holy  | family, freedom, knowledge, nature      | none                 | spear |
+| Peko-Amuzo, The Trickster Prince     | can choose unholy| change, indulgence, passion, trickery   | abomination          | polytool |
+| Riahn, He who Eclipsed the Stars     |can choose either            | cities, cold, darkness, wealth          | dreams               | dagger |
+| Seraphion, the Highest Throne              | can choose holy  | duty, protection, sun, wealth     | none               | flail |
+| Sinnesh, the Den Mother              | can choose holy  | creation, earth, family, protection     | travel | light hammer |
+| Satya, the Peerless Seeker | can choose holy | truth, introspection, knowledge, change | perfection| talwar | 
+| The Eyes                             |must choose unholy| abomination, nightmare, pain, void      | none                 | war razor | 
+| The Living Mandate                   | can choose either| ambition, destruction, freedom, wealth  | none                 | dueling pistol |
+| The Three Sisters                    | can choose holy  | healing, knowledge, truth, vigil        | travel               | polytool |
+| The World Weave          | can choose either  | air, earth, fire, water, metal, wood      | none              | wish knife or wish blade |
+| Trella, the Night Sky                | can choose holy  | fate, moon, stars, travel               | void                 | starknife |
+| Unmortus, The Dead Guardian          | can choose holy  | cities, protection, soul, undeath       | family               | bastard sword |
+| Veskahule          | none            | abomination, creation, dreams, nightmares     | soul, naga | urumi | 
+| Xan'zyk, the First Incantation       | can choose either| ambition, destruction, glyph, magic     | none                 | stiletto pen | 
+| Xeesis                               | can choose either| darkness, protection, secrecy, trickery | fate | injection spear |
+| Zegarek                              | can choose either| confidence, death, might, nature        | earth, zeal | hongali hornbow | 
 
 
 }}
@@ -5121,7 +5123,7 @@ The Grey Ocean is a place: a beach made of seaglass, a great sea full of silted 
 **Favored Weapon** trident<br>
 **Domains** death, repose, water, fate<br>
 **Alternate Domain** healing, introspection<br>
-**Cleric Spells** 1st: endure, 2nd: quench, 5th: mariners curse
+**Cleric Spells** 1st: endure, 2nd: quench, 4th: grasp of the deep
 }} 
 
 {{pageNumber,auto}}
@@ -5459,7 +5461,7 @@ When the ancient world discovered alchohol, Oenos took his first drink. When the
 **Domains** confidence, indulgence, luck<br>
 **Cleric Spells** 1st: friendfetch, 3rd: cozy cabin, 5th: summon giant
 }}
-}}
+
 {{pageNumber,auto}}
 \page
 ### The Path of the Great Spirits
@@ -5713,6 +5715,22 @@ A relatively unkown deity, Xeesis is a god of secrets and hidden knowledge. They
 **Alternate Domain** fate<br>
 **Cleric Spells** 2nd: invisibility, 3rd: oneiric mire, 5th: synesthesia
 }}
+### Zegarek
+{{wide,columns:2
+Zegarek was most often followed by the more bold of the hunters from the earlier days of Gornlar. His teachings encouraged his clerics to join the rangers and fighters in their hunting trips and bounty hunts. His Favored Weapon is the hornbow as it was often crafted from the pieces, usually the horn, of the largest of prey and forced their users to hunt from horseback or close by. The temples to Zegarek were often used as early hunting lodges where his followers would share stories of their hunts be they beast or humanoid in nature. They were also places where anyone could drop off bounties to be claimed or where merchants could make requests when certain animal meats were in short supply. 
+:
+**Edicts** hunt with short ranged weapons, use every part of your kill, give your enemy a quick end, use eye contact to strike fear in your enemy<br>
+**Anathema** engage your enemy from further than 60ft, let your enemy suffer in pain, use torture to get what you want, forget your enemy's face<br>
+#### Devotee Benefits
+**Divine Font** heal<br>
+**Divine Sanctification** can choose holy or unholy<br>
+**Divine Skill** intimidation<br>
+**Favored Weapon** hongali hornbow<br>
+**Domains** confidence, death, might, nature<br>
+**Alternate Domains** earth, zeal<br>
+**Cleric Spells** 1st: tailwind, 4th: vision of death, 7th: true target
+}}
+
 {{pageNumber,auto}}
 
 \page
@@ -5877,6 +5895,7 @@ A relatively unkown deity, Xeesis is a god of secrets and hidden knowledge. They
     - [{{ Veskahule}}{{ 110}}](#p110)
     - [{{ Xan’Zyx, the First Incarnation}}{{ 111}}](#p111)
     - [{{ Xeesis}}{{ 111}}](#p111)
+    - [{{ Zegarek}}{{ 111}}](#p111)
 - ### [{{ Menu}}{{ 112}}](#p112)
 
 </div>
