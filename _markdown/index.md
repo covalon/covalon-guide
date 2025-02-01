@@ -2997,7 +2997,7 @@ A guild dedicated to the maintenance and prosperity of Covalon's Library, throug
 
 **Leader** Ateia
 
-**Members** Cinna, Phillip Stildori, Tox Faelbite, Einheri
+**Members** Cinna, Phillip Stildori, Tox Faelbite, Einheri, Apprentice, Thaniel
 
 ---
 
