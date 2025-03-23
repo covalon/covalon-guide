@@ -819,7 +819,7 @@ Converted to WOFF2 by Transfonter - https://transfonter.org
 
 /* Fix column breaks  */
 @supports (break-after: always) {
-  .page .columnSplit {
+  .page .columnSplit:has(+ :not(.block)) {
     margin-bottom: 100vh;
   }
 }
