@@ -818,6 +818,8 @@ Converted to WOFF2 by Transfonter - https://transfonter.org
 }
 
 /* Fix column breaks  */
-.page .columnSplit {
-  margin-bottom: 100vh;
+@supports (break-after: always) {
+  .page .columnSplit {
+    margin-bottom: 100vh;
+  }
 }
