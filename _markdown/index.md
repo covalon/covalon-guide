@@ -1,4 +1,4 @@
-{{titlebar,width:60% Covalon Player's Guide rev 25.02.01 }}
+{{titlebar,width:60% Covalon Player's Guide rev 25.03.31 }}
 :
 :
  
@@ -23,7 +23,7 @@ Welcome to Covalon, a Pathfinder 2nd Edition living world campaign! Our campaign
 
 
 {{wide 
-Covalon is a "living world" style tabletop RPG campaign, using the Pathfinder 2e system, with a focus on providing drop-in/drop-out style adventures and role play in a post-apocalyptic fantasy setting. Our unique campaign weaves a cohesive and open narrative from the backstory and role play contributions of the players with a focus on slow and relaxed progression, giving everyone a chance to enjoy the campaign and develop their chaorracter at their own pace. Individual adventures are jam-packed with combat and intrigue without affecting an overarching plot, which allows characters to have engaging experiences without needing to worry atrbout missing out on a grander narrative. Whether you choose to play with us daily or once a week, Covalon offers fulfilling gameplay for everyone! To make this cohesive setting work, we have some special rules that you may find different from normal campaigns. In general, we try to stick to rules-as-written (RAW) as much as possible, in order to ensure that scheduled play sessions (universally referred to as "adventures" in Covalon) are run as fairly and consistently as possible between our many Game Masters (universally referred to as "dungeon guides" in Covalon). While we encourage players to invent civilizations and deities to fill out our setting, we place strict limits on homebrewed mechanical features, such as items and class features, and we do not use certain optional rules such as voluntary flaws, free archetypes, and dual classing. There are, of course, some exceptions to these rules, which can be found in this ever-updating document. 
+Covalon is a "living world" style tabletop RPG campaign, using the Pathfinder 2e system, with a focus on providing drop-in/drop-out style adventures and role play in a post-apocalyptic fantasy setting. Our unique campaign weaves a cohesive and open narrative from the backstory and role play contributions of the players with a focus on slow and relaxed progression, giving everyone a chance to enjoy the campaign and develop their character at their own pace. Individual adventures are jam-packed with combat and intrigue without affecting an overarching plot, which allows characters to have engaging experiences without needing to worry atrbout missing out on a grander narrative. Whether you choose to play with us daily or once a week, Covalon offers fulfilling gameplay for everyone! To make this cohesive setting work, we have some special rules that you may find different from normal campaigns. In general, we try to stick to rules-as-written (RAW) as much as possible, in order to ensure that scheduled play sessions (universally referred to as "adventures" in Covalon) are run as fairly and consistently as possible between our many Game Masters (universally referred to as "dungeon guides" in Covalon). While we encourage players to invent civilizations and deities to fill out our setting, we place strict limits on homebrewed mechanical features, such as items and class features, and we do not use certain optional rules such as voluntary flaws, free archetypes, and dual classing. There are, of course, some exceptions to these rules, which can be found in this ever-updating document. 
 {{text-align:center
 [Click here to join Covalon!](https://discord.gg/covalon)
 }}
@@ -32,6 +32,8 @@ Covalon is a "living world" style tabletop RPG campaign, using the Pathfinder 2e
 {{pageNumber,auto}}
 
 \page
+
+
 
 {{toc,wide
 # Contents
@@ -118,9 +120,9 @@ Covalon is a "living world" style tabletop RPG campaign, using the Pathfinder 2e
     - [{{ The Stouthearts}}{{ 74}}](#p74)
     - [{{ The Green Knights of the Square}}{{ 75}}](#p75)
   - #### [{{ Pre-Cataclysm Civilizations}}{{ 76}}](#p76)
-  - #### [{{ Deities, Faith, and Ideologies}}{{ 93}}](#p93)
-}}
+  - #### [{{ Deities, Faith, and Ideologies}}{{ 94}}](#p94)
 
+}}
 
 
 
@@ -672,7 +674,7 @@ Dragon | Gornlar
 Earth | ???
 Emotion | ???
 Fiend | Verndhelt
-Fire | ???
+Fire | Varceta
 Forge | ???
 Life | ???
 Luck | ???
@@ -967,6 +969,7 @@ The following is a list of currently active expeditions. For more information on
 - Verndhelt (Complete)
 - Drifthaven (Complete)
 - The Fey Courts (Complete)
+- Varceta (Complete)
 
 }}
 }} 
@@ -4641,6 +4644,17 @@ A collision of two worlds.
 The small island of Tymoria was hidden within the Misty Sea. It was known to be a place of extreme primal power, even hosting a permanently open portal to the First World. This portal is the cause of the drastically diverse range of climates on the island, which necessitated living in harmony with nature instead of building vast cities. A portion of the kingdom also lay within the First World, but most non-fey denizens of Tymoria didn't venture too far in, for there exist powerful creatures that do not fully follow the whims of the court.The Cataclysm enshrouded Tymoria in a magical mist that defies navigation; any ships that sail into it are spit out in random locations elsewhere in the Misty Sea. No one has been able to visit Tymoria since.
 }}
 :
+
+
+}}
+
+{{pageNumber,auto}}
+
+\page
+
+{{wide
+
+
 {{template
 {{
 ### The Kingdom of Varceta 
@@ -4672,7 +4686,45 @@ The last of the kingdom to fall was Darkwood Shire, a relatively peaceful rural 
 }}
 
 
+
 }}
+
+#### Varceta Expedition Log
+
+Our efforts to relcaim Varceta are complete! We travelled across the plains of Ratchethallow on the backs of a herd of clockwork horses. Upon arrival in the volcanic mountains of Varceta, we were met with a resistance of Varcetan survivors, mostly Dhampir, who informed us of the true enemy - an army of Maw infested psychopomps, who completely wiped out the vampire nobles while they were distracted by their civil war. 
+
+We worked with this resistance to rally troops, investigate lava magic, and even performed underwater reconnaisance in a Dungeoneering Society crafted special Shark Diver Submarine! Together, we made a plan to lure in the psychopomp war master. A trap was laid at the peak of a nearby volcano, combining void and fire magic to create special Lava Tethers that bound Traseem, the Great Seabird in place!
+
+Traseem proved to be no easy foe, even bound, and the first group to challenge him was unfortunately slain, though revived by the Heart of Terra. When our heroes finally slayed the psychopomp, we found the vessel of the Maw contained within it. The Heart of Terra pushed to destroy it, but it struggled. Covalonians present for Traseem's destruction or at the Shrine of Terra noticed it falter. It managed to overcome the Maw, but not without cost. Varceta is freed, but it will take effort to bolster the Heart. 
+
+
+![](https://raw.githubusercontent.com/covalon/covalon-guide/refs/heads/gh-pages/assets/covalon/PlayersGuide/ExpeditionLog/VarcetaOutpost.webp){width:370px,margin:"0px -30px"}
+
+ *Covalon's outpost in Varceta. Designed by Komainu.*
+
+
+{text-align:center}
+
+{{descriptive,right,width:340px
+
+
+##### HEROES OF VARCETA
+The following characters were the first to defeat The Great Seabird in Varceta's expedition finale.
+
+Cinna (Sorcerer 15)
+
+Kelani (Inventor 15)
+
+Kona (Alchemist 15)
+
+Rinka (Witch 15)
+
+Valerie (Swashbuckler 15)
+
+Yksys (Champion 15)
+
+}}
+
 
 {{pageNumber,auto}}
 
@@ -4868,7 +4920,7 @@ The various religions practiced in Elleaterra are as varied and distinct as the 
 | :------------------------------------ | :---------------- | :--------------------------------------- | :--------------------: | :---------- |
 | Maiden of the Garden                 | can choose either| passion, wealth, time, luck             | none                 | shield boss|
 | Manaat al-Karim                      | can choose holy  | air, fire, dust                         | sun, freedom         | wish knife or wish blade  |
-| Mendastarum, Devourer of Truth       |must choose unholy| delirium, knowledge, magic, tric        | glyph                | asp coil     |
+| Mendastarum, Devourer of Truth       |must choose unholy| delirium, knowledge, magic, trickery    | glyph                | asp coil     |
 | Nesdonin                             |must choose unholy| decay, pain, plague, swarm              | death                | dagger       |
 | Nimane, the Forge Matron             | can choose holy  | creation, fire, metal, perfection       | might, toil          | longsword    |
 | Noctune                              | none             | change, moon, passion, water            | delirium             | trident      |
@@ -5842,61 +5894,61 @@ Zegarek was most often followed by the more bold of the hunters from the earlier
     - [{{ Taltain}}{{ 89}}](#p89)
     - [{{ Tarunga}}{{ 90}}](#p90)
     - [{{ Tymoria}}{{ 90}}](#p90)
-    - [{{ The Kingdom of Varceta}}{{ 90}}](#p90)
-    - [{{ Verndhelt}}{{ 91}}](#p91)
-    - [{{ The Kingdom of Vyrm}}{{ 92}}](#p92)
-    - [{{ Whitespire}}{{ 92}}](#p92)
-  - #### [{{ Deities, Faith, and Ideologies}}{{ 93}}](#p93)
-    - [{{ Aelia}}{{ 95}}](#p95)
-    - [{{ A’shir, the Fated Flame}}{{ 95}}](#p95)
-    - [{{ Axnos}}{{ 95}}](#p95)
-    - [{{ The Brakeman}}{{ 96}}](#p96)
-    - [{{ The Circle of Stars}}{{ 96}}](#p96)
-    - [{{ The Cheshire}}{{ 97}}](#p97)
-    - [{{ Derelis}}{{ 97}}](#p97)
-    - [{{ Erimia}}{{ 97}}](#p97)
-    - [{{ Fah’rin, The Howling Blizzard}}{{ 97}}](#p97)
-    - [{{ Fayne Lightfeet}}{{ 98}}](#p98)
-    - [{{ Golgolgoss, The Watcher}}{{ 98}}](#p98)
-    - [{{ The Grey Ocean}}{{ 98}}](#p98)
-    - [{{ Gunvald}}{{ 99}}](#p99)
-    - [{{ Gutom, The Bloody Rose}}{{ 99}}](#p99)
-    - [{{ Heleniel, The Sin Seeker}}{{ 99}}](#p99)
-    - [{{ Hestora}}{{ 99}}](#p99)
-    - [{{ Heures}}{{ 100}}](#p100)
-    - [{{ The Home of Hearth and Health}}{{ 100}}](#p100)
-    - [{{ Kohtalo, Patron of Fate Forgers}}{{ 100}}](#p100)
-    - [{{ Krun Darr}}{{ 101}}](#p101)
-    - [{{ Kujani}}{{ 101}}](#p101)
-    - [{{ Levona, Duchess of Hell}}{{ 101}}](#p101)
-    - [{{ Lotus}}{{ 102}}](#p102)
-    - [{{ Luxandra, The Everbloom}}{{ 102}}](#p102)
-    - [{{ Lysanthyr, The Unending Delight}}{{ 102}}](#p102)
-    - [{{ The Great and Noble Manaat Al-Karim}}{{ 103}}](#p103)
-    - [{{ Maiden of the Garden}}{{ 103}}](#p103)
-    - [{{ Mendastarum, Devourer of Truth}}{{ 104}}](#p104)
-    - [{{ Nesdonin}}{{ 104}}](#p104)
-    - [{{ Nimane, The Forge Matron}}{{ 104}}](#p104)
-    - [{{ Noctune}}{{ 105}}](#p105)
-    - [{{ Novissime, The Orchid Reaper}}{{ 105}}](#p105)
-    - [{{ Oenos}}{{ 105}}](#p105)
-    - [{{ The Path of the Great Spirits}}{{ 106}}](#p106)
-    - [{{ Peko-Amuzo, The Trickster Prince}}{{ 106}}](#p106)
-    - [{{ Riahn, He Who Eclipses the Stars}}{{ 106}}](#p106)
-    - [{{ Seraphion, The Highest Throne}}{{ 107}}](#p107)
-    - [{{ Sinnesh, The Den Mother}}{{ 107}}](#p107)
-    - [{{ Satya, the Peerless Seeker}}{{ 107}}](#p107)
-    - [{{ The Eyes}}{{ 108}}](#p108)
-    - [{{ The Living Mandate}}{{ 108}}](#p108)
-    - [{{ The Three Sisters}}{{ 108}}](#p108)
-    - [{{ The World Weave}}{{ 109}}](#p109)
-    - [{{ Trella, The Night Sky}}{{ 109}}](#p109)
-    - [{{ Unmortus, The Dead Guardian}}{{ 110}}](#p110)
-    - [{{ Veskahule}}{{ 110}}](#p110)
-    - [{{ Xan’Zyx, the First Incarnation}}{{ 111}}](#p111)
-    - [{{ Xeesis}}{{ 111}}](#p111)
-    - [{{ Zegarek}}{{ 111}}](#p111)
-- ### [{{ Menu}}{{ 112}}](#p112)
+    - [{{ The Kingdom of Varceta}}{{ 91}}](#p91)
+    - [{{ Verndhelt}}{{ 92}}](#p92)
+    - [{{ The Kingdom of Vyrm}}{{ 93}}](#p93)
+    - [{{ Whitespire}}{{ 93}}](#p93)
+  - #### [{{ Deities, Faith, and Ideologies}}{{ 94}}](#p94)
+    - [{{ Aelia}}{{ 96}}](#p96)
+    - [{{ A’shir, the Fated Flame}}{{ 96}}](#p96)
+    - [{{ Axnos}}{{ 96}}](#p96)
+    - [{{ The Brakeman}}{{ 97}}](#p97)
+    - [{{ The Circle of Stars}}{{ 97}}](#p97)
+    - [{{ The Cheshire}}{{ 98}}](#p98)
+    - [{{ Derelis}}{{ 98}}](#p98)
+    - [{{ Erimia}}{{ 98}}](#p98)
+    - [{{ Fah’rin, The Howling Blizzard}}{{ 98}}](#p98)
+    - [{{ Fayne Lightfeet}}{{ 99}}](#p99)
+    - [{{ Golgolgoss, The Watcher}}{{ 99}}](#p99)
+    - [{{ The Grey Ocean}}{{ 99}}](#p99)
+    - [{{ Gunvald}}{{ 100}}](#p100)
+    - [{{ Gutom, The Bloody Rose}}{{ 100}}](#p100)
+    - [{{ Heleniel, The Sin Seeker}}{{ 100}}](#p100)
+    - [{{ Hestora}}{{ 100}}](#p100)
+    - [{{ Heures}}{{ 101}}](#p101)
+    - [{{ The Home of Hearth and Health}}{{ 101}}](#p101)
+    - [{{ Kohtalo, Patron of Fate Forgers}}{{ 101}}](#p101)
+    - [{{ Krun Darr}}{{ 102}}](#p102)
+    - [{{ Kujani}}{{ 102}}](#p102)
+    - [{{ Levona, Duchess of Hell}}{{ 102}}](#p102)
+    - [{{ Lotus}}{{ 103}}](#p103)
+    - [{{ Luxandra, The Everbloom}}{{ 103}}](#p103)
+    - [{{ Lysanthyr, The Unending Delight}}{{ 103}}](#p103)
+    - [{{ The Great and Noble Manaat Al-Karim}}{{ 104}}](#p104)
+    - [{{ Maiden of the Garden}}{{ 104}}](#p104)
+    - [{{ Mendastarum, Devourer of Truth}}{{ 105}}](#p105)
+    - [{{ Nesdonin}}{{ 105}}](#p105)
+    - [{{ Nimane, The Forge Matron}}{{ 105}}](#p105)
+    - [{{ Noctune}}{{ 106}}](#p106)
+    - [{{ Novissime, The Orchid Reaper}}{{ 106}}](#p106)
+    - [{{ Oenos}}{{ 106}}](#p106)
+    - [{{ The Path of the Great Spirits}}{{ 107}}](#p107)
+    - [{{ Peko-Amuzo, The Trickster Prince}}{{ 107}}](#p107)
+    - [{{ Riahn, He Who Eclipses the Stars}}{{ 107}}](#p107)
+    - [{{ Seraphion, The Highest Throne}}{{ 108}}](#p108)
+    - [{{ Sinnesh, The Den Mother}}{{ 108}}](#p108)
+    - [{{ Satya, the Peerless Seeker}}{{ 108}}](#p108)
+    - [{{ The Eyes}}{{ 109}}](#p109)
+    - [{{ The Living Mandate}}{{ 109}}](#p109)
+    - [{{ The Three Sisters}}{{ 109}}](#p109)
+    - [{{ The World Weave}}{{ 110}}](#p110)
+    - [{{ Trella, The Night Sky}}{{ 110}}](#p110)
+    - [{{ Unmortus, The Dead Guardian}}{{ 111}}](#p111)
+    - [{{ Veskahule}}{{ 111}}](#p111)
+    - [{{ Xan’Zyx, the First Incarnation}}{{ 112}}](#p112)
+    - [{{ Xeesis}}{{ 112}}](#p112)
+    - [{{ Zegarek}}{{ 112}}](#p112)
+- ### [{{ Menu}}{{ 113}}](#p113)
 
 </div>
 </div>
