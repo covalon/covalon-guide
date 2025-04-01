@@ -823,3 +823,15 @@ Converted to WOFF2 by Transfonter - https://transfonter.org
     margin-bottom: 100vh;
   }
 }
+
+.block.wrap-right {
+  width: 47%;
+  float: right;
+  display: block;
+  margin-left: 6%;
+  margin-bottom: 3%;
+}
+
+.block.wide {
+  clear: both;
+}
