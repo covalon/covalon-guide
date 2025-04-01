@@ -816,3 +816,10 @@ Converted to WOFF2 by Transfonter - https://transfonter.org
 .page .descriptive.right:has([id^="heroes-of"]) p {
   text-indent: 0;
 }
+
+/* Fix column breaks  */
+@supports (break-after: always) {
+  .page .columnSplit:has(+ :not(.block)) {
+    margin-bottom: 100vh;
+  }
+}
