@@ -1,4 +1,4 @@
-{{titlebar,width:60% Covalon Player's Guide rev 25.03.31 }}
+{{titlebar,width:60% Covalon Player's Guide rev 25.04.26 }}
 :
 :
  
@@ -32,7 +32,6 @@ Covalon is a "living world" style tabletop RPG campaign, using the Pathfinder 2e
 {{pageNumber,auto}}
 
 \page
-
 
 
 {{toc,wide
@@ -119,9 +118,9 @@ Covalon is a "living world" style tabletop RPG campaign, using the Pathfinder 2e
     - [{{ Covalon Historical Society}}{{ 74}}](#p74)
     - [{{ The Stouthearts}}{{ 74}}](#p74)
     - [{{ The Green Knights of the Square}}{{ 75}}](#p75)
+    - [{{ The Sundered Circle}}{{ 75}}](#p75)
   - #### [{{ Pre-Cataclysm Civilizations}}{{ 76}}](#p76)
   - #### [{{ Deities, Faith, and Ideologies}}{{ 94}}](#p94)
-
 }}
 
 
@@ -584,13 +583,13 @@ Similarly, specific magic items lose their special properties when used by lower
 There are several channels in the Discord server that are used to facilitate player-to-player transactions.
 
 ##### Store Menus
-Players can create a post in the #store-menus channel to showcase wares they frequently have available or take crafting comissions.
+Players can create a forum post in the #store-menus channel to showcase wares they frequently have available or take crafting comissions.
 
 ##### Looking to Buy/Sell
 Players who prefer more direct interaction can use the #looking-to-buy and #looking-to-sell channels to post buy and sell requests. Players can haggle prices or offer trades by creating threads in responses to posts.
 
 ##### Charity
-Players who simply wish to give away equipment can do so in the #charity channel.
+Players who simply wish to give away equipment can do so in the #charity channel. Please check the post pinned in that channel for instructions on how to use it. 
 }}
 
 ### Mentorship System
@@ -725,7 +724,7 @@ When your first character (your "main character") reaches max level, capped EXP,
 Your characters can never interact with each other in roleplay. Your characters have completely separate inventories, items and gold cannot be shared. (The one exception to this rule is paying for more alternate character slots, you may pay for another slot using gold from all/any of your characters inventories.) No matter how many characters you have, you only get one day of downtime to spend per day. You can spend this day of downtime as either your main character or your active alt character. Your characters may craft items for each other, but the character recieving the item must pay the full cost of the item. 
 
 #### Alternate Character Lock In Period
-If you have multiple alt characters, you can only play one alt character at a time. Once you choose to play an alt character, you are locked in to that alt for at least two weeks. During this period, you cannot use any other alt character for downtime, roleplay, or adventures. When you switch your active alt character, you must post in #alternate-character-tracking. Note that you can play your main character at any time. You must have the name of your main and active alt character in your discord name (e.g. “Daryl Hall | John Oates”).
+If you have multiple alt characters, you can only play one alt character at a time. Once you choose to play an alt character, you are locked in to that alt for at least two weeks. During this period, you cannot use any other alt character for downtime, roleplay, or adventures. When you switch your active alt character, you must post in #alternate-character-tracking. Note that you can play your main character at any time. You must have the name of your main and active alt character in your discord name with your main listed first (e.g. “Daryl Hall | John Oates”).
 
 #### Swapping your Main Character
 If you wish, you may swap your main character to be an alt character. When you choose to do this, your current main character is immediately deleveled to one tier below the highest tier, and the alt character you choose to be your new main character is no longer capped at the second highest tier. If the alt character you picked was capped with maximum experience, they immediately level up. When you swap your main character, you must post in #alternate-character-tracking, and you are locked into that main character and cannot swap again for a month.
@@ -2455,21 +2454,30 @@ We specialize in keeping things comfortable. We keep our doors open all day and 
 
 \page
 
-{{wide
 #### Mind and Matter
 
 While the doctors of Covalon are doing a great job keeping everyone alive and healthy, not every ailment can be fixed with a bandaid and a bunch of potions. And for just these cases, Mind and Matter offers a different, more personalized approach to helping people. 
 The cozy shop with its comfy carpets and faint lavender scent pervading everything is filled to the brim with sky-high shelves offering crystals, medical herbs, esoteric implements, charms, and other occult items, created and sold by Ren and Chan, while Yara offers her holistic and spiritual healing services and harrowings for those seeking answers in the back. If you're not sure where to go with a problem, Mind and Matter is never a bad choice.
 
-:
+:::::::::::
 
-![](https://github.com/covalon/covalon-guide/raw/gh-pages/assets/covalon/PlayersGuide/Maps/mind%20and%20matter.webp){width:680px,margin:"0px 0px"}
+#### Orchid Tattoo
+Welcome to the Orchid Tattoo! Founded by Cressida (female human rogue) and named to honor her beloved deity, this shop serves multiple functions; while primarily a tattoo parlor, one may also find various alchemical and magical items here. The shop keeps odd and infrequent hours (as the owner is usually out working for the Dungeoneering Society), so when the doors are locked, there's a set of quills and parchment left out to allow customers to still make their commission requests and tattoo appointments. Appointments preferred, but walk-ins are always welcome!
+
+\column
+
+![](https://github.com/covalon/covalon-guide/raw/gh-pages/assets/covalon/PlayersGuide/Maps/mind%20and%20matter.webp){width:378px,margin:"0px -25px"}
 
 *Mind and Matter. Designed by Yara.* 
 {text-align:center}
 
+::::
 
-}}
+![](https://raw.githubusercontent.com/covalon/covalon-guide/refs/heads/gh-pages/assets/covalon/PlayersGuide/Guilds/orchid_tattoo%20sign.jpg){width:378px,margin:"0px -25px"}
+
+*Orchid Tattoo Sign. Designed by Cressida.* 
+{text-align:center}
+
 
 {{pageNumber,auto}}
 
@@ -3449,6 +3457,36 @@ Modeled after an old adventuring group of the same name in Vyrm, the Stouthearts
 }}
 
 }}
+::
+{{template
+### The Sundered Circle
+---
+{{taglist
+ {{tag Guild}}
+}}
+A convocation of mages determined to expand and restore Covalon's knowledge of arcane magic. 
+
+{{indented
+**Goals** Collect arcane lore, teach prospective arcanists magic, research new arcane spells and rituals
+
+---
+
+**Headquarters** TBC
+
+**Leader** Artur
+
+**Members** Thaniel, Aniyah, Gabriel, Mercedes III, Cat-7, Phillip, Zoe Timor, Korenn Hammerfist, Kexyl (and Yan Yan)
+
+---
+
+**Membership Requirements** Able to prepare arcane spells
+
+**Values** Knowledge, power, discovery, innovation
+
+**Anathema** Leave arcane knowledge that you find, destroy a source of arcane knowledge, give up your ability to prepare arcane spells
+}}
+
+}}
 
 \column
 ::
@@ -3456,6 +3494,12 @@ Modeled after an old adventuring group of the same name in Vyrm, the Stouthearts
 
 *The Green Knights of the Square Guild Heraldry.* 
 {text-align:center}
+:::::::::::::
+![](https://raw.githubusercontent.com/covalon/covalon-guide/refs/heads/gh-pages/assets/covalon/PlayersGuide/Guilds/sundered%20circle%20guild%20heraldry.png){width:340px,margin:"0px 0px"}
+
+*The Sundered Circle Guild Heraldry.* 
+{text-align:center}
+
 
 
 
@@ -5495,7 +5539,7 @@ The god of assassins, Novissime is a well known deity in what was once the natio
 **Divine Sanctification** must choose unholy<br>
 **Divine Skill** stealth<br>
 **Favored Weapon** Sawtooth Saber<br>
-**Domains** death. secrecy, zeal<br>
+**Domains** death, secrecy, zeal<br>
 **Alternate Domain** fate<br>
 **Cleric Spells** 1st: sure strike, 2nd: invisibility, 7th: true target
 }}
@@ -5616,7 +5660,7 @@ Satya’s monks traditionally carry a holy symbol shaped into a circular mirror 
 \page
 ### The Eyes
 {{wide,columns:2
-Lurking in the deepest reaches of the sea, The Eyes watch, The Eyes wait. The Eyes share knowledge with any who seek it. For those that touch upon The Eyes truth are forever reshaped, and their souls forever marked by madness. The Eyes know all, and see all, but require it's followers to seek more madness and fear, to learn more secrets of the unending void. For only in the rantings of a mad broken soul, can the truth be seen. The eyes followers attempt to destroy the minds of others, for a broken mind serves as sustanance to The Eyes, although the followers do not know this. The Eyes cares not for it's followers as long as they continue to feed them with broken minds and knowledge. As long as madness exists in the world, The Eyes will always be waiting.
+Lurking in the deepest reaches of the sea, The Eyes watch, The Eyes wait. The Eyes share knowledge with any who seek it. For those that touch upon The Eyes truth are forever reshaped, and their souls forever marked by madness. The Eyes know all, and see all, but require its followers to seek more madness and fear, to learn more secrets of the unending void. For only in the rantings of a mad broken soul, can the truth be seen. The eyes followers attempt to destroy the minds of others, for a broken mind serves as sustenance to The Eyes, although the followers do not know this. The Eyes cares not for its followers as long as they continue to feed them with broken minds and knowledge. As long as madness exists in the world, The Eyes will always be waiting.
 :
 **Edicts** spread fear and madness in your foes, learn secrets<br>
 **Anathema** take hostages, remove madness or fear, destroy secret knowledge<br>
@@ -5875,6 +5919,7 @@ Zegarek was most often followed by the more bold of the hunters from the earlier
     - [{{ Covalon Historical Society}}{{ 74}}](#p74)
     - [{{ The Stouthearts}}{{ 74}}](#p74)
     - [{{ The Green Knights of the Square}}{{ 75}}](#p75)
+    - [{{ The Sundered Circle}}{{ 75}}](#p75)
   - #### [{{ Pre-Cataclysm Civilizations}}{{ 76}}](#p76)
     - [{{ Alatar}}{{ 76}}](#p76)
     - [{{ Armed Steppes}}{{ 76}}](#p76)
