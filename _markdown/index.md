@@ -1,4 +1,4 @@
-{{titlebar,width:60% Covalon Player's Guide rev 25.04.26 }}
+{{titlebar,width:60% Covalon Player's Guide rev 25.05.11 }}
 :
 :
  
@@ -122,8 +122,6 @@ Covalon is a "living world" style tabletop RPG campaign, using the Pathfinder 2e
   - #### [{{ Pre-Cataclysm Civilizations}}{{ 76}}](#p76)
   - #### [{{ Deities, Faith, and Ideologies}}{{ 94}}](#p94)
 }}
-
-
 
 
 {{pageNumber,auto}}
@@ -4931,9 +4929,9 @@ The various religions practiced in Elleaterra are as varied and distinct as the 
 | The Brakeman                         | can choose holy  | toil, protection, might, travel         | metal, death         | maul         |
 | The Circle of Stars                  | can choose holy  | healing, moon, star, sun                | travel               | sickle       |
 | The Cheshire                         | can choose unholy| death, decay, cold                      | trickery             | bladed scarf |
-| Derelis                              | must choose holy | ambition, protection, wyrmkin, zeal     | duty                 | longsword    |
+| Derelis                              | must choose holy | ambition, protection, dragon, zeal     | duty                 | longsword    |
 | Erimia                               | none             | earth, nature, water, wood              | fire, air            | staff        |
-| Fah'rin, The Howling Blizzard        | can choose unholy| air, cold, perfection, void             | none                 | kukri        |
+| Fah'rin, The Howling Blizzard        | can choose unholy| air, cold, perfection, nothingness             | none                 | kukri        |
 | Fayne Lightfeet                      | can choose holy  | creation, protection, travel, trickery  | family               | light hammer |
 | Golgolgoss, The Watcher              | can choose either| death, decay, nature                    | undeath              | hatchet      |
 | The Grey Ocean                       | none             | death, repose, water, fate              | healing, introspection | trident    |
@@ -4941,7 +4939,7 @@ The various religions practiced in Elleaterra are as varied and distinct as the 
 | Gutom, the Bloody Rose               |must choose unholy| destruction, indulgence, might, nature  | earth                | bow staff    |
 | Heleniel The Sin Seeker              | must choose holy | cities, duty, protection, zeal          | none                 | bastard sword|
 | Hestora                              |can choose holy   | family, earth, fire, protection         | none                 | shears       |
-| Heures                               | can choose holy  | time, vigil, wyrmkin, introspection     | none                 | staff        |
+| Heures                               | can choose holy  | time, vigil, dragon, introspection     | none                 | staff        |
 | The Home of Hearth and Health        | can choose holy  | family, healing, fire, protection       | none                 | spear        |
 | Kohtalo, Patron of Fate Forgers      | can choose holy  | ambition, creative, fate, zeal          | confidence           | pick         |
 | Krun Darr                            | can choose either| lightning, change, creation, destruction| dragon, might        | scorpion whip|
@@ -4976,11 +4974,12 @@ The various religions practiced in Elleaterra are as varied and distinct as the 
 | Seraphion, the Highest Throne              | can choose holy  | duty, protection, sun, wealth     | none               | flail |
 | Sinnesh, the Den Mother              | can choose holy  | creation, earth, family, protection     | travel | light hammer |
 | Satya, the Peerless Seeker | can choose holy | truth, introspection, knowledge, change | perfection| talwar | 
-| The Eyes                             |must choose unholy| abomination, nightmare, pain, void      | none                 | war razor | 
+| The Eyes                             |must choose unholy| abomination, nightmare, pain, nothingness      | none                 | war razor | 
 | The Living Mandate                   | can choose either| ambition, destruction, freedom, wealth  | none                 | dueling pistol |
 | The Three Sisters                    | can choose holy  | healing, knowledge, truth, vigil        | travel               | polytool |
 | The World Weave          | can choose either  | air, earth, fire, water, metal, wood      | none              | wish knife or wish blade |
-| Trella, the Night Sky                | can choose holy  | fate, moon, stars, travel               | void                 | starknife |
+| Trella, the Night Sky                | can choose holy  | fate, moon, stars, travel               | nothingness                 | starknife |
+| Tycheam                              | can choose either| dreams, fate, introspection, naga       | freedom, luck        | air repeater or long air repeater
 | Unmortus, The Dead Guardian          | can choose holy  | cities, protection, soul, undeath       | family               | bastard sword |
 | Veskahule          | none            | abomination, creation, dreams, nightmares     | soul, naga | urumi | 
 | Xan'zyk, the First Incantation       | can choose either| ambition, destruction, glyph, magic     | none                 | stiletto pen | 
@@ -5135,7 +5134,7 @@ Derelis was a very ancient, powerful dragon that died many years ago. Stories te
 **Divine Sanctification** must choose holy <br>
 **Divine Skill** diplomacy <br>
 **Favored Weapon** longsword <br>
-**Domains** ambition, protection, wyrmkin, zeal <br>
+**Domains** ambition, protection, dragon, zeal <br>
 **Alternate Domains** duty <br>
 **Cleric Spells** 1st: sure strike, 3rd: reflective scales, 7th: prismatic armor <br>
 }}
@@ -5167,7 +5166,7 @@ Every year, as the winters of the north end, stories of the cold months find the
 **Divine Sanctification** can choose unholy <br>
 **Divine Skill** survival <br>
 **Favored Weapon** kukri <br>
-**Domains** air, cold, perfection, void <br>
+**Domains** air, cold, perfection, nothingness <br>
 **Cleric Spells** 2nd: rime slick, 5th: howling blizzard, 7th: frigid flurry
 }}
 
@@ -5299,7 +5298,7 @@ Heures is the dragon deity that possesses the wisdom of ages. Heures is said to 
 **Divine Sanctification** can choose holy<br>
 **Divine Skill** society<br>
 **Favored Weapon** staff<br>
-**Domains** time, vigil, wyrmkin, introspection<br>
+**Domains** time, vigil, dragon, introspection<br>
 **Cleric Spells** 1st: friendfetch, 3rd: time jump, 5th: stagnate time
 }}
 ### The Home of Hearth and Health
@@ -5669,7 +5668,7 @@ Lurking in the deepest reaches of the sea, The Eyes watch, The Eyes wait. The Ey
 **Divine Sanctification** must choose unholy<br>
 **Divine Skill** intimidation<br>
 **Favored Weapon** war razor<br>
-**Domains** abomination, nightmare, pain, void<br>
+**Domains** abomination, nightmare, pain, nothingness <br>
 **Cleric Spells** 2nd: paranoia, 4th: vision of death, 7th: mask of terror
 }}
 
@@ -5736,19 +5735,38 @@ Few followers of The World Weave can truly claim to perfectly balance their resp
 {{wide,columns:2
 Trella is a lesser-known deity of thoughtful travel. She encompasses the inky black and starlight of the night sky. Trella provides navigation for the lost. Her guidance directs travelers and enlightens minds. Her moving the moon and stars in the sky remind us to move and explore existence. Her celestial patterns provide insight into the future directions of the world. Worshippers of Trella come from many walks of life but all have a thirst for exploration and self-improvement.
 :
-**Edicts** travel the world to learn about yourself, aid and provide charity to others on physical and spiritual journeys.<br>
-**Anathema** be complacent with your position or situation, horde wealth, lie to travelers.<br>
+**Edicts** travel the world to learn about yourself, aid and provide charity to others on physical and spiritual journeys<br>
+**Anathema** be complacent with your position or situation, horde wealth, lie to travelers<br>
 #### Devotee Benefits
 **Divine Font** harm or heal<br>
 **Divine Sanctification** can choose holy<br>
 **Divine Skill** occultism<br>
 **Favored Weapon** starknife<br>
 **Domains** fate, moon, star, travel<br>
-**Alternate Domain** void<br>
+**Alternate Domain** nothingness <br>
 **Cleric Spells** 1st: tailwind, 4th: translocate, 6th: blanket of stars
 }}
 {{pageNumber,auto}}
 \page
+
+### Tycheam
+{{wide,columns:2
+Everything has one true place in the Universe and the tapestry of fate. Even if despair spreads, hope will resurface. There is no need to get anxious, for everything will fall into place one day. And with a bit of luck, that day may be today." These are the core Tycheamian beliefs. The true nature of Tycheam, whether a deity, philosophy, or a powerful but lazy seer, has been lost to time. Similarly, the freedom of interpretation — or rather lack of direction regarding how one should find their true place has led to numerous, sometimes violent clashes within the faith. Nevertheless, free from the shackles of fear and despair, its followers can withstand adversity with a serene face radiating light, Tycheam's symbol. Among those who have perfected their sleep schedule, a select few can experience short, vague yet vivid visions amidst a dream. A glimpse at one's fate that can be planned around, but shouldn't be avoided. In fact, "let your fate go" is a common Tycheamian saying.
+
+Some may think Tycheam is nothing but soothing little lies, inviting complacency, but even a fairy tale can become real if one believes strongly. There is no need to worry. Everything will be alright.
+:
+**Edicts** seek what you're good at and reassure your allies when necessary, live in the moment and trust the process, sleep as long and as regularly as is reasonable each day<br>
+**Anathema** refuse to accept one's fate, worry endlessly about what you can't control, mess up your sleep schedule for trivial matters, rush the process<br>
+#### Devotee Benefits
+**Divine Font** heal<br>
+**Divine Sanctification** can choose holy or unholy<br>
+**Divine Skill** diplomacy<br>
+**Favored Weapon** air repeater or long air repeater <br>
+**Domains** dreams, fate, introspection, naga <br>
+**Alternate Domain** freedom, luck <br>
+**Cleric Spells** 1st: soothe, 3rd: sea of thought, 7th: indolent haze
+}}
+
 ### Unmortus, The Dead Guardian
 {{wide,columns:2
 Often depicted as a soldier armored in skulls and bones and a sword with his blade between his feet, Unmortus is revered as the god of eternal vigilance and the one who never fell. Long ago, in the beginnings of civilization, he was worshipped as a god of protection and the homeland and the protector of the heavens. He was restless and unyielding to his duty to the heavens, right until his unfortunate demise against a forgotten enemy. However, from his death, he rose again and kept his watch in unlife. Unfortunately, due to his new undead nature, his name fell into obscurity, with only a few nations knowing of him. Regardless, he keeps his vigil, even if the gods or mortals he protects despise him due to his nature.
@@ -5765,6 +5783,11 @@ His followers pledge their soul to the defense of their nation, and connect it t
 **Alternate Domain** family<br>
 **Cleric Spells** 1st: tether, 2nd: false vitality, 5th: wall of stone
 }}
+
+{{pageNumber,auto}}
+\page
+
+
 ### Veskahule
 {{wide,columns:2
 A cave worm that was once feared by many and consumed all without prejudice, Veskahule eventually met its end. As its soul traversed its way into the Astral Plane, the notion of its existence being fleeting and its hunger satiated was detestable. Forcing its own dream to manifest, it began feasting on the dreams and nightmares of others, along with the feelings associated with them: hope, fear, aspirations. The endless torrent of creativity conjured by the mind allowing insight and understanding for what most would consider horrid. This new appetite transfigured it into a powerful and knowledgeable being, the name of Veskahule spreading throughout the other planes. Those who choose to worship them were gifted with the promise that their dreams would be fulfilled, but perhaps nightmares if it was beneficial. It's appreciation for all creation draw in the outcasts of society, shunned by their appearance or have a desire to create what hasn't existed before. Its appreciation for the mind and the capacity within, grant Veskahule a relatability to mortals.
@@ -5780,8 +5803,7 @@ A cave worm that was once feared by many and consumed all without prejudice, Ves
 **Alternate Domain** soul, naga<br>
 **Cleric Spells** 2nd: feast of ashes, 5th: grisly growths, 7th: warp mind
 }}
-{{pageNumber,auto}}
-\page
+
 ### Xan'Zyx, the First Incarnation
 {{wide,columns:2
 When the first spell was uttered and the first runes were cast it created neither fire nor force; it created Xan’Zyk. As the first incantation entered the world, it did so in an avalanche of magical energy so potent that the spell itself gained not only sentience but also divinity. Xan’Zyk, named after the first two syllables of the primordial spell which birthed them, is the pursuit of magical power incarnate. They seek only to see magic used with little regard to the purpose it serves. They are just as content to see a fireball engulf a town square as they are to see a tyrannical lich disintegrated to ash. All spells are prayers to Xan’Zyk and it is said that with every spell uttered and every new ritual discovered their power expands. They are most commonly depicted as an ornate magical sigil or alternatively a spellbook shimmering with prismatic light. Xan’Zyk accepts the worship of any who can cast spells of their own power, however wizards in particular naturally gravitate towards The First Incantation. Legends claim that should the entirety of the incantation which birthed Xan’Zyk be uttered once more, they along with all spells which have followed them, would be undone.
@@ -5796,6 +5818,10 @@ When the first spell was uttered and the first runes were cast it created neithe
 **Domains** ambition, destruction, glyph, magic<br>
 **Cleric Spells** 1st: force barrage, 2nd: embed message , 3rd: levitate, 4th: translocate, 5th: telekinetic haul, 6th: wall of force, 7th: warp mind, 8th: summon archmage, 9th: phantasmagoria
 }}
+
+{{pageNumber,auto}}
+\page
+
 ### Xeesis
 {{wide,columns:2
 A relatively unkown deity, Xeesis is a god of secrets and hidden knowledge. They would often use their hidden knowledge to trick other gods for more secrets to possess. Xeesis is the god who hid away the goloma when the gods and demons arose to steal the eyes of all the races. Because what better secret than an entire race? They admire cunning and intrigue over brute strength, unless its all part of the trick; whether it's to fool a farmer for the fun of it, steal secrets from a lich doing magical research, or pull off the ultimate prank of defying fate itself.
@@ -5988,12 +6014,13 @@ Zegarek was most often followed by the more bold of the hunters from the earlier
     - [{{ The Three Sisters}}{{ 109}}](#p109)
     - [{{ The World Weave}}{{ 110}}](#p110)
     - [{{ Trella, The Night Sky}}{{ 110}}](#p110)
+    - [{{ Tycheam}}{{ 111}}](#p111)
     - [{{ Unmortus, The Dead Guardian}}{{ 111}}](#p111)
-    - [{{ Veskahule}}{{ 111}}](#p111)
+    - [{{ Veskahule}}{{ 112}}](#p112)
     - [{{ Xan’Zyx, the First Incarnation}}{{ 112}}](#p112)
-    - [{{ Xeesis}}{{ 112}}](#p112)
-    - [{{ Zegarek}}{{ 112}}](#p112)
-- ### [{{ Menu}}{{ 113}}](#p113)
+    - [{{ Xeesis}}{{ 113}}](#p113)
+    - [{{ Zegarek}}{{ 113}}](#p113)
+- ### [{{ Menu}}{{ 114}}](#p114)
 
 </div>
 </div>
