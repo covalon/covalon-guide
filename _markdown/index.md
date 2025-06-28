@@ -1,4 +1,4 @@
-{{titlebar,width:60% Covalon Player's Guide rev 25.05.11 }}
+{{titlebar,width:60% Covalon Player's Guide rev 25.06.28 }}
 :
 :
  
@@ -62,7 +62,7 @@ Covalon is a "living world" style tabletop RPG campaign, using the Pathfinder 2e
     - [{{ Using Higher Tier Equipment}}{{ 11}}](#p11)
     - [{{ Mentorship System}}{{ 11}}](#p11)
     - [{{ Afflictions}}{{ 11}}](#p11)
-    - [{{ Learning Spells}}{{ 12}}](#p12)
+    - [{{ Learning Spells}}{{ 11}}](#p11)
     - [{{ Soul Seeds}}{{ 12}}](#p12)
     - [{{ Alternate Characters}}{{ 13}}](#p13)
   - #### [{{ Adventures}}{{ 14}}](#p14)
@@ -92,36 +92,40 @@ Covalon is a "living world" style tabletop RPG campaign, using the Pathfinder 2e
   - #### [{{ Operation Heartbreaker}}{{ 30}}](#p30)
   - #### [{{ Covalon: Out of Time}}{{ 31}}](#p31)
   - #### [{{ Covalon: The Endless Gray}}{{ 32}}](#p32)
-  - #### [{{ Covalon Gazetteer}}{{ 33}}](#p33)
-    - [{{ City District}}{{ 33}}](#p33)
-    - [{{ Market District}}{{ 40}}](#p40)
-    - [{{ Encore District}}{{ 50}}](#p50)
-    - [{{ Armory District}}{{ 54}}](#p54)
-    - [{{ Lake District}}{{ 57}}](#p57)
-    - [{{ Heart’s Forest}}{{ 62}}](#p62)
-    - [{{ The Docks}}{{ 64}}](#p64)
-    - [{{ The Farm}}{{ 65}}](#p65)
-    - [{{ Mountain View District}}{{ 66}}](#p66)
-    - [{{ River Run District}}{{ 66}}](#p66)
-    - [{{ North Gate District}}{{ 67}}](#p67)
-    - [{{ Expedition Districts and Outside Covalon}}{{ 69}}](#p69)
-  - #### [{{ Guilds}}{{ 71}}](#p71)
-    - [{{ The Archivists}}{{ 71}}](#p71)
-    - [{{ The Authors of Creation}}{{ 71}}](#p71)
-    - [{{ Covalon Medical Society}}{{ 72}}](#p72)
-    - [{{ The Servants of Terra}}{{ 72}}](#p72)
-    - [{{ The Teacher’s Union}}{{ 72}}](#p72)
-    - [{{ Trella’s Travellers}}{{ 73}}](#p73)
-    - [{{ The House of Dusk and Dawn}}{{ 73}}](#p73)
-    - [{{ The Lightkeepers}}{{ 73}}](#p73)
-    - [{{ Children of the Chicome}}{{ 74}}](#p74)
-    - [{{ Covalon Historical Society}}{{ 74}}](#p74)
-    - [{{ The Stouthearts}}{{ 74}}](#p74)
-    - [{{ The Green Knights of the Square}}{{ 75}}](#p75)
-    - [{{ The Sundered Circle}}{{ 75}}](#p75)
-  - #### [{{ Pre-Cataclysm Civilizations}}{{ 76}}](#p76)
-  - #### [{{ Deities, Faith, and Ideologies}}{{ 94}}](#p94)
+  - #### [{{ Secrets of the Heart}}{{ 33}}](#p33)
+  - #### [{{ Covalon Gazetteer}}{{ 34}}](#p34)
+    - [{{ City District}}{{ 34}}](#p34)
+    - [{{ Market District}}{{ 41}}](#p41)
+    - [{{ Encore District}}{{ 51}}](#p51)
+    - [{{ Armory District}}{{ 55}}](#p55)
+    - [{{ Lake District}}{{ 58}}](#p58)
+    - [{{ Heart’s Forest}}{{ 63}}](#p63)
+    - [{{ The Docks}}{{ 65}}](#p65)
+    - [{{ The Farm}}{{ 66}}](#p66)
+    - [{{ Mountain View District}}{{ 67}}](#p67)
+    - [{{ River Run District}}{{ 67}}](#p67)
+    - [{{ North Gate District}}{{ 68}}](#p68)
+    - [{{ Expedition Districts and Outside Covalon}}{{ 70}}](#p70)
+  - #### [{{ Guilds}}{{ 72}}](#p72)
+    - [{{ The Archivists}}{{ 72}}](#p72)
+    - [{{ The Authors of Creation}}{{ 72}}](#p72)
+    - [{{ Covalon Medical Society}}{{ 73}}](#p73)
+    - [{{ The Servants of Terra}}{{ 73}}](#p73)
+    - [{{ The Teacher’s Union}}{{ 73}}](#p73)
+    - [{{ Trella’s Travellers}}{{ 74}}](#p74)
+    - [{{ The House of Dusk and Dawn}}{{ 74}}](#p74)
+    - [{{ The Lightkeepers}}{{ 74}}](#p74)
+    - [{{ Children of the Chicome}}{{ 75}}](#p75)
+    - [{{ Covalon Historical Society}}{{ 75}}](#p75)
+    - [{{ The Stouthearts}}{{ 75}}](#p75)
+    - [{{ The Green Knights of the Square}}{{ 76}}](#p76)
+    - [{{ The Sundered Circle}}{{ 76}}](#p76)
+  - #### [{{ Pre-Cataclysm Civilizations}}{{ 77}}](#p77)
+  - #### [{{ Deities, Faith, and Ideologies}}{{ 95}}](#p95)
 }}
+
+
+
 
 
 {{pageNumber,auto}}
@@ -567,34 +571,29 @@ During adventures, items with the infused trait - as well as temporary items cre
 
 ### Using Higher Tier Equipment
 
+Covalon implements special rules for higher-level items. Generally, characters can't use gear above their tier during adventures. If an item's level exceeds the character's tier, its effects are downgraded or disabled. For example, a level 2 character using a +2 flaming shortsword would only have a +1 shortsword's benefits. A level 5 character that drinks an Antidote (Major) during an adventure would gain the benefits of an Antidote (Moderate). 
 
-
-To balance gameplay, Covalon implements special rules for higher-level items. Generally, characters can't use gear above their tier during adventures, except for certain cases like potions with varying strengths or magical equipment. If an item's level exceeds the character's tier, its effects are downgraded or disabled. For example, a level 2 character using a +2 flaming shortsword would only have a +1 shortsword's benefits. A level 5 character that drinks an Antidote (Major) during an adventure would gain the benefits of an Antidote (Moderate). 
-:
-
-Similarly, specific magic items lose their special properties when used by lower-tier characters. A level 2 character with a Caterwaul Sling would revert into a +1 sling during an adventure. Items made from precious materials will either lose the effect of their precious material, or revert to a lower quality version of that material if an in tier version exists. A level 5 character with a standard-grade cold iron longsword would revert to a low-grade cold iron longsword during an adventure, but a standard grade siccatite weapon would not function as siccatite below tier 4. 
+Specific magic items also lose their properties when used by lower-tier characters. A level 2 character with a Caterwaul Sling would revert into a +1 sling during an adventure. Items made from precious materials will either lose the effect of their precious material, or revert to a lower quality version of that material if an in tier version exists. A level 5 character with a standard-grade cold iron longsword would revert to a low-grade cold iron longsword during an adventure, but a standard grade siccatite weapon would not function as siccatite below tier 4. 
 
 {{note
 ##### Buy! Sell! Trade!
 {text-align:center}
 
-There are several channels in the Discord server that are used to facilitate player-to-player transactions.
+Use these channels for player to player purchases!
 
 ##### Store Menus
-Players can create a forum post in the #store-menus channel to showcase wares they frequently have available or take crafting comissions.
+Players can create a forum post in the #store-menus channel to showcase wares they have available or take crafting comissions.
 
 ##### Looking to Buy/Sell
-Players who prefer more direct interaction can use the #looking-to-buy and #looking-to-sell channels to post buy and sell requests. Players can haggle prices or offer trades by creating threads in responses to posts.
+Players can also use the #looking-to-buy and #looking-to-sell channels to post item requests. Please create threads to discuss transactions.
 
 ##### Charity
-Players who simply wish to give away equipment can do so in the #charity channel. Please check the post pinned in that channel for instructions on how to use it. 
+Players who simply wish to give away equipment can do so in the #charity channel. Please check the post pinned in that channel for instructions. 
 }}
 
 ### Mentorship System
 
-Covalon's mentor system allows higher-level players to borrow pre-made characters to play with lower-level players. Mentor characters can be played in Tier 3 and under games, and can be played by players whose character is in a higher tier than the adventure. For example, a player with a Tier 3 character could play as a mentor in Tier 1 and 2 games. Mentor players are always added to the waitlist; player characters of the appropriate tier are given priority for table slots.
-:
-There are currently sixteen mentors available, one for each class in the Core Rulebook and Advanced Player's Guide. A mentor player can choose which class they'd like to play in advance, or they can browse the available mentors and select one once the GM opens their Foundry server for mustering. When you play a mentor character, you do not earn any XP, but any gp or items you obtain are transferred to your player character. You also receive 1 Hero Point (see the Hero Point sidebar in the Adventures section).
+Covalon's mentor system allows higher-level players to play with lower-level players. Mentor characters can be played in Tier 3 and under games, and can be played by players whose character is in a higher tier than the adventure. For example, a player with a Tier 3 character could play as a mentor in Tier 1 and 2 games. Mentor players are always added to the waitlist; player characters of the appropriate tier are given priority for table slots. When you play a mentor character, you do not earn any XP, but any gp or items you obtain are transferred to your player character. You also receive 1 Hero Point (see the Hero Point sidebar in the Adventures section).
 
 #### Covalon's Mentors
 
@@ -634,20 +633,22 @@ The characters that make up Covalon's mentorship program are retired adventurers
 
 ### Afflictions
 Adventurers can contract dangerous diseases and curses during adventures. Afflictions progress in real time, and must be handled at their regular intervals. If your character receives an affliction that is untreated by the end of the adventure, it doesn't go away on its own - they'll have to overcome it or find someone to cure it if they want to avoid its adverse effects. For more information on how tracking afflictions works in Covalon, see the pinnned post in the #affliction-tracking channel in the Discord server.
+:
+### Learning Spells
+Covalon boasts an impressive library that grows larger as adventurers recover historic and legendary spellbooks from their adventures. Players can use the library to learn new spells, including spells that are uncommon or rarer. When using the [Learn a Spell](https://2e.aonprd.com/Actions.aspx?ID=25) activity in between adventures, players can choose to learn any common spell with a level less than or equal to half the settlement level rounded up, as well as any uncommon or rarer spell marked as "ALLOWED" or "ERRATA" on the [Server Allowlist](https://docs.google.com/spreadsheets/d/1yUXF_IAmpim6wkB7QT5l6K_lS5DgOppv99BHjMYbNIU/edit?usp=sharing)  that meets the same level requirements. (The settlement level can be found in the City Statblock section of Chapter 4.) When learning a spell between adventures, the time it takes to perform this activity is waived.
+:
 
 {{pageNumber,auto}}
 
 \page
 
-### Learning Spells
-Covalon boasts an impressive library that grows larger as adventurers recover historic and legendary spellbooks from their adventures. Players can use the library to learn new spells, including spells that are uncommon or rarer. When using the [Learn a Spell](https://2e.aonprd.com/Actions.aspx?ID=25) activity in between adventures, players can choose to learn any common spell with a level less than or equal to half the settlement level rounded up, as well as any uncommon or rarer spell marked as "ALLOWED" or "ERRATA" on the [Server Allowlist](https://docs.google.com/spreadsheets/d/1yUXF_IAmpim6wkB7QT5l6K_lS5DgOppv99BHjMYbNIU/edit?usp=sharing)  that meets the same level requirements. (The settlement level can be found in the City Statblock section of Chapter 4.) When learning a spell between adventures, the time it takes to perform this activity is waived.
-:
+
 
 ### Soul Seeds
 
-As they've spent more time in the vicinity of the Heart of Terra and its seeds, incredible powers have begun to manifest within the souls of Covalonians. Upon completing their first expedition finale, your character unlocks their Soul Seed - an intangible relic bound to their soul that can be customized with special powers. Players should use the #soul-seed-customization channel in Discord to track changes to their Soul Seed.
+As they've spent more time in the vicinity of the Heart of Terra, incredible powers have begun to manifest within Covalonians. Upon completing their first expedition finale, your character unlocks their Soul Seed - an intangible relic bound to their soul that can be customized with special powers. Please use the #soul-seed-customization channel to track changes to your Soul Seed.
 
-Covalon uses the rules for Soul Seeds found in the Gamemastery Guide and Secrets of Magic books, with the following changes. A character's physical appearance does not change as a result of their developing Soul Seed. A character does not have access to upgrading of modifying their Soul Seed until they unlock their first aspect category by completing (or GMing) an expedition finale, and they can only choose aspects from categories they unlock by completing expedition finales. A list of aspects and their corresponding gifts can be found in the [Equipment section of Archives of Nethys](https://2e.aonprd.com/Relics.aspx).  Table 3-2 lists which expedition finales must be completed to unlock a particular aspect category. Soul Seeds are not lost upon character death if the character is brought back to life.
+Covalon uses the rules for Soul Seeds found in the Gamemastery Guide and Secrets of Magic books, with the following changes. A character's physical appearance does not change as a result of their developing Soul Seed. A character does not have access to upgrading or modifying their Soul Seed until they unlock their first aspect category by completing (or GMing) an expedition finale, and they can only choose aspects from categories they unlock by completing expedition finales. A list of aspects and their corresponding gifts can be found on [Archives of Nethys](https://2e.aonprd.com/Relics.aspx).  Table 3-2 lists which expedition finales must be completed to unlock a particular aspect category. Soul Seeds are not lost upon character death if the character is revived.
 
 {{note
 
@@ -657,8 +658,11 @@ Covalon uses the rules for Soul Seeds found in the Gamemastery Guide and Secrets
 Gifts that require a weapon as a prerequisite to activate use a weapon you are holding when activating the gift. Ignore any prerequisites that require a worn item. Any gifts that have "Interact" as part of their activation requirement have that replaced with a special somatic component that still has the Manipulate trait. Your Soul Seed's level is equal to your own level.
 }}
 
-\column
-<br><br>
+Initially, a character's Soul Seed can only obtain minor gifts, and their Soul Seed can only be customized with gifts from a single aspect. Completing certain Expedition Finales upgrades their Soul Seed with the ability to use stronger gifts or gifts from a second aspect. Table 3-3 lists which expedition finales must be completed to unlock a particular Soul Seed upgrade.
+
+Adding a new gift to a Soul Seed requires communing with the Heart of Terra and paying a gold cost. This does not consume downtime, but can only be performed in between adventures. A character also must meet a minimum level requirement, based on the gift they are attempting to add. Table 3-4 lists the cost and minimum level requirement for adding a new gift.
+
+Once a gift has been added to a Soul Seed, it cannot be removed. It can be changed to a different gift within the aspect with four days of retraining. A character can also retrain one or more of their Soul Seed's aspects, which also takes four days. When a Soul Seed's aspect is retrained, any incompatible gifts it has are rendered inert until they are retrained. Terran Reincarnation can be used to change Soul Seed's gifts or aspects.
 ##### Table 3-2: Aspect Category Unlocks
 Gift | Expedition Finale to Unlock
 :---: | :---:
@@ -688,20 +692,17 @@ Water | Ikouga
 Upgrade | Expedition Finale to Unlock
 :---: | :---:
 Second Aspect | Ratchethallow
-Major Gifts | ???
+Major Gifts | Complete 3 Unique Finales*
 Grand Gifts | ???
 
-Initially, a character's Soul Seed can only obtain minor gifts, and their Soul Seed can only be customized with gifts from a single aspect. Completing certain Expedition Finales upgrades their Soul Seed with the ability to use stronger gifts or gifts from a second aspect. Table 3-3 lists which expedition finales must be completed to unlock a particular Soul Seed upgrade.
+{{note
 
-To add a new gift to a Soul Seed, a character must commune with the Heart of Terra and pay a gold cost. This does not consume downtime, but can only be performed in between adventures. A character also must meet a minimum level requirement, based on the gift they are attempting to add. Table 3-4 lists the cost and minimum level requirement for adding a new gift.
+##### MAJOR GIFTS
+{text-align:center}
 
+This upgrade was unlocked via the Secrets of the Heart Event (see pg 33). Any approved PC in Covalon during this event (June 28th, 2025) automatically unlocks Major Gifts. You must still meet the requirements in Table 3-4.
+}}
 
-
-{{pageNumber,auto}}
-
-\page
-
-Once a gift has been added to a Soul Seed, it cannot be removed. It can be changed to a different gift within the aspect with four days of retraining. A character can also retrain one or more of their Soul Seed's aspects, which also takes four days. When a Soul Seed's aspect is retrained, any incompatible gifts it has are rendered inert until they are retrained. Terran Reincarnation can be used to change Soul Seed's gifts or aspects.
 
 ##### Table 3-4: Adding Gifts to a Soul Seed
 Gift Number| Level Requirement | Gift Type | Price (gp)
@@ -711,6 +712,16 @@ Gift Number| Level Requirement | Gift Type | Price (gp)
 3 | 9 | Major | 700 
 4 | 13 | Major | 3,000 
 5 | 17 | Grand | 15,000 
+
+
+
+
+
+
+{{pageNumber,auto}}
+
+\page
+
 
 ### Alternate Characters
 Alternate characters ("alt characters") allow long time players to spend excess gold on the chance to play additional characters without retiring their main character. 
@@ -723,6 +734,8 @@ Your characters can never interact with each other in roleplay. Your characters 
 
 #### Alternate Character Lock In Period
 If you have multiple alt characters, you can only play one alt character at a time. Once you choose to play an alt character, you are locked in to that alt for at least two weeks. During this period, you cannot use any other alt character for downtime, roleplay, or adventures. When you switch your active alt character, you must post in #alternate-character-tracking. Note that you can play your main character at any time. You must have the name of your main and active alt character in your discord name with your main listed first (e.g. “Daryl Hall | John Oates”).
+
+\column
 
 #### Swapping your Main Character
 If you wish, you may swap your main character to be an alt character. When you choose to do this, your current main character is immediately deleveled to one tier below the highest tier, and the alt character you choose to be your new main character is no longer capped at the second highest tier. If the alt character you picked was capped with maximum experience, they immediately level up. When you swap your main character, you must post in #alternate-character-tracking, and you are locked into that main character and cannot swap again for a month.
@@ -1794,7 +1807,14 @@ Zhaal Revane
 
 #### Multitable Event: December 4th, 2021
 
-Coming Soon!
+After besting the Siege from the Maw, Covalon was able to set up a permenant Outpost near its entrance and begin proper explorations into its foul depths. We spent months descending into its foul depths to collect fleshy, magical rocks called Mawstones. From sudying the stones, we surmised the Maw is alive, and it has a heart. Operation Heartbreaker sought to destroy that heart, and the Maw, once and for all. 
+
+Covalonians mustered to prepare the offensive. We created a clockwork drill to dig a tunnel to the heart of the Maw, and when it was time to descend, we defended it from countless Maw creatures. The heart was well guarded, too much for our forces to break through. In our time of need, a portal opened up, and a legion of archons poured out to clear a path for us, led by non other than Saskia Kai - a former defender of Covalon who was defeated at the hands of archons months before. 
+
+With support from the Archons, our Vanguard teams attacked the heart directly. They dealt a fatal blow, and it seemed to perish...only for it to recieve a boost of life energy from arteries connected to something outside of Maw. Saskia and her legion bought us time to retreat, but we never saw them escape. 
+
+The failed assault brought more questions than answers. What was the heart of the Maw drawing power from? Where else has its corruption spread? To answer this, Covalon would begin to set out on Expeditions to Pre-Cataclysm civilizations. Perhaps once Elleaterra is reclaimed, and the Maw's influence across the continent uprooted, we can kill it once and for all.
+:
 
 A recording of the briefings and debriefings from Operation Heartbreaker can be found on Youtube [here.](https://youtu.be/b7ClPvDvLcE)
 
@@ -1940,7 +1960,13 @@ Zubli
 
 #### Multitable Event: May 20th, 2023
 
-Coming Soon!
+Shortly after Covalon destroyed the Maw Vessel in Ratchethallow, a shadow passed over Covalon. A massive humanoid figure appeared, eclipsing the sun itself. Time seemed to stop, the city and its people crumbling into nothing, until six silhouettes appeared in the sky. They raised their arms, and the figure retreated, reversing the flow of time and leaving nothing in their wake but a confused and scared Covalon.
+
+We lept into action, trying to dechiper the mystery of what happened. Strange anomalies started appearing across Elleaterra - pockets of land and hostile creatures frozen in time. Covalonians recovered damaged orichalcum recording rods seeming to bear the voice of Arto Applefield, a well known mage and chronomancer in Covalon, but he didn't remember making such a recording. Compiling as many of the recordings as we could find revealed a grave message - in the far future, Covalonians destroyed all the vessels of the Maw, but it wasn't enough. A final vessel was hidden at the end of time, guarded by a dangerous Eschatelpis Siktempora, and it needed to be destroyed now, before all hope is lost! 
+
+Covalonians mustered in Ratchethallow, where the planar barrier to the Plane of Time is weakest. Dungeoneering Society mages began a ritual to send brave adventurers to the end of time. We would attack the Siktempora and its Maw Vessel on all fronts - the strongest Covalonians would lead the assault and attack it first to weaken it, and as it tried to escape through time, each team would cut it off in turn. 
+
+As each team battled the Siktempora and its minions in turn, the Maw Vessel in its chest weakening, the final team faced it in the skies above Covalon. The six heroes who stopped the decay of time weeks ago was us, all along! With this, we destroyed yet another vessel, and proved we have the power to change the future. One day we will destroy the Maw and reclaim the world! 
 
 
 
@@ -2032,7 +2058,7 @@ Komainu
 Kouzo
 
 Laverna
-
+\column
 Lumie Bluetongue
 
 Munqir
@@ -2066,6 +2092,7 @@ Yksys
 Zhaal Revane
 
 澶安处 (Chan An Chu)
+:::::
 
 }}
 
@@ -2074,6 +2101,170 @@ Zhaal Revane
 :
 
 #### Multitable Event: February 24th, 2024
+
+It was a clear, cool winter morning the day an unidentifiable metal orb crashed into the Ikouga outpost. Shortly after, we began to recover them from adventures across Elleaterra. They carried messages in an unknown language, but our skilled linguists eventually deciphered a series of messages: HELLO ANYBODY OUT THERE, WHO IS LEFT ALIVE, WE ARE IN THE SEA, WHO ARE YOU, and finally, WHAT IS COVALON. It became clear these orbs were somehow gathering information from us, and returning a signal to whatever, or whoever sent them. 
+
+Unforunately, it became clear these strangers were not friends when we intercepted a transmission. A pirate captain addressing his crew - they had learned of Covalon's existence, the artifact that allows our survival after the Catclysm, and they wanted it for themselves. We've used the Heart of Terra's power to spread across Elleaterra and reclaim the continent by planting its saplings, but these outposts were now a vulnerability. And so we began to fortify. 
+
+Each of our Expedition Outposts underwent weeks of preparation. Walls were strengthened, and defenses laid. Our library filled with researchers trying to learn exactly who our enemy was. We discovered an impossible tale; an expelled student of Ostengrad, turned to piracy in the Noctune Tropics. When the Cataclysm caused the wind to disappear and sea monsters to wake far below, Captain Laurent Devreaux teleported his entire fleet into the Astral Sea to save them. But they were isolated and alone in a foreign plane, and an influence, the "Endless Gray", corrupted their minds. And now years later, they threatened to steal the Heart of Terra. 
+
+Covalonians broke into teams and mustered defenses, beating back the attacks at our Expedition outposts. But we were all decieved, as the Astral Raiders used the attacks as a distraction to overwhem Covalon's defenses and strike at the city directly! Covalonians rushed back to the Heart of Terra's defense, forced to infiltrate the enemy ships and use their teleportation technology. They returned to Covalon under attack! 
+
+We fought the raiders in the streets of the city, and even at the Shrine of Terra, as the Endless Gray attempted to assimilate it, through the Captain. Thankfully, we fought back the invaders, crashing their airship into the mountains beyond. Our barriers were breached, but Covalon stands, stronger than before.
+
+![](https://github.com/covalon/covalon-guide/blob/gh-pages/assets/covalon/PlayersGuide/ExpeditionLog/crashedorbEG.gif?raw=true){width:350px,margin:"-90px 350px"} 
+
+
+
+}}
+
+{{pageNumber,auto}}
+
+\page
+
+
+
+{{wide
+
+## Secrets of the Heart
+
+{{descriptive,right,width:280px,
+
+##### HEROES OF Secrets of the Heart
+:
+
+The following characters were the vanguard who fought against the Undying Hskarren Queen and her council.
+
+{{wide,columns:2
+
+Aerin Velika
+
+Arto
+
+Ateia
+
+Azinaar
+
+Brumata
+
+Cinna
+
+Cressida
+
+Dahlia
+
+Foram
+
+Gladiolus
+
+Komainu
+
+Kona Snowdrop
+
+Micir
+
+Rinka
+
+Snak
+
+Tenvar
+
+Thaniel
+
+Valerie
+
+Vanya
+
+Yksys
+
+Zoe
+}}
+
+<br>
+
+The following characters secured and activated the obelisks scattered throughout the ruin and led the Covalonians to safety when it collapsed.
+
+{{wide,columns:2
+
+Aniyah
+
+Bhoomi
+
+Broken Arrow
+
+CAT-7
+
+Clover
+
+Dorfin
+
+Drex
+
+Eliksni
+
+Estrala
+
+Gardi
+
+Ghost-13
+
+Haoran
+
+Ionela
+
+Jace
+
+Kexyl
+
+Kosta
+
+Kouzo
+
+Lirra
+
+Makaria
+
+Maxwell
+
+Night
+
+Niles
+
+Odyssia
+
+Quaerjii
+
+Retzu
+
+Rodriguez
+
+Sarah
+
+Shirin
+
+Sif
+
+Sunova
+
+T'ket
+
+Tox
+
+Troyom
+
+Verona
+
+Yao Mei
+
+Yit
+
+}}
+
+
+}}
+:
+
+#### Multitable Event: June 28th, 2025
 
 Coming Soon!
 
@@ -2084,6 +2275,7 @@ Coming Soon!
 {{pageNumber,auto}}
 
 \page
+
 
 ## Covalon Gazetteer
 
@@ -5889,7 +6081,7 @@ Zegarek was most often followed by the more bold of the hunters from the earlier
     - [{{ Using Higher Tier Equipment}}{{ 11}}](#p11)
     - [{{ Mentorship System}}{{ 11}}](#p11)
     - [{{ Afflictions}}{{ 11}}](#p11)
-    - [{{ Learning Spells}}{{ 12}}](#p12)
+    - [{{ Learning Spells}}{{ 11}}](#p11)
     - [{{ Soul Seeds}}{{ 12}}](#p12)
     - [{{ Alternate Characters}}{{ 13}}](#p13)
   - #### [{{ Adventures}}{{ 14}}](#p14)
@@ -5919,109 +6111,109 @@ Zegarek was most often followed by the more bold of the hunters from the earlier
   - #### [{{ Operation Heartbreaker}}{{ 30}}](#p30)
   - #### [{{ Covalon: Out of Time}}{{ 31}}](#p31)
   - #### [{{ Covalon: The Endless Gray}}{{ 32}}](#p32)
-  - #### [{{ Covalon Gazetteer}}{{ 33}}](#p33)
-    - [{{ City District}}{{ 33}}](#p33)
-    - [{{ Market District}}{{ 40}}](#p40)
-    - [{{ Encore District}}{{ 50}}](#p50)
-    - [{{ Armory District}}{{ 54}}](#p54)
-    - [{{ Lake District}}{{ 57}}](#p57)
-    - [{{ Heart’s Forest}}{{ 62}}](#p62)
-    - [{{ The Docks}}{{ 64}}](#p64)
-    - [{{ The Farm}}{{ 65}}](#p65)
-    - [{{ Mountain View District}}{{ 66}}](#p66)
-    - [{{ River Run District}}{{ 66}}](#p66)
-    - [{{ North Gate District}}{{ 67}}](#p67)
-    - [{{ Expedition Districts and Outside Covalon}}{{ 69}}](#p69)
-  - #### [{{ Guilds}}{{ 71}}](#p71)
-    - [{{ The Archivists}}{{ 71}}](#p71)
-    - [{{ The Authors of Creation}}{{ 71}}](#p71)
-    - [{{ Covalon Medical Society}}{{ 72}}](#p72)
-    - [{{ The Servants of Terra}}{{ 72}}](#p72)
-    - [{{ The Teacher’s Union}}{{ 72}}](#p72)
-    - [{{ Trella’s Travellers}}{{ 73}}](#p73)
-    - [{{ The House of Dusk and Dawn}}{{ 73}}](#p73)
-    - [{{ The Lightkeepers}}{{ 73}}](#p73)
-    - [{{ Children of the Chicome}}{{ 74}}](#p74)
-    - [{{ Covalon Historical Society}}{{ 74}}](#p74)
-    - [{{ The Stouthearts}}{{ 74}}](#p74)
-    - [{{ The Green Knights of the Square}}{{ 75}}](#p75)
-    - [{{ The Sundered Circle}}{{ 75}}](#p75)
-  - #### [{{ Pre-Cataclysm Civilizations}}{{ 76}}](#p76)
-    - [{{ Alatar}}{{ 76}}](#p76)
-    - [{{ Armed Steppes}}{{ 76}}](#p76)
-    - [{{ The Briarmurk}}{{ 77}}](#p77)
-    - [{{ Drifthaven}}{{ 77}}](#p77)
-    - [{{ The Fey Courts}}{{ 79}}](#p79)
-    - [{{ Garn}}{{ 80}}](#p80)
-    - [{{ Gornlar}}{{ 80}}](#p80)
-    - [{{ Ikouga}}{{ 81}}](#p81)
-    - [{{ Kuraimori (暗い森)}}{{ 83}}](#p83)
-    - [{{ Middlemist}}{{ 83}}](#p83)
-    - [{{ The Misty Shores}}{{ 84}}](#p84)
-    - [{{ Ostengrad}}{{ 84}}](#p84)
-    - [{{ Primrose}}{{ 85}}](#p85)
-    - [{{ Pudersnö}}{{ 86}}](#p86)
-    - [{{ Ratchethallow}}{{ 87}}](#p87)
-    - [{{ Taltain}}{{ 89}}](#p89)
-    - [{{ Tarunga}}{{ 90}}](#p90)
-    - [{{ Tymoria}}{{ 90}}](#p90)
-    - [{{ The Kingdom of Varceta}}{{ 91}}](#p91)
-    - [{{ Verndhelt}}{{ 92}}](#p92)
-    - [{{ The Kingdom of Vyrm}}{{ 93}}](#p93)
-    - [{{ Whitespire}}{{ 93}}](#p93)
-  - #### [{{ Deities, Faith, and Ideologies}}{{ 94}}](#p94)
-    - [{{ Aelia}}{{ 96}}](#p96)
-    - [{{ A’shir, the Fated Flame}}{{ 96}}](#p96)
-    - [{{ Axnos}}{{ 96}}](#p96)
-    - [{{ The Brakeman}}{{ 97}}](#p97)
-    - [{{ The Circle of Stars}}{{ 97}}](#p97)
-    - [{{ The Cheshire}}{{ 98}}](#p98)
-    - [{{ Derelis}}{{ 98}}](#p98)
-    - [{{ Erimia}}{{ 98}}](#p98)
-    - [{{ Fah’rin, The Howling Blizzard}}{{ 98}}](#p98)
-    - [{{ Fayne Lightfeet}}{{ 99}}](#p99)
-    - [{{ Golgolgoss, The Watcher}}{{ 99}}](#p99)
-    - [{{ The Grey Ocean}}{{ 99}}](#p99)
-    - [{{ Gunvald}}{{ 100}}](#p100)
-    - [{{ Gutom, The Bloody Rose}}{{ 100}}](#p100)
-    - [{{ Heleniel, The Sin Seeker}}{{ 100}}](#p100)
-    - [{{ Hestora}}{{ 100}}](#p100)
-    - [{{ Heures}}{{ 101}}](#p101)
-    - [{{ The Home of Hearth and Health}}{{ 101}}](#p101)
-    - [{{ Kohtalo, Patron of Fate Forgers}}{{ 101}}](#p101)
-    - [{{ Krun Darr}}{{ 102}}](#p102)
-    - [{{ Kujani}}{{ 102}}](#p102)
-    - [{{ Levona, Duchess of Hell}}{{ 102}}](#p102)
-    - [{{ Lotus}}{{ 103}}](#p103)
-    - [{{ Luxandra, The Everbloom}}{{ 103}}](#p103)
-    - [{{ Lysanthyr, The Unending Delight}}{{ 103}}](#p103)
-    - [{{ The Great and Noble Manaat Al-Karim}}{{ 104}}](#p104)
-    - [{{ Maiden of the Garden}}{{ 104}}](#p104)
-    - [{{ Mendastarum, Devourer of Truth}}{{ 105}}](#p105)
-    - [{{ Nesdonin}}{{ 105}}](#p105)
-    - [{{ Nimane, The Forge Matron}}{{ 105}}](#p105)
-    - [{{ Noctune}}{{ 106}}](#p106)
-    - [{{ Novissime, The Orchid Reaper}}{{ 106}}](#p106)
-    - [{{ Oenos}}{{ 106}}](#p106)
-    - [{{ The Path of the Great Spirits}}{{ 107}}](#p107)
-    - [{{ Peko-Amuzo, The Trickster Prince}}{{ 107}}](#p107)
-    - [{{ Riahn, He Who Eclipses the Stars}}{{ 107}}](#p107)
-    - [{{ Seraphion, The Highest Throne}}{{ 108}}](#p108)
-    - [{{ Sinnesh, The Den Mother}}{{ 108}}](#p108)
-    - [{{ Satya, the Peerless Seeker}}{{ 108}}](#p108)
-    - [{{ The Eyes}}{{ 109}}](#p109)
-    - [{{ The Living Mandate}}{{ 109}}](#p109)
-    - [{{ The Three Sisters}}{{ 109}}](#p109)
-    - [{{ The World Weave}}{{ 110}}](#p110)
-    - [{{ Trella, The Night Sky}}{{ 110}}](#p110)
-    - [{{ Tycheam}}{{ 111}}](#p111)
-    - [{{ Unmortus, The Dead Guardian}}{{ 111}}](#p111)
-    - [{{ Veskahule}}{{ 112}}](#p112)
-    - [{{ Xan’Zyx, the First Incarnation}}{{ 112}}](#p112)
-    - [{{ Xeesis}}{{ 113}}](#p113)
-    - [{{ Zegarek}}{{ 113}}](#p113)
-- ### [{{ Menu}}{{ 114}}](#p114)
-
+  - #### [{{ Secrets of the Heart}}{{ 33}}](#p33)
+  - #### [{{ Covalon Gazetteer}}{{ 34}}](#p34)
+    - [{{ City District}}{{ 34}}](#p34)
+    - [{{ Market District}}{{ 41}}](#p41)
+    - [{{ Encore District}}{{ 51}}](#p51)
+    - [{{ Armory District}}{{ 55}}](#p55)
+    - [{{ Lake District}}{{ 58}}](#p58)
+    - [{{ Heart’s Forest}}{{ 63}}](#p63)
+    - [{{ The Docks}}{{ 65}}](#p65)
+    - [{{ The Farm}}{{ 66}}](#p66)
+    - [{{ Mountain View District}}{{ 67}}](#p67)
+    - [{{ River Run District}}{{ 67}}](#p67)
+    - [{{ North Gate District}}{{ 68}}](#p68)
+    - [{{ Expedition Districts and Outside Covalon}}{{ 70}}](#p70)
+  - #### [{{ Guilds}}{{ 72}}](#p72)
+    - [{{ The Archivists}}{{ 72}}](#p72)
+    - [{{ The Authors of Creation}}{{ 72}}](#p72)
+    - [{{ Covalon Medical Society}}{{ 73}}](#p73)
+    - [{{ The Servants of Terra}}{{ 73}}](#p73)
+    - [{{ The Teacher’s Union}}{{ 73}}](#p73)
+    - [{{ Trella’s Travellers}}{{ 74}}](#p74)
+    - [{{ The House of Dusk and Dawn}}{{ 74}}](#p74)
+    - [{{ The Lightkeepers}}{{ 74}}](#p74)
+    - [{{ Children of the Chicome}}{{ 75}}](#p75)
+    - [{{ Covalon Historical Society}}{{ 75}}](#p75)
+    - [{{ The Stouthearts}}{{ 75}}](#p75)
+    - [{{ The Green Knights of the Square}}{{ 76}}](#p76)
+    - [{{ The Sundered Circle}}{{ 76}}](#p76)
+  - #### [{{ Pre-Cataclysm Civilizations}}{{ 77}}](#p77)
+    - [{{ Alatar}}{{ 77}}](#p77)
+    - [{{ Armed Steppes}}{{ 77}}](#p77)
+    - [{{ The Briarmurk}}{{ 78}}](#p78)
+    - [{{ Drifthaven}}{{ 78}}](#p78)
+    - [{{ The Fey Courts}}{{ 80}}](#p80)
+    - [{{ Garn}}{{ 81}}](#p81)
+    - [{{ Gornlar}}{{ 81}}](#p81)
+    - [{{ Ikouga}}{{ 82}}](#p82)
+    - [{{ Kuraimori (暗い森)}}{{ 84}}](#p84)
+    - [{{ Middlemist}}{{ 84}}](#p84)
+    - [{{ The Misty Shores}}{{ 85}}](#p85)
+    - [{{ Ostengrad}}{{ 85}}](#p85)
+    - [{{ Primrose}}{{ 86}}](#p86)
+    - [{{ Pudersnö}}{{ 87}}](#p87)
+    - [{{ Ratchethallow}}{{ 88}}](#p88)
+    - [{{ Taltain}}{{ 90}}](#p90)
+    - [{{ Tarunga}}{{ 91}}](#p91)
+    - [{{ Tymoria}}{{ 91}}](#p91)
+    - [{{ The Kingdom of Varceta}}{{ 92}}](#p92)
+    - [{{ Verndhelt}}{{ 93}}](#p93)
+    - [{{ The Kingdom of Vyrm}}{{ 94}}](#p94)
+    - [{{ Whitespire}}{{ 94}}](#p94)
+  - #### [{{ Deities, Faith, and Ideologies}}{{ 95}}](#p95)
+    - [{{ Aelia}}{{ 97}}](#p97)
+    - [{{ A’shir, the Fated Flame}}{{ 97}}](#p97)
+    - [{{ Axnos}}{{ 97}}](#p97)
+    - [{{ The Brakeman}}{{ 98}}](#p98)
+    - [{{ The Circle of Stars}}{{ 98}}](#p98)
+    - [{{ The Cheshire}}{{ 99}}](#p99)
+    - [{{ Derelis}}{{ 99}}](#p99)
+    - [{{ Erimia}}{{ 99}}](#p99)
+    - [{{ Fah’rin, The Howling Blizzard}}{{ 99}}](#p99)
+    - [{{ Fayne Lightfeet}}{{ 100}}](#p100)
+    - [{{ Golgolgoss, The Watcher}}{{ 100}}](#p100)
+    - [{{ The Grey Ocean}}{{ 100}}](#p100)
+    - [{{ Gunvald}}{{ 101}}](#p101)
+    - [{{ Gutom, The Bloody Rose}}{{ 101}}](#p101)
+    - [{{ Heleniel, The Sin Seeker}}{{ 101}}](#p101)
+    - [{{ Hestora}}{{ 101}}](#p101)
+    - [{{ Heures}}{{ 102}}](#p102)
+    - [{{ The Home of Hearth and Health}}{{ 102}}](#p102)
+    - [{{ Kohtalo, Patron of Fate Forgers}}{{ 102}}](#p102)
+    - [{{ Krun Darr}}{{ 103}}](#p103)
+    - [{{ Kujani}}{{ 103}}](#p103)
+    - [{{ Levona, Duchess of Hell}}{{ 103}}](#p103)
+    - [{{ Lotus}}{{ 104}}](#p104)
+    - [{{ Luxandra, The Everbloom}}{{ 104}}](#p104)
+    - [{{ Lysanthyr, The Unending Delight}}{{ 104}}](#p104)
+    - [{{ The Great and Noble Manaat Al-Karim}}{{ 105}}](#p105)
+    - [{{ Maiden of the Garden}}{{ 105}}](#p105)
+    - [{{ Mendastarum, Devourer of Truth}}{{ 106}}](#p106)
+    - [{{ Nesdonin}}{{ 106}}](#p106)
+    - [{{ Nimane, The Forge Matron}}{{ 106}}](#p106)
+    - [{{ Noctune}}{{ 107}}](#p107)
+    - [{{ Novissime, The Orchid Reaper}}{{ 107}}](#p107)
+    - [{{ Oenos}}{{ 107}}](#p107)
+    - [{{ The Path of the Great Spirits}}{{ 108}}](#p108)
+    - [{{ Peko-Amuzo, The Trickster Prince}}{{ 108}}](#p108)
+    - [{{ Riahn, He Who Eclipses the Stars}}{{ 108}}](#p108)
+    - [{{ Seraphion, The Highest Throne}}{{ 109}}](#p109)
+    - [{{ Sinnesh, The Den Mother}}{{ 109}}](#p109)
+    - [{{ Satya, the Peerless Seeker}}{{ 109}}](#p109)
+    - [{{ The Eyes}}{{ 110}}](#p110)
+    - [{{ The Living Mandate}}{{ 110}}](#p110)
+    - [{{ The Three Sisters}}{{ 110}}](#p110)
+    - [{{ The World Weave}}{{ 111}}](#p111)
+    - [{{ Trella, The Night Sky}}{{ 111}}](#p111)
+    - [{{ Tycheam}}{{ 112}}](#p112)
+    - [{{ Unmortus, The Dead Guardian}}{{ 112}}](#p112)
+    - [{{ Veskahule}}{{ 113}}](#p113)
+    - [{{ Xan’Zyx, the First Incarnation}}{{ 113}}](#p113)
+    - [{{ Xeesis}}{{ 114}}](#p114)
+    - [{{ Zegarek}}{{ 114}}](#p114)
+- ### [{{ Menu}}{{ 115}}](#p115)
 </div>
 </div>
 
