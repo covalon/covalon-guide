@@ -1,6 +1,6 @@
 
 
-{{titlebar,width:60% Covalon GM's Guide rev 2025.02.01 }}
+{{titlebar,width:60% Covalon GM's Guide rev 2025.07.22 }}
 ::::
 {{wide
 # Covalon GM's Guide
@@ -554,11 +554,10 @@ Expedition missions are a special game-mode that is heavily intertwined with the
 
 
 #### Expedition Finales
-Expedition Finales are fully pre-built boss encounters with special mechanics that are narratively tied to defending the planted Seeds of Terra used to purify reclaimed areas of the world map from Maw monsters. Every Finale has a set of individual rules and instructions laid out in the Expedition Module, but all Finales have some things in common.
+Expedition Finales are fully pre-built boss encounters with special mechanics that are narratively tied to defending the planted Seeds of Terra used to purify reclaimed areas of the world map from Maw monsters. Every Finale has a set of individual rules and instructions laid out in the Expedition Module, but all Finales have some things in common. Finales cannot be run in tiers 1 and 2.
 
 ##### APL Adjustments
-Finales are generally designed as encounters of moderate+ difficulty for the middle APL of their tier, e.g. APL 11 for Tier 4. To run a Finale for a different APL than the one they were designed for, they can be adjusted using the Weak or Elite templates.
-The only exceptions to this rule are Taltain and Ikouga, which were designed for the highest APL of their tier, e.g. APL 15 for Tier 5. You can manually adjust these down if you wish, but this is not recommended.
+Finales are generally designed as encounters of moderate+ difficulty for the middle APL of their tier, e.g. APL 11 for Tier 4. To run a Finale for one APL above middle of tier, apply the elite template every stat block. To run a Finale for one tier below middle of tier, apply the weak adjustment to every stat block. 
 
 ##### Normal Mode and Hard Mode
 Finales come in two versions: Normal Mode or Hard Mode. For a short time when a Finale first releases (usually the release weekend), it can only be run by Covalon administrators, moderators, and Senior Dungeon Guides, and only in Hard Mode, for the maximum APL in the highest two tiers of play. This is because the opening weekend is the "canonical" version of the boss fight. Every time the finale is run after this, the boss is flavored as a "facsimile," a copy created by the Maw with all the same combat capabilities. After the initial period, the Finale can be run by any Dungeon Guide in either Normal or Hard Mode. Normal Mode can be run in Tier 3 and above, while Hard Mode is intended only for max level characters in the highest two tiers of play.   
@@ -575,6 +574,8 @@ Each Excursion in a Saga should last between 3 and 4 hours, but not more than 4,
 :
 Each Excursion within a Saga can include recurring NPCs, locations, and themes. 
 Encounters in excursions follow the normal rules for Dungeons. Each excursion has an additional 40 XP (30 or 20 for parties of smaller size) added to the total session budget. This XP can be used to include additional creatures or hazards at any point in the excursion, including to create encounters more difficult than a 120 XP Moderate Encounter (100, or 80 for parties of smaller size).
+:
+Excursions may optionally reward additional loot - this can be up to 10% of the loot value for an equivalent APL/Party Size non-patrol. This means an excursion's maximum loot value is 110% of the values listed in Table 3-1 Loot Values for Non-Patrols. 
 :
 Excursion submissions must include a narrative. These storylines cannot affect Covalon as a whole (e.g. new deities, attacks or plots against on Covalon itself) and must focus on the Excursion's region. Dungeon Summary posts for Excursions should be no more than 200 words long.
 
