@@ -1,4 +1,4 @@
-{{titlebar,width:60% Covalon Player's Guide rev 25.06.28 }}
+{{titlebar,width:60% Covalon Player's Guide rev 25.08.10 }}
 :
 :
  
@@ -32,8 +32,6 @@ Covalon is a "living world" style tabletop RPG campaign, using the Pathfinder 2e
 {{pageNumber,auto}}
 
 \page
-
-
 {{toc,wide
 # Contents
 
@@ -104,27 +102,25 @@ Covalon is a "living world" style tabletop RPG campaign, using the Pathfinder 2e
     - [{{ The Farm}}{{ 66}}](#p66)
     - [{{ Mountain View District}}{{ 67}}](#p67)
     - [{{ River Run District}}{{ 67}}](#p67)
-    - [{{ North Gate District}}{{ 68}}](#p68)
-    - [{{ Expedition Districts and Outside Covalon}}{{ 70}}](#p70)
-  - #### [{{ Guilds}}{{ 72}}](#p72)
-    - [{{ The Archivists}}{{ 72}}](#p72)
-    - [{{ The Authors of Creation}}{{ 72}}](#p72)
-    - [{{ Covalon Medical Society}}{{ 73}}](#p73)
-    - [{{ The Servants of Terra}}{{ 73}}](#p73)
-    - [{{ The Teacher’s Union}}{{ 73}}](#p73)
-    - [{{ Trella’s Travellers}}{{ 74}}](#p74)
-    - [{{ The House of Dusk and Dawn}}{{ 74}}](#p74)
-    - [{{ The Lightkeepers}}{{ 74}}](#p74)
-    - [{{ Children of the Chicome}}{{ 75}}](#p75)
-    - [{{ Covalon Historical Society}}{{ 75}}](#p75)
-    - [{{ The Stouthearts}}{{ 75}}](#p75)
-    - [{{ The Green Knights of the Square}}{{ 76}}](#p76)
-    - [{{ The Sundered Circle}}{{ 76}}](#p76)
-  - #### [{{ Pre-Cataclysm Civilizations}}{{ 77}}](#p77)
-  - #### [{{ Deities, Faith, and Ideologies}}{{ 95}}](#p95)
+    - [{{ North Gate District}}{{ 69}}](#p69)
+    - [{{ Expedition Districts and Outside Covalon}}{{ 71}}](#p71)
+  - #### [{{ Guilds}}{{ 73}}](#p73)
+    - [{{ The Archivists}}{{ 73}}](#p73)
+    - [{{ The Authors of Creation}}{{ 73}}](#p73)
+    - [{{ Covalon Medical Society}}{{ 74}}](#p74)
+    - [{{ The Servants of Terra}}{{ 74}}](#p74)
+    - [{{ The Teacher’s Union}}{{ 74}}](#p74)
+    - [{{ Trella’s Travellers}}{{ 75}}](#p75)
+    - [{{ The House of Dusk and Dawn}}{{ 75}}](#p75)
+    - [{{ The Lightkeepers}}{{ 75}}](#p75)
+    - [{{ Children of the Chicome}}{{ 76}}](#p76)
+    - [{{ Covalon Historical Society}}{{ 76}}](#p76)
+    - [{{ The Stouthearts}}{{ 76}}](#p76)
+    - [{{ The Green Knights of the Square}}{{ 77}}](#p77)
+    - [{{ The Sundered Circle}}{{ 77}}](#p77)
+  - #### [{{ Pre-Cataclysm Civilizations}}{{ 78}}](#p78)
+  - #### [{{ Deities, Faith, and Ideologies}}{{ 96}}](#p96)
 }}
-
-
 
 
 
@@ -245,13 +241,19 @@ Character deaths in Covalon are permanent. If your character dies, you will need
 
 During an adventure, the Game Master or "Dungeon Guide" has the final say on interpretation of rules. Please do not argue rulings during an adventure. If you have questions or concerns about a Dungeon Guide's rulings during an adventure, you may privately message them after the game or #create-a-ticket.
 
-{{wide
-::
-{{note,purple,#book,text-align:center,background:#D1C7B1
-### Text RP Formatting
-:
+{{wide,columns:2
+{{note,purple,#book,text-align:center,background:#D1C7B1, 
+##### Text RP Formatting
+
 Text RP should be legible and understandable. Generally, actions should be formatted in italics, "speech should be formatted in quotes," ||and OOC comments should be formatted behind a spoiler.|| Try not to use OOC text often. Please do not post images or gifs in roleplay channels.
-:
+}}
+
+\column
+
+{{note,purple,#book,text-align:center,background:#D1C7B1, 
+##### Character Death and Equipment
+If you die and your corpse cannot be recovered because the party has fled, you lose all of the gear on your person permanently. Before a session, you must mark equipment as being explicitly "left at home" on your character sheet. Your gold is always assumed to be left at home unless you state otherwise. Any gear not marked in this way will be assumed to have been brought with you.
+
 }}
 }}
 {{pageNumber,auto}}
@@ -2111,8 +2113,10 @@ Each of our Expedition Outposts underwent weeks of preparation. Walls were stren
 Covalonians broke into teams and mustered defenses, beating back the attacks at our Expedition outposts. But we were all decieved, as the Astral Raiders used the attacks as a distraction to overwhem Covalon's defenses and strike at the city directly! Covalonians rushed back to the Heart of Terra's defense, forced to infiltrate the enemy ships and use their teleportation technology. They returned to Covalon under attack! 
 
 We fought the raiders in the streets of the city, and even at the Shrine of Terra, as the Endless Gray attempted to assimilate it, through the Captain. Thankfully, we fought back the invaders, crashing their airship into the mountains beyond. Our barriers were breached, but Covalon stands, stronger than before.
+::::
+*A crashed metal orb. Designed by Kona.*
 
-![](https://github.com/covalon/covalon-guide/blob/gh-pages/assets/covalon/PlayersGuide/ExpeditionLog/crashedorbEG.gif?raw=true){width:350px,margin:"-90px 350px"} 
+![](https://github.com/covalon/covalon-guide/blob/gh-pages/assets/covalon/PlayersGuide/ExpeditionLog/crashedorbEG.gif?raw=true){width:350px,margin:"-200px 350px"} 
 
 
 
@@ -2128,7 +2132,7 @@ We fought the raiders in the streets of the city, and even at the Shrine of Terr
 
 ## Secrets of the Heart
 
-{{descriptive,right,width:280px,
+{{descriptive,right,width:180px,
 
 ##### HEROES OF Secrets of the Heart
 :
@@ -2266,11 +2270,23 @@ Yit
 
 #### Multitable Event: June 28th, 2025
 
-Coming Soon!
+After overcoming the Maw Vessel in Varceta, at great cost to Covalon, the Heart of Terra began to weaken. Covalonians sensed its distress, and interpreted a message from the Heart: NORTH LIFEBRINGER XORIA QUEEN DANGER. Those present around the artifact was a vision of an individual trudging through the snow, carrying something precious. Using this information, we were able to go through Pre-Cataclysm records, which made our path forward clear. The Heart of Terra was recovered from an archaeological dig in the far northern reaches of Pudersno, from a place we believed to be called "Xoria." 
 
+We journeyed north, using the airship *Sleipner*, and discovered the ruins of an ancient civilization of ant like humanoids. Over the coming months, as the Heart continued to weaken, we mapped and explore the depths of the city. We catalogued ancient items, called upon the ghosts of those long dead, snuck past ancient constructs, and finally found that an atifact eerily similar to the Heart of Terra was still sheltered in the Queen's Vault - Lifebringer. 
 
+Covalonian adventurers, guided by the Dungeoneering Society, mobilized to retrieve the artifact. The Queen's Vault was magically sealed, and to open it required half a dozen teams of adventurers to activate magical obelisks scattered throughout the levels of the ruin. Our strongest teams were stationed deepest, to get inside the Vault and recover the artifact. There, they fought the crazed Undying Hskarren Council, and the Hskarren Queen herself, who was fused with Lifebringer in a vile attempt at eternal life. However, when Lifebringer was recovered, the entire ruin began to collapse. 
+
+Each team of Covalonians had to hold the way open for the groups deeper below, working as a team to get everyone to safety. When Team Griffon finally led us to the surface, the Heart's power surged, teleporting everyone safely back to Covalon as the entire island where Xoria stood collapsed beneath the frozen sea. 
+
+Lifebringer and the Heart of Terra, two halves of the same ancient artifact, are reunited once more. Their reunion caused a renewing, magical rain to spread across Elleaterra, bringing with it strange new powers. The Heart of Terra is renewed and restored, and our adventurers empowered. We're more ready than ever to continue our expedition missions to destroy the Maw, and reclaim the rest of the world from the Cataclysm. 
+:
+
+![](https://raw.githubusercontent.com/covalon/covalon-guide/refs/heads/gh-pages/assets/covalon/PlayersGuide/ExpeditionLog/SotH%20P1%20Journal%20Diagram.webp){width:450px,margin:"0px 0px"} 
+
+*A sketch found in Pre-Cataclysm archaeological records. Drawn by Kona.*
 
 }}
+
 
 {{pageNumber,auto}}
 
@@ -2496,7 +2512,7 @@ Even the dark days of a post-Cataclysm world need a splash of color to brighten 
 {{wide
 #### Snowdrop Family Remedies and Afflictions
 
-In the right circumstances, contradictory disciplines can often be complimentary; a lesson nobody in Covalon knows better than the Snowdrop twins. Ran by Kelani Snowdrop (female ratfolk inventor) and Kona Snowdrop (male ratfolk rogue), Remedies and Afflictions supply adventurers with both dangerous poisons and the elixirs needed to cure them, as well as a multitude as other useful alchemic and magic goods. This intersection of of markets has allowed Remedies and Afflictions to become one of the most popular stores in Covalon, with multitudes of satisfied customers.
+In the right circumstances, contradictory disciplines can often be complimentary; a lesson nobody in Covalon knows better than the Snowdrop twins. Ran by Kelani Snowdrop (female ratfolk inventor) and Kona Snowdrop (male ratfolk investigator), Remedies and Afflictions supply adventurers with both dangerous poisons and the elixirs needed to cure them, as well as a multitude as other useful alchemic and magic goods. This intersection of of markets has allowed Remedies and Afflictions to become one of the most popular stores in Covalon, with multitudes of satisfied customers.
 :
 
 ![](https://github.com/covalon/covalon-guide/raw/gh-pages/assets/covalon/PlayersGuide/Maps/SnowdropShop.webp){width:420px,margin:"0px 150px"}
@@ -3045,7 +3061,7 @@ A primarily residential district along the western riverbank, River Run offers b
 }}
 
 #### Verdant Flame Winery and Vineyard
-Nestled atop the hills of the River Run District, the Verdant Flame Vineyard and Winery allows its patrons to relax apart from the usual hustle and bustle of the City. Owned by Lady Cerise Solé (female human kineticist) and her guardian Sresk Solé (female lizardfolk rogue), this winery prides itself on providing one of the finest tasting experiences in Covalon. Our premier grapes are grown with careful application of kinetic magic, resulting in an exceptional and unique blends. Come in, and be shown to a seat inside the custom wooden interior, or relax on our upper balcony to enjoy a gorgeous view of Covalon's river.
+Nestled atop the hills of the River Run District, the Verdant Flame Vineyard and Winery allows its patrons to relax apart from the usual hustle and bustle of the City. Owned by Lady Cerise Solé (female human kineticist) and her wife Sresk Solé (female lizardfolk rogue), this winery prides itself on providing one of the finest tasting experiences in Covalon. Our premier grapes are grown with careful application of kinetic magic, resulting in an exceptional and unique blends. Come in, and be shown to a seat inside the custom wooden interior, or relax on our upper balcony to enjoy a gorgeous view of Covalon's river.
 :
 ![](https://github.com/covalon/covalon-guide/blob/gh-pages/assets/covalon/PlayersGuide/Maps/Verdant_Flame_Ground.png?raw=true){width:350px,margin:"23px -30px"}
 *Verdant Flame Ground. Designed by Rinka.*
@@ -3061,6 +3077,32 @@ Nestled atop the hills of the River Run District, the Verdant Flame Vineyard and
 ![](https://github.com/covalon/covalon-guide/blob/gh-pages/assets/covalon/PlayersGuide/Maps/Verdant_Flame_Upper.png?raw=true ){width:350px,margin:"-0px 10px"}
 :
 *Verdant Flame Upper. Designed by Rinka.* 
+{text-align:center}
+
+
+
+
+{{pageNumber,auto}}
+
+\page
+
+#### The Arcane Alcove
+Arcane; a tradition of magic utilized to view the world through a logical and rational lens. Alcove; a recess in the wall of a room or garden. What better place to learn and to enchant than the Arcane Alcove! Through diligent study the owner, Gabriel (male samsaran magus) provides enchanting services at a reasonable price in the warm and magically lit study and lounge. The owner's partner, Locke performs quiet and calming music to enhance the experience for any looking to study or do their own enchanting and crafting. Drinks are provided from local distilleries such as the Flowing Firkin and the Verdant Flame to provide the coziest atmosphere possible. Often members of the Sundered Circle can be found here, partaking in the guild's endeavours.
+:
+![](https://raw.githubusercontent.com/covalon/covalon-guide/refs/heads/gh-pages/assets/covalon/PlayersGuide/Maps/The_Arcane_Alcove_Floor_1.webp){width:350px,margin:"23px -30px"}
+*Arcane Alcove Ground. Designed by Gabriel.*
+{text-align:center}
+
+\column
+:::
+![](https://raw.githubusercontent.com/covalon/covalon-guide/refs/heads/gh-pages/assets/covalon/PlayersGuide/Maps/The_Arcane_Alcove.png){width:370px,margin:"-15px 0px"}
+:
+*Arcane Alcove Sign. Designed by Gabriel.*
+{text-align:center}
+:::
+![](https://raw.githubusercontent.com/covalon/covalon-guide/refs/heads/gh-pages/assets/covalon/PlayersGuide/Maps/The_Arcane_Alcove_Floor_2.webp){width:350px,margin:"-0px 10px"}
+::
+*Arcane Alcove Upper. Designed by Gabriel.* 
 {text-align:center}
 
 
@@ -6123,97 +6165,97 @@ Zegarek was most often followed by the more bold of the hunters from the earlier
     - [{{ The Farm}}{{ 66}}](#p66)
     - [{{ Mountain View District}}{{ 67}}](#p67)
     - [{{ River Run District}}{{ 67}}](#p67)
-    - [{{ North Gate District}}{{ 68}}](#p68)
-    - [{{ Expedition Districts and Outside Covalon}}{{ 70}}](#p70)
-  - #### [{{ Guilds}}{{ 72}}](#p72)
-    - [{{ The Archivists}}{{ 72}}](#p72)
-    - [{{ The Authors of Creation}}{{ 72}}](#p72)
-    - [{{ Covalon Medical Society}}{{ 73}}](#p73)
-    - [{{ The Servants of Terra}}{{ 73}}](#p73)
-    - [{{ The Teacher’s Union}}{{ 73}}](#p73)
-    - [{{ Trella’s Travellers}}{{ 74}}](#p74)
-    - [{{ The House of Dusk and Dawn}}{{ 74}}](#p74)
-    - [{{ The Lightkeepers}}{{ 74}}](#p74)
-    - [{{ Children of the Chicome}}{{ 75}}](#p75)
-    - [{{ Covalon Historical Society}}{{ 75}}](#p75)
-    - [{{ The Stouthearts}}{{ 75}}](#p75)
-    - [{{ The Green Knights of the Square}}{{ 76}}](#p76)
-    - [{{ The Sundered Circle}}{{ 76}}](#p76)
-  - #### [{{ Pre-Cataclysm Civilizations}}{{ 77}}](#p77)
-    - [{{ Alatar}}{{ 77}}](#p77)
-    - [{{ Armed Steppes}}{{ 77}}](#p77)
-    - [{{ The Briarmurk}}{{ 78}}](#p78)
-    - [{{ Drifthaven}}{{ 78}}](#p78)
-    - [{{ The Fey Courts}}{{ 80}}](#p80)
-    - [{{ Garn}}{{ 81}}](#p81)
-    - [{{ Gornlar}}{{ 81}}](#p81)
-    - [{{ Ikouga}}{{ 82}}](#p82)
-    - [{{ Kuraimori (暗い森)}}{{ 84}}](#p84)
-    - [{{ Middlemist}}{{ 84}}](#p84)
-    - [{{ The Misty Shores}}{{ 85}}](#p85)
-    - [{{ Ostengrad}}{{ 85}}](#p85)
-    - [{{ Primrose}}{{ 86}}](#p86)
-    - [{{ Pudersnö}}{{ 87}}](#p87)
-    - [{{ Ratchethallow}}{{ 88}}](#p88)
-    - [{{ Taltain}}{{ 90}}](#p90)
-    - [{{ Tarunga}}{{ 91}}](#p91)
-    - [{{ Tymoria}}{{ 91}}](#p91)
-    - [{{ The Kingdom of Varceta}}{{ 92}}](#p92)
-    - [{{ Verndhelt}}{{ 93}}](#p93)
-    - [{{ The Kingdom of Vyrm}}{{ 94}}](#p94)
-    - [{{ Whitespire}}{{ 94}}](#p94)
-  - #### [{{ Deities, Faith, and Ideologies}}{{ 95}}](#p95)
-    - [{{ Aelia}}{{ 97}}](#p97)
-    - [{{ A’shir, the Fated Flame}}{{ 97}}](#p97)
-    - [{{ Axnos}}{{ 97}}](#p97)
-    - [{{ The Brakeman}}{{ 98}}](#p98)
-    - [{{ The Circle of Stars}}{{ 98}}](#p98)
-    - [{{ The Cheshire}}{{ 99}}](#p99)
-    - [{{ Derelis}}{{ 99}}](#p99)
-    - [{{ Erimia}}{{ 99}}](#p99)
-    - [{{ Fah’rin, The Howling Blizzard}}{{ 99}}](#p99)
-    - [{{ Fayne Lightfeet}}{{ 100}}](#p100)
-    - [{{ Golgolgoss, The Watcher}}{{ 100}}](#p100)
-    - [{{ The Grey Ocean}}{{ 100}}](#p100)
-    - [{{ Gunvald}}{{ 101}}](#p101)
-    - [{{ Gutom, The Bloody Rose}}{{ 101}}](#p101)
-    - [{{ Heleniel, The Sin Seeker}}{{ 101}}](#p101)
-    - [{{ Hestora}}{{ 101}}](#p101)
-    - [{{ Heures}}{{ 102}}](#p102)
-    - [{{ The Home of Hearth and Health}}{{ 102}}](#p102)
-    - [{{ Kohtalo, Patron of Fate Forgers}}{{ 102}}](#p102)
-    - [{{ Krun Darr}}{{ 103}}](#p103)
-    - [{{ Kujani}}{{ 103}}](#p103)
-    - [{{ Levona, Duchess of Hell}}{{ 103}}](#p103)
-    - [{{ Lotus}}{{ 104}}](#p104)
-    - [{{ Luxandra, The Everbloom}}{{ 104}}](#p104)
-    - [{{ Lysanthyr, The Unending Delight}}{{ 104}}](#p104)
-    - [{{ The Great and Noble Manaat Al-Karim}}{{ 105}}](#p105)
-    - [{{ Maiden of the Garden}}{{ 105}}](#p105)
-    - [{{ Mendastarum, Devourer of Truth}}{{ 106}}](#p106)
-    - [{{ Nesdonin}}{{ 106}}](#p106)
-    - [{{ Nimane, The Forge Matron}}{{ 106}}](#p106)
-    - [{{ Noctune}}{{ 107}}](#p107)
-    - [{{ Novissime, The Orchid Reaper}}{{ 107}}](#p107)
-    - [{{ Oenos}}{{ 107}}](#p107)
-    - [{{ The Path of the Great Spirits}}{{ 108}}](#p108)
-    - [{{ Peko-Amuzo, The Trickster Prince}}{{ 108}}](#p108)
-    - [{{ Riahn, He Who Eclipses the Stars}}{{ 108}}](#p108)
-    - [{{ Seraphion, The Highest Throne}}{{ 109}}](#p109)
-    - [{{ Sinnesh, The Den Mother}}{{ 109}}](#p109)
-    - [{{ Satya, the Peerless Seeker}}{{ 109}}](#p109)
-    - [{{ The Eyes}}{{ 110}}](#p110)
-    - [{{ The Living Mandate}}{{ 110}}](#p110)
-    - [{{ The Three Sisters}}{{ 110}}](#p110)
-    - [{{ The World Weave}}{{ 111}}](#p111)
-    - [{{ Trella, The Night Sky}}{{ 111}}](#p111)
-    - [{{ Tycheam}}{{ 112}}](#p112)
-    - [{{ Unmortus, The Dead Guardian}}{{ 112}}](#p112)
-    - [{{ Veskahule}}{{ 113}}](#p113)
-    - [{{ Xan’Zyx, the First Incarnation}}{{ 113}}](#p113)
-    - [{{ Xeesis}}{{ 114}}](#p114)
-    - [{{ Zegarek}}{{ 114}}](#p114)
-- ### [{{ Menu}}{{ 115}}](#p115)
+    - [{{ North Gate District}}{{ 69}}](#p69)
+    - [{{ Expedition Districts and Outside Covalon}}{{ 71}}](#p71)
+  - #### [{{ Guilds}}{{ 73}}](#p73)
+    - [{{ The Archivists}}{{ 73}}](#p73)
+    - [{{ The Authors of Creation}}{{ 73}}](#p73)
+    - [{{ Covalon Medical Society}}{{ 74}}](#p74)
+    - [{{ The Servants of Terra}}{{ 74}}](#p74)
+    - [{{ The Teacher’s Union}}{{ 74}}](#p74)
+    - [{{ Trella’s Travellers}}{{ 75}}](#p75)
+    - [{{ The House of Dusk and Dawn}}{{ 75}}](#p75)
+    - [{{ The Lightkeepers}}{{ 75}}](#p75)
+    - [{{ Children of the Chicome}}{{ 76}}](#p76)
+    - [{{ Covalon Historical Society}}{{ 76}}](#p76)
+    - [{{ The Stouthearts}}{{ 76}}](#p76)
+    - [{{ The Green Knights of the Square}}{{ 77}}](#p77)
+    - [{{ The Sundered Circle}}{{ 77}}](#p77)
+  - #### [{{ Pre-Cataclysm Civilizations}}{{ 78}}](#p78)
+    - [{{ Alatar}}{{ 78}}](#p78)
+    - [{{ Armed Steppes}}{{ 78}}](#p78)
+    - [{{ The Briarmurk}}{{ 79}}](#p79)
+    - [{{ Drifthaven}}{{ 79}}](#p79)
+    - [{{ The Fey Courts}}{{ 81}}](#p81)
+    - [{{ Garn}}{{ 82}}](#p82)
+    - [{{ Gornlar}}{{ 82}}](#p82)
+    - [{{ Ikouga}}{{ 83}}](#p83)
+    - [{{ Kuraimori (暗い森)}}{{ 85}}](#p85)
+    - [{{ Middlemist}}{{ 85}}](#p85)
+    - [{{ The Misty Shores}}{{ 86}}](#p86)
+    - [{{ Ostengrad}}{{ 86}}](#p86)
+    - [{{ Primrose}}{{ 87}}](#p87)
+    - [{{ Pudersnö}}{{ 88}}](#p88)
+    - [{{ Ratchethallow}}{{ 89}}](#p89)
+    - [{{ Taltain}}{{ 91}}](#p91)
+    - [{{ Tarunga}}{{ 92}}](#p92)
+    - [{{ Tymoria}}{{ 92}}](#p92)
+    - [{{ The Kingdom of Varceta}}{{ 93}}](#p93)
+    - [{{ Verndhelt}}{{ 94}}](#p94)
+    - [{{ The Kingdom of Vyrm}}{{ 95}}](#p95)
+    - [{{ Whitespire}}{{ 95}}](#p95)
+  - #### [{{ Deities, Faith, and Ideologies}}{{ 96}}](#p96)
+    - [{{ Aelia}}{{ 98}}](#p98)
+    - [{{ A’shir, the Fated Flame}}{{ 98}}](#p98)
+    - [{{ Axnos}}{{ 98}}](#p98)
+    - [{{ The Brakeman}}{{ 99}}](#p99)
+    - [{{ The Circle of Stars}}{{ 99}}](#p99)
+    - [{{ The Cheshire}}{{ 100}}](#p100)
+    - [{{ Derelis}}{{ 100}}](#p100)
+    - [{{ Erimia}}{{ 100}}](#p100)
+    - [{{ Fah’rin, The Howling Blizzard}}{{ 100}}](#p100)
+    - [{{ Fayne Lightfeet}}{{ 101}}](#p101)
+    - [{{ Golgolgoss, The Watcher}}{{ 101}}](#p101)
+    - [{{ The Grey Ocean}}{{ 101}}](#p101)
+    - [{{ Gunvald}}{{ 102}}](#p102)
+    - [{{ Gutom, The Bloody Rose}}{{ 102}}](#p102)
+    - [{{ Heleniel, The Sin Seeker}}{{ 102}}](#p102)
+    - [{{ Hestora}}{{ 102}}](#p102)
+    - [{{ Heures}}{{ 103}}](#p103)
+    - [{{ The Home of Hearth and Health}}{{ 103}}](#p103)
+    - [{{ Kohtalo, Patron of Fate Forgers}}{{ 103}}](#p103)
+    - [{{ Krun Darr}}{{ 104}}](#p104)
+    - [{{ Kujani}}{{ 104}}](#p104)
+    - [{{ Levona, Duchess of Hell}}{{ 104}}](#p104)
+    - [{{ Lotus}}{{ 105}}](#p105)
+    - [{{ Luxandra, The Everbloom}}{{ 105}}](#p105)
+    - [{{ Lysanthyr, The Unending Delight}}{{ 105}}](#p105)
+    - [{{ The Great and Noble Manaat Al-Karim}}{{ 106}}](#p106)
+    - [{{ Maiden of the Garden}}{{ 106}}](#p106)
+    - [{{ Mendastarum, Devourer of Truth}}{{ 107}}](#p107)
+    - [{{ Nesdonin}}{{ 107}}](#p107)
+    - [{{ Nimane, The Forge Matron}}{{ 107}}](#p107)
+    - [{{ Noctune}}{{ 108}}](#p108)
+    - [{{ Novissime, The Orchid Reaper}}{{ 108}}](#p108)
+    - [{{ Oenos}}{{ 108}}](#p108)
+    - [{{ The Path of the Great Spirits}}{{ 109}}](#p109)
+    - [{{ Peko-Amuzo, The Trickster Prince}}{{ 109}}](#p109)
+    - [{{ Riahn, He Who Eclipses the Stars}}{{ 109}}](#p109)
+    - [{{ Seraphion, The Highest Throne}}{{ 110}}](#p110)
+    - [{{ Sinnesh, The Den Mother}}{{ 110}}](#p110)
+    - [{{ Satya, the Peerless Seeker}}{{ 110}}](#p110)
+    - [{{ The Eyes}}{{ 111}}](#p111)
+    - [{{ The Living Mandate}}{{ 111}}](#p111)
+    - [{{ The Three Sisters}}{{ 111}}](#p111)
+    - [{{ The World Weave}}{{ 112}}](#p112)
+    - [{{ Trella, The Night Sky}}{{ 112}}](#p112)
+    - [{{ Tycheam}}{{ 113}}](#p113)
+    - [{{ Unmortus, The Dead Guardian}}{{ 113}}](#p113)
+    - [{{ Veskahule}}{{ 114}}](#p114)
+    - [{{ Xan’Zyx, the First Incarnation}}{{ 114}}](#p114)
+    - [{{ Xeesis}}{{ 115}}](#p115)
+    - [{{ Zegarek}}{{ 115}}](#p115)
+- ### [{{ Menu}}{{ 116}}](#p116)
 </div>
 </div>
 
