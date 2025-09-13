@@ -1,4 +1,4 @@
-{{titlebar,width:60% Covalon Player's Guide rev 25.08.10 }}
+{{titlebar,width:60% Covalon Player's Guide rev 25.09.13 }}
 :
 :
  
@@ -982,6 +982,7 @@ The following is a list of currently active expeditions. For more information on
 - Drifthaven (Complete)
 - The Fey Courts (Complete)
 - Varceta (Complete)
+- Alatar (In Progress)
 
 }}
 }} 
@@ -3786,7 +3787,21 @@ At the very tops of the mountains lived the communities known as peak communitie
 After the Cataclysm, a wave of evil and negative energies rained down from the sky. The dead came to life and the living went mad. The laws in the higher communities became so absurdly strict that even the most rigidly lawful people couldn’t hope to follow all of their laws unless they were born and raised there. The madness also led to a distaste for outsiders, which kept many people there for a long time. Meanwhile the undead rose again and again, slowly but surely eating away at civilisation.
 
 }}
-:
+}}
+
+#### Alatar Expedition Log
+Efforts to reclaim Alatar are underway! Covalon has been invited to attend an end of summer festival by "Alatar Nova." Could we finally have found allies in this Post-Cataclysm world? 
+
+
+![](https://raw.githubusercontent.com/covalon/covalon-guide/refs/heads/gh-pages/assets/covalon/PlayersGuide/ExpeditionLog/Alatar_Missive.webp
+){width:330px,margin:"-30px -30px"}
+
+
+{{pageNumber,auto}}
+
+\page
+
+{{wide
 {{template
 {{
 ### Armed Steppes  
@@ -3816,14 +3831,7 @@ The Armed Steppes surround the Tengeriin Uul Mountains and stretch from the Fey 
 Millenia ago, the Tengeriin Uul Mountains served as a focal point for outsiders venturing into the material plane. While those visits decreased over the ages, their influence remained. This led to irreparable damage to the surrounding land, causing resource scarcity and forcing the inhabitants into a largely nomadic lifestyle. Culturally, they became a place of pilgrimage for many, due to their connection to the outer planes, though some clans held strongly onto the grudges of the region and persecuted those planar scions who bore the blood of the outsiders who once were common here.
 
 }}
-
-}}
-
-{{pageNumber,auto}}
-
-\page
-
-{{wide
+:
 {{template
 {{
 ### The Briarmurk  
@@ -4059,6 +4067,8 @@ Zoe (Summoner 15)
  
 
 }}
+
+{{pageNumber,auto}}
 
 \page
 {{wide
@@ -6183,7 +6193,7 @@ Zegarek was most often followed by the more bold of the hunters from the earlier
     - [{{ The Sundered Circle}}{{ 77}}](#p77)
   - #### [{{ Pre-Cataclysm Civilizations}}{{ 78}}](#p78)
     - [{{ Alatar}}{{ 78}}](#p78)
-    - [{{ Armed Steppes}}{{ 78}}](#p78)
+    - [{{ Armed Steppes}}{{ 78}}](#p79)
     - [{{ The Briarmurk}}{{ 79}}](#p79)
     - [{{ Drifthaven}}{{ 79}}](#p79)
     - [{{ The Fey Courts}}{{ 81}}](#p81)
