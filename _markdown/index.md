@@ -1,4 +1,4 @@
-{{titlebar,width:60% Covalon Player's Guide rev 25.09.13 }}
+{{titlebar,width:60% Covalon Player's Guide rev 25.10.27 }}
 :
 :
  
@@ -675,7 +675,7 @@ Celestial | ???
 Death | Drifthaven
 Dragon | Gornlar
 Earth | ???
-Emotion | ???
+Emotion | Alatar
 Fiend | Verndhelt
 Fire | Varceta
 Forge | ???
@@ -982,7 +982,7 @@ The following is a list of currently active expeditions. For more information on
 - Drifthaven (Complete)
 - The Fey Courts (Complete)
 - Varceta (Complete)
-- Alatar (In Progress)
+- Alatar (Completed)
 
 }}
 }} 
@@ -3755,6 +3755,46 @@ A convocation of mages determined to expand and restore Covalon's knowledge of a
 
 {{wide
 
+{{descriptive,right,width:150px
+
+#### Heroes of Alatar
+
+The following characters were the first to defeat Alekin, the traitorous governor of Alatar Nova. 
+
+:
+
+Atticus (Rogue 15)
+
+Bhoomi (Fighter 15)
+
+Brumata (Summoner 15)
+
+Cinna (Sorcerer 15)
+
+Cressida (Rogue 15)
+
+Foram (Fighter 15)
+
+Gardi (Druid 15)
+
+Kona Snowdrop (Investigator 15)
+
+Kosta (Magus 15)
+
+Maxwell (Thaumaturge 15)
+
+Night (Barbarian 15)
+
+Pyre Toof (Cleric 15)
+
+Valerie (Guardian 15)
+
+Yara (Psychic 15)
+
+Zoe Timor (Wizard 15)
+
+}}
+
 {{template
 {{
 ### Alatar  
@@ -3780,21 +3820,17 @@ The separated collective.
 
 ---
 
-Alatar was built on a mountain range close to the ocean and made up of many small governments in a loose alliance with one another. All gods were worshipped there. If more than 1 person had different religious views, it was common practice to simply not talk about religion with said people. Communities with more status typically lived higher up in the mountains as the land was believed to be closer to the gods. 
-:
-At the very tops of the mountains lived the communities known as peak communities, of which there were 6. They had high expectations placed on them from those in their respective communities. They also typically only worshipped 1 or 2 deities per community, as religious obligations sometimes conflicted with laws otherwise. The laws were significantly stricter than those who lived lower down the mountains in terms of the punishments and definitions of the laws. They were usually the example for the lower communities to follow. Lying was extremely frowned upon as a result of Aelia’s overall strong influence and the fact that people just don’t like being lied to in general. In fact, in many communities, but not all, it was illegal to lie. It was also illegal for two communities to go to war.
-:
-After the Cataclysm, a wave of evil and negative energies rained down from the sky. The dead came to life and the living went mad. The laws in the higher communities became so absurdly strict that even the most rigidly lawful people couldn’t hope to follow all of their laws unless they were born and raised there. The madness also led to a distaste for outsiders, which kept many people there for a long time. Meanwhile the undead rose again and again, slowly but surely eating away at civilisation.
-
+Alatar was a loose alliance of coastal mountain communities. All gods were worshipped there. In an effort to accommadate all religions, it was common to simply avoid speaking on the topic. Communities with more status lived higher up the mountains, believed to be closer to the gods. Six "peak communities" had the highest status, with extremely strict expectations, laws, and punishments for their citizens. They worshipped only a few deities per community, as religious obligations conflicted with laws otherwise. They were an example for lower communities to follow. Lying was extremely frowned upon or even illegal due to Aelia’s strong influence. It was also illegal for two communities to go to war. After the Cataclysm, a wave of unholy void energy rained from the sky. The dead came to life and the living went mad. The laws in the higher communities became so absurdly strict that even the most rigidly lawful people couldn’t hope to follow them, and faced unreasonably fatal punishments. The cities closed themselves off, and civilization was slowly eaten away by insanity and the ever rising dead.
 }}
 }}
 
 #### Alatar Expedition Log
 Efforts to reclaim Alatar are underway! Covalon has been invited to attend an end of summer festival by "Alatar Nova." Could we finally have found allies in this Post-Cataclysm world? 
-
+:
+Alatar Expedition is complete! See the #expedition-logs channel for details, summary to come. 
 
 ![](https://raw.githubusercontent.com/covalon/covalon-guide/refs/heads/gh-pages/assets/covalon/PlayersGuide/ExpeditionLog/Alatar_Missive.webp
-){width:330px,margin:"-30px -30px"}
+){width:380px,margin:"-30px -50px"}
 
 
 {{pageNumber,auto}}
@@ -3902,6 +3938,7 @@ The Cataclysm ended Drifthaven in a swarm of undead. Due to a distinct lack of m
 \page
 
 {{wide
+
 #### Drifthaven Expedition Log
 Our efforts to reclaim Drifthaven are complete! The journey to Drifthaven would be one like no other. Our information alerted us to hordes of undead, swarming across the once peaceful place. We’ve contended with different threats before, terrain in Gornlar, temperature in Pudersno and tentacles in Ikouga but never a veritable army. This would require a more creative approach, and create we did. Bones, bones, bones! We gathered all the bones and from them we birthed a mighty chariot. Drawn by undead bulls and furnished with the latest of gothic fashions, this vessel was a necromantic tour de force; perfect to delve deep into Drifthaven, the domain of death.
 :
