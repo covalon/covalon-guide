@@ -1,4 +1,4 @@
-{{titlebar,width:60% Covalon Player's Guide rev 25.10.27 }}
+{{titlebar,width:60% Covalon Player's Guide rev 26.01.05 }}
 :
 :
  
@@ -32,6 +32,7 @@ Covalon is a "living world" style tabletop RPG campaign, using the Pathfinder 2e
 {{pageNumber,auto}}
 
 \page
+
 {{toc,wide
 # Contents
 
@@ -48,6 +49,7 @@ Covalon is a "living world" style tabletop RPG campaign, using the Pathfinder 2e
   - #### [{{ Character Creation Rules}}{{ 7}}](#p7)
   - #### [{{ Character Backstory}}{{ 8}}](#p8)
   - #### [{{ Web and App-Based Character Sheets}}{{ 8}}](#p8)
+
   - #### [{{ Requesting New Character Options}}{{ 8}}](#p8)
   - #### [{{ Rebuilding Your Character}}{{ 8}}](#p8)
   - #### [{{ Retiring Your Character}}{{ 9}}](#p9)
@@ -102,26 +104,26 @@ Covalon is a "living world" style tabletop RPG campaign, using the Pathfinder 2e
     - [{{ The Farm}}{{ 66}}](#p66)
     - [{{ Mountain View District}}{{ 67}}](#p67)
     - [{{ River Run District}}{{ 67}}](#p67)
-    - [{{ North Gate District}}{{ 69}}](#p69)
-    - [{{ Expedition Districts and Outside Covalon}}{{ 71}}](#p71)
-  - #### [{{ Guilds}}{{ 73}}](#p73)
-    - [{{ The Archivists}}{{ 73}}](#p73)
-    - [{{ The Authors of Creation}}{{ 73}}](#p73)
-    - [{{ Covalon Medical Society}}{{ 74}}](#p74)
-    - [{{ The Servants of Terra}}{{ 74}}](#p74)
-    - [{{ The Teacher’s Union}}{{ 74}}](#p74)
-    - [{{ Trella’s Travellers}}{{ 75}}](#p75)
-    - [{{ The House of Dusk and Dawn}}{{ 75}}](#p75)
-    - [{{ The Lightkeepers}}{{ 75}}](#p75)
-    - [{{ Children of the Chicome}}{{ 76}}](#p76)
-    - [{{ Covalon Historical Society}}{{ 76}}](#p76)
-    - [{{ The Stouthearts}}{{ 76}}](#p76)
-    - [{{ The Green Knights of the Square}}{{ 77}}](#p77)
-    - [{{ The Sundered Circle}}{{ 77}}](#p77)
-  - #### [{{ Pre-Cataclysm Civilizations}}{{ 78}}](#p78)
-  - #### [{{ Deities, Faith, and Ideologies}}{{ 96}}](#p96)
-}}
+    - [{{ North Gate District}}{{ 70}}](#p70)
+    - [{{ Expedition Districts and Outside Covalon}}{{ 72}}](#p72)
+  - #### [{{ Guilds}}{{ 74}}](#p74)
+    - [{{ The Archivists}}{{ 74}}](#p74)
+    - [{{ The Authors of Creation}}{{ 74}}](#p74)
+    - [{{ Covalon Medical Society}}{{ 75}}](#p75)
+    - [{{ The Servants of Terra}}{{ 75}}](#p75)
+    - [{{ The Teacher’s Union}}{{ 75}}](#p75)
+    - [{{ Trella’s Travellers}}{{ 76}}](#p76)
+    - [{{ The House of Dusk and Dawn}}{{ 76}}](#p76)
+    - [{{ The Lightkeepers}}{{ 76}}](#p76)
+    - [{{ Children of the Chicome}}{{ 77}}](#p77)
+    - [{{ Covalon Historical Society}}{{ 77}}](#p77)
+    - [{{ The Stouthearts}}{{ 77}}](#p77)
+    - [{{ The Green Knights of the Square}}{{ 78}}](#p78)
+    - [{{ The Sundered Circle}}{{ 78}}](#p78)
+  - #### [{{ Pre-Cataclysm Civilizations}}{{ 79}}](#p79)
+  - #### [{{ Deities, Faith, and Ideologies}}{{ 97}}](#p97)
 
+}}
 
 
 {{pageNumber,auto}}
@@ -600,38 +602,14 @@ Covalon's mentor system allows higher-level players to play with lower-level pla
 #### Covalon's Mentors
 
 The characters that make up Covalon's mentorship program are retired adventurers who have already lived full lives, but have been called to serve the city as wizened guides for green adventurers. The mentors were originally designed by players as part of a "Design a Mentor" contest, where over 50 characters were submitted to become Covalon's official mentor characters!
-
-
-**Barbarian:** Brooks (male human)
-
-**Bard:** Tilly Greenfield (female human)
-
-**Champion:** Jasra (female half-orc)
-
-**Cleric:** Diallo (male human)
-
-**Druid:** Qaniah Bluebreeze (female halfling)
-
-**Fighter:** Terry von Riggard (male human)
-
-**Investigator:** Kardok (male hobgoblin)
-
-**Monk:** Tavarik (male human)
-
-**Oracle:** Aedra (female human)
-
-**Ranger:** K'rook (male tripkee)
-
-**Rogue:** Jade Aurellion (female elf)
-
-**Sorcerer:** Fire Eater (male catfolk)
-
-**Swashbuckler:** Jane Karver (female human)
-
-**Witch:** Akari Fatespinner (female tengu)
-
-**Wizard:** Agliglius (male gnome)
 :
+- **Tilly Greenfield** (she/her human Bard), a supportive caster with an emphasis on buffing. 
+- **Jasra** (she/her half orc Champion), a tanky melee warrior of the Three Sisters. 
+- **Diallo** ((he/him human cleric), a divine spellcasting healer of Gunvald. 
+- **Terry Von Riggard** (he/him human Fighter), a strong melee striker wielding a bastard sword. 
+- **K'rook** (he/him tripkee Ranger), a precise ranged striker wielding a bow and arrows. 
+- **Fire Eater** (he/him catfolk Sorcerer) a fiery primal caster with a focus on blasting. 
+
 
 ### Afflictions
 Adventurers can contract dangerous diseases and curses during adventures. Afflictions progress in real time, and must be handled at their regular intervals. If your character receives an affliction that is untreated by the end of the adventure, it doesn't go away on its own - they'll have to overcome it or find someone to cure it if they want to avoid its adverse effects. For more information on how tracking afflictions works in Covalon, see the pinnned post in the #affliction-tracking channel in the Discord server.
@@ -983,6 +961,7 @@ The following is a list of currently active expeditions. For more information on
 - The Fey Courts (Complete)
 - Varceta (Complete)
 - Alatar (Completed)
+- Briarmurk (In Progress)
 
 }}
 }} 
@@ -3106,7 +3085,29 @@ Arcane; a tradition of magic utilized to view the world through a logical and ra
 *Arcane Alcove Upper. Designed by Gabriel.* 
 {text-align:center}
 
+{{pageNumber,auto}}
 
+\page
+
+#### Token of the Heart
+A Little Token of the Heart or 點點心意 is a cozy teahouse overlooking a beautiful lotus water garden. Customers can enjoy a wide selection of teas curated by the owner and tea artisan Yao Mei (姚美) and served by her friend Haoran (浩然). As well as many handmade pastries and snacks that accompany the tea, which Mei calls her little token of the heart. The pavilion on the water garden can be reserved for special occasions.
+
+![](https://raw.githubusercontent.com/covalon/covalon-guide/refs/heads/gh-pages/assets/covalon/PlayersGuide/Maps/token%20of%20the%20heart%20sign.png){width:350px,margin:"0px -40px"}
+:
+*Token of the Heart Sign, by Yao Mei*
+{text-align:left}
+
+\column
+:::
+![](https://raw.githubusercontent.com/covalon/covalon-guide/refs/heads/gh-pages/assets/covalon/PlayersGuide/Maps/token%20of%20the%20heart%20ground%20floor.webp){width:380px,margin:" 0px -20px"}
+:
+*Token of the Heart ground, by Yao Mei.*
+{text-align:center}
+::
+![](https://raw.githubusercontent.com/covalon/covalon-guide/refs/heads/gh-pages/assets/covalon/PlayersGuide/Maps/token%20of%20the%20heart%20second%20floor.webp){width:380px,margin:"0px -20px"}
+::
+*Token of the Heart upper, by Yao Mei.* 
+{text-align:center}
 
 
 {{pageNumber,auto}}
@@ -3830,7 +3831,7 @@ Efforts to reclaim Alatar are underway! Covalon has been invited to attend an en
 Alatar Expedition is complete! See the #expedition-logs channel for details, summary to come. 
 
 ![](https://raw.githubusercontent.com/covalon/covalon-guide/refs/heads/gh-pages/assets/covalon/PlayersGuide/ExpeditionLog/Alatar_Missive.webp
-){width:380px,margin:"-30px -50px"}
+){width:350px,margin:"-30px -50px"}
 
 
 {{pageNumber,auto}}
@@ -3896,6 +3897,22 @@ The Briarmurk was less of a nation and more of an inhospitable wasteland dominat
 
 }}
 :
+
+#### Briarmurk Expedition Log
+Coming soon! 
+
+
+
+
+
+}}
+
+{{pageNumber,auto}}
+
+\page
+
+{{wide
+
 {{template
 {{
 ### Drifthaven  
@@ -3920,36 +3937,18 @@ The ever-partying paradise.
 }}
 
 ---
-Drifthaven was a relatively small town of peace loving folk. Much of their time was spent in revelry, often throwing large parties involving the entire town to celebrate anything from the changing of the seasons, to a group of people being in a particularly good mood that evening. Home to many artists and makers of music, a celebration had here was generally fairly memorable. The folks of the town welcomed travelers with open arms, encouraging them to stay around and enjoy events they had in town. Music, ale, and other creature comforts were traded for goods and news from the outside very often. The people of Drifthaven themselves hardly ever left their own borders. The town itself was comprised of almost no physical buildings besides a silo, a storehouse, and a stable. All other buildings were canvas structures, such as tents, pavilions, and their ilk. Most denizens of Drifthaven could speak both Common and Sylvan. Due to their down to earth mentality, most preferred the Sylvan language so much it became notable as their regional language. Swords, Daggers, Flails, and most weapons were strictly prohibited within the borders of Drifthaven. To be caught with a weapon was grounds for immediate banishment from the premises. Due to this, there was no military force. Due to a very low crime rate, law enforcement was minimal at best. A band of no more than 20 people at a time with minimal training in non lethal weapons kept the peace in large gatherings. Because incidents were so low, they were hardly ever needed.
-:
-The Cataclysm ended Drifthaven in a swarm of undead. Due to a distinct lack of military might, the tent city was destroyed in a matter of hours. Very few are expected to have survived.
+Drifthaven was a small town of peace loving folk. Much of their time was spent in revelry, throwing large parties to celebrate anything from the changing of the seasons, to a group of people being in a good mood that evening. Home to artists and makers of music, a celebration here was always memorable. The townfolk welcomed travelers with open arms, encouring them to join the party. Music, ale, and other creature comforts were traded for goods and news from the outside. The people of Drifthaven hardly ever left their borders. The town was comprised of almost no physical buildings besides a silo, a storehouse, and a stable. All other buildings were canvas tents, pavilions, and their ilk. Most denizens of Drifthaven could speak both Common and Sylvan. Most weapons were strictly prohibited within the borders of Drifthaven. To be caught with a weapon was grounds for immediate banishment . Due to this, there was no military force and minimal law enforcement. A band of no more than 20 people at a time with minimal training in non lethal weapons kept the peace in large gatherings. Because incidents were so low, they were hardly ever needed. The Cataclysm ended Drifthaven in a swarm of undead. Due to a distinct lack of military might, the tent city was destroyed in a matter of hours. Very few are expected to have survived.
 
 }}
-
-
-
-
-
-
-}}
-
-{{pageNumber,auto}}
-
-\page
-
-{{wide
 
 #### Drifthaven Expedition Log
-Our efforts to reclaim Drifthaven are complete! The journey to Drifthaven would be one like no other. Our information alerted us to hordes of undead, swarming across the once peaceful place. We’ve contended with different threats before, terrain in Gornlar, temperature in Pudersno and tentacles in Ikouga but never a veritable army. This would require a more creative approach, and create we did. Bones, bones, bones! We gathered all the bones and from them we birthed a mighty chariot. Drawn by undead bulls and furnished with the latest of gothic fashions, this vessel was a necromantic tour de force; perfect to delve deep into Drifthaven, the domain of death.
+Our efforts to reclaim Drifthaven are complete! The journey to Drifthaven was like no other. Hordes of undead swarmed the once peaceful land.  We’d contended with terrain, temperature, and tentacles before, but never a veritable army! This would require a more creative approach. From gathered bones, we birthed a mighty chariot. Drawn by undead bulls, this vessel was perfect to delve deep into Drifthaven, a domain of death.
 :
-In spite of our attempts at subterfuge, our travels were anything but uneventful. We had to rally together to build a raft due to unpredicted river complications, were serenaded by spooky spectres and constantly fighting to push through the throngs of mindless corpses barring our path. The greatest danger though was when our rouse almost faltered and dead eyes fell upon us. Thankfully, careful planning for this possibility had meant we had disguise kits at the ready and we were able to mend our macabre masquerade.From our base of operations, a yurt ringed in bone walls, we set out to establish our foothold. While most of the undead in the area were mindless, we realised quickly that liches were an important part of their operations. So we hit them where it hurts, right in the soul cage. We then moved on to disrupting their supply chain; wars need weapons and we had exactly the tools to take them off the table, explosives. Finally, we turned to the people who knew this land best for advice, the spirits of those who had met their end here. Channelling their songs we let them guide us to our ultimate enemy, the Archlich Faltyr.
-:
-
-The scale of our war with Faltyr was greater than any before. To even approach the undead lord we needed to carve our way through swarms of countless undead. Even at the crescendo of our conflict, as we faced him down in his Cathedral of Death, we continued to be harried by masses of zombies, skeletons and mindless monstrosities of all kinds. Yet for all their numbers, we were stronger. We destroyed the lich’s soul cages and cast his spirit into the beyond. Life beats in the heart of Drifthaven once more.
+During our travels,  we had unexpected river complications, were serenaded by spooky spectres and fought through throngs of corpses. The greatest danger was when our rouse almost faltered and dead eyes fell upon us. Thankfully, we had disguise kits at the ready to mend our macabre masquerade. We established a yurt ringed in bone as our base of operations. While most of the undead in the area were mindless, we realised quickly that a lich was directing their movements. So we hit them where it hurts, right in the soul cage. We disrupted their supply chain; wars need weapons and we had exactly the tools to take them off the table, explosives. Finally, we turned to the spirits of those who had met their end. Channelling their songs they guided us to our ultimate enemy, the Archlich Faltyr. To approach the undead lord, we carved through swarms of countless undead in his Cathedral of Death.  Yet for all their numbers, we were stronger. We destroyed the lich’s soul cages and cast his spirit into the beyond. Life beats in the heart of Drifthaven once more.
 
 :
 
-{{descriptive,right,width:178px
+{{descriptive,right,width:270px
 
 #### Heroes of Drifthaven
 
@@ -3992,7 +3991,7 @@ Kouzo (Gunslinger 15)
 
 }}
 
-![](https://raw.githubusercontent.com/covalon/covalon-guide/gh-pages/assets/covalon/PlayersGuide/ExpeditionLog/DrifthavenOutpost.webp){width:490px,margin:"0px 0px"}
+![](https://raw.githubusercontent.com/covalon/covalon-guide/gh-pages/assets/covalon/PlayersGuide/ExpeditionLog/DrifthavenOutpost.webp){width:360px,margin:"0px 0px"}
 
 *Covalon's disguised yurt in Drifthaven. Designed by Rinka.* 
 {text-align:left}
@@ -6158,6 +6157,7 @@ Zegarek was most often followed by the more bold of the hunters from the earlier
   - #### [{{ Character Creation Rules}}{{ 7}}](#p7)
   - #### [{{ Character Backstory}}{{ 8}}](#p8)
   - #### [{{ Web and App-Based Character Sheets}}{{ 8}}](#p8)
+
   - #### [{{ Requesting New Character Options}}{{ 8}}](#p8)
   - #### [{{ Rebuilding Your Character}}{{ 8}}](#p8)
   - #### [{{ Retiring Your Character}}{{ 9}}](#p9)
@@ -6212,97 +6212,97 @@ Zegarek was most often followed by the more bold of the hunters from the earlier
     - [{{ The Farm}}{{ 66}}](#p66)
     - [{{ Mountain View District}}{{ 67}}](#p67)
     - [{{ River Run District}}{{ 67}}](#p67)
-    - [{{ North Gate District}}{{ 69}}](#p69)
-    - [{{ Expedition Districts and Outside Covalon}}{{ 71}}](#p71)
-  - #### [{{ Guilds}}{{ 73}}](#p73)
-    - [{{ The Archivists}}{{ 73}}](#p73)
-    - [{{ The Authors of Creation}}{{ 73}}](#p73)
-    - [{{ Covalon Medical Society}}{{ 74}}](#p74)
-    - [{{ The Servants of Terra}}{{ 74}}](#p74)
-    - [{{ The Teacher’s Union}}{{ 74}}](#p74)
-    - [{{ Trella’s Travellers}}{{ 75}}](#p75)
-    - [{{ The House of Dusk and Dawn}}{{ 75}}](#p75)
-    - [{{ The Lightkeepers}}{{ 75}}](#p75)
-    - [{{ Children of the Chicome}}{{ 76}}](#p76)
-    - [{{ Covalon Historical Society}}{{ 76}}](#p76)
-    - [{{ The Stouthearts}}{{ 76}}](#p76)
-    - [{{ The Green Knights of the Square}}{{ 77}}](#p77)
-    - [{{ The Sundered Circle}}{{ 77}}](#p77)
-  - #### [{{ Pre-Cataclysm Civilizations}}{{ 78}}](#p78)
-    - [{{ Alatar}}{{ 78}}](#p78)
-    - [{{ Armed Steppes}}{{ 78}}](#p79)
-    - [{{ The Briarmurk}}{{ 79}}](#p79)
-    - [{{ Drifthaven}}{{ 79}}](#p79)
-    - [{{ The Fey Courts}}{{ 81}}](#p81)
-    - [{{ Garn}}{{ 82}}](#p82)
-    - [{{ Gornlar}}{{ 82}}](#p82)
-    - [{{ Ikouga}}{{ 83}}](#p83)
-    - [{{ Kuraimori (暗い森)}}{{ 85}}](#p85)
-    - [{{ Middlemist}}{{ 85}}](#p85)
-    - [{{ The Misty Shores}}{{ 86}}](#p86)
-    - [{{ Ostengrad}}{{ 86}}](#p86)
-    - [{{ Primrose}}{{ 87}}](#p87)
-    - [{{ Pudersnö}}{{ 88}}](#p88)
-    - [{{ Ratchethallow}}{{ 89}}](#p89)
-    - [{{ Taltain}}{{ 91}}](#p91)
-    - [{{ Tarunga}}{{ 92}}](#p92)
-    - [{{ Tymoria}}{{ 92}}](#p92)
-    - [{{ The Kingdom of Varceta}}{{ 93}}](#p93)
-    - [{{ Verndhelt}}{{ 94}}](#p94)
-    - [{{ The Kingdom of Vyrm}}{{ 95}}](#p95)
-    - [{{ Whitespire}}{{ 95}}](#p95)
-  - #### [{{ Deities, Faith, and Ideologies}}{{ 96}}](#p96)
-    - [{{ Aelia}}{{ 98}}](#p98)
-    - [{{ A’shir, the Fated Flame}}{{ 98}}](#p98)
-    - [{{ Axnos}}{{ 98}}](#p98)
-    - [{{ The Brakeman}}{{ 99}}](#p99)
-    - [{{ The Circle of Stars}}{{ 99}}](#p99)
-    - [{{ The Cheshire}}{{ 100}}](#p100)
-    - [{{ Derelis}}{{ 100}}](#p100)
-    - [{{ Erimia}}{{ 100}}](#p100)
-    - [{{ Fah’rin, The Howling Blizzard}}{{ 100}}](#p100)
-    - [{{ Fayne Lightfeet}}{{ 101}}](#p101)
-    - [{{ Golgolgoss, The Watcher}}{{ 101}}](#p101)
-    - [{{ The Grey Ocean}}{{ 101}}](#p101)
-    - [{{ Gunvald}}{{ 102}}](#p102)
-    - [{{ Gutom, The Bloody Rose}}{{ 102}}](#p102)
-    - [{{ Heleniel, The Sin Seeker}}{{ 102}}](#p102)
-    - [{{ Hestora}}{{ 102}}](#p102)
-    - [{{ Heures}}{{ 103}}](#p103)
-    - [{{ The Home of Hearth and Health}}{{ 103}}](#p103)
-    - [{{ Kohtalo, Patron of Fate Forgers}}{{ 103}}](#p103)
-    - [{{ Krun Darr}}{{ 104}}](#p104)
-    - [{{ Kujani}}{{ 104}}](#p104)
-    - [{{ Levona, Duchess of Hell}}{{ 104}}](#p104)
-    - [{{ Lotus}}{{ 105}}](#p105)
-    - [{{ Luxandra, The Everbloom}}{{ 105}}](#p105)
-    - [{{ Lysanthyr, The Unending Delight}}{{ 105}}](#p105)
-    - [{{ The Great and Noble Manaat Al-Karim}}{{ 106}}](#p106)
-    - [{{ Maiden of the Garden}}{{ 106}}](#p106)
-    - [{{ Mendastarum, Devourer of Truth}}{{ 107}}](#p107)
-    - [{{ Nesdonin}}{{ 107}}](#p107)
-    - [{{ Nimane, The Forge Matron}}{{ 107}}](#p107)
-    - [{{ Noctune}}{{ 108}}](#p108)
-    - [{{ Novissime, The Orchid Reaper}}{{ 108}}](#p108)
-    - [{{ Oenos}}{{ 108}}](#p108)
-    - [{{ The Path of the Great Spirits}}{{ 109}}](#p109)
-    - [{{ Peko-Amuzo, The Trickster Prince}}{{ 109}}](#p109)
-    - [{{ Riahn, He Who Eclipses the Stars}}{{ 109}}](#p109)
-    - [{{ Seraphion, The Highest Throne}}{{ 110}}](#p110)
-    - [{{ Sinnesh, The Den Mother}}{{ 110}}](#p110)
-    - [{{ Satya, the Peerless Seeker}}{{ 110}}](#p110)
-    - [{{ The Eyes}}{{ 111}}](#p111)
-    - [{{ The Living Mandate}}{{ 111}}](#p111)
-    - [{{ The Three Sisters}}{{ 111}}](#p111)
-    - [{{ The World Weave}}{{ 112}}](#p112)
-    - [{{ Trella, The Night Sky}}{{ 112}}](#p112)
-    - [{{ Tycheam}}{{ 113}}](#p113)
-    - [{{ Unmortus, The Dead Guardian}}{{ 113}}](#p113)
-    - [{{ Veskahule}}{{ 114}}](#p114)
-    - [{{ Xan’Zyx, the First Incarnation}}{{ 114}}](#p114)
-    - [{{ Xeesis}}{{ 115}}](#p115)
-    - [{{ Zegarek}}{{ 115}}](#p115)
-- ### [{{ Menu}}{{ 116}}](#p116)
+    - [{{ North Gate District}}{{ 70}}](#p70)
+    - [{{ Expedition Districts and Outside Covalon}}{{ 72}}](#p72)
+  - #### [{{ Guilds}}{{ 74}}](#p74)
+    - [{{ The Archivists}}{{ 74}}](#p74)
+    - [{{ The Authors of Creation}}{{ 74}}](#p74)
+    - [{{ Covalon Medical Society}}{{ 75}}](#p75)
+    - [{{ The Servants of Terra}}{{ 75}}](#p75)
+    - [{{ The Teacher’s Union}}{{ 75}}](#p75)
+    - [{{ Trella’s Travellers}}{{ 76}}](#p76)
+    - [{{ The House of Dusk and Dawn}}{{ 76}}](#p76)
+    - [{{ The Lightkeepers}}{{ 76}}](#p76)
+    - [{{ Children of the Chicome}}{{ 77}}](#p77)
+    - [{{ Covalon Historical Society}}{{ 77}}](#p77)
+    - [{{ The Stouthearts}}{{ 77}}](#p77)
+    - [{{ The Green Knights of the Square}}{{ 78}}](#p78)
+    - [{{ The Sundered Circle}}{{ 78}}](#p78)
+  - #### [{{ Pre-Cataclysm Civilizations}}{{ 79}}](#p79)
+    - [{{ Alatar}}{{ 79}}](#p79)
+    - [{{ Armed Steppes}}{{ 80}}](#p80)
+    - [{{ The Briarmurk}}{{ 80}}](#p80)
+    - [{{ Drifthaven}}{{ 81}}](#p81)
+    - [{{ The Fey Courts}}{{ 82}}](#p82)
+    - [{{ Garn}}{{ 83}}](#p83)
+    - [{{ Gornlar}}{{ 83}}](#p83)
+    - [{{ Ikouga}}{{ 84}}](#p84)
+    - [{{ Kuraimori (暗い森)}}{{ 86}}](#p86)
+    - [{{ Middlemist}}{{ 86}}](#p86)
+    - [{{ The Misty Shores}}{{ 87}}](#p87)
+    - [{{ Ostengrad}}{{ 87}}](#p87)
+    - [{{ Primrose}}{{ 88}}](#p88)
+    - [{{ Pudersnö}}{{ 89}}](#p89)
+    - [{{ Ratchethallow}}{{ 90}}](#p90)
+    - [{{ Taltain}}{{ 92}}](#p92)
+    - [{{ Tarunga}}{{ 93}}](#p93)
+    - [{{ Tymoria}}{{ 93}}](#p93)
+    - [{{ The Kingdom of Varceta}}{{ 94}}](#p94)
+    - [{{ Verndhelt}}{{ 95}}](#p95)
+    - [{{ The Kingdom of Vyrm}}{{ 96}}](#p96)
+    - [{{ Whitespire}}{{ 96}}](#p96)
+  - #### [{{ Deities, Faith, and Ideologies}}{{ 97}}](#p97)
+    - [{{ Aelia}}{{ 99}}](#p99)
+    - [{{ A’shir, the Fated Flame}}{{ 99}}](#p99)
+    - [{{ Axnos}}{{ 99}}](#p99)
+    - [{{ The Brakeman}}{{ 100}}](#p100)
+    - [{{ The Circle of Stars}}{{ 100}}](#p100)
+    - [{{ The Cheshire}}{{ 101}}](#p101)
+    - [{{ Derelis}}{{ 101}}](#p101)
+    - [{{ Erimia}}{{ 101}}](#p101)
+    - [{{ Fah’rin, The Howling Blizzard}}{{ 101}}](#p101)
+    - [{{ Fayne Lightfeet}}{{ 102}}](#p102)
+    - [{{ Golgolgoss, The Watcher}}{{ 102}}](#p102)
+    - [{{ The Grey Ocean}}{{ 102}}](#p102)
+    - [{{ Gunvald}}{{ 103}}](#p103)
+    - [{{ Gutom, The Bloody Rose}}{{ 103}}](#p103)
+    - [{{ Heleniel, The Sin Seeker}}{{ 103}}](#p103)
+    - [{{ Hestora}}{{ 103}}](#p103)
+    - [{{ Heures}}{{ 104}}](#p104)
+    - [{{ The Home of Hearth and Health}}{{ 104}}](#p104)
+    - [{{ Kohtalo, Patron of Fate Forgers}}{{ 104}}](#p104)
+    - [{{ Krun Darr}}{{ 105}}](#p105)
+    - [{{ Kujani}}{{ 105}}](#p105)
+    - [{{ Levona, Duchess of Hell}}{{ 105}}](#p105)
+    - [{{ Lotus}}{{ 106}}](#p106)
+    - [{{ Luxandra, The Everbloom}}{{ 106}}](#p106)
+    - [{{ Lysanthyr, The Unending Delight}}{{ 106}}](#p106)
+    - [{{ The Great and Noble Manaat Al-Karim}}{{ 107}}](#p107)
+    - [{{ Maiden of the Garden}}{{ 107}}](#p107)
+    - [{{ Mendastarum, Devourer of Truth}}{{ 108}}](#p108)
+    - [{{ Nesdonin}}{{ 108}}](#p108)
+    - [{{ Nimane, The Forge Matron}}{{ 108}}](#p108)
+    - [{{ Noctune}}{{ 109}}](#p109)
+    - [{{ Novissime, The Orchid Reaper}}{{ 109}}](#p109)
+    - [{{ Oenos}}{{ 109}}](#p109)
+    - [{{ The Path of the Great Spirits}}{{ 110}}](#p110)
+    - [{{ Peko-Amuzo, The Trickster Prince}}{{ 110}}](#p110)
+    - [{{ Riahn, He Who Eclipses the Stars}}{{ 110}}](#p110)
+    - [{{ Seraphion, The Highest Throne}}{{ 111}}](#p111)
+    - [{{ Sinnesh, The Den Mother}}{{ 111}}](#p111)
+    - [{{ Satya, the Peerless Seeker}}{{ 111}}](#p111)
+    - [{{ The Eyes}}{{ 112}}](#p112)
+    - [{{ The Living Mandate}}{{ 112}}](#p112)
+    - [{{ The Three Sisters}}{{ 112}}](#p112)
+    - [{{ The World Weave}}{{ 113}}](#p113)
+    - [{{ Trella, The Night Sky}}{{ 113}}](#p113)
+    - [{{ Tycheam}}{{ 114}}](#p114)
+    - [{{ Unmortus, The Dead Guardian}}{{ 114}}](#p114)
+    - [{{ Veskahule}}{{ 115}}](#p115)
+    - [{{ Xan’Zyx, the First Incarnation}}{{ 115}}](#p115)
+    - [{{ Xeesis}}{{ 116}}](#p116)
+    - [{{ Zegarek}}{{ 116}}](#p116)
+- ### [{{ Menu}}{{ 117}}](#p117)
 </div>
 </div>
 
