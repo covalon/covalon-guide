@@ -1,4 +1,4 @@
-{{titlebar,width:60% Covalon Player's Guide rev 26.01.05 }}
+{{titlebar,width:60% Covalon Player's Guide rev 26.01.15 }}
 :
 :
  
@@ -174,7 +174,7 @@ Do not threaten or harass other users. This includes "doxxing," or revealing any
 {{purple,#book,text-align:center,background:#D1C7B1
 :
 #### Managing Conflicts between players
-Despite our best efforts, sometimes we come into conflict with others. You can find guidance on how Covalon manages conflicts between players in [this guide](https://docs.google.com/document/d/1_qpEsvT58OKODNMlMV5kV43A9LB8gNUUaLYXaOJm9_g/edit?usp=sharing)
+Despite our best efforts, sometimes we come into conflict with others. You can find guidance on how Covalon manages conflicts between players in [this guide.](https://docs.google.com/document/d/1_qpEsvT58OKODNMlMV5kV43A9LB8gNUUaLYXaOJm9_g/edit?usp=sharing)
 :
 }}
 
@@ -297,14 +297,14 @@ You're all set to begin participating in the Covalon campaign! Head into one of 
 {{purple,#book,text-align:center,background:#D1C7B1
 :
 ##### First Steps into Covalon 
-Need some ideas for where to start role playing? Here are some suggestions!
+Need some ideas for where to start role playing? Here are some suggestions! Make sure to check out the #roleplay-channels-guide for how to use our roleplay forums, and ask any questions or arrange RP with other players in #ooc-roleplay-chat. 
 
 ##### Heartstone Sanctuary
 
 The #heartstone-sanctuary has boarding, food, and baths for all players who can not yet afford a house. You are welcome to stay there at no cost until another option becomes available.
 ##### Doc's Medical Center
 
-Going to the #infirmary-ground-floor is a good beginning activity. Your character can receive a medical exam and have a patient file created by one of the hospital staff.
+Going to the #infirmary-ground-floor is another place to start. Your character can receive a medical exam and have a patient file created by one of the hospital staff in the Covalon Medical Society guild..
 ##### The Brass Snail Tavern
 
 The #brass-snail-tavern offers a free meal for newcomers, and is a common social gathering place. Entering the Snail is a great way to signal to other players that you'd like to role play.
@@ -325,7 +325,7 @@ Upcoming adventures are posted in the #scheduled-events channel. When a Dungeon 
 Players can form pre-made parties in the #lfgm channel and then request a Dungeon Guide to run a certain type of adventure for the party at a particular time. Check the pinned post in the #lfgm channel for specific instructions on how to use it.
 :
 }}
-:::::
+::
 {{wide
 {{note,red,,top,text-align:center
 ## Covalon Adventures
@@ -604,8 +604,8 @@ Covalon's mentor system allows higher-level players to play with lower-level pla
 The characters that make up Covalon's mentorship program are retired adventurers who have already lived full lives, but have been called to serve the city as wizened guides for green adventurers. The mentors were originally designed by players as part of a "Design a Mentor" contest, where over 50 characters were submitted to become Covalon's official mentor characters!
 :
 - **Tilly Greenfield** (she/her human Bard), a supportive caster with an emphasis on buffing. 
-- **Jasra** (she/her half orc Champion), a tanky melee warrior of the Three Sisters. 
-- **Diallo** ((he/him human cleric), a divine spellcasting healer of Gunvald. 
+- **Jasra** (she/her half orc Champion), a tanky sword and board melee warrior of the Three Sisters. 
+- **Diallo** (he/him human cleric), a divine spellcasting healer of Gunvald. 
 - **Terry Von Riggard** (he/him human Fighter), a strong melee striker wielding a bastard sword. 
 - **K'rook** (he/him tripkee Ranger), a precise ranged striker wielding a bow and arrows. 
 - **Fire Eater** (he/him catfolk Sorcerer) a fiery primal caster with a focus on blasting. 
@@ -677,10 +677,10 @@ Grand Gifts | ???
 
 {{note
 
-##### MAJOR GIFTS
+##### *MAJOR GIFTS
 {text-align:center}
 
-This upgrade was unlocked via the Secrets of the Heart Event (see pg 33). Any approved PC in Covalon during this event (June 28th, 2025) automatically unlocks Major Gifts. You must still meet the requirements in Table 3-4.
+This upgrade was unlocked via the Secrets of the Heart server event (pg 33). Any approved PC in Covalon during this event (June 28th, 2025) automatically unlocks Major Gifts. You must still meet the requirements in Table 3-4.
 }}
 
 
@@ -704,13 +704,13 @@ Gift Number| Level Requirement | Gift Type | Price (gp)
 
 
 ### Alternate Characters
-Alternate characters ("alt characters") allow long time players to spend excess gold on the chance to play additional characters without retiring their main character. 
+Alternate characters (“alt characters”) allow long time players to spend excess gold to play additional characters without retiring their main character.
 
 #### Unlocking Alternate Characters
-When your first character (your "main character") reaches max level, capped EXP, you may pay a gold cost to unlock a slot for an alt character. Alt characters are EXP capped one tier below the maximum tier of play. When all your alt characters are at maximum level, capped experience, you may pay to unlock another alt character slot. The cost to unlock a slot is equal to 20,000 gp times the number of characters you currently have (including your main). This purchase should be recorded in #alternate-character-tracking. Once you've purchased an alt character slot, #create-a-ticket to submit your character using normal character creation rules.
+When your first character (your “main character”) reaches max level and capped experience, you can pay gold to unlock a slot for an alt character. Alt characters are EXP capped one tier below the maximum tier of play. When **all** your characters (main and alts) are at maximum level, capped experience, you may pay to unlock another alt character slot. The cost to unlock a slot is equal to 20,000 gp times the number of characters you currently have (including your main). This purchase should be recorded in #alternate-character-tracking. Once you’ve purchased an alt character slot, #create-a-ticket to submit your character using normal character creation rules.
 
 #### Alternate Character Restrictions
-Your characters can never interact with each other in roleplay. Your characters have completely separate inventories, items and gold cannot be shared. (The one exception to this rule is paying for more alternate character slots, you may pay for another slot using gold from all/any of your characters inventories.) No matter how many characters you have, you only get one day of downtime to spend per day. You can spend this day of downtime as either your main character or your active alt character. Your characters may craft items for each other, but the character recieving the item must pay the full cost of the item. 
+Your characters can never interact with each other in roleplay. Your characters have completely separate inventories, items and gold cannot be shared. (The one exception to this rule is paying for more alt character slots. You may pay for another slot using gold from all/any of your characters inventories.) No matter how many characters you have, you only get one day of downtime to spend per day. You can spend this day of downtime as either your main character or your active alt character. Your characters may craft items for each other, but the character recieving the item must pay the full cost of the item. 
 
 #### Alternate Character Lock In Period
 If you have multiple alt characters, you can only play one alt character at a time. Once you choose to play an alt character, you are locked in to that alt for at least two weeks. During this period, you cannot use any other alt character for downtime, roleplay, or adventures. When you switch your active alt character, you must post in #alternate-character-tracking. Note that you can play your main character at any time. You must have the name of your main and active alt character in your discord name with your main listed first (e.g. “Daryl Hall | John Oates”).
@@ -718,7 +718,7 @@ If you have multiple alt characters, you can only play one alt character at a ti
 \column
 
 #### Swapping your Main Character
-If you wish, you may swap your main character to be an alt character. When you choose to do this, your current main character is immediately deleveled to one tier below the highest tier, and the alt character you choose to be your new main character is no longer capped at the second highest tier. If the alt character you picked was capped with maximum experience, they immediately level up. When you swap your main character, you must post in #alternate-character-tracking, and you are locked into that main character and cannot swap again for a month.
+If you wish, you may swap your main character to be an alt character. When you choose to do this, your current main character is immediately deleveled to one tier below the highest tier, and the alt character you choose to be your new main character is no longer capped at the second highest tier. If the alt character you picked was capped with maximum experience, they immediately level up. When you swap your main character, you must post in #alternate-character-tracking, and you are locked into that main character and cannot swap again for a month. Please note that your new main (and all alts!) must be capped before you can purchase any additional alt character slots.
 
 #### Alternate Character Role Play
 Your characters can never interact together in RP. You may not role play as multiple characters at the same time, even in different channels or threads. We appreciate that “time bubbles” happen and the goal is for players to not be actively doing RP as two different characters at the same time.
@@ -834,7 +834,7 @@ In addition to normal rewards, when your team wins a brawl, you recieve a Gladia
 
 #### Alternate Brawl Mode: Monster Mash
 
-A brawl where players are all polymorphed by Dungeoneering Society staff into a variety of monsters! The currently available stat blocks in the Covalon module for this mode are listed below. SDGs may create alternate stat block lists and additional lists may be added to the module in the future. This brawl type must be decided on in advance. Players can be from ANY tier, and each gain individual gold and experience rewards based on their character's level from the GM's Guide table 3-1. (Your GM will let you know how much this is.)
+A brawl where players are all polymorphed by Dungeoneering Society staff into a variety of monsters! The currently available stat blocks in the Covalon module for this mode are listed below. SDGs may create alternate stat block lists and additional lists may be added to the module in the future. This brawl type must be decided on in advance. Players can be from ANY tier, and each gain individual gold and experience rewards based on their character's level from the GM's Guide table 3-1. (Your GM will let you know how much this is.) Please note that Monster Mashes grant less rewards than normal brawls; equivalent to a patrol, not a dungeon. 
 :
 Before the game, each player rolls two dice, each number corresponding to a stat block on a roll table of all available stat blocks for the brawl. If a player rolls the same number twice, have them reroll one die until they have two different stat blocks available to them. When the brawl starts, the players are Mythic Polymorphed into the stat block corresponding to the first dice roll. PCs can pick either stat block to start the brawl as. None of a PC's abilities or feats work while Mythic Polymorphed. Players should be given control over both stat blocks they roll before the game so they can read the sheet.
 :
@@ -901,12 +901,12 @@ Stat block complexity: High, includes spells, special abilities, and fly speeds.
 
 {{wide
 ### Descents
-Players who seek a challenge more difficult than standard adventures need look no further than descents, which are the most dangerous but also the most lucrative of adventure types offered in Covalon. They are similar to dungeons, but feature increased encounter difficulty and challenging modifiers that vary depending on the location in which the descent takes place. These adventures last up to four hours long and reward increased treasure compared to normal adventures, but are only open to the highest two tiers of players (and it is recommended that only max level players in each tier attempt them). Only Senior Dungeon Guides may run descents, and descents can only be scheduled by pre-formed teams using the #lfgm channel. Additionally, the location in which the descent takes place influences some of the rules of the descent.
+Players who seek a challenge more difficult than standard adventures need look no further than descents, which are the most dangerous but also the most lucrative of adventure types offered in Covalon. They are similar to dungeons, but feature increased encounter difficulty and challenging modifiers that vary depending on the location in which the descent takes place. These adventures include a race against the clock and reward increased treasure compared to normal adventures, but are only open to the highest two tiers of players (and it is recommended that only max level players in each tier attempt them). Only Senior Dungeon Guides may run descents, and descents can only be scheduled by pre-formed teams using the #lfgm channel. Additionally, the location in which the descent takes place influences some of the rules of the descent.
 
 #### The Maw
-In the wastelands south of Covalon lurks the Maw - a living chasm of destructive power born in the wake of the Cataclysm. Missions into the Maw are necessary in order to obtain Maw Stones, which hold secrets that may link to the cause of the Cataclysm as well as a method to defeat the Maw itself. Descents into the Maw consist of a gauntlet where players attempt to defeat up to four combat encounters. The difficulty of the first encounter will be of moderate difficulty while the other encounters are of severe difficulty. Additionally, creatures that are typically considered too powerful for other adventure types may appear during descents into the Maw. As a courtesy to our players, if the descent reaches its fourth hour of play, no more encounters can be attempted after the current one finishes.
+In the wastelands south of Covalon lurks the Maw - a living chasm of destructive power born in the wake of the Cataclysm. Missions into the Maw are necessary in order to obtain Maw Stones, which hold secrets that may link to the cause of the Cataclysm as well as a method to defeat the Maw itself. Descents into the Maw consist of a gauntlet where players attempt to defeat up to four combat encounters in a four hour time period. An encounter can only be begun if at least 45 minutes of the four hour block remain. The difficulty of the first encounter will be of moderate difficulty while the other encounters are of severe difficulty. Additionally, creatures that are typically considered too powerful for other adventure types may appear during descents into the Maw. If the Descent reaches the four hour mark, the current encounter must be completed and no more can be started. 
 :
-Between encounters, players can use 10 minutes of exploration activities, after which they can choose to undertake the next encounter or retreat home with the loot they've received so far. Players cannot retreat during combat encounters, and a player character that dies during a descent into the Maw cannot have their gear recovered by their allies. Players earn gold for each encounter they defeat, with the potential to earn more than that of other adventure types for defeating at least three encounters.
+Between encounters, players can only use exactly 10 minutes of exploration activities, after which they can choose to undertake the next encounter or retreat home with the loot they've received so far. Players cannot retreat during combat encounters, and a player character that dies during a descent into the Maw cannot have their gear recovered by their allies. Players earn gold for each encounter they defeat, with the potential to earn more than that of other adventure types for defeating at least three encounters.
 
 #### Other Locations
 In the vast world of Elleaterra, other locations harboring dangerous power may exist that warrant exploration by the strongest of adventures. Who knows what secrets await discovery, laying buried underneath the destruction wrought by the Cataclysm?
@@ -1430,13 +1430,13 @@ Extortion | Characters may not extort each other.
 The world of Elleaterra is vast, home to many different types of creatures and cultures. Though they all have generations of personal, familial, and national history, a period of wanton destruction has forced these varied peoples to cooperate in order to survive a post-apocalyptic world.
 
 ### The Cataclysm
-The old world is gone. Dragons, undead, planar invaders, and natural disasters desecrated the nations of our world, Elleaterra, over a period of a few months collectively referred to as "the Cataclysm." Monsters roam the land, survivors raid each other for supplies, and the gods have stopped answering prayers. Four years later, only one pocket of civilization remains: Covalon.
+The old world is gone. In 2019, dragons, undead, planar invaders, and natural disasters desecrated the nations of our world, Elleaterra, over a period of a few months collectively referred to as "the Cataclysm." Monsters roam the land, survivors raid each other for supplies, and the gods have stopped answering prayers. Now, years after the destruction, one city fights to reclaim our world: Covalon.
 
 ### Covalon
 Formerly a keep on nearly inhospitable land given to a baron of low standing, Covalon has evolved into the last bastion of civilization in a post-Cataclysm world. Against all odds, a small keep of ragtag survivors has evolved into a bustling and thriving town, with survivors from all corners of the world flocking to its gates. Founded by the late Baron Freetide, Covalon managed to survive the Cataclysm due to a unique, living artifact hidden within its walls: the Heart of Terra. In his final days, Baron Freetide appointed a sheriff to manage Covalon's affairs, but with the sheriff's unexpected exodus from the city, the mantle of leadership was taken on by seven councilors. As the non-adventuring population of Covalon has grown, NPCs have stepped up to manage and govern most of the back-end of the City, so adventurers can focus on adventuring!
 
 ### The Heart of Terra
-Predating the cataclysm, the Heart of Terra is the living artifact responsible for Covalon's survival. Taking the shape of a planetarium with a miniature world at its center, the Heart of Terra infuses the land around Covalon with good soil, clean water, and temperate weather. Outside, the wasteland is cruel and desolate, but the Heart has created a magical oasis from which mortals can make their last stand.
+Predating the cataclysm, the Heart of Terra is the living artifact responsible for Covalon's survival. Taking the shape of a planetarium with a miniature world at its center, the Heart of Terra infuses the land around Covalon with good soil, clean water, and temperate weather. Outside, the wasteland is cruel and desolate, but the Heart has created a magical oasis from which mortals can make their last stand. Covalonians discovered the Heart's origins as an ancient archaeological artifact from a long dead civilization during the server event Secrets of the Heart (page 33). 
 
 ### The Maw
 The Maw is the name given to the terrifying abyss in the desert to the south of Covalon. It is a living entity that singularly seeks the destruction of Covalon, spawning armies of abberrant creatures to carry out this task. Though it existed long before the Cataclysm, it wasn't until the aftermath of the world-ending crisis that it became bent on Covalon's destruction. Scholars discovered that the Maw has a physical Heart that could be killed to destroy the Maw for good, and Covalon launched a massive offensive into the Maw to carry out this task, known as Operation Heartbreaker. Just as it seemed like they had defeated the Heart of the Maw, it received a surge of life energy from somewhere outside the Maw and overwhelmed Covalon's forces. The people of Covalon were able to retreat thanks to the selfless sacrifice of heavenly archons who had arrived to fight alongside them, but were unsuccessful in defeating the Heart of the Maw.
@@ -2086,14 +2086,14 @@ Zhaal Revane
 
 It was a clear, cool winter morning the day an unidentifiable metal orb crashed into the Ikouga outpost. Shortly after, we began to recover them from adventures across Elleaterra. They carried messages in an unknown language, but our skilled linguists eventually deciphered a series of messages: HELLO ANYBODY OUT THERE, WHO IS LEFT ALIVE, WE ARE IN THE SEA, WHO ARE YOU, and finally, WHAT IS COVALON. It became clear these orbs were somehow gathering information from us, and returning a signal to whatever, or whoever sent them. 
 
-Unforunately, it became clear these strangers were not friends when we intercepted a transmission. A pirate captain addressing his crew - they had learned of Covalon's existence, the artifact that allows our survival after the Catclysm, and they wanted it for themselves. We've used the Heart of Terra's power to spread across Elleaterra and reclaim the continent by planting its saplings, but these outposts were now a vulnerability. And so we began to fortify. 
+Unforunately, we discovered these strangers were not friends when we intercepted a transmission. A pirate captain addressing his crew - they had learned of Covalon's existence, the artifact that allows our survival after the Catclysm, and they wanted it for themselves. We've used the Heart of Terra's power to spread across Elleaterra and reclaim the continent by planting its saplings, but these outposts were now a vulnerability. And so we began to fortify. 
 
 Each of our Expedition Outposts underwent weeks of preparation. Walls were strengthened, and defenses laid. Our library filled with researchers trying to learn exactly who our enemy was. We discovered an impossible tale; an expelled student of Ostengrad, turned to piracy in the Noctune Tropics. When the Cataclysm caused the wind to disappear and sea monsters to wake far below, Captain Laurent Devreaux teleported his entire fleet into the Astral Sea to save them. But they were isolated and alone in a foreign plane, and an influence, the "Endless Gray", corrupted their minds. And now years later, they threatened to steal the Heart of Terra. 
 
 Covalonians broke into teams and mustered defenses, beating back the attacks at our Expedition outposts. But we were all decieved, as the Astral Raiders used the attacks as a distraction to overwhem Covalon's defenses and strike at the city directly! Covalonians rushed back to the Heart of Terra's defense, forced to infiltrate the enemy ships and use their teleportation technology. They returned to Covalon under attack! 
 
 We fought the raiders in the streets of the city, and even at the Shrine of Terra, as the Endless Gray attempted to assimilate it, through the Captain. Thankfully, we fought back the invaders, crashing their airship into the mountains beyond. Our barriers were breached, but Covalon stands, stronger than before.
-::::
+::
 *A crashed metal orb. Designed by Kona.*
 
 ![](https://github.com/covalon/covalon-guide/blob/gh-pages/assets/covalon/PlayersGuide/ExpeditionLog/crashedorbEG.gif?raw=true){width:350px,margin:"-200px 350px"} 
@@ -4461,7 +4461,7 @@ Resh (Fighter 14)
 
 }}
 
-![](https://i.imgur.com/LvTLkOm.jpeg ){width:470px,margin:"0px 0px"}
+![](https://raw.githubusercontent.com/covalon/covalon-guide/refs/heads/gh-pages/assets/covalon/PlayersGuide/ExpeditionLog/MiddlemistOutpost.webp ){width:470px,margin:"0px 0px"}
 {{width:70px}} *Covalon's outpost in Middlemist. Designed by Rinka.* 
 {text-align:left}
 
@@ -6084,7 +6084,7 @@ A cave worm that was once feared by many and consumed all without prejudice, Ves
 **Cleric Spells** 2nd: feast of ashes, 5th: grisly growths, 7th: warp mind
 }}
 
-### Xan'Zyx, the First Incarnation
+### Xan'Zyk, the First Incarnation
 {{wide,columns:2
 When the first spell was uttered and the first runes were cast it created neither fire nor force; it created Xan’Zyk. As the first incantation entered the world, it did so in an avalanche of magical energy so potent that the spell itself gained not only sentience but also divinity. Xan’Zyk, named after the first two syllables of the primordial spell which birthed them, is the pursuit of magical power incarnate. They seek only to see magic used with little regard to the purpose it serves. They are just as content to see a fireball engulf a town square as they are to see a tyrannical lich disintegrated to ash. All spells are prayers to Xan’Zyk and it is said that with every spell uttered and every new ritual discovered their power expands. They are most commonly depicted as an ornate magical sigil or alternatively a spellbook shimmering with prismatic light. Xan’Zyk accepts the worship of any who can cast spells of their own power, however wizards in particular naturally gravitate towards The First Incantation. Legends claim that should the entirety of the incantation which birthed Xan’Zyk be uttered once more, they along with all spells which have followed them, would be undone.
 :
@@ -6299,7 +6299,7 @@ Zegarek was most often followed by the more bold of the hunters from the earlier
     - [{{ Tycheam}}{{ 114}}](#p114)
     - [{{ Unmortus, The Dead Guardian}}{{ 114}}](#p114)
     - [{{ Veskahule}}{{ 115}}](#p115)
-    - [{{ Xan’Zyx, the First Incarnation}}{{ 115}}](#p115)
+    - [{{ Xan’Zyk, the First Incarnation}}{{ 115}}](#p115)
     - [{{ Xeesis}}{{ 116}}](#p116)
     - [{{ Zegarek}}{{ 116}}](#p116)
 - ### [{{ Menu}}{{ 117}}](#p117)

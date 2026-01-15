@@ -1,6 +1,6 @@
 
 
-{{titlebar,width:60% Covalon GM's Guide rev 2025.07.22 }}
+{{titlebar,width:60% Covalon GM's Guide rev 2025.01.15}}
 ::::
 {{wide
 # Covalon GM's Guide
@@ -584,13 +584,13 @@ Excursion submissions must include a narrative. These storylines cannot affect C
 \page
 
 ### Descents
-A Descent may currently only be run by Senior DGs and Administrators. These adventures are exclusively for the current highest and second highest tier of play, and always balanced for the maximum level players in these tiers can achieve.
+Descents can only be run by Senior DGs and Administrators. These adventures are exclusively for the highest and second highest tier of play, and always balanced for the maximum level players in these tiers can achieve.
 :
-Descents are composed of up to four single-room encounters. After clearing a room, players may make the decision to continue onward to the next room or retreat with any rewards they have collected so far.
+Descents are composed of up to four single-room encounters. After clearing a room, players may make the decision to continue onward to the next room or retreat with any rewards they have collected so far. After an encounter is begun, the party CANNOT retreat, they must complete the encounter or die trying. 
 :
-After clearing a room, each player may undertake one 10-minute activity.
+After clearing a room, players have exactly ten minutes of time to perform one exploration activity (such as treat wounds or refocus). 
 :
-Descents have a maximum time limit of 4 hours. If the third encounter is completed with less than 45 minutes remaining the party may not continue. The race against the clock is part of the challenge!
+Descents have a soft time limit of 4 hours. After completing an encounter, the next encounter cannot be started unless at least 45 minutes of the four hour block remains. If the group reaches the 4 hour time limit during an encounter, they must complete that encounter and no more can be started. The race against the clock is part of the challenge!
 :
 Descents are composed of combat encounters exclusively. No narrative, puzzles, exploration, or roleplay will be present.
 :
