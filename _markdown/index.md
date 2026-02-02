@@ -1,4 +1,4 @@
-{{titlebar,width:60% Covalon Player's Guide rev 26.01.15 }}
+{{titlebar,width:60% Covalon Player's Guide rev 26.02.02 }}
 :
 :
  
@@ -592,7 +592,7 @@ Players can create a forum post in the #store-menus channel to showcase wares th
 Players can also use the #looking-to-buy and #looking-to-sell channels to post item requests. Please create threads to discuss transactions.
 
 ##### Charity
-Players who simply wish to give away equipment can do so in the #charity channel. Please check the post pinned in that channel for instructions. 
+Players can give away equipment in the #charity channel. Check the pinned post in that channel for instructions. Please do not gift or lend large amounts of gold to other players. 
 }}
 
 ### Mentorship System
@@ -605,10 +605,10 @@ The characters that make up Covalon's mentorship program are retired adventurers
 :
 - **Tilly Greenfield** (she/her human Bard), a supportive caster with an emphasis on buffing. 
 - **Jasra** (she/her half orc Champion), a tanky sword and board melee warrior of the Three Sisters. 
-- **Diallo** (he/him human cleric), a divine spellcasting healer of Gunvald. 
+- **Diallo** (he/him human Cleric), a divine spellcasting healer of Gunvald. 
 - **Terry Von Riggard** (he/him human Fighter), a strong melee striker wielding a bastard sword. 
 - **K'rook** (he/him tripkee Ranger), a precise ranged striker wielding a bow and arrows. 
-- **Fire Eater** (he/him catfolk Sorcerer) a fiery primal caster with a focus on blasting. 
+- **Fire Eater** (he/him catfolk Sorcerer), a fiery primal caster with a focus on blasting. 
 
 
 ### Afflictions
@@ -661,7 +661,7 @@ Life | ???
 Luck | ???
 Metal | The Fey Courts
 Mind | ???
-Plant | ???
+Plant | Briarmurk
 Shadow | Middlemist
 Soul | Taltain
 Time | Automatically unlocked*
@@ -961,7 +961,7 @@ The following is a list of currently active expeditions. For more information on
 - The Fey Courts (Complete)
 - Varceta (Complete)
 - Alatar (Completed)
-- Briarmurk (In Progress)
+- Briarmurk (Completed)
 
 }}
 }} 
@@ -3863,12 +3863,48 @@ The separated collective.
 }}
 
 ---
-The Armed Steppes surround the Tengeriin Uul Mountains and stretch from the Fey Courts to the northwest and Garn to the south. The rockier steppes to the north are predominantly inhabited by warring hordes, competing tooth and nail for sparse natural resources. The greener lakeside steppes to the south are mostly inhabited by descendants of nomad tribes that managed to settle down a few generations ago.
-
-Millenia ago, the Tengeriin Uul Mountains served as a focal point for outsiders venturing into the material plane. While those visits decreased over the ages, their influence remained. This led to irreparable damage to the surrounding land, causing resource scarcity and forcing the inhabitants into a largely nomadic lifestyle. Culturally, they became a place of pilgrimage for many, due to their connection to the outer planes, though some clans held strongly onto the grudges of the region and persecuted those planar scions who bore the blood of the outsiders who once were common here.
+The Armed Steppes surround the Tengeriin Uul Mountains and stretch from the Fey Courts to the northwest and Garn to the south. The rockier steppes to the north are predominantly inhabited by warring hordes, competing tooth and nail for sparse natural resources. The greener lakeside steppes to the south are mostly inhabited by descendants of nomad tribes that managed to settle down a few generations ago. Millenia ago, the Tengeriin Uul Mountains served as a focal point for outsiders venturing into the material plane. While those visits decreased over the ages, their influence remained. This led to irreparable damage to the surrounding land, causing resource scarcity and forcing the inhabitants into a largely nomadic lifestyle. Culturally, they became a place of pilgrimage for many, due to their connection to the outer planes, though some clans held strongly onto the grudges of the region and persecuted those planar scions who bore the blood of the outsiders who once were common here.
 
 }}
 :
+{{descriptive,right,width:300px
+
+#### Heroes of Briarmurk
+
+The following characters were the first to defeat Asira, Rashai, and Terina, the three corrupted priestesses of Terrateotl. 
+:
+
+{{wide,columns:2
+
+Cinna (Sorcerer 15)
+
+Gabriel (Magus 15)
+
+Kelani (Inventor 15)
+
+Kona (Gunslinger 15)
+
+Maxwell (Thaumaturge 15)
+
+Valerie (Champion 15)
+
+Durbal (Rogue 12)
+
+Estrala (Sorcerer 12)
+
+Ilia (Magus 12)
+
+Lobo (Gunslinger 12)
+
+Strawberry (Investigator 12)
+
+Yao Mei (Commander 12)
+
+}}
+
+}}
+
+
 {{template
 {{
 ### The Briarmurk  
@@ -3893,19 +3929,24 @@ A poisonous, swampy wilderness.
 }}
 
 ---
-The Briarmurk was less of a nation and more of an inhospitable wasteland dominated by poisonous flora. Still, some tribes of hardy individuals managed to survive… until the Cataclsym struck. No one knows for sure what happened to the tribes of the swamp; immigrants only report that they were separated from their tribes and unable to find them again.
+Briarmurk was less of a nation and more of an inhospitable wasteland dominated by poisonous flora. Still, some tribes  managed to survive…until the Cataclsym struck. No one knows for sure what happeneD; survivors only report that they were separated from their tribes and unable to find them again.
 
 }}
-:
+
+}}
 
 #### Briarmurk Expedition Log
-Coming soon! 
+Though "reclaimed" is a generous statement, the threat of the Maw has been thwarted in Briarmurk! Our finest crafters invented a low, segmented metal vehicle dubbed the S.E.N.T;I.P.E.D.E. (Swampy Excursion Navigation Trawler; Integrated Primally Energized Dragon Engine) to bring us overland from Varceta to the harsh swamps of the "Murk." The voyage was less than pleasant, as we were assailed by hostile inhabitants, nightmarish dreams, and acid rain. A giant blood moon watched us from above as we arrived at our final destination; an ancient city lost in the murk for ages. 
 
+As our camp was established, missions were quickly under way to find the Maw Vessel. We learned that we needed to defeats its protectors, a trio of priestesses infusing it with magical energies. To what end, we still don't know, but it definitely couldn't be good! A path was carved through the ancient city of Terrateotl, and our warriors fought at its apex, ultimately slaying the trio and the vessel. 
 
+![](https://raw.githubusercontent.com/covalon/covalon/refs/heads/main/images/Briarmurk%20Camp.webp
+){width:350px,margin:"-20px -20px"}
+::
 
+*Covalon's entrenched camp in Briarmurk. Designed by Locke.* 
+{text-align:center}
 
-
-}}
 
 {{pageNumber,auto}}
 
@@ -5000,7 +5041,7 @@ The eternal kingdom.
 **Fate** decimated by civil war
 }}
 ---
-The nation of Varceta was run, by a family of benevolent vampires. This supposed benevolence hid jealous politics behind closed doors. Fearing the queen would never give up her throne, her spoiled childre conspired against her.
+The nation of Varceta was run by a family of benevolent vampires. This supposed benevolence hid jealous politics behind closed doors. Fearing the queen would never give up her throne, her spoiled children conspired against her.
 
 During the Cataclysm, the nobility realized their way of life was threatened. They enacted their conspiracy, and the queen vanished. Further confusion ensued as each sibling lay claim to her throne, and civil war broke out. Quickly expending their undead work-force, the vampiric barons turned to their mortal citizens as conscripted soldiers. Several villages and castles were abandoned almost overnight as the citizenry rebelled against their uncaring aristocratic leaders, electing to flee in search of safer lands as the ancient vampires clung to their petty feud and crumbling kingdom’s past comforts.
 
