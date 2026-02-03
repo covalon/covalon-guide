@@ -504,7 +504,6 @@ Converted to WOFF2 by Transfonter - https://transfonter.org
     right:0;
     width:7.25cm;
     height:1.6cm;
-    background-image:url('https://i.imgur.com/FDPKvHo.png');
     background-repeat:no-repeat;
     background-size:contain;
     color:var(--coverh1);
@@ -589,7 +588,7 @@ Converted to WOFF2 by Transfonter - https://transfonter.org
 }
 .page .pageNumber:before {
   content: '';
-  background-image: url(https://i.imgur.com/gRJSLJ0.png);
+  background-image: url(https://i.postimg.cc/fTMVPtjg/g-RJSLJ0.png);
   background-size: cover;
   position: absolute;
   top: 0;
@@ -621,12 +620,12 @@ Converted to WOFF2 by Transfonter - https://transfonter.org
   font-size: 16px;
   text-align: right;
   text-transform: uppercase;
-  background-image: url(https://i.imgur.com/rc85YOq.png);
+  background-image: url(https://i.postimg.cc/PrdC7pzy/rc85YOq.png);
   background-size: 100% 100%;
 }
 .page .titlebar:before {
   content: '';
-  background-image: url(https://i.imgur.com/sjTZrQd.png);
+  background-image: url(https://i.postimg.cc/SNmnP27T/sj-TZr-Qd.png);
   background-size: contain;
   background-repeat: no-repeat;
   position: absolute;
