@@ -1,4 +1,4 @@
-{{titlebar,width:60% Covalon Player's Guide rev 26.02.02 }}
+{{titlebar,width:60% Covalon Player's Guide rev 26.04.19 }}
 :
 :
  
@@ -656,7 +656,7 @@ Earth | ???
 Emotion | Alatar
 Fiend | Verndhelt
 Fire | Varceta
-Forge | ???
+Forge | Whitespire
 Life | ???
 Luck | ???
 Metal | The Fey Courts
@@ -834,7 +834,7 @@ In addition to normal rewards, when your team wins a brawl, you recieve a Gladia
 
 #### Alternate Brawl Mode: Monster Mash
 
-A brawl where players are all polymorphed by Dungeoneering Society staff into a variety of monsters! The currently available stat blocks in the Covalon module for this mode are listed below. SDGs may create alternate stat block lists and additional lists may be added to the module in the future. This brawl type must be decided on in advance. Players can be from ANY tier, and each gain individual gold and experience rewards based on their character's level from the GM's Guide table 3-1. (Your GM will let you know how much this is.) Please note that Monster Mashes grant less rewards than normal brawls; equivalent to a patrol, not a dungeon. 
+A brawl where players are all polymorphed by Dungeoneering Society staff into a variety of monsters! The currently available stat blocks in the Covalon module for this mode are listed below. SDGs may create alternate stat block lists and additional lists may be added to the module in the future. This brawl type must be decided on in advance. Players can be from ANY tier, and each gain individual gold and experience rewards based on their character's level from the GM's Guide table 3-5. (Your GM will let you know how much this is.) Please note that Monster Mashes grant less rewards than normal brawls; equivalent to a patrol, not a dungeon. 
 :
 Before the game, each player rolls two dice, each number corresponding to a stat block on a roll table of all available stat blocks for the brawl. If a player rolls the same number twice, have them reroll one die until they have two different stat blocks available to them. When the brawl starts, the players are Mythic Polymorphed into the stat block corresponding to the first dice roll. PCs can pick either stat block to start the brawl as. None of a PC's abilities or feats work while Mythic Polymorphed. Players should be given control over both stat blocks they roll before the game so they can read the sheet.
 :
@@ -962,6 +962,7 @@ The following is a list of currently active expeditions. For more information on
 - Varceta (Complete)
 - Alatar (Completed)
 - Briarmurk (Completed)
+- Whitespire (Completed)
 
 }}
 }} 
@@ -5229,6 +5230,66 @@ The generational home of countless dwarves, Whitespire was a shining beacon of l
 
 }}
 
+{{wide
+
+{{descriptive,right,width:175px
+
+
+##### HEROES OF Whitespire
+The following characters were the first to defeat the legendary Stonewyrm in Whitespire's expedition finale.
+:
+Arrow (Wizard 15)
+
+Bhoomi (Fighter 15)
+
+Brumata (Summoner 15)
+
+Cinna (Sorcerer 15)
+
+Cressida (Rogue 15)
+
+Foram (Fighter 15)
+
+Gardi (Druid 15)
+
+Kona (Gunslinger 15)
+
+Kosta (Magus 15)
+
+Maxwell (Thaumaturge 15)
+
+Reginald (Wizard 15)
+
+Valerie (Champion 15)
+:
+Ashkaara (Barbarian 12)
+
+Hana (Animist 12)
+
+Oozey (Bard 12)
+
+Pyre (Commander 12)
+
+Veylin (Rogue 12)
+
+Father Bauldric (Cleric 12)
+
+}}
+
+#### Whitespire Expedition Log
+
+Covalon reclaimed Whitespire from the grasp of the Maw! Our efforts began with the restoration of the drill that dug the way to Gornlar, the Den Mother. We trekked on foot from our Drifthaven camp, narrowly avoiding hordes of undead and then drilled through the mountains to Whitesmouth. 
+:
+As we approached Whitespire proper, we found more and more shattered humanoid statues. In the city, we located and saved a petrified dwarven elder of the Stoneheart clan. Morag Stoneheart, history keeper from an ancient Dwarven clan, told us his tale. When the city fell to the unstoppable draconic horde, many fled into the catacombs below. But these long forgotten tunnels held their own danger - a petrification gas emanating from the lowest tunnels. The source of both dangers turned out to be a legendary beast. 
+:
+The Stonewyrm was trapped beneath Whitespire long, long ago, and somehow during the Cataclysm was corrupted by the Maw. Our finest adventurers searched the Catacombs for a way to slay the beast. We gathered precious metals, and smithed them in ancient dwarven forges, while keeping our camp safe from the horde above. We prepared the Den Mother for a final voyage to destroy yet another vessel of the Maw. 
+:
+Our bravest fighters delved below, and slew the beast in its adamantine lair. With the monster defeated, the draconic horde above is broken, and Whitespire saved from its clutches. 
+
+
+}}
+
+
 
 {{pageNumber,auto}}
 
@@ -5457,7 +5518,7 @@ Derelis was a very ancient, powerful dragon that died many years ago. Stories te
 **Favored Weapon** longsword <br>
 **Domains** ambition, protection, dragon, zeal <br>
 **Alternate Domains** duty <br>
-**Cleric Spells** 1st: sure strike, 3rd: reflective scales, 7th: prismatic armor <br>
+**Cleric Spells** 1st: sure strike, 4th: reflective scales, 7th: prismatic armor <br>
 }}
 ### Erimia
 {{wide,columns:2
