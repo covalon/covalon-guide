@@ -1,4 +1,4 @@
-{{titlebar,width:60% Covalon Player's Guide rev 26.04.19 }}
+{{titlebar,width:60% Covalon Player's Guide rev 26.04.21 }}
 :
 :
  
@@ -5363,7 +5363,7 @@ The various religions practiced in Elleaterra are as varied and distinct as the 
 | Trella, the Night Sky                | can choose holy  | fate, moon, stars, travel               | nothingness                 | starknife |
 | Tycheam                              | can choose either| dreams, fate, introspection, naga       | freedom, luck        | air repeater or long air repeater
 | Unmortus, The Dead Guardian          | can choose holy  | cities, protection, soul, undeath       | family               | bastard sword |
-| Veskahule          | none            | abomination, creation, dreams, nightmares     | soul, naga | urumi | 
+| Veskahule       | none            | creation, fate, dreams, nightmares     | soul, change      | urumi | 
 | Xan'zyk, the First Incantation       | can choose either| ambition, destruction, glyph, magic     | none                 | stiletto pen | 
 | Xeesis                               | can choose either| darkness, protection, secrecy, trickery | fate | injection spear |
 | Zegarek                              | can choose either| confidence, death, might, nature        | earth, zeal | hongali hornbow | 
@@ -6172,18 +6172,20 @@ His followers pledge their soul to the defense of their nation, and connect it t
 
 ### Veskahule
 {{wide,columns:2
-A cave worm that was once feared by many and consumed all without prejudice, Veskahule eventually met its end. As its soul traversed its way into the Astral Plane, the notion of its existence being fleeting and its hunger satiated was detestable. Forcing its own dream to manifest, it began feasting on the dreams and nightmares of others, along with the feelings associated with them: hope, fear, aspirations. The endless torrent of creativity conjured by the mind allowing insight and understanding for what most would consider horrid. This new appetite transfigured it into a powerful and knowledgeable being, the name of Veskahule spreading throughout the other planes. Those who choose to worship them were gifted with the promise that their dreams would be fulfilled, but perhaps nightmares if it was beneficial. It's appreciation for all creation draw in the outcasts of society, shunned by their appearance or have a desire to create what hasn't existed before. Its appreciation for the mind and the capacity within, grant Veskahule a relatability to mortals.
-:
-**Edicts** To assist in making dreams or nightmares become reality, encourage the creation of new lifeforms and the evolution of all beings, appreciate the beauty even in the monstrous.<br>
-**Anathema** To cast judgement on others based on appearance, stopping the pursuit of growth for you or your surroundings, to dismiss dreams and nightmares as invaluable.<br>
+As the essence of both dreams and nightmares flowed from the Material Plane into the Astral Plane lacking guidance or a destination, they coalesced into the form of a massive worm. The wants, thoughts, and wishes of innumerable living creatures giving birth to a creature of insatiable appetite for desire and change. As time passed, its power grew, and the name of Veskahule spread throughout the planes. To this day, those that struggle to interpret their dreams or nightmares pray to it, seeking guidance on how to proceed with seemingly gifted and unforeseen knowledge. Those that praise change or decide fate through their own interpretation will also seek it out in hopes of a better future.  
+
+\column
+
+**Edicts** Assist in making dreams or nightmares become reality, encourage the manifestation of new ideas or growth, make efforts to decide your own fate and allow dreams or nightmares to guide you <br>
+**Anathema** Willingly relinquish your fate to someone else, dismiss dreams and nightmares as invaluable, discourage growth or change in any aspect. <br>
 #### Devotee Benefits
 **Divine Font** harm or heal<br>
 **Divine Sanctification** none<br>
 **Divine Skill** occultism<br>
 **Favored Weapon** urumi<br>
-**Domains** abomination, creation, dreams, nightmares<br>
-**Alternate Domain** soul, naga<br>
-**Cleric Spells** 2nd: feast of ashes, 5th: grisly growths, 7th: warp mind
+**Domains** creation, dreams, fate, nightmares<br>
+**Alternate Domain** change, soul <br>
+**Cleric Spells** 3rd: hypnotize, 4th vision of death, 7th: warp mind
 }}
 
 ### Xan'Zyk, the First Incarnation
