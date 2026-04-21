@@ -1,6 +1,6 @@
 
 
-{{titlebar,width:60% Covalon GM's Guide rev 2025.01.15}}
+{{titlebar,width:60% Covalon GM's Guide rev 2026.04.21}}
 ::::
 {{wide
 # Covalon GM's Guide
@@ -285,7 +285,7 @@ It is important to keep in mind that players can only select a maximum of one pe
 
 Selecting loot for your adventure is a critical part of its design! Below, you will find the rules and guidelines for selecting loot and treasure for your Covalon adventures. Keep in mind the theme of your dungeon, and take a look through the available items and equipment in order to select thematically appropriate loot.
 
-The total value of loot for each APL value can be found in table 3-1 and 3-2. Underneath, you will find loot guidelines to ensure your submission will be approved!
+The total value of loot for each APL value can be found in Table 3-1 and 3-2. Underneath, you will find loot guidelines to ensure your submission will be approved!
 
 
 {{column-count:2
@@ -550,27 +550,28 @@ Patrols for levels 7-9 take place in the immediate vicinity of our Expedition Ca
 \page
 
 ### Expeditions
-Expedition missions are a special game-mode that is heavily intertwined with the ongoing meta-narrative of Covalon, beyond gathering supplies and going through portals. Expeditions represent our efforts to reclaim the world after the Cataclysm and face the challenges left behind in a shattered realm. Expeditions require the installation of the Covalon Expedition Module on Foundry. Expeditions consist of a choice of three missions that have special instructions that can be found inside the Module.
+Expedition missions are a special game-mode that is intertwined with the ongoing meta-narrative of Covalon. Expeditions represent our efforts to reclaim the world after the Cataclysm and face the challenges left behind in a shattered realm. Expeditions require the installation of the Covalon Expedition Module on Foundry VTT. Expeditions consist of a choice of three missions that have special instructions that can be found inside the module. Expedition missions are replayable even after the initial Expedition storyline to a location is completed, though some missions require reflavoring slightly to make narrative sense (such as the Maw creating fascimilies of enemies).
 
 
 #### Expedition Finales
-Expedition Finales are fully pre-built boss encounters with special mechanics that are narratively tied to defending the planted Seeds of Terra used to purify reclaimed areas of the world map from Maw monsters. Every Finale has a set of individual rules and instructions laid out in the Expedition Module, but all Finales have some things in common. Finales cannot be run in tiers 1 and 2.
+Expedition Finales are fully pre-built boss encounters with special mechanics that are narratively tied to defending the planted Seeds of Terra used to purify reclaimed areas of the world map from Maw monsters. Every Finale has a set of individual rules and instructions laid out in the Expedition Module, but all Finales have some things in common. Finales cannot be run in Tiers 1 and 2. Some Finales do not have a Tier 3 Version; these Finales can only be run in Tiers 4 and 5. 
+
+##### GM Rewards
+When you GM a Finale, the character you claim GM rewards on can unlock that Finale's Soul Seed. 
 
 ##### APL Adjustments
-Finales are generally designed as encounters of moderate+ difficulty for the middle APL of their tier, e.g. APL 11 for Tier 4. To run a Finale for one APL above middle of tier, apply the elite template every stat block. To run a Finale for one tier below middle of tier, apply the weak adjustment to every stat block. 
+Finales are designed as single encounters of moderate to severe difficulty for the middle APL of their tier, e.g. APL 11 for Tier 4. To run a Finale for one APL above middle of tier, apply the elite template every stat block. To run a Finale for one APL below middle of tier, apply the weak adjustment to every stat block. 
 
 ##### Normal Mode and Hard Mode
-Finales come in two versions: Normal Mode or Hard Mode. For a short time when a Finale first releases (usually the release weekend), it can only be run by Covalon administrators, moderators, and Senior Dungeon Guides, and only in Hard Mode, for the maximum APL in the highest two tiers of play. This is because the opening weekend is the "canonical" version of the boss fight. Every time the finale is run after this, the boss is flavored as a "facsimile," a copy created by the Maw with all the same combat capabilities. After the initial period, the Finale can be run by any Dungeon Guide in either Normal or Hard Mode. Normal Mode can be run in Tier 3 and above, while Hard Mode is intended only for max level characters in the highest two tiers of play.   
+Finales come in two versions: Normal Mode or Hard Mode. For a short time when a Finale first releases (usually the release weekend), it can only be run by Covalon administrators, moderators, and Senior Dungeon Guides, and only in Hard Mode, for the maximum APL in the highest two tiers of play. The opening weekend is the "canonical" version of the boss fight. Every time the Finale is run after this, the boss is flavored as a "facsimile," a copy created by the Maw with all the same combat capabilities. After the initial period, Finales can be run by any Dungeon Guide in either Normal or Hard Mode.  
 \column
 ##### Modifications
-Every Finale has three different modifications that alter the encounter, usually by adding the boss an additional ability or improving an existing one. To run a Normal Mode Finale, a GM chooses or randomly picks one of the available modifications. Do not tell the players which modifications is in effect. In Hard Mode, all three modifications are active at the same time
-
-
+Every Finale has three modifications that alter the encounter, usually by adding additional abilities or improving existing ones. To run a Normal Mode Finale, a GM chooses or randomly picks one of the available modifications. Do not tell the players which modifications is in effect. In Hard Mode, all three modifications are active at the same time. 
+:
 ### Excursions and Sagas
 In Excursions, players explore areas surrounding liberated Expedition locations in an in-world effort to maintain security of settlements and build goodwill with nearby survivors. In contrast to dungeons, these adventures feature some narrative continuity, longer adventuring days, and a larger experience budget."Excursion" refers to one mission in a set of up to three narratively linked sessions. This set of sessions is called a "Saga" or "Excursion Saga."
 :
-
-Each Excursion in a Saga should last between 3 and 4 hours, but not more than 4, and each Saga must include between 1 and 3 Excursions lasting up to 1 day in-world. Excursions have no effect on Downtime activities, and GMs are not required to run Excursions in a given Saga for the same group or tier.
+Each Excursion in a Saga should last between 3 and 4 hours, but not more than 4, and each Saga must include between 1 and 3 Excursions lasting up to 1 day in-world. Excursions have no effect on Downtime activities, and GMs are not required to run Excursions in a given Saga for the same group or tier. Excursions can only be run in previous Expedition locations that have been completed. 
 :
 Each Excursion within a Saga can include recurring NPCs, locations, and themes. 
 Encounters in excursions follow the normal rules for Dungeons. Each excursion has an additional 40 XP (30 or 20 for parties of smaller size) added to the total session budget. This XP can be used to include additional creatures or hazards at any point in the excursion, including to create encounters more difficult than a 120 XP Moderate Encounter (100, or 80 for parties of smaller size).
