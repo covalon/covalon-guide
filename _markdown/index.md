@@ -1,4 +1,4 @@
-{{titlebar,width:60% Covalon Player's Guide rev 26.04.21 }}
+{{titlebar,width:60% Covalon Player's Guide rev 26.04.25 }}
 :
 :
  
@@ -37,93 +37,93 @@ Covalon is a "living world" style tabletop RPG campaign, using the Pathfinder 2e
 # Contents
 
 - ### [{{ Covalon Player’s Guide}}{{ 1}}](#p1)
-  - #### [{{ What is Covalon?}}{{ 1}}](#p1)
+- #### [{{ What is Covalon?}}{{ 1}}](#p1)
 - ### [{{ Chapter 1: Player Expectations}}{{ 3}}](#p3)
-  - #### [{{ Community Guidelines}}{{ 3}}](#p3)
-  - #### [{{ Roleplay Guidelines}}{{ 4}}](#p4)
-  - #### [{{ Gameplay Guidelines}}{{ 4}}](#p4)
-  - #### [{{ Getting Started}}{{ 5}}](#p5)
-  - #### [{{ Covalon Adventures}}{{ 5}}](#p5)
-  - #### [{{ Covalon Creative Works Policy}}{{ 6}}](#p6)
+- #### [{{ Community Guidelines}}{{ 3}}](#p3)
+- #### [{{ Roleplay Guidelines}}{{ 4}}](#p4)
+- #### [{{ Gameplay Guidelines}}{{ 4}}](#p4)
+- #### [{{ Getting Started}}{{ 5}}](#p5)
+- #### [{{ Covalon Adventures}}{{ 5}}](#p5)
+- #### [{{ Covalon Creative Works Policy}}{{ 6}}](#p6)
 - ### [{{ Chapter 2: Character Creation}}{{ 7}}](#p7)
-  - #### [{{ Character Creation Rules}}{{ 7}}](#p7)
-  - #### [{{ Character Backstory}}{{ 8}}](#p8)
-  - #### [{{ Web and App-Based Character Sheets}}{{ 8}}](#p8)
-
-  - #### [{{ Requesting New Character Options}}{{ 8}}](#p8)
-  - #### [{{ Rebuilding Your Character}}{{ 8}}](#p8)
-  - #### [{{ Retiring Your Character}}{{ 9}}](#p9)
+- #### [{{ Character Creation Rules}}{{ 7}}](#p7)
+- #### [{{ Character Backstory}}{{ 8}}](#p8)
+- #### [{{ Web and App-Based Character Sheets}}{{ 8}}](#p8)
+- #### [{{ Requesting New Character Options}}{{ 8}}](#p8)
+- #### [{{ Rebuilding Your Character}}{{ 8}}](#p8)
+- #### [{{ Retiring Your Character}}{{ 9}}](#p9)
 - ### [{{ Chapter 3: Covalon Gameplay}}{{ 10}}](#p10)
-  - #### [{{ General Rules}}{{ 10}}](#p10)
-    - [{{ Levels and Tiers}}{{ 10}}](#p10)
-    - [{{ Resting and Daily Preparations}}{{ 10}}](#p10)
-    - [{{ Purchasing Equipment}}{{ 10}}](#p10)
-    - [{{ Infused and Temporary Items}}{{ 10}}](#p10)
-    - [{{ Using Higher Tier Equipment}}{{ 11}}](#p11)
-    - [{{ Mentorship System}}{{ 11}}](#p11)
-    - [{{ Afflictions}}{{ 11}}](#p11)
-    - [{{ Learning Spells}}{{ 11}}](#p11)
-    - [{{ Soul Seeds}}{{ 12}}](#p12)
-    - [{{ Alternate Characters}}{{ 13}}](#p13)
-  - #### [{{ Adventures}}{{ 14}}](#p14)
-    - [{{ Dungeons}}{{ 14}}](#p14)
-    - [{{ Patrols}}{{ 14}}](#p14)
-    - [{{ Brawls}}{{ 15}}](#p15)
-    - [{{ Descents}}{{ 17}}](#p17)
-    - [{{ Expeditions}}{{ 18}}](#p18)
-    - [{{ Excursions}}{{ 19}}](#p19)
-  - #### [{{ Downtime}}{{ 19}}](#p19)
-    - [{{ Earning and Spending Downtime}}{{ 19}}](#p19)
-    - [{{ Special Covalon Activities}}{{ 20}}](#p20)
-    - [{{ Special Covalon Rituals}}{{ 22}}](#p22)
-  - #### [{{ Roleplay}}{{ 23}}](#p23)
-    - [{{ Guilds}}{{ 23}}](#p23)
-    - [{{ Guild Event Rewards}}{{ 23}}](#p23)
-    - [{{ Housing, Businesses, and Guild Halls}}{{ 23}}](#p23)
-    - [{{ Crime and Punishment}}{{ 25}}](#p25)
+- #### [{{ General Rules}}{{ 10}}](#p10)
+  - [{{ Levels and Tiers}}{{ 10}}](#p10)
+  - [{{ Resting and Daily Preparations}}{{ 10}}](#p10)
+  - [{{ Purchasing Equipment}}{{ 10}}](#p10)
+  - [{{ Infused and Temporary Items}}{{ 10}}](#p10)
+  - [{{ Using Higher Tier Equipment}}{{ 11}}](#p11)
+  - [{{ Mentorship System}}{{ 11}}](#p11)
+  - [{{ Afflictions}}{{ 11}}](#p11)
+  - [{{ Learning Spells}}{{ 11}}](#p11)
+  - [{{ Soul Seeds}}{{ 12}}](#p12)
+  - [{{ Additional Character Slots}}{{ 13}}](#p13)
+  - [{{ Multiple Character Restrictions}}{{ 13}}](#p13)
+- #### [{{ Adventures}}{{ 14}}](#p14)
+  - [{{ Dungeons}}{{ 14}}](#p14)
+  - [{{ Patrols}}{{ 14}}](#p14)
+  - [{{ Brawls}}{{ 15}}](#p15)
+  - [{{ Descents}}{{ 17}}](#p17)
+  - [{{ Expeditions}}{{ 18}}](#p18)
+  - [{{ Excursions}}{{ 19}}](#p19)
+- #### [{{ Downtime}}{{ 19}}](#p19)
+  - [{{ Earning and Spending Downtime}}{{ 19}}](#p19)
+  - [{{ Special Covalon Activities}}{{ 20}}](#p20)
+  - [{{ Special Covalon Rituals}}{{ 22}}](#p22)
+- #### [{{ Roleplay}}{{ 23}}](#p23)
+  - [{{ Guilds}}{{ 23}}](#p23)
+  - [{{ Guild Event Rewards}}{{ 23}}](#p23)
+  - [{{ Housing, Businesses, and Guild Halls}}{{ 23}}](#p23)
+  - [{{ Crime and Punishment}}{{ 25}}](#p25)
 - ### [{{ Chapter 4: Campaign Lore}}{{ 27}}](#p27)
-  - #### [{{ Basic Lore}}{{ 27}}](#p27)
-    - [{{ The Cataclysm}}{{ 27}}](#p27)
-    - [{{ Covalon}}{{ 27}}](#p27)
-    - [{{ The Heart of Terra}}{{ 27}}](#p27)
-    - [{{ The Maw}}{{ 27}}](#p27)
-  - #### [{{ Maps of Elleaterra}}{{ 28}}](#p28)
-  - #### [{{ The Siege of Covalon}}{{ 29}}](#p29)
-  - #### [{{ Operation Heartbreaker}}{{ 30}}](#p30)
-  - #### [{{ Covalon: Out of Time}}{{ 31}}](#p31)
-  - #### [{{ Covalon: The Endless Gray}}{{ 32}}](#p32)
-  - #### [{{ Secrets of the Heart}}{{ 33}}](#p33)
-  - #### [{{ Covalon Gazetteer}}{{ 34}}](#p34)
-    - [{{ City District}}{{ 34}}](#p34)
-    - [{{ Market District}}{{ 41}}](#p41)
-    - [{{ Encore District}}{{ 51}}](#p51)
-    - [{{ Armory District}}{{ 55}}](#p55)
-    - [{{ Lake District}}{{ 58}}](#p58)
-    - [{{ Heart’s Forest}}{{ 63}}](#p63)
-    - [{{ The Docks}}{{ 65}}](#p65)
-    - [{{ The Farm}}{{ 66}}](#p66)
-    - [{{ Mountain View District}}{{ 67}}](#p67)
-    - [{{ River Run District}}{{ 67}}](#p67)
-    - [{{ North Gate District}}{{ 70}}](#p70)
-    - [{{ Expedition Districts and Outside Covalon}}{{ 72}}](#p72)
-  - #### [{{ Guilds}}{{ 74}}](#p74)
-    - [{{ The Archivists}}{{ 74}}](#p74)
-    - [{{ The Authors of Creation}}{{ 74}}](#p74)
-    - [{{ Covalon Medical Society}}{{ 75}}](#p75)
-    - [{{ The Servants of Terra}}{{ 75}}](#p75)
-    - [{{ The Teacher’s Union}}{{ 75}}](#p75)
-    - [{{ Trella’s Travellers}}{{ 76}}](#p76)
-    - [{{ The House of Dusk and Dawn}}{{ 76}}](#p76)
-    - [{{ The Lightkeepers}}{{ 76}}](#p76)
-    - [{{ Children of the Chicome}}{{ 77}}](#p77)
-    - [{{ Covalon Historical Society}}{{ 77}}](#p77)
-    - [{{ The Stouthearts}}{{ 77}}](#p77)
-    - [{{ The Green Knights of the Square}}{{ 78}}](#p78)
-    - [{{ The Sundered Circle}}{{ 78}}](#p78)
-  - #### [{{ Pre-Cataclysm Civilizations}}{{ 79}}](#p79)
-  - #### [{{ Deities, Faith, and Ideologies}}{{ 97}}](#p97)
-
+- #### [{{ Basic Lore}}{{ 27}}](#p27)
+  - [{{ The Cataclysm}}{{ 27}}](#p27)
+  - [{{ Covalon}}{{ 27}}](#p27)
+  - [{{ The Heart of Terra}}{{ 27}}](#p27)
+  - [{{ The Maw}}{{ 27}}](#p27)
+- #### [{{ Maps of Elleaterra}}{{ 28}}](#p28)
+- #### [{{ The Siege of Covalon}}{{ 29}}](#p29)
+- #### [{{ Operation Heartbreaker}}{{ 30}}](#p30)
+- #### [{{ Covalon: Out of Time}}{{ 31}}](#p31)
+- #### [{{ Covalon: The Endless Gray}}{{ 32}}](#p32)
+- #### [{{ Secrets of the Heart}}{{ 33}}](#p33)
+- #### [{{ Covalon Gazetteer}}{{ 34}}](#p34)
+  - [{{ City District}}{{ 34}}](#p34)
+  - [{{ Market District}}{{ 41}}](#p41)
+  - [{{ Encore District}}{{ 51}}](#p51)
+  - [{{ Armory District}}{{ 55}}](#p55)
+  - [{{ Lake District}}{{ 58}}](#p58)
+  - [{{ Heart’s Forest}}{{ 63}}](#p63)
+  - [{{ The Docks}}{{ 65}}](#p65)
+  - [{{ The Farm}}{{ 66}}](#p66)
+  - [{{ Mountain View District}}{{ 67}}](#p67)
+  - [{{ River Run District}}{{ 67}}](#p67)
+  - [{{ North Gate District}}{{ 70}}](#p70)
+  - [{{ Expedition Districts and Outside Covalon}}{{ 72}}](#p72)
+- #### [{{ Guilds}}{{ 74}}](#p74)
+  - [{{ The Archivists}}{{ 74}}](#p74)
+  - [{{ The Authors of Creation}}{{ 74}}](#p74)
+  - [{{ Covalon Medical Society}}{{ 75}}](#p75)
+  - [{{ The Servants of Terra}}{{ 75}}](#p75)
+  - [{{ The Teacher’s Union}}{{ 75}}](#p75)
+  - [{{ Trella’s Travellers}}{{ 76}}](#p76)
+  - [{{ The House of Dusk and Dawn}}{{ 76}}](#p76)
+  - [{{ The Lightkeepers}}{{ 76}}](#p76)
+  - [{{ Children of the Chicome}}{{ 77}}](#p77)
+  - [{{ Covalon Historical Society}}{{ 77}}](#p77)
+  - [{{ The Stouthearts}}{{ 77}}](#p77)
+  - [{{ The Green Knights of the Square}}{{ 78}}](#p78)
+  - [{{ The Sundered Circle}}{{ 78}}](#p78)
+- #### [{{ Pre-Cataclysm Civilizations}}{{ 79}}](#p79)
+- #### [{{ Deities, Faith, and Ideologies}}{{ 97}}](#p97)
 }}
+
 
 
 {{pageNumber,auto}}
@@ -224,7 +224,14 @@ While charity and acts of kindness are encouraged in Covalon, please do not pres
 ### 6. Player Vs. Player
 
 Any player vs. player (PvP) conflicts that require rolling dice must have explicit OOC consent of both parties before commencing. If you are expecting role play with another player that involves conflict, please ensure you obtain their consent first. Once you have both agreed, please #create-a-ticket (adding all involved players) to inform the Moderator team of the expected narrative and outcome.
-::
+
+{{note,purple,#book,text-align:center,background:#D1C7B1, 
+
+##### Character Death and Equipment
+If you die and your corpse cannot be recovered because the party has fled, you lose all of the gear on your person permanently. Before a session, you must mark equipment as being explicitly "left at home" on your character sheet. Your gold is always assumed to be left at home unless you state otherwise. Any gear not marked in this way will be assumed to have been brought with you.
+}}
+
+
 \column
 ## Gameplay Guidelines
 These guidelines should be observed during adventures, though some of them also apply to gameplay outside of adventures.
@@ -241,26 +248,15 @@ Do not try to "metagame" or exploit the game system for mechanical advantage. Th
 Character deaths in Covalon are permanent. If your character dies, you will need to create a new one to continue playing. If you wish to insure your character against death, you can purchase a Contract of Terran Revival for your character, which will give them protection against the next time they would die.
 ### 6. Rules Arbitration
 
-During an adventure, the Game Master or "Dungeon Guide" has the final say on interpretation of rules. Please do not argue rulings during an adventure. If you have questions or concerns about a Dungeon Guide's rulings during an adventure, you may privately message them after the game or #create-a-ticket.
+During an adventure, the Dungeon Guide has the final say on interpretation of rules. Please do not argue rulings during an adventure. If you have concerns about a Dungeon Guide's rulings during an adventure, you may privately message them after the game or #create-a-ticket. Repeated attempts to interpret game rules in bad faith in or out of game sessions will result in warnings and further attempts may result in being removed from the server.
 
-{{wide,columns:2
 {{note,purple,#book,text-align:center,background:#D1C7B1, 
-##### Text RP Formatting
-
+  ##### Text RP Formatting
 Text RP should be legible and understandable. Generally, actions should be formatted in italics, "speech should be formatted in quotes," ||and OOC comments should be formatted behind a spoiler.|| Try not to use OOC text often. Please do not post images or gifs in roleplay channels.
 }}
 
-\column
-
-{{note,purple,#book,text-align:center,background:#D1C7B1, 
-##### Character Death and Equipment
-If you die and your corpse cannot be recovered because the party has fled, you lose all of the gear on your person permanently. Before a session, you must mark equipment as being explicitly "left at home" on your character sheet. Your gold is always assumed to be left at home unless you state otherwise. Any gear not marked in this way will be assumed to have been brought with you.
-
-}}
-}}
 {{pageNumber,auto}}
 
-\column
 
 \page
 
@@ -703,34 +699,58 @@ Gift Number| Level Requirement | Gift Type | Price (gp)
 \page
 
 
-### Alternate Characters
-Alternate characters (“alt characters”) allow long time players to spend excess gold to play additional characters without retiring their main character.
+### Additional Character Slots
+The Additional Character System allows players who reach the level cap to spend gold to play new characters without retiring existing ones.
+#### Core vs Alt / Active vs Inactive
+There are two character types. Core characters can reach the highest level of Covalon play, known as the core cap (currently Level 15, EXP 999). Alt characters can reach one tier lower, known as the alt cap (currently Level 12, EXP 999).
+:
+Each character also has a status. Active characters can join adventures, use downtime, and participate in roleplay. Inactive characters cannot do any of these activities.
+:
+A player starts with 1 active core, and must unlock additional character slots through purchase. At any given moment, a player may have at most: 1 active core, 1 active alt, 1 inactive core, and any number of inactive alts. You cannot have an inactive core until you own at least three character slots.
 
-#### Unlocking Alternate Characters
-When your first character (your “main character”) reaches max level and capped experience, you can pay gold to unlock a slot for an alt character. Alt characters are EXP capped one tier below the maximum tier of play. When **all** your characters (main and alts) are at maximum level, capped experience, you may pay to unlock another alt character slot. The cost to unlock a slot is equal to 20,000 gp times the number of characters you currently have (including your main). This purchase should be recorded in #alternate-character-tracking. Once you’ve purchased an alt character slot, #create-a-ticket to submit your character using normal character creation rules.
+#### Purchasing Character Slots
+When your active core reaches core cap, you can purchase an additional character slot.
+:
+You must meet 2 requirements to purchase: your active core character must be core capped and all your other slots must be filled with characters that are, at minimum, at the alt cap.
+:
+New slots cost 20,000gp × current character slots. This purchase must be recorded in #alternate-character-tracking. Once purchased, #create-a-ticket to submit your new character using character creation guidelines. After your new character is approved, you may swap them in.
 
-#### Alternate Character Restrictions
-Your characters can never interact with each other in roleplay. Your characters have completely separate inventories, items and gold cannot be shared. (The one exception to this rule is paying for more alt character slots. You may pay for another slot using gold from all/any of your characters inventories.) No matter how many characters you have, you only get one day of downtime to spend per day. You can spend this day of downtime as either your main character or your active alt character. Your characters may craft items for each other, but the character recieving the item must pay the full cost of the item. 
-
-#### Alternate Character Lock In Period
-If you have multiple alt characters, you can only play one alt character at a time. Once you choose to play an alt character, you are locked in to that alt for at least two weeks. During this period, you cannot use any other alt character for downtime, roleplay, or adventures. When you switch your active alt character, you must post in #alternate-character-tracking. Note that you can play your main character at any time. You must have the name of your main and active alt character in your discord name with your main listed first (e.g. “Daryl Hall | John Oates”).
-
+#### Swapping Character Type/Status
+You may set a character's type and status by recording it in #alternate-character-tracking.
+:
+Your active alt can be set once every 2 weeks. Your active core can be set once every 3 months. Your inactive alts and inactive cores can be set freely.
+:
+When a core character becomes an alt character, they are de-leveled to the alt cap. When an alt character that is at alt cap becomes a core character, they are leveled to Level 13, EXP 0.
 \column
+### Multiple Character Restrictions
 
-#### Swapping your Main Character
-If you wish, you may swap your main character to be an alt character. When you choose to do this, your current main character is immediately deleveled to one tier below the highest tier, and the alt character you choose to be your new main character is no longer capped at the second highest tier. If the alt character you picked was capped with maximum experience, they immediately level up. When you swap your main character, you must post in #alternate-character-tracking, and you are locked into that main character and cannot swap again for a month. Please note that your new main (and all alts!) must be capped before you can purchase any additional alt character slots.
+#### Roleplay
+Your characters can never interact together in RP. You may not actively role play as multiple characters at the same time, even in different channels or threads. Remember you can always “time bubble” an RP into a separate thread to return to later. 
 
-#### Alternate Character Role Play
-Your characters can never interact together in RP. You may not role play as multiple characters at the same time, even in different channels or threads. We appreciate that “time bubbles” happen and the goal is for players to not be actively doing RP as two different characters at the same time.
+#### Inventory
+Your characters have completely separate inventories—items and gold cannot be shared. 
+:
+The only exception is for purchasing additional character slots, which can be paid using gold from any combination of your characters' inventories.
 
-#### GM and Mentoring Rewards
-As a GM, you can choose to have your GM rewards and experience go to your main or alt character. The amount of the reward is based on the level of the PC receiving the reward. The gold and item rewards gained for mentoring can be applied to the active alt character if they are above the tier of play for the mentored game.
+#### Downtime
+You earn one downtime day per real day, regardless of how many characters you have. You can spend this day of downtime as either of your active characters. You cannot spend backdated downtime on a character that was not active during those days. 
+:
+Your characters may craft items for each other, but the receiving character must pay the full cost of the item. 
 
-#### Brawl Gladiator Tokens and Hero Points
-These rewards are given to the player (and not the individual characters). Thus, they are shared across PCs for determining whether you can earn further hero points or brawl titles (which are fancy player discord tags).
+#### Soul Seeds
+Each character must separately complete finales to gain access to soul seeds as normal. 
 
-#### Soul Seeds and Guilds
-Alt characters must complete finales to gain access to soul seeds as normal. Alternates can be in up to two guilds and take up slots in guilds as normal, even if they are not an active alt character.
+#### Guilds
+Each character, including inactive characters, can be in up to two guilds. They take up slots in guilds as normal, even while inactive.
+
+#### Brawl Tokens and Hero Points
+These rewards are given to players, not individual characters. Thus, they are shared across PCs for determining whether you can earn further hero points or brawl title tags.
+
+#### GM and Mentor Rewards
+As a GM, you can choose which of your active characters gets your GM rewards. The reward is based on the receiving character's level. 
+:
+Mentoring rewards can only be applied to an active character that is higher than the tier of the mentored game. 
+
 
 {{pageNumber,auto}}
 
@@ -6249,163 +6269,163 @@ Zegarek was most often followed by the more bold of the hunters from the earlier
 <div class='toc'>
 
 - ### [{{ Covalon Player’s Guide}}{{ 1}}](#p1)
-  - #### [{{ What is Covalon?}}{{ 1}}](#p1)
+- #### [{{ What is Covalon?}}{{ 1}}](#p1)
 - ### [{{ Chapter 1: Player Expectations}}{{ 3}}](#p3)
-  - #### [{{ Community Guidelines}}{{ 3}}](#p3)
-  - #### [{{ Roleplay Guidelines}}{{ 4}}](#p4)
-  - #### [{{ Gameplay Guidelines}}{{ 4}}](#p4)
-  - #### [{{ Getting Started}}{{ 5}}](#p5)
-  - #### [{{ Covalon Adventures}}{{ 5}}](#p5)
-  - #### [{{ Covalon Creative Works Policy}}{{ 6}}](#p6)
+- #### [{{ Community Guidelines}}{{ 3}}](#p3)
+- #### [{{ Roleplay Guidelines}}{{ 4}}](#p4)
+- #### [{{ Gameplay Guidelines}}{{ 4}}](#p4)
+- #### [{{ Getting Started}}{{ 5}}](#p5)
+- #### [{{ Covalon Adventures}}{{ 5}}](#p5)
+- #### [{{ Covalon Creative Works Policy}}{{ 6}}](#p6)
 - ### [{{ Chapter 2: Character Creation}}{{ 7}}](#p7)
-  - #### [{{ Character Creation Rules}}{{ 7}}](#p7)
-  - #### [{{ Character Backstory}}{{ 8}}](#p8)
-  - #### [{{ Web and App-Based Character Sheets}}{{ 8}}](#p8)
-
-  - #### [{{ Requesting New Character Options}}{{ 8}}](#p8)
-  - #### [{{ Rebuilding Your Character}}{{ 8}}](#p8)
-  - #### [{{ Retiring Your Character}}{{ 9}}](#p9)
+- #### [{{ Character Creation Rules}}{{ 7}}](#p7)
+- #### [{{ Character Backstory}}{{ 8}}](#p8)
+- #### [{{ Web and App-Based Character Sheets}}{{ 8}}](#p8)
+- #### [{{ Requesting New Character Options}}{{ 8}}](#p8)
+- #### [{{ Rebuilding Your Character}}{{ 8}}](#p8)
+- #### [{{ Retiring Your Character}}{{ 9}}](#p9)
 - ### [{{ Chapter 3: Covalon Gameplay}}{{ 10}}](#p10)
-  - #### [{{ General Rules}}{{ 10}}](#p10)
-    - [{{ Levels and Tiers}}{{ 10}}](#p10)
-    - [{{ Resting and Daily Preparations}}{{ 10}}](#p10)
-    - [{{ Purchasing Equipment}}{{ 10}}](#p10)
-    - [{{ Infused and Temporary Items}}{{ 10}}](#p10)
-    - [{{ Using Higher Tier Equipment}}{{ 11}}](#p11)
-    - [{{ Mentorship System}}{{ 11}}](#p11)
-    - [{{ Afflictions}}{{ 11}}](#p11)
-    - [{{ Learning Spells}}{{ 11}}](#p11)
-    - [{{ Soul Seeds}}{{ 12}}](#p12)
-    - [{{ Alternate Characters}}{{ 13}}](#p13)
-  - #### [{{ Adventures}}{{ 14}}](#p14)
-    - [{{ Dungeons}}{{ 14}}](#p14)
-    - [{{ Patrols}}{{ 14}}](#p14)
-    - [{{ Brawls}}{{ 15}}](#p15)
-    - [{{ Descents}}{{ 17}}](#p17)
-    - [{{ Expeditions}}{{ 18}}](#p18)
-    - [{{ Excursions}}{{ 19}}](#p19)
-  - #### [{{ Downtime}}{{ 19}}](#p19)
-    - [{{ Earning and Spending Downtime}}{{ 19}}](#p19)
-    - [{{ Special Covalon Activities}}{{ 20}}](#p20)
-    - [{{ Special Covalon Rituals}}{{ 22}}](#p22)
-  - #### [{{ Roleplay}}{{ 23}}](#p23)
-    - [{{ Guilds}}{{ 23}}](#p23)
-    - [{{ Guild Event Rewards}}{{ 23}}](#p23)
-    - [{{ Housing, Businesses, and Guild Halls}}{{ 23}}](#p23)
-    - [{{ Crime and Punishment}}{{ 25}}](#p25)
+- #### [{{ General Rules}}{{ 10}}](#p10)
+  - [{{ Levels and Tiers}}{{ 10}}](#p10)
+  - [{{ Resting and Daily Preparations}}{{ 10}}](#p10)
+  - [{{ Purchasing Equipment}}{{ 10}}](#p10)
+  - [{{ Infused and Temporary Items}}{{ 10}}](#p10)
+  - [{{ Using Higher Tier Equipment}}{{ 11}}](#p11)
+  - [{{ Mentorship System}}{{ 11}}](#p11)
+  - [{{ Afflictions}}{{ 11}}](#p11)
+  - [{{ Learning Spells}}{{ 11}}](#p11)
+  - [{{ Soul Seeds}}{{ 12}}](#p12)
+  - [{{ Additional Character Slots}}{{ 13}}](#p13)
+  - [{{ Multiple Character Restrictions}}{{ 13}}](#p13)
+- #### [{{ Adventures}}{{ 14}}](#p14)
+  - [{{ Dungeons}}{{ 14}}](#p14)
+  - [{{ Patrols}}{{ 14}}](#p14)
+  - [{{ Brawls}}{{ 15}}](#p15)
+  - [{{ Descents}}{{ 17}}](#p17)
+  - [{{ Expeditions}}{{ 18}}](#p18)
+  - [{{ Excursions}}{{ 19}}](#p19)
+- #### [{{ Downtime}}{{ 19}}](#p19)
+  - [{{ Earning and Spending Downtime}}{{ 19}}](#p19)
+  - [{{ Special Covalon Activities}}{{ 20}}](#p20)
+  - [{{ Special Covalon Rituals}}{{ 22}}](#p22)
+- #### [{{ Roleplay}}{{ 23}}](#p23)
+  - [{{ Guilds}}{{ 23}}](#p23)
+  - [{{ Guild Event Rewards}}{{ 23}}](#p23)
+  - [{{ Housing, Businesses, and Guild Halls}}{{ 23}}](#p23)
+  - [{{ Crime and Punishment}}{{ 25}}](#p25)
 - ### [{{ Chapter 4: Campaign Lore}}{{ 27}}](#p27)
-  - #### [{{ Basic Lore}}{{ 27}}](#p27)
-    - [{{ The Cataclysm}}{{ 27}}](#p27)
-    - [{{ Covalon}}{{ 27}}](#p27)
-    - [{{ The Heart of Terra}}{{ 27}}](#p27)
-    - [{{ The Maw}}{{ 27}}](#p27)
-  - #### [{{ Maps of Elleaterra}}{{ 28}}](#p28)
-  - #### [{{ The Siege of Covalon}}{{ 29}}](#p29)
-  - #### [{{ Operation Heartbreaker}}{{ 30}}](#p30)
-  - #### [{{ Covalon: Out of Time}}{{ 31}}](#p31)
-  - #### [{{ Covalon: The Endless Gray}}{{ 32}}](#p32)
-  - #### [{{ Secrets of the Heart}}{{ 33}}](#p33)
-  - #### [{{ Covalon Gazetteer}}{{ 34}}](#p34)
-    - [{{ City District}}{{ 34}}](#p34)
-    - [{{ Market District}}{{ 41}}](#p41)
-    - [{{ Encore District}}{{ 51}}](#p51)
-    - [{{ Armory District}}{{ 55}}](#p55)
-    - [{{ Lake District}}{{ 58}}](#p58)
-    - [{{ Heart’s Forest}}{{ 63}}](#p63)
-    - [{{ The Docks}}{{ 65}}](#p65)
-    - [{{ The Farm}}{{ 66}}](#p66)
-    - [{{ Mountain View District}}{{ 67}}](#p67)
-    - [{{ River Run District}}{{ 67}}](#p67)
-    - [{{ North Gate District}}{{ 70}}](#p70)
-    - [{{ Expedition Districts and Outside Covalon}}{{ 72}}](#p72)
-  - #### [{{ Guilds}}{{ 74}}](#p74)
-    - [{{ The Archivists}}{{ 74}}](#p74)
-    - [{{ The Authors of Creation}}{{ 74}}](#p74)
-    - [{{ Covalon Medical Society}}{{ 75}}](#p75)
-    - [{{ The Servants of Terra}}{{ 75}}](#p75)
-    - [{{ The Teacher’s Union}}{{ 75}}](#p75)
-    - [{{ Trella’s Travellers}}{{ 76}}](#p76)
-    - [{{ The House of Dusk and Dawn}}{{ 76}}](#p76)
-    - [{{ The Lightkeepers}}{{ 76}}](#p76)
-    - [{{ Children of the Chicome}}{{ 77}}](#p77)
-    - [{{ Covalon Historical Society}}{{ 77}}](#p77)
-    - [{{ The Stouthearts}}{{ 77}}](#p77)
-    - [{{ The Green Knights of the Square}}{{ 78}}](#p78)
-    - [{{ The Sundered Circle}}{{ 78}}](#p78)
-  - #### [{{ Pre-Cataclysm Civilizations}}{{ 79}}](#p79)
-    - [{{ Alatar}}{{ 79}}](#p79)
-    - [{{ Armed Steppes}}{{ 80}}](#p80)
-    - [{{ The Briarmurk}}{{ 80}}](#p80)
-    - [{{ Drifthaven}}{{ 81}}](#p81)
-    - [{{ The Fey Courts}}{{ 82}}](#p82)
-    - [{{ Garn}}{{ 83}}](#p83)
-    - [{{ Gornlar}}{{ 83}}](#p83)
-    - [{{ Ikouga}}{{ 84}}](#p84)
-    - [{{ Kuraimori (暗い森)}}{{ 86}}](#p86)
-    - [{{ Middlemist}}{{ 86}}](#p86)
-    - [{{ The Misty Shores}}{{ 87}}](#p87)
-    - [{{ Ostengrad}}{{ 87}}](#p87)
-    - [{{ Primrose}}{{ 88}}](#p88)
-    - [{{ Pudersnö}}{{ 89}}](#p89)
-    - [{{ Ratchethallow}}{{ 90}}](#p90)
-    - [{{ Taltain}}{{ 92}}](#p92)
-    - [{{ Tarunga}}{{ 93}}](#p93)
-    - [{{ Tymoria}}{{ 93}}](#p93)
-    - [{{ The Kingdom of Varceta}}{{ 94}}](#p94)
-    - [{{ Verndhelt}}{{ 95}}](#p95)
-    - [{{ The Kingdom of Vyrm}}{{ 96}}](#p96)
-    - [{{ Whitespire}}{{ 96}}](#p96)
-  - #### [{{ Deities, Faith, and Ideologies}}{{ 97}}](#p97)
-    - [{{ Aelia}}{{ 99}}](#p99)
-    - [{{ A’shir, the Fated Flame}}{{ 99}}](#p99)
-    - [{{ Axnos}}{{ 99}}](#p99)
-    - [{{ The Brakeman}}{{ 100}}](#p100)
-    - [{{ The Circle of Stars}}{{ 100}}](#p100)
-    - [{{ The Cheshire}}{{ 101}}](#p101)
-    - [{{ Derelis}}{{ 101}}](#p101)
-    - [{{ Erimia}}{{ 101}}](#p101)
-    - [{{ Fah’rin, The Howling Blizzard}}{{ 101}}](#p101)
-    - [{{ Fayne Lightfeet}}{{ 102}}](#p102)
-    - [{{ Golgolgoss, The Watcher}}{{ 102}}](#p102)
-    - [{{ The Grey Ocean}}{{ 102}}](#p102)
-    - [{{ Gunvald}}{{ 103}}](#p103)
-    - [{{ Gutom, The Bloody Rose}}{{ 103}}](#p103)
-    - [{{ Heleniel, The Sin Seeker}}{{ 103}}](#p103)
-    - [{{ Hestora}}{{ 103}}](#p103)
-    - [{{ Heures}}{{ 104}}](#p104)
-    - [{{ The Home of Hearth and Health}}{{ 104}}](#p104)
-    - [{{ Kohtalo, Patron of Fate Forgers}}{{ 104}}](#p104)
-    - [{{ Krun Darr}}{{ 105}}](#p105)
-    - [{{ Kujani}}{{ 105}}](#p105)
-    - [{{ Levona, Duchess of Hell}}{{ 105}}](#p105)
-    - [{{ Lotus}}{{ 106}}](#p106)
-    - [{{ Luxandra, The Everbloom}}{{ 106}}](#p106)
-    - [{{ Lysanthyr, The Unending Delight}}{{ 106}}](#p106)
-    - [{{ The Great and Noble Manaat Al-Karim}}{{ 107}}](#p107)
-    - [{{ Maiden of the Garden}}{{ 107}}](#p107)
-    - [{{ Mendastarum, Devourer of Truth}}{{ 108}}](#p108)
-    - [{{ Nesdonin}}{{ 108}}](#p108)
-    - [{{ Nimane, The Forge Matron}}{{ 108}}](#p108)
-    - [{{ Noctune}}{{ 109}}](#p109)
-    - [{{ Novissime, The Orchid Reaper}}{{ 109}}](#p109)
-    - [{{ Oenos}}{{ 109}}](#p109)
-    - [{{ The Path of the Great Spirits}}{{ 110}}](#p110)
-    - [{{ Peko-Amuzo, The Trickster Prince}}{{ 110}}](#p110)
-    - [{{ Riahn, He Who Eclipses the Stars}}{{ 110}}](#p110)
-    - [{{ Seraphion, The Highest Throne}}{{ 111}}](#p111)
-    - [{{ Sinnesh, The Den Mother}}{{ 111}}](#p111)
-    - [{{ Satya, the Peerless Seeker}}{{ 111}}](#p111)
-    - [{{ The Eyes}}{{ 112}}](#p112)
-    - [{{ The Living Mandate}}{{ 112}}](#p112)
-    - [{{ The Three Sisters}}{{ 112}}](#p112)
-    - [{{ The World Weave}}{{ 113}}](#p113)
-    - [{{ Trella, The Night Sky}}{{ 113}}](#p113)
-    - [{{ Tycheam}}{{ 114}}](#p114)
-    - [{{ Unmortus, The Dead Guardian}}{{ 114}}](#p114)
-    - [{{ Veskahule}}{{ 115}}](#p115)
-    - [{{ Xan’Zyk, the First Incarnation}}{{ 115}}](#p115)
-    - [{{ Xeesis}}{{ 116}}](#p116)
-    - [{{ Zegarek}}{{ 116}}](#p116)
+- #### [{{ Basic Lore}}{{ 27}}](#p27)
+  - [{{ The Cataclysm}}{{ 27}}](#p27)
+  - [{{ Covalon}}{{ 27}}](#p27)
+  - [{{ The Heart of Terra}}{{ 27}}](#p27)
+  - [{{ The Maw}}{{ 27}}](#p27)
+- #### [{{ Maps of Elleaterra}}{{ 28}}](#p28)
+- #### [{{ The Siege of Covalon}}{{ 29}}](#p29)
+- #### [{{ Operation Heartbreaker}}{{ 30}}](#p30)
+- #### [{{ Covalon: Out of Time}}{{ 31}}](#p31)
+- #### [{{ Covalon: The Endless Gray}}{{ 32}}](#p32)
+- #### [{{ Secrets of the Heart}}{{ 33}}](#p33)
+- #### [{{ Covalon Gazetteer}}{{ 34}}](#p34)
+  - [{{ City District}}{{ 34}}](#p34)
+  - [{{ Market District}}{{ 41}}](#p41)
+  - [{{ Encore District}}{{ 51}}](#p51)
+  - [{{ Armory District}}{{ 55}}](#p55)
+  - [{{ Lake District}}{{ 58}}](#p58)
+  - [{{ Heart’s Forest}}{{ 63}}](#p63)
+  - [{{ The Docks}}{{ 65}}](#p65)
+  - [{{ The Farm}}{{ 66}}](#p66)
+  - [{{ Mountain View District}}{{ 67}}](#p67)
+  - [{{ River Run District}}{{ 67}}](#p67)
+  - [{{ North Gate District}}{{ 70}}](#p70)
+  - [{{ Expedition Districts and Outside Covalon}}{{ 72}}](#p72)
+- #### [{{ Guilds}}{{ 74}}](#p74)
+  - [{{ The Archivists}}{{ 74}}](#p74)
+  - [{{ The Authors of Creation}}{{ 74}}](#p74)
+  - [{{ Covalon Medical Society}}{{ 75}}](#p75)
+  - [{{ The Servants of Terra}}{{ 75}}](#p75)
+  - [{{ The Teacher’s Union}}{{ 75}}](#p75)
+  - [{{ Trella’s Travellers}}{{ 76}}](#p76)
+  - [{{ The House of Dusk and Dawn}}{{ 76}}](#p76)
+  - [{{ The Lightkeepers}}{{ 76}}](#p76)
+  - [{{ Children of the Chicome}}{{ 77}}](#p77)
+  - [{{ Covalon Historical Society}}{{ 77}}](#p77)
+  - [{{ The Stouthearts}}{{ 77}}](#p77)
+  - [{{ The Green Knights of the Square}}{{ 78}}](#p78)
+  - [{{ The Sundered Circle}}{{ 78}}](#p78)
+- #### [{{ Pre-Cataclysm Civilizations}}{{ 79}}](#p79)
+  - [{{ Alatar}}{{ 79}}](#p79)
+  - [{{ Armed Steppes}}{{ 80}}](#p80)
+  - [{{ The Briarmurk}}{{ 80}}](#p80)
+  - [{{ Drifthaven}}{{ 81}}](#p81)
+  - [{{ The Fey Courts}}{{ 82}}](#p82)
+  - [{{ Garn}}{{ 83}}](#p83)
+  - [{{ Gornlar}}{{ 83}}](#p83)
+  - [{{ Ikouga}}{{ 84}}](#p84)
+  - [{{ Kuraimori (暗い森)}}{{ 86}}](#p86)
+  - [{{ Middlemist}}{{ 86}}](#p86)
+  - [{{ The Misty Shores}}{{ 87}}](#p87)
+  - [{{ Ostengrad}}{{ 87}}](#p87)
+  - [{{ Primrose}}{{ 88}}](#p88)
+  - [{{ Pudersnö}}{{ 89}}](#p89)
+  - [{{ Ratchethallow}}{{ 90}}](#p90)
+  - [{{ Taltain}}{{ 92}}](#p92)
+  - [{{ Tarunga}}{{ 93}}](#p93)
+  - [{{ Tymoria}}{{ 93}}](#p93)
+  - [{{ The Kingdom of Varceta}}{{ 94}}](#p94)
+  - [{{ Verndhelt}}{{ 95}}](#p95)
+  - [{{ The Kingdom of Vyrm}}{{ 96}}](#p96)
+  - [{{ Whitespire}}{{ 96}}](#p96)
+- #### [{{ Deities, Faith, and Ideologies}}{{ 97}}](#p97)
+  - [{{ Aelia}}{{ 99}}](#p99)
+  - [{{ A’shir, the Fated Flame}}{{ 99}}](#p99)
+  - [{{ Axnos}}{{ 99}}](#p99)
+  - [{{ The Brakeman}}{{ 100}}](#p100)
+  - [{{ The Circle of Stars}}{{ 100}}](#p100)
+  - [{{ The Cheshire}}{{ 101}}](#p101)
+  - [{{ Derelis}}{{ 101}}](#p101)
+  - [{{ Erimia}}{{ 101}}](#p101)
+  - [{{ Fah’rin, The Howling Blizzard}}{{ 101}}](#p101)
+  - [{{ Fayne Lightfeet}}{{ 102}}](#p102)
+  - [{{ Golgolgoss, The Watcher}}{{ 102}}](#p102)
+  - [{{ The Grey Ocean}}{{ 102}}](#p102)
+  - [{{ Gunvald}}{{ 103}}](#p103)
+  - [{{ Gutom, The Bloody Rose}}{{ 103}}](#p103)
+  - [{{ Heleniel, The Sin Seeker}}{{ 103}}](#p103)
+  - [{{ Hestora}}{{ 103}}](#p103)
+  - [{{ Heures}}{{ 104}}](#p104)
+  - [{{ The Home of Hearth and Health}}{{ 104}}](#p104)
+  - [{{ Kohtalo, Patron of Fate Forgers}}{{ 104}}](#p104)
+  - [{{ Krun Darr}}{{ 105}}](#p105)
+  - [{{ Kujani}}{{ 105}}](#p105)
+  - [{{ Levona, Duchess of Hell}}{{ 105}}](#p105)
+  - [{{ Lotus}}{{ 106}}](#p106)
+  - [{{ Luxandra, The Everbloom}}{{ 106}}](#p106)
+  - [{{ Lysanthyr, The Unending Delight}}{{ 106}}](#p106)
+  - [{{ The Great and Noble Manaat Al-Karim}}{{ 107}}](#p107)
+  - [{{ Maiden of the Garden}}{{ 107}}](#p107)
+  - [{{ Mendastarum, Devourer of Truth}}{{ 108}}](#p108)
+  - [{{ Nesdonin}}{{ 108}}](#p108)
+  - [{{ Nimane, The Forge Matron}}{{ 108}}](#p108)
+  - [{{ Noctune}}{{ 109}}](#p109)
+  - [{{ Novissime, The Orchid Reaper}}{{ 109}}](#p109)
+  - [{{ Oenos}}{{ 109}}](#p109)
+  - [{{ The Path of the Great Spirits}}{{ 110}}](#p110)
+  - [{{ Peko-Amuzo, The Trickster Prince}}{{ 110}}](#p110)
+  - [{{ Riahn, He Who Eclipses the Stars}}{{ 110}}](#p110)
+  - [{{ Seraphion, The Highest Throne}}{{ 111}}](#p111)
+  - [{{ Sinnesh, The Den Mother}}{{ 111}}](#p111)
+  - [{{ Satya, the Peerless Seeker}}{{ 111}}](#p111)
+  - [{{ The Eyes}}{{ 112}}](#p112)
+  - [{{ The Living Mandate}}{{ 112}}](#p112)
+  - [{{ The Three Sisters}}{{ 112}}](#p112)
+  - [{{ The World Weave}}{{ 113}}](#p113)
+  - [{{ Trella, The Night Sky}}{{ 113}}](#p113)
+  - [{{ Tycheam}}{{ 114}}](#p114)
+  - [{{ Unmortus, The Dead Guardian}}{{ 114}}](#p114)
+  - [{{ Veskahule}}{{ 115}}](#p115)
+  - [{{ Xan’Zyk, the First Incarnation}}{{ 115}}](#p115)
+  - [{{ Xeesis}}{{ 116}}](#p116)
+  - [{{ Zegarek}}{{ 116}}](#p116)
 - ### [{{ Menu}}{{ 117}}](#p117)
 </div>
 </div>
