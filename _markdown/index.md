@@ -1,4 +1,4 @@
-{{titlebar,width:60% Covalon Player's Guide rev 26.04.25 }}
+{{titlebar,width:60% Covalon Player's Guide rev 26.05.24 }}
 :
 :
  
@@ -45,6 +45,7 @@ Covalon is a "living world" style tabletop RPG campaign, using the Pathfinder 2e
 - #### [{{ Getting Started}}{{ 5}}](#p5)
 - #### [{{ Covalon Adventures}}{{ 5}}](#p5)
 - #### [{{ Covalon Creative Works Policy}}{{ 6}}](#p6)
+- #### [{{ Covalon AI Policy}}{{ 6}}](#p6)
 - ### [{{ Chapter 2: Character Creation}}{{ 7}}](#p7)
 - #### [{{ Character Creation Rules}}{{ 7}}](#p7)
 - #### [{{ Character Backstory}}{{ 8}}](#p8)
@@ -120,9 +121,11 @@ Covalon is a "living world" style tabletop RPG campaign, using the Pathfinder 2e
   - [{{ The Stouthearts}}{{ 77}}](#p77)
   - [{{ The Green Knights of the Square}}{{ 78}}](#p78)
   - [{{ The Sundered Circle}}{{ 78}}](#p78)
-- #### [{{ Pre-Cataclysm Civilizations}}{{ 79}}](#p79)
-- #### [{{ Deities, Faith, and Ideologies}}{{ 97}}](#p97)
+  - [{{ Covalon Safety Inspectors}}{{ 79}}](#p79)
+- #### [{{ Pre-Cataclysm Civilizations}}{{ 80}}](#p80)
+- #### [{{ Deities, Faith, and Ideologies}}{{ 98}}](#p98)
 }}
+
 
 
 
@@ -337,6 +340,17 @@ Adventures are all run in the Discord voice channels and through Foundry VTT; it
 ## Covalon Creative Works Policy 
 
 If you produce any creative works for Covalon, you must agree to the Covalon Creative Works Policy. Any work created by a member of the Covalon Discord server that is shared in the Covalon Discord server or as part of the Covalon campaign ("the campaign") that is considered eligible for copyright protection by the United States Copyright Act of 1976 (and its revisions) falls under this policy. The creator of the work grants Covalon a non-exclusive license to share or reproduce that work as it pertains to relevance within the campaign. All other rights are reserved by the work's creator - including ownership and the right to retract this granted license. For more information or to request that your work be removed from the campaign, please #create-a-ticket.
+
+## Covalon AI Policy
+
+Covalon permits, but does not encourage the use of AI for generating images for gameplay on the server. 
+:
+AI images are permitted for character artwork, tokens, and other character related images such as shop signs. AI images are permitted for use by GMs for the purpose of running game session. AI generated images are **not** permitted to be posted in the #artwork channel, even if they have been edited by a human. Players may **not** advertise comissions that use AI. 
+:
+All images, whether human made or AI generated, must adhere to Covalon's player expectations and must be "safe for work". 
+:
+AI is not permitted for use to generate text roleplay in RP channels. 
+
 }}
 
 {{pageNumber,auto}}
@@ -454,7 +468,11 @@ In order to maintain a fair gaming environment for all players, Covalon restrict
 
 ## Rebuilding Your Character
 
-If you're unhappy with your character, you may rebuild any or all aspects of that character instantly and with no cost as long as your character is level 3 or lower. The exception to this rule is starting equipment - you can only swap out your starting equipment if you are level 1 with 0 XP. Characters that ascend past level 3 but later have their level reduced (due to a failed Terran Reincarnation or reviving at a lower level due to a low level Contract of Terran Revival) are not eligible for free rebuilds, and must retrain or have the ritual of Terran Reincarnation performed on them instead. You must #create-a-ticket to have your rebuild approved by a Moderator.
+If you're unhappy with your character, you may rebuild any or all aspects of that character with no cost before reaching level 4 by submitting a ticket with the changes.
+
+The exception to this rule is starting equipment - you can only swap out your starting equipment if you are level 1 with 0 XP. Characters that ascend past level 3 but later have their level reduced (due to a failed Terran Reincarnation or reviving at a lower level due to a low level Contract of Terran Revival) are not eligible for free rebuilds, and must retrain or have the ritual of Terran Reincarnation performed on them instead. 
+
+ You must #create-a-ticket to have your rebuild or reincarnation approved by staff.
 
 {{pageNumber,auto}}
 
@@ -3762,6 +3780,48 @@ A convocation of mages determined to expand and restore Covalon's knowledge of a
 
 \page
 
+{{template
+### Covalon Safety Inspectors
+---
+{{taglist
+ {{tag Guild}}
+}}
+A guild dedicated to assuring safe and healthy working conditions for Covalon's adventurers. We achieve this by setting and enforcing standards via training, outreach, education, and assistance for locations inside and outside of Covalon in a post-Cataclysm world. 
+
+{{indented
+**Goals** Reduce risk factors that may cause harm to Covalon and its citizens through proactive and preventative measures
+
+---
+
+**Headquarters** Town Hall Basement
+
+**Leader** None
+
+**Members** Varrox, Doctor Nova, Hershk, Delbyar, Dagnir, Kali, Oozey, Ally, Rikella, Marius, Muffin (deceased)
+
+---
+
+**Membership Requirements** Trained in Crafting, Diplomacy, Medicine, Performance, Society, Survival or a related Lore skill
+
+**Values** Standards, preventative safeguards, proactive involvement, teaching others
+
+**Anathema** Negligence with potentially dangerous factors that would negatively affect Covalon spells
+}}
+
+}}
+
+\column
+::
+![](https://raw.githubusercontent.com/covalon/covalon-guide/refs/heads/gh-pages/assets/covalon/PlayersGuide/Guilds/csi%20guild%20heraldry.png){width:250px,margin:"0px 50px"}
+:
+*CSI Guild Heraldry.* 
+{text-align:center}
+
+
+{{pageNumber,auto}}
+
+\page
+
 {{titlebar,width:50% Covalon PLayer's Guide }}
 ::::
 {{wide
@@ -5325,15 +5385,16 @@ The various religions practiced in Elleaterra are as varied and distinct as the 
 ##### Table 4-1: Deities
 | Diety                                | Sanctification   | Domains                                 | Alt Domains          | Weapon
 | :------------------------------------| :----------------| :---------------------------------------| :------------------: | :----------- |
+| Abhirash, the Final Verdict          | can choose either| death, pain, vigil, zeal                | undead, time         | bastard sword| 
 | Aelia                                | can choose holy  | fire, healing, sun, truth               | duty                 | morningstar  |
 | A'shir, the Fated Flame              | can choose unholy| destruction, fate, fire, time           | none                 | fire poi     |
 | Axnos                                | can choose either| cities, knowledge, introspection, toil  | travel               | polytool     |
 | The Brakeman                         | can choose holy  | toil, protection, might, travel         | metal, death         | maul         |
 | The Circle of Stars                  | can choose holy  | healing, moon, star, sun                | travel               | sickle       |
 | The Cheshire                         | can choose unholy| death, decay, cold                      | trickery             | bladed scarf |
-| Derelis                              | must choose holy | ambition, protection, dragon, zeal     | duty                 | longsword    |
+| Derelis                              | must choose holy | ambition, protection, dragon, zeal      | duty                 | longsword    |
 | Erimia                               | none             | earth, nature, water, wood              | fire, air            | staff        |
-| Fah'rin, The Howling Blizzard        | can choose unholy| air, cold, perfection, nothingness             | none                 | kukri        |
+| Fah'rin, The Howling Blizzard        | can choose unholy| air, cold, perfection, nothingness      | none                 | kukri        |
 | Fayne Lightfeet                      | can choose holy  | creation, protection, travel, trickery  | family               | light hammer |
 | Golgolgoss, The Watcher              | can choose either| death, decay, nature                    | undeath              | hatchet      |
 | The Grey Ocean                       | none             | death, repose, water, fate              | healing, introspection | trident    |
@@ -5341,7 +5402,7 @@ The various religions practiced in Elleaterra are as varied and distinct as the 
 | Gutom, the Bloody Rose               |must choose unholy| destruction, indulgence, might, nature  | earth                | bow staff    |
 | Heleniel The Sin Seeker              | must choose holy | cities, duty, protection, zeal          | none                 | bastard sword|
 | Hestora                              |can choose holy   | family, earth, fire, protection         | none                 | shears       |
-| Heures                               | can choose holy  | time, vigil, dragon, introspection     | none                 | staff        |
+| Heures                               | can choose holy  | time, vigil, dragon, introspection      | none                 | staff        |
 | The Home of Hearth and Health        | can choose holy  | family, healing, fire, protection       | none                 | spear        |
 | Kohtalo, Patron of Fate Forgers      | can choose holy  | ambition, creative, fate, zeal          | confidence           | pick         |
 | Krun Darr                            | can choose either| lightning, change, creation, destruction| dragon, might        | scorpion whip|
@@ -5362,48 +5423,73 @@ The various religions practiced in Elleaterra are as varied and distinct as the 
 ##### Table 4-1: Deities cont.
 | Diety                                | Sanctification   | Domains                                 | Alt Domains          | Weapon
 | :------------------------------------ | :---------------- | :--------------------------------------- | :--------------------: | :---------- |
-| Maiden of the Garden                 | can choose either| passion, wealth, time, luck             | none                 | shield boss|
-| Manaat al-Karim                      | can choose holy  | air, fire, dust                         | sun, freedom         | wish knife or wish blade  |
-| Mendastarum, Devourer of Truth       |must choose unholy| delirium, knowledge, magic, trickery    | glyph                | asp coil     |
-| Nesdonin                             |must choose unholy| decay, pain, plague, swarm              | death                | dagger       |
-| Nimane, the Forge Matron             | can choose holy  | creation, fire, metal, perfection       | might, toil          | longsword    |
-| Noctune                              | none             | change, moon, passion, water            | delirium             | trident      |
-| Novissime, The Orchid Reaper         |must choose unholy| death, secrecy, zeal                    | fate                 | sawtooth saber|
-| Oenos                                | can choose holy  | confidence, indulgence, luck            | none                 | fist         |
-| The Path of the Great Spirits        | can choose holy  | family, freedom, knowledge, nature      | none                 | spear |
-| Peko-Amuzo, The Trickster Prince     | can choose unholy| change, indulgence, passion, trickery   | abomination          | polytool |
-| Riahn, He who Eclipsed the Stars     |can choose either            | cities, cold, darkness, wealth          | dreams               | dagger |
-| Seraphion, the Highest Throne              | can choose holy  | duty, protection, sun, wealth     | none               | flail |
-| Sinnesh, the Den Mother              | can choose holy  | creation, earth, family, protection     | travel | light hammer |
-| Satya, the Peerless Seeker | can choose holy | truth, introspection, knowledge, change | perfection| talwar | 
-| The Eyes                             |must choose unholy| abomination, nightmare, pain, nothingness      | none                 | war razor | 
-| The Living Mandate                   | can choose either| ambition, destruction, freedom, wealth  | none                 | dueling pistol |
-| The Three Sisters                    | can choose holy  | healing, knowledge, truth, vigil        | travel               | polytool |
-| The World Weave          | can choose either  | air, earth, fire, water, metal, wood      | none              | wish knife or wish blade |
-| Trella, the Night Sky                | can choose holy  | fate, moon, stars, travel               | nothingness                 | starknife |
-| Tycheam                              | can choose either| dreams, fate, introspection, naga       | freedom, luck        | air repeater or long air repeater
-| Unmortus, The Dead Guardian          | can choose holy  | cities, protection, soul, undeath       | family               | bastard sword |
-| Veskahule       | none            | creation, fate, dreams, nightmares     | soul, change      | urumi | 
-| Xan'zyk, the First Incantation       | can choose either| ambition, destruction, glyph, magic     | none                 | stiletto pen | 
-| Xeesis                               | can choose either| darkness, protection, secrecy, trickery | fate | injection spear |
-| Zegarek                              | can choose either| confidence, death, might, nature        | earth, zeal | hongali hornbow | 
+| Maiden of the Garden                  | can choose either | passion, wealth, time, luck              | none                   | shield boss |
+| Manaat al-Karim                       | can choose holy   | air, fire, dust                          | sun, freedom           | wish knife or wish blade  |
+| Mendastarum, Devourer of Truth        |must choose unholy | delirium, knowledge, magic, trickery     | glyph                  | asp coil    |
+| Nesdonin                              |must choose unholy | decay, pain, plague, swarm               | death                  | dagger      |
+| Nimane, the Forge Matron              | can choose holy   | creation, fire, metal, perfection        | might, toil            | longsword   |
+| Noctune                               | none              | change, moon, passion, water             | delirium               | trident     |
+| Novissime, The Orchid Reaper          |must choose unholy | death, secrecy, zeal                     | fate                   | sawtooth saber|
+| Oenos                                 | can choose holy   | confidence, indulgence, luck             | none                   | fist        |
+| The Path of the Great Spirits         | can choose holy   | family, freedom, knowledge, nature       | none                   | spear       |
+| Peko-Amuzo, The Trickster Prince      | can choose unholy | change, indulgence, passion, trickery    | abomination            | polytool    |
+| Riahn, He who Eclipsed the Stars      |can choose either  | cities, cold, darkness, wealth           | dreams                 | dagger      |
+| Seraphion, the Highest Throne         | can choose holy   | duty, protection, sun, wealth            | none                   | flail       |
+| Sinnesh, the Den Mother               | can choose holy   | creation, earth, family, protection      | travel                 | light hammer|
+| Satya, the Peerless Seeker            | can choose holy   | truth, introspection, knowledge, change  | perfection             | talwar      | 
+| The Eyes                              |must choose unholy | abomination, nightmare, pain, nothingness| none                   | war razor   | 
+| The Living Mandate                    | can choose either | ambition, destruction, freedom, wealth   | none                   | dueling pistol |
+| The Three Sisters                     | can choose holy   | healing, knowledge, truth, vigil         | travel                 | polytool    |
+| The World Weave                       | can choose either | air, earth, fire, water, metal, wood     | none                   | wish knife or wish blade |
+| Trella, the Night Sky                 | can choose holy   | fate, moon, stars, travel                | nothingness            | starknife   |
+| Tycheam                               | can choose either | dreams, fate, introspection, naga        | freedom, luck          | air repeater or long air repeater
+| Unmortus, The Dead Guardian           | can choose holy   | cities, protection, soul, undeath        | family                 | bastard sword|
+| Valexia                               | must choose unholy| abomination, delirium, disorientation, sorrow | pain, creation    | kama        | 
+| Veskahule                             | none              | creation, fate, dreams, nightmares       | soul, change           | urumi       | 
+| Xan'zyk, the First Incantation        | can choose either | ambition, destruction, glyph, magic      | none                   | stiletto pen| 
+| Xeesis                                | can choose either | darkness, protection, secrecy, trickery  | fate                   | injection spear |
+| Zegarek                               | can choose either | confidence, death, might, nature         | earth, zeal            | hongali hornbow | 
 
 
 }}
 
 {{pageNumber,auto}}
 \page
+
+### Abhirash, the Final Verdict
+{{wide,columns:2
+The Final Verdict, The All Seeing Arbiter, The Living Law; Abhirash is known by many names and takes many forms but always is. He is the Law incarnate, the stern judge of the deities, meting just punishment to those both mortal and divine. Victims call upon him to find and cast down the guilty, who in turn pray for leniency before his impartial gaze. His priests are often judges and lawmakers, though more than a few are bounty hunters and roaming inquisitors. The church also keeps close ties with the faithful of Novissime, particularly in Varceta. 
+:
+As a faith steeped in law and tradition, the clergy of Abhirash have many strange rituals but most feared is their devotion to upholding punishment even beyond death. The most powerful of priests call the souls of the untried, those who fell to vigilante violence or other misfortune, back to the realm of the living to face a just trial. 
+:
+His symbol is a sword dripping blood, from which a rose blooms. His faithful often tattoo themselves with their favourite laws and unblinking eyes, their devotion observed in eternal ink.
+:
+**Edicts** obey local laws, enforce punishments, commit rules and contracts to ink, remember the dead <br>
+**Anathema** take actions with irrevocable consequences without evidence, argue in bad faith, dispense punishment outside the local legal frameworks
+
+#### Devotee Benefits  
+**Divine Font** harm or heal <br>
+**Divine Sanctification** can choose holy or unholy <br> 
+**Divine Skill** society <br>
+**Favored Weapon** bastard sword <br>
+**Domains** death, pain, vigil, zeal <br>
+**Alternate Domain** undeath, time <br>
+**Cleric Spells** 1st: sure strike, 4th: vision of death, 7th: telekinetic bombcardment <br>
+}}
+
+{{wide
+---
+}}
 ### Aelia
 {{wide,columns:2
-Aelia was one of the most worshiped gods in the world before the destruction. She was loved not only for bringing light and heat to the world daily without fail, but was also worshiped for her offers of redemption to those who asked for it. Her worshippers believe Aelia came to be at The Beginning. She started out as a floating consciousness shooting through the endless void. Aelia wished to slow down and think for some time and so she changed her form to that of a large sphere. Realizing that she could change her own form, she attempted to create other forms to accompany her and soon she had created nine other spheres of all different sizes. The void was cold, dark, and lonely though and Aelia wished to create friends to play with and as such, she implanted different personalities in them. 
-
+Aelia was one of the most worshiped gods in the world before the destruction. She was loved not only for bringing light and heat to the world daily without fail, but was also worshiped for her offers of redemption to those who asked for it. Her worshippers believe Aelia came to be at The Beginning. She started out as a floating consciousness shooting through the endless void. Aelia wished to slow down and think for some time and so she changed her form to that of a large sphere. Realizing that she could change her own form, she attempted to create other forms to accompany her and soon she had created nine other spheres of all different sizes.The void was cold, dark, and lonely though and Aelia wished to create friends to play with and as such, she implanted different personalities in them. 
+:
 Now the void wasn't lonely, but it was still cold and dark. She created a fire so bright and hot and surrounded herself with it. Now there was light and heat, but it was too much for some of her friends, and so they had to move away from her, and this formed the Solar System with Aelia as the Sun, and her friends lined up continuously going circles around her. The planets are now worshiped as other gods with Aelia as their leader. Aelia's clergy is generally very kind, passionate, warmhearted people and are known for healing those in need, no matter the personal cost, their truthfulness, and their endless patience.
 :
-**Edicts** destroy evil undead, protect the weak, provide aid to the sick and wounded, seek and allow redemption  
+**Edicts** destroy evil undead, protect the weak, provide aid to the sick and wounded, seek and allow redemption  <br>
 **Anathema** create undead, create magical darkness, lie, deny a repentant creature an opportunity for redemption, fail to strike down evil  
 
 #### Devotee Benefits  
-  
 **Divine Font** heal <br>
 **Divine Sanctification** can choose holy <br> 
 **Divine Skill** medicine <br>
@@ -5413,46 +5499,43 @@ Now the void wasn't lonely, but it was still cold and dark. She created a fire s
 **Cleric Spells** 2nd: blazing bolt, 3rd: fireball, 7th: fiery body <br>
 }}
 
+
+
+
+{{pageNumber,auto}}
+\page
+
 ### A'shir, the Fated Flame
 {{wide,columns:2
-
-A’shir was once a god of fate and time, a god of diviners, worshiped by those wishing to see a glimpse into their own futures. He worked closely with the other gods in order to keep order in the world. That is until one day A’shir revealed a grim prophecy, that he would one day turn against the gods, destroying them and all their creations. The gods quickly grew fearful of A’shirs prophecy and swiftly imprisoned him deep within the plane of fire where they thought none would ever survive long enough to set him free. For ages he was imprisoned, the flames of the realm searing his flesh, it was not long before his understanding gave way to anger. With each passing year his rage grew until it mixed with the potent magics in the realm of fire, transforming him into a beast of fire and hatred. 
-
-Still bound by divine chains, A’shir now vows to destroy the other gods and all they have made for their crimes against him.
+A’shir was once a god of fate and time, a god of diviners, worshiped by those wishing to see a glimpse into their own futures. He worked closely with the other gods in order to keep order in the world. That is until one day A’shir revealed a grim prophecy, that he would one day turn against the gods, destroying them and all their creations. The gods quickly grew fearful of A’shirs prophecy and swiftly imprisoned him deep within the plane of fire where they thought none would ever survive long enough to set him free. 
 :
-**Edicts** stoke flames, divine the future, help bring about the fated end  
+For ages he was imprisoned, the flames of the realm searing his flesh, it was not long before his understanding gave way to anger. With each passing year his rage grew until it mixed with the potent magics in the realm of fire, transforming him into a beast of fire and hatred. Still bound by divine chains, A’shir now vows to destroy the other gods and all they have made for their crimes against him.
+:
+**Edicts** stoke flames, divine the future, help bring about the fated end  <br>
 **Anathema** Put out flames, Worship other gods, attempt to escape your fate  
 
 #### Devotee Benefits  
-  
+ 
 **Divine Font** harm or heal <br>
 **Divine Sanctification** can choose unholy <br>
 **Divine Skill** occultism <br>
 **Favored Weapon** fire poi <br>
 **Domains** destruction, fate, fire, time <br>
 **Cleric Spells** 1st: ill omen, 4th: wall of fire, 6th: flame vortex <br>
-
 }}
-### Axnos
-{{wide,columns:2
-Axnos teaches that every crumbling monument and weathered relic holds a story waiting to be unveiled, a window into the past that illuminates the present and future. They serve as a patron deity for explorers and scholars, drawing a particularly devoted following among archaeologists and anthropologists. While Axnos' followers would never hesitate to extoll the virtues of study and the reading of history, Axnos is most pleased when their followers take to the field, hold the holy artifacts of civilizations in their hands, 
-
-\column
-
-partake in the rituals of those unlike themselves, and stand in the ruins that once housed heroes of an era.
-
-To read about the past is one thing, but to partake directly in it grants a knowledge of how much one shares in common with their forbearers that a book could never impart. This pursuit of the past also serves to humble many of Axnos' followers and reminds themselves they are a small footnote in the grand tapestry of civilization. In the same way they study the artifacts of the past, someone in the future 
-
+{{wide
+---
 }}
-
-{{pageNumber,auto}}
-\page
+ ### Axnos
 
 {{wide,columns:2
- 
-may study the iconography and rituals they hold dear today. Axnos' holy symbol depicts an hour glass surrounded by a serpent devouring its own tail.
+
+Axnos teaches that every crumbling monument and weathered relic holds a story waiting to be unveiled, a window into the past that illuminates the present and future. They serve as a patron deity for explorers and scholars, drawing a particularly devoted following among archaeologists and anthropologists. While Axnos' followers would never hesitate to extoll the virtues of study and the reading of history, Axnos is most pleased when their followers take to the field, hold the holy artifacts of civilizations in their hands, partake in the rituals of those unlike themselves, and stand in the ruins that once housed heroes of an era.
+:
+To read about the past is one thing, but to partake directly in it grants a knowledge of how much one shares in common with their forbearers that a book could never impart. This pursuit of the past also serves to humble many of Axnos' followers and reminds themselves they are a small footnote in the grand tapestry of civilization. In the same way they study the artifacts of the past, someone in the future may study the iconography and rituals they hold dear today. Axnos' holy symbol depicts an hour glass surrounded by a serpent devouring its own tail.
+:
 Followers pray to Axnos in the hopes of being granted opportunities to explore forgotten locales, for safety from what lurks in old ruins, to remain humble and aware of how small their part is to play in civilization's story, and to one day uncover the past with the same level of divine insight and perspective unburdened by lived experiences. By emulating Axnos' humility, thirst for knowledge, and respect for the past, their followers deeply appreciate similarities to bygone peoples, engage with the history and stories that shape the world they live in, and are more well equipped to navigate an unknown future and avoid the pitfalls past peoples fell into.
-<br>
+:
 **Edicts** unearth the veiled histories, partake in local customs, document the past, keep your curiosity unbound <br>
 **Anathema** desecrate historical sites, be intolerant of other cultures, remain willfully ignorant, spurn past societies
 
@@ -5466,10 +5549,13 @@ Followers pray to Axnos in the hopes of being granted opportunities to explore f
 **Alternate Domain** travel <br>
 **Cleric Spells** 1st: share lore, 3rd: hypercognition, 7th: retrocognition
 }}
+
+\page
 ### The Brakeman
 {{wide,columns:2
-The Brakeman started as a figure of rumor and folklore among rail workers: when an accident was avoided through seemingly miraculous means, they'd credit an anonymous "Brakeman at the switch." When misfortune befell management who had treated employees badly, it was credited to the  same figure  with "The Brakeman is watching". Over time, the superstitious invocation of the Brakeman became an actual cult, invoked to  watch over the safety of public works, those traveling by mechanical conveyance, and to bless labor movements and wildcat strikes.  Some Brakeman stories associate the figure with guiding the souls of the dead to the afterlife, gathering them aboard a phantom train as it heads towards what they dub the last stop.
 
+The Brakeman started as a figure of rumor and folklore among rail workers: when an accident was avoided through seemingly miraculous means, they'd credit an anonymous "Brakeman at the switch." When misfortune befell management who had treated employees badly, it was credited to the  same figure  with "The Brakeman is watching". Over time, the superstitious invocation of the Brakeman became an actual cult, invoked to  watch over the safety of public works, those traveling by mechanical conveyance, and to bless labor movements and wildcat strikes.  Some Brakeman stories associate the figure with guiding the souls of the dead to the afterlife, gathering them aboard a phantom train as it heads towards what they dub the last stop.
+:
 **Edicts** Protect others on vehicles, assist with large infrastructure projects<br>
 **Anathema** Trust Management, use forced labor<br>
 #### Devotee Benefits  
@@ -5482,12 +5568,17 @@ The Brakeman started as a figure of rumor and folklore among rail workers: when 
 **Alternate Domain** metal, death <br>
 **Cleric Spells** 1st: carryall, 4th: sliding blocks, 7th: heaving earth <br>
 }}
+{{wide
+---
+}}
+
 ### The Circle of Stars
 {{wide,columns:2
-The Circle of Stars is a loose pantheon of celestial deities of both day and night. It is worshipped primarily by agrarian cultures who place heavy reliance on their community’s safety. They recognize the union of the sun, moon, and stars as important as the union between seed and soil. The sun provides their crops, the night provides their rest, while the moon and stars keep them lit well enough to keep watch over their fields. Different communities and individuals may value different gods or goddesses within the pantheon differently, placing a greater emphasis on love or celebration of newcomers, or on maintaining a purifying fire in the face of the undead. Regardless, those who worship The Circle of Stars form strong bonds with those around them, and will do anything to keep them safe.
-\column
-**Edicts** foster community with bonds as bright as stars, heal the downtrodden, improve your talents for the sake of your community, celebrate your bonds regularly  
-
+The Circle of Stars is a loose pantheon of celestial deities of both day and night. It is worshipped primarily by agrarian cultures who place heavy reliance on their community’s safety. They recognize the union of the sun, moon, and stars as important as the union between seed and soil. The sun provides their crops, the night provides their rest, while the moon and stars keep them lit well enough to keep watch over their fields. 
+:
+Different communities and individuals may value different gods or goddesses within the pantheon differently, placing a greater emphasis on love or celebration of newcomers, or on maintaining a purifying fire in the face of the undead. Regardless, those who worship The Circle of Stars form strong bonds with those around them, and will do anything to keep them safe.
+:
+**Edicts** foster community with bonds as bright as stars, heal the downtrodden, improve your talents for the sake of your community, celebrate your bonds regularly  <br> 
 **Anathema** turn away a weary or wounded traveler, allow harm to come to a member of your community through negligence, maintain bonds with those who do not honor yours    
 **Pantheon Members** Aelia, Noctune, Trella
 
@@ -5501,16 +5592,16 @@ The Circle of Stars is a loose pantheon of celestial deities of both day and nig
 **Alternate Domain** travel <br>
 **Cleric Spells** 1st: protector tree, 2nd: blazing bolt, 6th: blanket of stars <br>
 }}
-
-
-{{pageNumber,auto}}
-\page
+{{wide
+---
+}}
 ### The Cheshire
 {{wide,columns:2
 
 The final goddess of an unknown pantheon. Records suggest that she was just another goddess of the end, set to reap souls. Until her rebellion, spurred by but a single question. There are claims that all she wanted was a bit of fun, a bit of variety. The rest of the pantheon, purportedly took offence. Wile the rest of the history remains murky, one thing has been ascertained… the question which started it all? The question which brings Chessie to town? "Would you please… die for me?"
 :
-**Edicts** have fun, play pranks, make jokes and enjoy yourself, always prioritise your own needs and desires <br>
+**Edicts** have fun, play pranks, make jokes and enjoy yourself, always prioritise your own needs and desires
+\column
 **Anathema** failing to fight for your freedoms, control the life and deaths of others at the behest of an institution or god, concern yourself with the plights of others to the detriment of yourself <br>
 
 #### Devotee Benefits
@@ -5523,6 +5614,10 @@ The final goddess of an unknown pantheon. Records suggest that she was just anot
 **Alternate Domain** trickery <br>
 **Cleric Spells** 1st: snowball, 4th: chroma leach, 8th: horrid wilting <br>
 }}
+
+{{pageNumber,auto}}
+\page
+
 ### Derelis
 {{wide,columns:2
 Derelis was a very ancient, powerful dragon that died many years ago. Stories tell of his crusade for justice, peace, and honor among men and dragons alike. He is a patron to good dragons and any others commited to doing the right thing.
@@ -5540,6 +5635,9 @@ Derelis was a very ancient, powerful dragon that died many years ago. Stories te
 **Alternate Domains** duty <br>
 **Cleric Spells** 1st: sure strike, 4th: reflective scales, 7th: prismatic armor <br>
 }}
+{{wide
+---
+}}
 ### Erimia
 {{wide,columns:2
 Erimia, The Wild Mother, Mother Nature, she has been called many names. She protects all that grows and all that is born from the earth.
@@ -5556,6 +5654,9 @@ Erimia, The Wild Mother, Mother Nature, she has been called many names. She prot
 **Domains** earth, nature, water, wood <br>
 **Alternate Domains** air, fire <br>
 **Cleric Spells** 1st: summon animal, 3rd: wall of thorns, 6th: rose's thorns <br>
+}}
+{{wide
+---
 }}
 ### Fah'rin, The Howling Blizzard
 {{wide,columns:2
@@ -5579,7 +5680,7 @@ Every year, as the winters of the north end, stories of the cold months find the
 ### Fayne Lightfeet
 {{wide,columns:2
 Fayne is a deity of small folk, trickery, crafting, and hospitality. In a world run by bigfolk, and even bigger monsters that cause terror and destruction, Fayne teaches small folk of all ancestries to use cunning, guile, wit, and charm. Fayne preaches to be kind but always be prepared. Fayne encourages to provide comfort to those in need, if you have plenty it is your duty to provide to those who do not. However not everyone is kind and you must be ready. Using traps, poison, or whatever else you can to protect yourself and those in your care. Fayne often stays in Elysium but travels across the planes reminding larger Deities to remain humble.
-\column
+:
 **Edicts** be skilled and clever, defend friends and the innocent, engage in mischief that doesn’t harm others, create useful or beautiful items <br>
 **Anathema** abandon a friend in need, deny someone shelter or food, suffer a bully’s insults to you or another without retort <br>
 #### Devotee Benefits
@@ -5590,6 +5691,9 @@ Fayne is a deity of small folk, trickery, crafting, and hospitality. In a world 
 **Domains** creation, protection, travel, trickery <br>
 **Alternate Domain** family <br>
 **Cleric Spells** 2nd: mirror image, 3rd: haste, 4th: creation <br>
+}}
+{{wide
+---
 }}
 ### Golgolgoss, The Watcher
 {{wide,columns:2
@@ -5605,6 +5709,9 @@ Some say Golgolgoss came from the first sunbleached skull, others say they sprou
 **Domains** death, decay, nature<br>
 **Alternate Domain** undeath<br>
 **Cleric Spells** 1st: summon plant or fungus, 4th: bursting bloom, 6th: tangling creepers<br>
+}}
+{{wide
+---
 }}
 ### The Grey Ocean
 {{wide,columns:2
@@ -5641,6 +5748,9 @@ Gunvald is one of the first gods and a somewhat enigmatic figure. He is the god 
 **Domains** duty, freedom, might, protection<br>
 **Cleric Spells** 1st: anticipate peril, 3rd: perseis' precaution, 7th: contingency
 }}
+{{wide
+---
+}}
 ### Gutom, The Bloody Rose
 {{wide,columns:2
 The Bloody Rose is less of a god and moreso an entity that demands worship — an amalgamation of carnivorous plants and predatory animals seething with malice and blight in equal measure. When it goes unmaintained, crops wither, oceans rise, and hideous things crawl from the depths caked in black loam to enact its vengeance upon an innocent world. Its priests include crazed leshies and dryads bursting with putrefaction and vegetative tumors, a hollow sort of glee moving in their eyes. Some others, living in harsh and dangerous regions like Briarmurk, simply worship The Bloody Rose in hopes of gaining even a shred of its might. Is this truly divinity, or some monstrous parasite readying to burst from under the earth?
@@ -5658,6 +5768,9 @@ The Bloody Rose is less of a god and moreso an entity that demands worship — a
 **Alternate Domain** earth<br>
 **Cleric Spells** 1st: summon plant or fungus, 4th: murderous vine, 6th: nature's reprisal
 }}
+{{wide
+---
+}}
 ### Heleniel, The Sin Seeker
 {{wide,columns:2
 Heleniel is a beacon of hope for those who have lost all. She protects the weak and absent, and encourages her faithful to fulfill their duty in doing the same. She represents balance and justice. She is a favorite of those with little means, and is at the heart of new civilizations and their expansion. Her symbol is an eye and a bleeding dagger.
@@ -5672,13 +5785,15 @@ Heleniel is a beacon of hope for those who have lost all. She protects the weak 
 **Domains** cities, duty, protection, zeal<br>
 **Cleric Spells** 1st: liberating command, 4th: mountain resilience, 7th: planar palace
 }}
+{{wide
+---
+}}
 ### Hestora
 {{wide,columns:2
 Hestora is a deity of the home, of earth and flames. She grants guidance to those who wish to provide safety and rest to others. She prefers to let her actions, and food speak for her. Stories say Hestora was formed from the ashes of the first flames. It was there she built the first fireplace and where she calls home. Inviting all for safety and comfort.
 :
-**Edicts** appreciate a warm hearth, protect the home, teach communities to defend themselves, harvest with skill<br>
-\column
-**Anathema** deny support to loved ones, sow discord in a community, allow harm to come to children, refuse to provide for the family or community<br>
+**Edicts** appreciate the  hearth, protect the home, teach communities to defend themselves, harvest with skill<br>
+**Anathema** deny support to loved ones, sow discord in a community, allow harm to come to children, refuse to provide for your family or community<br>
 #### Devotee Benefits
 **Divine Font** heal<br>
 **Divine Sanctification** can choose holy<br>
@@ -5703,12 +5818,14 @@ Heures is the dragon deity that possesses the wisdom of ages. Heures is said to 
 **Domains** time, vigil, dragon, introspection<br>
 **Cleric Spells** 1st: friendfetch, 3rd: time jump, 5th: stagnate time
 }}
+{{wide
+---
+}}
 ### The Home of Hearth and Health
 {{wide,columns:2
 The Home of Hearth and health is a pantheon envisioning the three members as a family of siblings. The home is a chaotic place made up of individuals with different opinions and goals but when all members of a home work together to create a safe and positive place to live then all can flourish. Worshippers take this idea and try to embody it in their home and communities. Worshippers of the home foster growth and empathy while also protecting the home from cruelty and threats. The faith of The Home forms both in places surrounded by comfort and those in need of it.
 :
 **Edicts** provide aid to the sick and wounded, teach communities to defend themselves, defend friends and the innocent, appreciate a warm hearth<br>
-\column
 **Anathema** allow harm to come to children, deny someone shelter or food, deny support to loved ones, create undead<br>
 **Members** Aelia, Fayne Lightfeet, Hestora
 
@@ -5720,10 +5837,13 @@ The Home of Hearth and health is a pantheon envisioning the three members as a f
 **Domains** family, healing, fire, protection<br>
 **Cleric Spells** 1st: ant haul, 3rd: haste, 5th: elemental gift
 }}
+{{wide
+---
+}}
 ### Kohtalo, Patron of Fate Forgers
 {{wide,columns:2
-Kohtalo is the goddess of ambitious souls. One of the oldest and initially, most obscure Goddesses, through her own efforts and the efforts of her followers she's gained greater recognition. Kohtalo was a Goddess of dreams, often overshadowed by other deities, but through completing a set of several challenges and tasks she was granted greater influence. Through this experience she gained an appreciation for ambition. She blesses those who seek to forge their own fate and defy the odds, especially underdogs. Unlike many deities that effect fate, she gets a great deal of amusement from those who don't accept their fate, often putting her end goals and involvement in the lives of mortals at odds with other fate deities. Kohtalo's favored weapon is the pick, signifying the desire to create a new life and path for oneself. She resents anyone who chooses a life of complacency or takes advantage of those weaker then themselves as it poses no challenge and doesn't better anyone.
-\column
+Kohtalo is the goddess of ambitious souls. One of the oldest and initially, most obscure Goddesses, through her own efforts and the efforts of her followers she's gained greater recognition. Kohtalo was a Goddess of dreams, often overshadowed by other deities, but through completing a set of several challenges and tasks she was granted greater influence. Through this experience she gained an appreciation for ambition. She blesses those who seek to forge their own fate and defy the odds, especially underdogs. Unlike many deities that effect fate, she gets a great deal of amusement from those who don't accept their fate, often putting her end goals and involvement in the lives of mortals at odds with other fate deities. Kohtalo's favored weapon is the pick, signifying the desire to create a new life and path for oneself. She resents anyone who chooses a life of complacency or takes advantage of those weaker then themselves as it poses no challenge and doesn't better anyone. <br>
+:
 **Edicts** better yourself by your own efforts, pursue fame and glory for your achievements, crafting, reward yourself for your achievements.<br>
 **Anathema** abandoning projects or work, accepting charity, victimizing the weak or helpless, accepting bad circumstances, complacency or not having an ambitious life goal<br>
 #### Devotee Benefits
@@ -5753,6 +5873,9 @@ Not a particularly well-known deity, Krun Darr is nevertheless deeply respected 
 **Alternate Domain** dragon, might<br>
 **Cleric Spells** 1st: shocking grasp, 3rd: lightning bolt, 6th: chain lightning
 }}
+{{wide
+---
+}}
 ### Kujani
 {{wide,columns:2
 One of the eldest gods known to civilization, Kujani believes that he and his fellow divines have no more authority over souls than mortals do. Although he participated in the creation of mortal life, Kujani abandoned his children shortly after, leaving them with nothing but a decree that they should live to improve themselves for their own sakes, and a promise that he would free them in the afterlife for doing so. Kujani has never answered a prayer, performed any miracles, or attempted to reach out to his followers in any way (beyond his last decree), believing mortal autonomy to be more sacred than his own power and influence. His clerics do not draw their powers directly from Kujani, but from a wellspring inside themselves that Kujanite philosophy unlocks. It is said than when a mortal dies, their soul stands before Kujani as he administers final judgment. Souls who dedicated their lives to the development of mortalkind are awarded eternal freedom from the whims of the gods, while souls who consigned themselves to divine enslavement are abandoned by Kujani, to be fought over by the other deities.
@@ -5768,9 +5891,12 @@ One of the eldest gods known to civilization, Kujani believes that he and his fe
 **Alternate Domain** dust<br>
 **Cleric Spells** 1st: endure, 4th: mountain's resilience, 7th: contingency<br>
 }}
+{{wide
+---
+}}
 ### Levona, Duchess of Hell
 {{wide,columns:2
-The Duchess of Hell worked her way through the ranks, proving to all with the right deals power can be grasped. However, though power can be grasped, Levona keeps a tight grip on Hell, showing no mercy to those that would attempt to wrest it from her.
+The Duchess of Hell worked her way through the ranks, proving to all with the right deals power can be grasped. However, though anyone can rise through the ranks, Levona keeps a tight grip on Hell, showing no mercy to those that would attempt to wrest power from her.
 :
 **Edicts** come out ahead in contracts, show no mercy to those beneath your station, be subservient to those above you<br>
 **Anathema** break a contract, show mercy, insult Levona in any way<br>
@@ -5798,6 +5924,9 @@ Specific doctrine on this divine being is lacking since the end of the world, ev
 **Domains** change, healing, magic, protection<br>
 **Cleric Spells** 1st: soothe, 4th: containment, 6th: wall of force
 }}
+{{wide
+---
+}}
 ### Luxandra, The Everbloom
 {{wide,columns:2
 Before destruction befell Elleaterra, Luxandra was the matron goddess to artists, performers, and lovers the world over. Since the end times, her followers have clung to hope that she still hears them, giving them the inspiration to still create even though the world is bleak. She revealed herself commonly through a well placed brush stroke, an impeccably put together outfit, or through acts of true love. Her followers, few as they may be now, still hold to these ideals so that the Everbloom may once again brighten their lives.
@@ -5811,6 +5940,9 @@ Before destruction befell Elleaterra, Luxandra was the matron goddess to artists
 **Favored Weapon** longbow<br>
 **Domains** creation, passion, protection, zeal<br>
 **Cleric Spells** 1st: dizzying colors, 4th: creation, 5th: cloak of colors
+}}
+{{wide
+---
 }}
 ### Lysanthyr, The Unending Delight
 {{wide,columns:2
@@ -5845,6 +5977,9 @@ Long ago the Great and Noble Janni Manaat al-Karim established a grand city in t
 **Domains** air, fire, dust<br>
 **Alternate Domains** sun, freedom<br>
 **Cleric Spells** 2nd: invisibility, 4th: airlift, 7th: fiery body
+}}
+{{wide
+---
 }}
 ### Maiden of the Garden
 {{wide,columns:2
@@ -5881,6 +6016,9 @@ The followers of Mendastarum never say his name directly, instead claiming the n
 **Alternate Domains** glyph<br>
 **Cleric Spells** 1st: pocket library, 3rd: secret page, 4th: rewrite memory
 }}
+{{wide
+---
+}}
 ### Nesdonin
 {{wide,columns:2
 Nesdonin is the bringer of plagues and poisons. It appears as swarms of snakes, insects, rats, and other beings that bring pestilince or venom. It was worshipped by many cults across Elleaterra. People would also give offerings and prayers in hopes that it would spare them from dying to disease and sickness.
@@ -5895,6 +6033,9 @@ Nesdonin is the bringer of plagues and poisons. It appears as swarms of snakes, 
 **Domains** decay, pain, plague, swarm<br>
 **Alternate Domains** death<br>
 **Cleric Spells** 1st: goblin pox, 2nd: vomit swarm, 5th: toxic cloud
+}}
+{{wide
+---
 }}
 ### Nimane, The Forge Matron
 {{wide,columns:2
@@ -5929,6 +6070,9 @@ As fickle as the tides he created, Noctune is a god who favors himself and not m
 **Alternate Domain** delirium<br>
 **Cleric Spells** 1st: hydraulic push, 3rd: aqueous orb, 5th: mariner's curse
 }}
+{{wide
+---
+}}
 ### Novissime, The Orchid Reaper
 {{wide,columns:2
 The god of assassins, Novissime is a well known deity in what was once the nation of Varceta. Their followers were known for their swords with blood-red handles and sharp blades. Some stories claim that Novissime became a deity by slaying another, known only as ‘The Orchid’, by using his razor sharp legs as weapons in a peaceful meeting. Due to their brutal nature, they are equal parts respected and feared, as their agents aim to uphold the image that the deity has earned. Novissime, however, is not a chaotic god and while they have a brutal side, they are also an intelligent deity, thinking before acting so as not to regret his decision.
@@ -5944,9 +6088,12 @@ The god of assassins, Novissime is a well known deity in what was once the natio
 **Alternate Domain** fate<br>
 **Cleric Spells** 1st: sure strike, 2nd: invisibility, 7th: true target
 }}
+{{wide
+---
+}}
 ### Oenos
 {{wide,columns:2
-When the ancient world discovered alchohol, Oenos took his first drink. When the first songs were sung, Oenos applauded the loudest. Indeed it seems that as long as there has been merrymaking he has been there to enjoy it, even the oldest of races tells storys of a bronze skinned man who exemplefies the life of the party. Oenos' following has never seemed powerful, or organized, though you would be hard pressed to find a tavern without his likeness somewhere. His teachings, of which there are many, center around being a gracious host and a grateful guest as has always been his way. These teachings seemingly passed down at random as priests encountered the god in varying states of drunkeness who only realized who had spoken it after they awoke the next day. This manner of divine intervention has always frustrated other more organized religions, some of which attribute the god to drunken hallucinations of innebriated priests and partygoers.
+When world discovered alchohol, Oenos drank first. When the first songs were sung, Oenos applauded the loudest. As long as there has been merrymaking Oenos has celebrated. Oenos' following has never seemed powerful, or organized, though you would be hard pressed to find a tavern without his likeness. His teachings, of which there are many, center around being a gracious host and a grateful guest. His teachings were passed down at random, as priests encountered their drunken god andonly realized who had spoken after they awoke the next day. This manner of divine intervention has always frustrated other more organized religions, some of which attribute the god to drunken hallucinations of innebriated priests and partygoers.
 :
 **Edicts** drink, contribute to the party, give sanctuary and sustenance to any who ask in good faith<br>
 **Anathema** refuse the hungry or poor, waste food or alchohol, be rude or disruptive to the host.<br>
@@ -5963,12 +6110,10 @@ When the ancient world discovered alchohol, Oenos took his first drink. When the
 \page
 ### The Path of the Great Spirits
 {{wide,columns:2
-"The Great Spirits" refers to an ancient deity whose name has long been forgotten and is now called by this collective title. The practice of worshiping them is referred to as "walking the path" and is mostly worshiped by tribal communities and those with more animist and ancestral worshiping tendencies that rely on the wisdom of those who have passed.
-
-Those who dedicate themselves to walking the path of the Great Spirits see themselves as indistinguishable from the flora and fauna around them, and are therefore one with their ancestors buried in the lands on which they live. Since the Cataclysm, the survivors of those who walk the path have dedicated themselves to restoring the world to its natural balance and the return of others to their rightful ancestral lands.
+"The Great Spirits" refers to an ancient deity whose name has long been forgotten. The practice of worshiping them is referred to as "walking the path" and is most common in tribal communities, with animists, and ancestral worship that venerates the wisdom of those who have passed. Those who dedicate themselves to walking the path see themselves as indistinguishable from the flora and fauna around them, and are therefore one with their ancestors buried in the lands on which they live. Since the Cataclysm, the survivors of those who walk the path have dedicated themselves to restoring the world to its natural balance and the return of others to their rightful ancestral lands.
 :
-**Edicts** perform rites and rituals for the dead, teach others how to live in balance with nature, create ancestral records, resist illegitimate claims to land or power<br>
-**Anathema** disturb the graves of others, needlessly destroy natural resources, intentionally destroy ancient relics, deny your connection to a lineage, deny others the right to choose<br>
+**Edicts** perform rites and rituals for the dead, teach others to live in balance with nature, create ancestral records, resist illegitimate claims to land or power <br>
+**Anathema** disturb a grave, needlessly destroy natural resources, intentionally destroy ancient relics, deny your connection to a lineage, deny others the right to choose <br>
 #### Devotee Benefits
 **Divine Font** harm or heal<br>
 **Divine Sanctification** can choose holy<br>
@@ -5977,10 +6122,12 @@ Those who dedicate themselves to walking the path of the Great Spirits see thems
 **Domains** family, freedom, knowledge, nature<br>
 **Cleric Spells** 1st: object reading, 2nd: speak with animals, 7th true target
 }}
+{{wide
+---
+}}
 ### Peko-Amuzo, The Trickster Prince
 {{wide,columns:2
-Self-proclaimed prince of everything that is, was, and will be fun in this world, Peko-Amuzo is the "son" of a terrifying amount of different fiends. Or so he says. How he was conceived remains a mystery, but this amalgamation of different kinds of evil has made him mighty and utterly chaotic — so much so that his power steadily decreases whenever he isn't entertained. Therefore, he often tries to switch things up. That is the reason why he enjoys creation so much: there's always something new and exciting to make! While he may seem somewhat reasonable at first, helpful, even, it turns out that he only gives his knowledge to those who will either entertain him greatly, or who simply have ill intent and will cause trouble.
-
+Self-proclaimed prince of everything that is, was, and will be fun in this world, Peko-Amuzo is the "son" of a terrifying amount of different fiends. Or so he says. How he was conceived remains a mystery, but this amalgamation of different kinds of evil has made him mighty and utterly chaotic — so much so that his power steadily decreases whenever he isn't entertained. That is the reason why he enjoys creation so much: there's always something new and exciting to make! While he may seem somewhat reasonable or even helpful at first, it turns out that he only gives his knowledge to those who will either entertain him greatly, or who simply have ill intent and will cause trouble.
 He has declared being quarter-demon, which is partly why he was mostly worshipped in Garn. Whether this is accurate is uncertain — after all, he also claims to be the creator of many things like trees, hedonism, or even pancakes, but that is most likely a tactic to draw the ire of many — one of his favorite hobbies.
 :
 **Edicts** Gossip, live a hedonistic existence, summon fiends<br>
@@ -5994,9 +6141,10 @@ He has declared being quarter-demon, which is partly why he was mostly worshippe
 **Alternate Domain** abomination<br>
 **Cleric Spells** 1st: agitate, 4th: translocate, 5th: synesthesia
 }}
+\
 ### Riahn, He Who Eclipses the Stars
 {{wide,columns:2
-Riahn, twin deity to Trella, was once known as the God of the South Star. His role in the sky was to offer alternate paths of travel to Trella, but over time people viewed Trella as the guiding star, causing him to be viewed as the star that would lead travellers astray. One day, the South Star no longer gave its light, leaving a void in the sky. Riahn is still there, watching, but as he moves through the sky, he sometimes eclipses the light of the other stars, going unnoticed by many but for the few who worship him this is seen as a good omen. Worshippers of Riahn typically involve those who act unseen, but are most definitely there, doing backdoor deals and looking for that which is hidden in the dark.
+Riahn, twin to Trella, was once known as the God of the South Star, offering alternate paths to travellers. Over time, Trella become the guiding star, leading many to see Riahn as a false star. One day, the South Star's light disappeared, leaving a void in the sky. Riahn's believers know he still watches, seeing omens in that void occaisonally eclipsing the light of other stars. Riahn's worshippers are commonly those who act unseen and hidden in the dark. 
 :
 **Edicts** find hidden secrets, make and uphold deals, hide your worship, help those in need.<br>
 **Anathema** stealing from those with little wealth, selling secrets, not upholding a deal, giving up on your comrades.<br>
@@ -6013,8 +6161,9 @@ Riahn, twin deity to Trella, was once known as the God of the South Star. His ro
 \page
 ### Seraphion, The Highest Throne
 {{wide,columns:2
-The prince fretting over his upcoming betrothal, the noble diligently hearing the pleas of their subjects at court, and the queen charging to battle to defend her nation - all do so at the whim of Seraphion’s divine decree. Deity of opulence, gems, and nobility, Seraphion teaches that those in power must wield it with wisdom and grace, and for the betterment of all their subjects.
-From their shining throne at the apex of The Resplendent Court, Seraphion garbs themselves in glittering gems and golden robes; the perfect depiction of noble bearing. But while this opulence allows them to shine bright above their subjects, it is also a reminder of the weight of responsibility those in power must bear. Each gem reflects the dreams of their faithful and each carefully woven thread, the destiny of a nation. The Highest Throne’s worship reached far across Elleterra prior to the cataclysm. Within grand halls the aristocracy dutifully tended to shrines to their glory, within the streets the common folk brought offerings to their priests to bring the people's plight to the ears of the nobility. Only the most corrupt and decadent nations denied The Highest Throne their due, so entrenched were their edicts in people’s lives.<br>
+The prince fretting over his upcoming betrothal, the noble diligently hearing the pleas of their subjects, and the queen charging to battle - all do so at the whim of Seraphion’s divine decree. Deity of opulence, gems, and nobility, Seraphion teaches that those in power must wield it with wisdom and grace. 
+From their shining throne at the apex of The Resplendent Court, Seraphion garbs themselves in glittering gems and golden robes; the perfect depiction of noble bearing. while this opulence allows them to shine bright above their subjects, it is also a reminder of the weight of responsibility those in power must bear. Each gem reflects the dreams of their faithful and each carefully woven thread, the destiny of a nation. The Highest Throne’s worship reached far across Elleterra prior to the Cataclysm. Within grand halls the aristocracy dutifully tended shrines to their glory, on the streets common folk brought offerings to bring the people's plight to the ears of the nobility. Only the most corrupt and decadent nations denied The Highest Throne their due, so entrenched were their edicts in people’s lives.<br>
+:
 **Edicts** take pride in your appearance, wear gemstones, consider the needs of those you have authority over, accept responsibility for your actions<br>
 **Anathema** refuse to listen to someone's point of view, disrespect a gemstone, deny support to those under your care, neglect your duty to those you serve<br>
 #### Devotee Benefits
@@ -6025,9 +6174,12 @@ From their shining throne at the apex of The Resplendent Court, Seraphion garbs 
 **Domains** duty, protection, sun, wealth<br>
 **Cleric Spells** 1st: shattering gem, 4th: chromatic ray, 6th: wall of metal
 }}
+{{wide
+---
+}}
 ### Sinnesh, The Den Mother
 {{wide,columns:2
-The Den Mother is an ancient being who originally gained power due to the worship of warren dwelling Ysoki. She is a deity of earth, family, and crafting, usually depicted as either a matronly Ysoki woman or as a massive subterranean rat. Though still somewhat of a patron diety to many Ysoki clans, she has also become popular with all folk who live or travel beneath the surface, mine and utilize underground resources, or value strong familial ties. Her holy symbol is a rat, curled up sleeping in a snug den. <br>
+The Den Mother is an ancient being who originally gained power due to the worship of warren dwelling Ysoki. She is a deity of earth, family, and crafting, usually depicted as either a matronly Ysoki woman or as a massive subterranean rat. Though still a patron diety to many Ysoki clans, she has also become popular with all folk who live or travel beneath the surface, mine and utilize underground resources, or value strong familial ties. Her holy symbol is a rat, curled up sleeping in a snug den. <br>
 **Edicts** respect natural caves and underground spaces, value the knowledge of your elders, utilize the resources you gather, assist underground travellers <br>
 **Anathema** end the life of a child, let precious minerals or metals go to waste, abandon a family member who cherishes and respects you <br>
 #### Devotee Benefits
@@ -6039,12 +6191,12 @@ The Den Mother is an ancient being who originally gained power due to the worshi
 **Alternate Domain** travel<br>
 **Cleric Spells** 1st: shattering gem, 3rd: earthbind, 5th: wall of stone
 }}
-
+{{wide
+---
+}}
 ### Satya, the Peerless Seeker
 {{wide,columns:2
-Satya was once a mortal ascetic, a human devoted to the concept of objective truth and self-rule. In his enlightenment, and subsequent ascension, he learned the most valuable truth: that there is no objective truth. There is only the truth of the individual, each person has their own truth, and it is folly to peddle the lie of an ‘objective’ truth. Satya also learned a second truth: that despite there being no objective truth, the truth is still an absolute value of our reality.
-Ever since his ascension, Satya’s godly overview remains in his mortal devotion, reigning as a god of Truth, Complete Self-Rule, and Harmony. As the strict pursuit of the truth leads to self-rule and harmony of one's self and environment. The clergy of Satya traditionally use their pursuit of truth to collect and spread lost knowledge, teach others beneficial concepts that they otherwise wouldn’t know, and lastly, defend the world from those who seek to desecrate the truth with petty lies.
-Satya’s monks traditionally carry a holy symbol shaped into a circular mirror with engraved Chrysanthemums.  <br> 
+Satya was once mortal, a human devoted to the concept of objective truth and self-rule. In his enlightenment and subsequent ascension, he learned the most valuable truth: that there is no objective truth. There is only the truth of the individual, and it is folly to peddle the lie of an ‘objective’ truth. Satya also learned a second truth: that despite there being no objective truth, the truth is still an absolute value of our reality. Satya’s godly overview remains in his mortal devotion, reigning as a god of Truth, Complete Self-Rule, and Harmony. The clergy of Satya use their pursuit of truth to collect and spread lost knowledge, teach others beneficial concepts, and defend the world from those who seek to desecrate the truth with petty lies. His holy symbol is a circular mirror engraved with chrysanthemums. <br> 
 **Edicts** Find your personal truth, look within yourself and hone your mind, body and spirit, Seek and undo as much misinformation whenever possible.<br>
 **Anathema** Threaten another to accept the truth, willingly spread misinformation or hide your truth, let your desires cloud your mind/practice hedonism <br>
 #### Devotee Benefits
@@ -6073,7 +6225,9 @@ Lurking in the deepest reaches of the sea, The Eyes watch, The Eyes wait. The Ey
 **Domains** abomination, nightmare, pain, nothingness <br>
 **Cleric Spells** 2nd: paranoia, 4th: vision of death, 7th: mask of terror
 }}
-
+{{wide
+---
+}}
 ### The Living Mandate
 {{wide,columns:2
 The Living Mandate is an unseen manifestation of mortals' rejection of the natural world and all it entails. They have existed since the start of the very first civilization to stray from the wilds, to carve its place unto the world and rise above the rest, growing as more and more have followed. Called by many names or philosophies they exist as an ideal or guiding deity in various cultures. Long ago, many believed that they watched over all civilization, ensuring progress at any cost. Though lacking any major allegiances, they heavily favour those who seek to innovate, to change, to seize their destiny. They have come to be characterized by ambition, progress and liberty. However, there are always two sides to a coin and with unrestricted progress comes greed, destruction, war and more. Still, always, The Living Mandate always sides with unrestricted advancement regardless of consequences. Now their worshippers include a variety of individuals from all backgrounds, good or bad, each seeking to manifest their destiny.
@@ -6087,6 +6241,9 @@ The Living Mandate is an unseen manifestation of mortals' rejection of the natur
 **Favored Weapon** dueling pistol<br>
 **Domains** ambition, destruction, freedom, wealth<br>
 **Cleric Spells** 1st: liberating command, 4th: translocate, 7th: planar palace
+}}
+{{wide
+---
 }}
 ### The Three Sisters
 {{wide,columns:2
@@ -6133,6 +6290,9 @@ Few followers of The World Weave can truly claim to perfectly balance their resp
 **Domains** air, earth, fire, water, metal, wood<br>
 **Cleric Spells** 2nd: elemental zone, 4th: elemental gift, 7th: energy aegis
 }}
+{{wide
+---
+}}
 ### Trella, The Night Sky
 {{wide,columns:2
 Trella is a lesser-known deity of thoughtful travel. She encompasses the inky black and starlight of the night sky. Trella provides navigation for the lost. Her guidance directs travelers and enlightens minds. Her moving the moon and stars in the sky remind us to move and explore existence. Her celestial patterns provide insight into the future directions of the world. Worshippers of Trella come from many walks of life but all have a thirst for exploration and self-improvement.
@@ -6168,7 +6328,9 @@ Some may think Tycheam is nothing but soothing little lies, inviting complacency
 **Alternate Domain** freedom, luck <br>
 **Cleric Spells** 1st: soothe, 3rd: sea of thought, 7th: indolent haze
 }}
-
+{{wide
+---
+}}
 ### Unmortus, The Dead Guardian
 {{wide,columns:2
 Often depicted as a soldier armored in skulls and bones and a sword with his blade between his feet, Unmortus is revered as the god of eternal vigilance and the one who never fell. Long ago, in the beginnings of civilization, he was worshipped as a god of protection and the homeland and the protector of the heavens. He was restless and unyielding to his duty to the heavens, right until his unfortunate demise against a forgotten enemy. However, from his death, he rose again and kept his watch in unlife. Unfortunately, due to his new undead nature, his name fell into obscurity, with only a few nations knowing of him. Regardless, he keeps his vigil, even if the gods or mortals he protects despise him due to his nature.
@@ -6189,13 +6351,28 @@ His followers pledge their soul to the defense of their nation, and connect it t
 {{pageNumber,auto}}
 \page
 
-
+### Valexia, the Flesh Crafter
+{{wide,columns:2
+Once a mortal priestess renowned for her medical prowess, her practice became an obsession after the loss of a loved one. An intrigue into physiology and how to enhance, preserve, or renew a mortal's condition grew, until she began incorporating darker magic to achieve the results she longed for. Shortly thereafter she was excommunicated from society with a penance of death, her eagerness and inquisitive ambition propelling her forward until obtaining a deific status. Referred to as crazy, delusional or unnatural; her mentality barricaded the negative inquiries in order to pave the way for self-preservation. She transfigured her own form beyond the commonly perceived mortal shackles, standing as a beacon for others pursuing transcendence. 
+:
+**Edicts** Encourage the development or mutation of physiology, embrace grief or pain as constructive lessons, delight in the freedom of not being in control  <br>
+**Anathema** Speak of sorrow or pain in a negative way, discriminate based on physical appearance, curb your research due to other's opinions. <br>
+#### Devotee Benefits
+**Divine Font** harm <br>
+**Divine Sanctification** must choose unholy<br>
+**Divine Skill** medicine<br>
+**Favored Weapon** kama<br>
+**Domains** abomination, delirium, disorientation, sorrow<br>
+**Alternate Domain** creation, pain <br>
+**Cleric Spells** 3rd: moth's supper, 5th grisly growths, 7th: visions of danger
+}}
+{{wide
+---
+}}
 ### Veskahule
 {{wide,columns:2
-As the essence of both dreams and nightmares flowed from the Material Plane into the Astral Plane lacking guidance or a destination, they coalesced into the form of a massive worm. The wants, thoughts, and wishes of innumerable living creatures giving birth to a creature of insatiable appetite for desire and change. As time passed, its power grew, and the name of Veskahule spread throughout the planes. To this day, those that struggle to interpret their dreams or nightmares pray to it, seeking guidance on how to proceed with seemingly gifted and unforeseen knowledge. Those that praise change or decide fate through their own interpretation will also seek it out in hopes of a better future.  
-
-\column
-
+As the essence of dreams and nightmares flowed from the Material Plane into the Astral Plane, they coalesced into the form of a massive worm. The wants, thoughts, and wishes of innumerable living creatures gave birth to a creature of insatiable appetite for change. As time passed, its power grew, and the nameVeskahule spread throughout the planes. Those that struggle to interpret their dreams pray to it, seeking guidance on how to proceed with gifted and unforeseen knowledge. Those that praise change or decide fate through their own interpretation will seek it out in hopes of a better future.
+:
 **Edicts** Assist in making dreams or nightmares become reality, encourage the manifestation of new ideas or growth, make efforts to decide your own fate and allow dreams or nightmares to guide you <br>
 **Anathema** Willingly relinquish your fate to someone else, dismiss dreams and nightmares as invaluable, discourage growth or change in any aspect. <br>
 #### Devotee Benefits
@@ -6207,10 +6384,12 @@ As the essence of both dreams and nightmares flowed from the Material Plane into
 **Alternate Domain** change, soul <br>
 **Cleric Spells** 3rd: hypnotize, 4th vision of death, 7th: warp mind
 }}
-
+{{wide
+---
+}}
 ### Xan'Zyk, the First Incarnation
 {{wide,columns:2
-When the first spell was uttered and the first runes were cast it created neither fire nor force; it created Xan’Zyk. As the first incantation entered the world, it did so in an avalanche of magical energy so potent that the spell itself gained not only sentience but also divinity. Xan’Zyk, named after the first two syllables of the primordial spell which birthed them, is the pursuit of magical power incarnate. They seek only to see magic used with little regard to the purpose it serves. They are just as content to see a fireball engulf a town square as they are to see a tyrannical lich disintegrated to ash. All spells are prayers to Xan’Zyk and it is said that with every spell uttered and every new ritual discovered their power expands. They are most commonly depicted as an ornate magical sigil or alternatively a spellbook shimmering with prismatic light. Xan’Zyk accepts the worship of any who can cast spells of their own power, however wizards in particular naturally gravitate towards The First Incantation. Legends claim that should the entirety of the incantation which birthed Xan’Zyk be uttered once more, they along with all spells which have followed them, would be undone.
+When the first spell was uttered and the first runes were cast it created neither fire nor force; it created Xan’Zyk. The first incantation entered the world in an avalanche of magic so potent that the spell itself gained sentience and divinity. Xan’Zyk, named after the first two syllables of that first spell, is the pursuit of magical power incarnate. They seek only to see magic used, just as content to see a fireball engulf a town square as a lich disintegrated to ash. All spells are prayers to Xan’Zyk, expanding their power. They are depicted as an ornate magical sigil or a spellbook shimmering with prismatic light. Xan’Zyk accepts the worship of any who can cast spells of their own power. Legends claim that should the entirety of the incantation which birthed Xan’Zyk be uttered once more, they along with all spells which have followed them would be undone.
 :
 **Edicts** strive to gain magical power, research new spells and rituals, use magic to solve problems<br>
 **Anathema** curtail magical research, destroy magical knowledge or spells, refuse to let another learn a spell from you<br>
@@ -6240,6 +6419,9 @@ A relatively unkown deity, Xeesis is a god of secrets and hidden knowledge. They
 **Domains** darkness, protection, secrecy, trickery<br>
 **Alternate Domain** fate<br>
 **Cleric Spells** 2nd: invisibility, 3rd: oneiric mire, 5th: synesthesia
+}}
+{{wide
+---
 }}
 ### Zegarek
 {{wide,columns:2
@@ -6277,6 +6459,7 @@ Zegarek was most often followed by the more bold of the hunters from the earlier
 - #### [{{ Getting Started}}{{ 5}}](#p5)
 - #### [{{ Covalon Adventures}}{{ 5}}](#p5)
 - #### [{{ Covalon Creative Works Policy}}{{ 6}}](#p6)
+- #### [{{ Covalon AI Policy}}{{ 6}}](#p6)
 - ### [{{ Chapter 2: Character Creation}}{{ 7}}](#p7)
 - #### [{{ Character Creation Rules}}{{ 7}}](#p7)
 - #### [{{ Character Backstory}}{{ 8}}](#p8)
@@ -6352,81 +6535,84 @@ Zegarek was most often followed by the more bold of the hunters from the earlier
   - [{{ The Stouthearts}}{{ 77}}](#p77)
   - [{{ The Green Knights of the Square}}{{ 78}}](#p78)
   - [{{ The Sundered Circle}}{{ 78}}](#p78)
-- #### [{{ Pre-Cataclysm Civilizations}}{{ 79}}](#p79)
-  - [{{ Alatar}}{{ 79}}](#p79)
-  - [{{ Armed Steppes}}{{ 80}}](#p80)
-  - [{{ The Briarmurk}}{{ 80}}](#p80)
-  - [{{ Drifthaven}}{{ 81}}](#p81)
-  - [{{ The Fey Courts}}{{ 82}}](#p82)
-  - [{{ Garn}}{{ 83}}](#p83)
-  - [{{ Gornlar}}{{ 83}}](#p83)
-  - [{{ Ikouga}}{{ 84}}](#p84)
-  - [{{ Kuraimori (暗い森)}}{{ 86}}](#p86)
-  - [{{ Middlemist}}{{ 86}}](#p86)
-  - [{{ The Misty Shores}}{{ 87}}](#p87)
-  - [{{ Ostengrad}}{{ 87}}](#p87)
-  - [{{ Primrose}}{{ 88}}](#p88)
-  - [{{ Pudersnö}}{{ 89}}](#p89)
-  - [{{ Ratchethallow}}{{ 90}}](#p90)
-  - [{{ Taltain}}{{ 92}}](#p92)
-  - [{{ Tarunga}}{{ 93}}](#p93)
-  - [{{ Tymoria}}{{ 93}}](#p93)
-  - [{{ The Kingdom of Varceta}}{{ 94}}](#p94)
-  - [{{ Verndhelt}}{{ 95}}](#p95)
-  - [{{ The Kingdom of Vyrm}}{{ 96}}](#p96)
-  - [{{ Whitespire}}{{ 96}}](#p96)
-- #### [{{ Deities, Faith, and Ideologies}}{{ 97}}](#p97)
-  - [{{ Aelia}}{{ 99}}](#p99)
-  - [{{ A’shir, the Fated Flame}}{{ 99}}](#p99)
-  - [{{ Axnos}}{{ 99}}](#p99)
-  - [{{ The Brakeman}}{{ 100}}](#p100)
-  - [{{ The Circle of Stars}}{{ 100}}](#p100)
-  - [{{ The Cheshire}}{{ 101}}](#p101)
-  - [{{ Derelis}}{{ 101}}](#p101)
-  - [{{ Erimia}}{{ 101}}](#p101)
-  - [{{ Fah’rin, The Howling Blizzard}}{{ 101}}](#p101)
-  - [{{ Fayne Lightfeet}}{{ 102}}](#p102)
-  - [{{ Golgolgoss, The Watcher}}{{ 102}}](#p102)
-  - [{{ The Grey Ocean}}{{ 102}}](#p102)
-  - [{{ Gunvald}}{{ 103}}](#p103)
-  - [{{ Gutom, The Bloody Rose}}{{ 103}}](#p103)
-  - [{{ Heleniel, The Sin Seeker}}{{ 103}}](#p103)
-  - [{{ Hestora}}{{ 103}}](#p103)
-  - [{{ Heures}}{{ 104}}](#p104)
-  - [{{ The Home of Hearth and Health}}{{ 104}}](#p104)
-  - [{{ Kohtalo, Patron of Fate Forgers}}{{ 104}}](#p104)
-  - [{{ Krun Darr}}{{ 105}}](#p105)
-  - [{{ Kujani}}{{ 105}}](#p105)
-  - [{{ Levona, Duchess of Hell}}{{ 105}}](#p105)
-  - [{{ Lotus}}{{ 106}}](#p106)
-  - [{{ Luxandra, The Everbloom}}{{ 106}}](#p106)
-  - [{{ Lysanthyr, The Unending Delight}}{{ 106}}](#p106)
-  - [{{ The Great and Noble Manaat Al-Karim}}{{ 107}}](#p107)
-  - [{{ Maiden of the Garden}}{{ 107}}](#p107)
-  - [{{ Mendastarum, Devourer of Truth}}{{ 108}}](#p108)
-  - [{{ Nesdonin}}{{ 108}}](#p108)
-  - [{{ Nimane, The Forge Matron}}{{ 108}}](#p108)
-  - [{{ Noctune}}{{ 109}}](#p109)
-  - [{{ Novissime, The Orchid Reaper}}{{ 109}}](#p109)
-  - [{{ Oenos}}{{ 109}}](#p109)
-  - [{{ The Path of the Great Spirits}}{{ 110}}](#p110)
-  - [{{ Peko-Amuzo, The Trickster Prince}}{{ 110}}](#p110)
-  - [{{ Riahn, He Who Eclipses the Stars}}{{ 110}}](#p110)
-  - [{{ Seraphion, The Highest Throne}}{{ 111}}](#p111)
-  - [{{ Sinnesh, The Den Mother}}{{ 111}}](#p111)
-  - [{{ Satya, the Peerless Seeker}}{{ 111}}](#p111)
-  - [{{ The Eyes}}{{ 112}}](#p112)
-  - [{{ The Living Mandate}}{{ 112}}](#p112)
-  - [{{ The Three Sisters}}{{ 112}}](#p112)
-  - [{{ The World Weave}}{{ 113}}](#p113)
-  - [{{ Trella, The Night Sky}}{{ 113}}](#p113)
-  - [{{ Tycheam}}{{ 114}}](#p114)
-  - [{{ Unmortus, The Dead Guardian}}{{ 114}}](#p114)
-  - [{{ Veskahule}}{{ 115}}](#p115)
-  - [{{ Xan’Zyk, the First Incarnation}}{{ 115}}](#p115)
-  - [{{ Xeesis}}{{ 116}}](#p116)
-  - [{{ Zegarek}}{{ 116}}](#p116)
-- ### [{{ Menu}}{{ 117}}](#p117)
+  - [{{ Covalon Safety Inspectors}}{{ 79}}](#p79)
+- #### [{{ Pre-Cataclysm Civilizations}}{{ 80}}](#p80)
+  - [{{ Alatar}}{{ 80}}](#p80)
+  - [{{ Armed Steppes}}{{ 81}}](#p81)
+  - [{{ The Briarmurk}}{{ 81}}](#p81)
+  - [{{ Drifthaven}}{{ 82}}](#p82)
+  - [{{ The Fey Courts}}{{ 83}}](#p83)
+  - [{{ Garn}}{{ 84}}](#p84)
+  - [{{ Gornlar}}{{ 84}}](#p84)
+  - [{{ Ikouga}}{{ 85}}](#p85)
+  - [{{ Kuraimori (暗い森)}}{{ 87}}](#p87)
+  - [{{ Middlemist}}{{ 87}}](#p87)
+  - [{{ The Misty Shores}}{{ 88}}](#p88)
+  - [{{ Ostengrad}}{{ 88}}](#p88)
+  - [{{ Primrose}}{{ 89}}](#p89)
+  - [{{ Pudersnö}}{{ 90}}](#p90)
+  - [{{ Ratchethallow}}{{ 91}}](#p91)
+  - [{{ Taltain}}{{ 93}}](#p93)
+  - [{{ Tarunga}}{{ 94}}](#p94)
+  - [{{ Tymoria}}{{ 94}}](#p94)
+  - [{{ The Kingdom of Varceta}}{{ 95}}](#p95)
+  - [{{ Verndhelt}}{{ 96}}](#p96)
+  - [{{ The Kingdom of Vyrm}}{{ 97}}](#p97)
+  - [{{ Whitespire}}{{ 97}}](#p97)
+- #### [{{ Deities, Faith, and Ideologies}}{{ 98}}](#p98)
+  - [{{ Abhirash, the Final Verdict}}{{ 100}}](#p100)
+  - [{{ Aelia}}{{ 100}}](#p100)
+  - [{{ A’shir, the Fated Flame}}{{ 101}}](#p101)
+  - [{{ Axnos}}{{ 101}}](#p101)
+  - [{{ The Brakeman}}{{ 102}}](#p102)
+  - [{{ The Circle of Stars}}{{ 102}}](#p102)
+  - [{{ The Cheshire}}{{ 102}}](#p102)
+  - [{{ Derelis}}{{ 103}}](#p103)
+  - [{{ Erimia}}{{ 103}}](#p103)
+  - [{{ Fah’rin, The Howling Blizzard}}{{ 103}}](#p103)
+  - [{{ Fayne Lightfeet}}{{ 104}}](#p104)
+  - [{{ Golgolgoss, The Watcher}}{{ 104}}](#p104)
+  - [{{ The Grey Ocean}}{{ 104}}](#p104)
+  - [{{ Gunvald}}{{ 105}}](#p105)
+  - [{{ Gutom, The Bloody Rose}}{{ 105}}](#p105)
+  - [{{ Heleniel, The Sin Seeker}}{{ 105}}](#p105)
+  - [{{ Hestora}}{{ 105}}](#p105)
+  - [{{ Heures}}{{ 106}}](#p106)
+  - [{{ The Home of Hearth and Health}}{{ 106}}](#p106)
+  - [{{ Kohtalo, Patron of Fate Forgers}}{{ 106}}](#p106)
+  - [{{ Krun Darr}}{{ 107}}](#p107)
+  - [{{ Kujani}}{{ 107}}](#p107)
+  - [{{ Levona, Duchess of Hell}}{{ 107}}](#p107)
+  - [{{ Lotus}}{{ 108}}](#p108)
+  - [{{ Luxandra, The Everbloom}}{{ 108}}](#p108)
+  - [{{ Lysanthyr, The Unending Delight}}{{ 108}}](#p108)
+  - [{{ The Great and Noble Manaat Al-Karim}}{{ 109}}](#p109)
+  - [{{ Maiden of the Garden}}{{ 109}}](#p109)
+  - [{{ Mendastarum, Devourer of Truth}}{{ 110}}](#p110)
+  - [{{ Nesdonin}}{{ 110}}](#p110)
+  - [{{ Nimane, The Forge Matron}}{{ 110}}](#p110)
+  - [{{ Noctune}}{{ 111}}](#p111)
+  - [{{ Novissime, The Orchid Reaper}}{{ 111}}](#p111)
+  - [{{ Oenos}}{{ 111}}](#p111)
+  - [{{ The Path of the Great Spirits}}{{ 112}}](#p112)
+  - [{{ Peko-Amuzo, The Trickster Prince}}{{ 112}}](#p112)
+  - [{{ Riahn, He Who Eclipses the Stars}}{{ 112}}](#p112)
+  - [{{ Seraphion, The Highest Throne}}{{ 113}}](#p113)
+  - [{{ Sinnesh, The Den Mother}}{{ 113}}](#p113)
+  - [{{ Satya, the Peerless Seeker}}{{ 113}}](#p113)
+  - [{{ The Eyes}}{{ 114}}](#p114)
+  - [{{ The Living Mandate}}{{ 114}}](#p114)
+  - [{{ The Three Sisters}}{{ 114}}](#p114)
+  - [{{ The World Weave}}{{ 115}}](#p115)
+  - [{{ Trella, The Night Sky}}{{ 115}}](#p115)
+  - [{{ Tycheam}}{{ 116}}](#p116)
+  - [{{ Unmortus, The Dead Guardian}}{{ 116}}](#p116)
+  - [{{ Valexia, the Flesh Crafter}}{{ 117}}](#p117)
+  - [{{ Veskahule}}{{ 117}}](#p117)
+  - [{{ Xan’Zyk, the First Incarnation}}{{ 117}}](#p117)
+  - [{{ Xeesis}}{{ 118}}](#p118)
+  - [{{ Zegarek}}{{ 118}}](#p118)
+- ### [{{ Menu}}{{ 119}}](#p119)
 </div>
 </div>
 
