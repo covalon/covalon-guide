@@ -5444,7 +5444,7 @@ The various religions practiced in Elleaterra are as varied and distinct as the 
 | Trella, the Night Sky                 | can choose holy   | fate, moon, stars, travel                | nothingness            | starknife   |
 | Tycheam                               | can choose either | dreams, fate, introspection, naga        | freedom, luck          | air repeater or long air repeater
 | Unmortus, The Dead Guardian           | can choose holy   | cities, protection, soul, undeath        | family                 | bastard sword|
-| Valexia, the Flesh Crafter            | must choose unholy| abomination, delirium, disorientation, sorrow | pain, creation    | kama        | 
+| Valexia, the Flesh Crafter            | must choose unholy| abomination, creation, disorientation, sorrow | pain              | kama        | 
 | Veskahule                             | none              | creation, fate, dreams, nightmares       | soul, change           | urumi       | 
 | Xan'zyk, the First Incantation        | can choose either | ambition, destruction, glyph, magic      | none                   | stiletto pen| 
 | Xeesis                                | can choose either | darkness, protection, secrecy, trickery  | fate                   | injection spear |
@@ -5474,7 +5474,7 @@ His symbol is a sword dripping blood, from which a rose blooms. His faithful oft
 **Favored Weapon** bastard sword <br>
 **Domains** death, pain, vigil, zeal <br>
 **Alternate Domain** undeath, time <br>
-**Cleric Spells** 1st: sure strike, 4th: vision of death, 7th: telekinetic bombcardment <br>
+**Cleric Spells** 1st: sure strike, 4th: vision of death, 7th: telekinetic bombardment <br>
 }}
 
 {{wide
@@ -6141,7 +6141,9 @@ He has declared being quarter-demon, which is partly why he was mostly worshippe
 **Alternate Domain** abomination<br>
 **Cleric Spells** 1st: agitate, 4th: translocate, 5th: synesthesia
 }}
-\
+{{wide
+---
+}}
 ### Riahn, He Who Eclipses the Stars
 {{wide,columns:2
 Riahn, twin to Trella, was once known as the God of the South Star, offering alternate paths to travellers. Over time, Trella become the guiding star, leading many to see Riahn as a false star. One day, the South Star's light disappeared, leaving a void in the sky. Riahn's believers know he still watches, seeing omens in that void occaisonally eclipsing the light of other stars. Riahn's worshippers are commonly those who act unseen and hidden in the dark. 
