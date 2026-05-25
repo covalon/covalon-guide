@@ -5444,7 +5444,7 @@ The various religions practiced in Elleaterra are as varied and distinct as the 
 | Trella, the Night Sky                 | can choose holy   | fate, moon, stars, travel                | nothingness            | starknife   |
 | Tycheam                               | can choose either | dreams, fate, introspection, naga        | freedom, luck          | air repeater or long air repeater
 | Unmortus, The Dead Guardian           | can choose holy   | cities, protection, soul, undeath        | family                 | bastard sword|
-| Valexia                               | must choose unholy| abomination, delirium, disorientation, sorrow | pain, creation    | kama        | 
+| Valexia, the Flesh Crafter            | must choose unholy| abomination, delirium, disorientation, sorrow | pain, creation    | kama        | 
 | Veskahule                             | none              | creation, fate, dreams, nightmares       | soul, change           | urumi       | 
 | Xan'zyk, the First Incantation        | can choose either | ambition, destruction, glyph, magic      | none                   | stiletto pen| 
 | Xeesis                                | can choose either | darkness, protection, secrecy, trickery  | fate                   | injection spear |
@@ -6362,8 +6362,8 @@ Once a mortal priestess renowned for her medical prowess, her practice became an
 **Divine Sanctification** must choose unholy<br>
 **Divine Skill** medicine<br>
 **Favored Weapon** kama<br>
-**Domains** abomination, delirium, disorientation, sorrow<br>
-**Alternate Domain** creation, pain <br>
+**Domains** abomination, creation, disorientation, sorrow<br>
+**Alternate Domain** pain <br>
 **Cleric Spells** 3rd: moth's supper, 5th grisly growths, 7th: visions of danger
 }}
 {{wide
