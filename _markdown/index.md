@@ -1,4 +1,4 @@
-{{titlebar,width:60% Covalon Player's Guide rev 26.05.24 }}
+{{titlebar,width:60% Covalon Player's Guide rev 26.06.14 }}
 :
 :
  
@@ -119,14 +119,12 @@ Covalon is a "living world" style tabletop RPG campaign, using the Pathfinder 2e
   - [{{ Children of the Chicome}}{{ 77}}](#p77)
   - [{{ Covalon Historical Society}}{{ 77}}](#p77)
   - [{{ The Stouthearts}}{{ 77}}](#p77)
-  - [{{ The Green Knights of the Square}}{{ 78}}](#p78)
   - [{{ The Sundered Circle}}{{ 78}}](#p78)
-  - [{{ Covalon Safety Inspectors}}{{ 79}}](#p79)
-- #### [{{ Pre-Cataclysm Civilizations}}{{ 80}}](#p80)
-- #### [{{ Deities, Faith, and Ideologies}}{{ 98}}](#p98)
+  - [{{ Covalon Safety Inspectors}}{{ 78}}](#p78)
+  - [{{ Fellowship of Many Shrines}}{{ 78}}](#p78)
+- #### [{{ Pre-Cataclysm Civilizations}}{{ 79}}](#p79)
+- #### [{{ Deities, Faith, and Ideologies}}{{ 97}}](#p97)
 }}
-
-
 
 
 {{pageNumber,auto}}
@@ -192,7 +190,6 @@ Self-promotion should be kept to a reasonable limit, and should use the proper c
 ### 7. Questions and Concerns
 
 All suggestions for the server or sensitive concerns should be brought to the private attention of the Administrator and Moderator teams via the ticket system, which can be accessed via the #create-a-ticket channel in the Discord server.
-}}
 
 
 {{wide,purple,#book,text-align:center,background:#D1C7B1
@@ -1322,10 +1319,10 @@ Private housing suitable as a permanent living residence can be purchased for 20
 Houses can have up to four bedrooms, a common living area, a kitchen, a bathroom, and one unique feature, such as a training room, crafting workshop, or study. Exceptions can be made with staff approval. Housing lots are 75' x 75' (15 x 15 grid). This includes all exterior features, such as gardens. Lots must contain at least one square of green space around the building, and the building must be no taller than two stories (including anything below ground). After your house has constructed and you have moved in, be sure to update the housing registry in #citizen-directories .
 
 #### Businesses
-Larger buildings suitable for running a store can be purchased for 500 gp. Purchasing a business comes with a public RP text channel. Buisnesses may be located in Covalon, or any of the following Expedition districts: Ikouga, Gornlar, Middlemist, Pudersno, Ratchethallow. Commercial lots are 100' x 100' (20 x 20 grid), must contain at least one square of green space around the building, and can be no more than two stories tall (including anything below ground). This includes all exterior amenities.
+Larger buildings suitable for running a store can be purchased for 500 gp. Purchasing a business comes with a public RP text channel. Businesses may be located in Covalon, or any of the following Expedition districts: Ikouga, Gornlar, Middlemist, Pudersno, Ratchethallow. Commercial lots are 100' x 100' (20 x 20 grid), must contain at least one square of green space around the building, and can be no more than two stories tall (including anything below ground). This includes all exterior amenities.
 
 #### House and Business Combinations
-A business with adjoined living quarters can be purchased for 700 gp. House and Buisinesses may be located in Covalon, or any of the following Expedition districts: Ikouga, Gornlar, Middlemist, Pudersno, Ratchethallow. Living quarters are to be located above or behind the store front, and may not exceed the lot's total square footage. The size of the lot is 100' x 100' (20 x 20 grid), must contain at least one square of green space around the building, and can be no more than two stories tall (including anything below ground). This includes all exterior amenities.
+A business with adjoined living quarters can be purchased for 700 gp. House and Businesses may be located in Covalon, or any of the following Expedition districts: Ikouga, Gornlar, Middlemist, Pudersno, Ratchethallow. Living quarters are to be located above or behind the store front, and may not exceed the lot's total square footage. The size of the lot is 100' x 100' (20 x 20 grid), must contain at least one square of green space around the building, and can be no more than two stories tall (including anything below ground). This includes all exterior amenities.
 \column
 
 #### Guild Halls
@@ -2367,7 +2364,7 @@ Community events are often organized in Covalon's square, which features relaxin
 {{wide
 #### Town Hall
 
-Whether it be for official council business or for singing a new guild, the town hall is the heart of the legislative, executive, and judicial facets of Covalon's government. The courtroom, city planner's office, and public meeting spaces can all be found within its walls.
+Whether it be for official council business or for signing a new guild, the town hall is the heart of the legislative, executive, and judicial facets of Covalon's government. The courtroom, city planner's office, and public meeting spaces can all be found within its walls.
 
 :
 ![](https://github.com/covalon/covalon-guide/raw/gh-pages/assets/covalon/PlayersGuide/Maps/TownHall.webp){width:600px,margin:"0px 50px"}
@@ -3268,9 +3265,6 @@ South of Covalon lies a horrific scar on the world known as the Maw. Ever since 
 {{template
 ### The Archivists
 ---
-{{taglist
- {{tag Guild}}
-}}
 A guild dedicated to the maintenance and prosperity of Covalon's Library, through the organization and creation of reading material and the upkeep of its property. All members get a small handcrafted stamp with The Archivists herald, to use when publishing books and approving documents. Although not a requirement, members can (and are encouraged) to earn their keep by publishing new works for The Archivists.
 {{indented
 **Goals** Improve the general populace's knowledge by improving the organization, state, and wealth of knowledge of Covalon's library. Find new knowledge to fill the shelves.
@@ -3300,9 +3294,6 @@ A guild dedicated to the maintenance and prosperity of Covalon's Library, throug
 {{template
 ### The Authors of Creation
 ---
-{{taglist
- {{tag Guild}}
-}}
 A guild for the crafters of Covalon. 
 
 {{indented
@@ -3347,9 +3338,6 @@ A guild for the crafters of Covalon.
 {{template
 ### Covalon Medical Society
 ---
-{{taglist
- {{tag Guild}}
-}}
 Healing focused adventurers dedicated to providing care to all citizens of Covalon.
 {{indented
 **Goals** Provide holistic medical care to any citizen in need, Grow and develop the quality and scope of medical care in Covalon, Provide medical supplies and teach medical knowledge
@@ -3381,9 +3369,6 @@ Healing focused adventurers dedicated to providing care to all citizens of Coval
 {{template
 ### The Servants of Terra
 ---
-{{taglist
- {{tag Guild}}
-}}
 Protectors and servitors of the Heart of Terra. 
 
 {{indented
@@ -3413,9 +3398,6 @@ Protectors and servitors of the Heart of Terra.
 {{template
 ### The Teacher's Union
 ---
-{{taglist
- {{tag Guild}}
-}}
 Members of Covalon passing on their varied knowledge to others.
 
 {{indented
@@ -3465,9 +3447,6 @@ Members of Covalon passing on their varied knowledge to others.
 {{template
 ### Trella's Travellers
 ---
-{{taglist
- {{tag Guild}}
-}}
 Adventurers dedicated to the rediscovery of Elleaterra.
 {{indented
 **Goals** Support Covalon's expedition teams, recover lost cultures, re-explore the world
@@ -3498,9 +3477,6 @@ Adventurers dedicated to the rediscovery of Elleaterra.
 {{template
 ### The House of Dusk and Dawn
 ---
-{{taglist
- {{tag Guild}}
-}}
 Spellcasters delving into the secrets of resurrection and reanimation. "Life and Death are a cycle, we learn of death to better understand our lives." This is the ethos of The House of Dusk and Dawn.
 
 {{indented
@@ -3529,9 +3505,6 @@ Spellcasters delving into the secrets of resurrection and reanimation. "Life and
 {{template
 ### The Lightkeepers
 ---
-{{taglist
- {{tag Guild}}
-}}
 A guild for those who seek a warm home and friendly faces in a broken world. 
 
 {{indented
@@ -3585,9 +3558,6 @@ A guild for those who seek a warm home and friendly faces in a broken world.
 {{template
 ### Children of the Chicome
 ---
-{{taglist
- {{tag Guild}}
-}}
 A community dedicated to restoring the balance of nature in the land.  
 
 {{indented
@@ -3616,9 +3586,6 @@ A community dedicated to restoring the balance of nature in the land.
 {{template
 ### Covalon Historical Society
 ---
-{{taglist
- {{tag Guild}}
-}}
 A guild dedicated to preserving Covalon's history.
 
 {{indented
@@ -3648,9 +3615,6 @@ A guild dedicated to preserving Covalon's history.
 {{template
 ### The Stouthearts
 ---
-{{taglist
- {{tag Guild}}
-}}
 Modeled after an old adventuring group of the same name in Vyrm, the Stouthearts are an organization dedicated to promoting dwarven culture and protecting Covalon from corruption. 
 
 {{indented
@@ -3701,42 +3665,8 @@ Modeled after an old adventuring group of the same name in Vyrm, the Stouthearts
 \page
 
 {{template
-### The Green Knights of the Square
----
-{{taglist
- {{tag Guild}}
-}}
-'To join the guards in the city they want ya ta learn all this stuff about how ta wage war, and that's well and good an all but we all know that all ya really need to defend the people are a good cause or a real good sword arm! So if you wanna fight for the good folks of Covalon and help us to start new civilizations then come join us and fight like a real goblin knight!'  
-
-{{indented
-**Goals** Protect the flame of civilization, help the spread of new civilizations, make every place you go stronger than how you left it  
-
----
-
-**Headquarters** The fancy circle in the town square
-
-**Leader** Artur
-
-**Members** Nynaeve, Merin, Lance, Sir Grey, Alan A'Dale, Minya
-
----
-
-**Membership Requirements** Trained in Goblin Lore, Warfare Lore, or Simple Weapons.
-
-**Values** Honor, Loyalty, Tenacity, Bravery.
-
-**Anathema** Harming Goblins who didn't harm you first, spreading lies, sewing discord between friendly civilizations, harming the spread of progress and worldly recovery.
-
-}}
-
-}}
-::
-{{template
 ### The Sundered Circle
 ---
-{{taglist
- {{tag Guild}}
-}}
 A convocation of mages determined to expand and restore Covalon's knowledge of arcane magic. 
 
 {{indented
@@ -3746,9 +3676,9 @@ A convocation of mages determined to expand and restore Covalon's knowledge of a
 
 **Headquarters** TBC
 
-**Leader** Artur
+**Leader** None
 
-**Members** Thaniel, Aniyah, Gabriel, Mercedes III, Cat-7, Phillip, Zoe Timor, Korenn Hammerfist, Kexyl (and Yan Yan)
+**Members** Thaniel, Aniyah, Gabriel, Mercedes III, Cat-7, Phillip, Korenn Hammerfist, Kexyl (and Yan Yan)
 
 ---
 
@@ -3760,32 +3690,10 @@ A convocation of mages determined to expand and restore Covalon's knowledge of a
 }}
 
 }}
-
-\column
-::
-![](https://github.com/covalon/covalon-guide/blob/gh-pages/assets/covalon/PlayersGuide/Guilds/TheGreenKnightsoftheSquare.png?raw=true){width:250px,margin:"0px 50px"}
-
-*The Green Knights of the Square Guild Heraldry.* 
-{text-align:center}
-:::::::::::::
-![](https://raw.githubusercontent.com/covalon/covalon-guide/refs/heads/gh-pages/assets/covalon/PlayersGuide/Guilds/sundered%20circle%20guild%20heraldry.png){width:340px,margin:"0px 0px"}
-
-*The Sundered Circle Guild Heraldry.* 
-{text-align:center}
-
-
-
-
-{{pageNumber,auto}}
-
-\page
-
+:
 {{template
 ### Covalon Safety Inspectors
 ---
-{{taglist
- {{tag Guild}}
-}}
 A guild dedicated to assuring safe and healthy working conditions for Covalon's adventurers. We achieve this by setting and enforcing standards via training, outreach, education, and assistance for locations inside and outside of Covalon in a post-Cataclysm world. 
 
 {{indented
@@ -3805,16 +3713,53 @@ A guild dedicated to assuring safe and healthy working conditions for Covalon's 
 
 **Values** Standards, preventative safeguards, proactive involvement, teaching others
 
-**Anathema** Negligence with potentially dangerous factors that would negatively affect Covalon spells
+**Anathema** Negligence with potentially dangerous factors that would negatively affect Covalon
+}}
+
+}}
+:
+{{template
+### Fellowship of Many Shrines
+---
+A place for the faithful of Covalon to celebrate, record, and share religious culture and practices for many different deities.
+
+{{indented
+**Goals** Preserve and share spiritual practices and cultures
+
+---
+
+**Headquarters** The Chapel
+
+**Leader** None
+
+**Members** Xiphus, Hana Moriyama, Blythe, Cassia, Delbyar, Jazka, Father Sunstone
+
+---
+
+**Membership Requirements** Actively worship a deity
+
+**Values** Share knowledge of your faith, Preserve Pre-Cataclysm spiritual practices and history, teach those who want to learn
+
+**Anathema** Force your beliefs on others, Disrespect another's faith
 }}
 
 }}
 
 \column
-::
+:
+![](https://raw.githubusercontent.com/covalon/covalon-guide/refs/heads/gh-pages/assets/covalon/PlayersGuide/Guilds/sundered%20circle%20guild%20heraldry.png){width:350px,margin:"0px 0px"}
+
+*The Sundered Circle Guild Heraldry.* 
+{text-align:center}
+:
 ![](https://raw.githubusercontent.com/covalon/covalon-guide/refs/heads/gh-pages/assets/covalon/PlayersGuide/Guilds/csi%20guild%20heraldry.png){width:250px,margin:"0px 50px"}
 :
 *CSI Guild Heraldry.* 
+{text-align:center}
+:
+![](https://raw.githubusercontent.com/covalon/covalon-guide/refs/heads/gh-pages/assets/covalon/PlayersGuide/Guilds/Fellowship%20heraldry.webp){width:250px,margin:"0px 50px"}
+:
+*Fellowship of Many Shrines Guild Heraldry.* 
 {text-align:center}
 
 
@@ -6535,86 +6480,86 @@ Zegarek was most often followed by the more bold of the hunters from the earlier
   - [{{ Children of the Chicome}}{{ 77}}](#p77)
   - [{{ Covalon Historical Society}}{{ 77}}](#p77)
   - [{{ The Stouthearts}}{{ 77}}](#p77)
-  - [{{ The Green Knights of the Square}}{{ 78}}](#p78)
   - [{{ The Sundered Circle}}{{ 78}}](#p78)
-  - [{{ Covalon Safety Inspectors}}{{ 79}}](#p79)
-- #### [{{ Pre-Cataclysm Civilizations}}{{ 80}}](#p80)
-  - [{{ Alatar}}{{ 80}}](#p80)
-  - [{{ Armed Steppes}}{{ 81}}](#p81)
-  - [{{ The Briarmurk}}{{ 81}}](#p81)
-  - [{{ Drifthaven}}{{ 82}}](#p82)
-  - [{{ The Fey Courts}}{{ 83}}](#p83)
-  - [{{ Garn}}{{ 84}}](#p84)
-  - [{{ Gornlar}}{{ 84}}](#p84)
-  - [{{ Ikouga}}{{ 85}}](#p85)
-  - [{{ Kuraimori (暗い森)}}{{ 87}}](#p87)
-  - [{{ Middlemist}}{{ 87}}](#p87)
-  - [{{ The Misty Shores}}{{ 88}}](#p88)
-  - [{{ Ostengrad}}{{ 88}}](#p88)
-  - [{{ Primrose}}{{ 89}}](#p89)
-  - [{{ Pudersnö}}{{ 90}}](#p90)
-  - [{{ Ratchethallow}}{{ 91}}](#p91)
-  - [{{ Taltain}}{{ 93}}](#p93)
-  - [{{ Tarunga}}{{ 94}}](#p94)
-  - [{{ Tymoria}}{{ 94}}](#p94)
-  - [{{ The Kingdom of Varceta}}{{ 95}}](#p95)
-  - [{{ Verndhelt}}{{ 96}}](#p96)
-  - [{{ The Kingdom of Vyrm}}{{ 97}}](#p97)
-  - [{{ Whitespire}}{{ 97}}](#p97)
-- #### [{{ Deities, Faith, and Ideologies}}{{ 98}}](#p98)
-  - [{{ Abhirash, the Final Verdict}}{{ 100}}](#p100)
-  - [{{ Aelia}}{{ 100}}](#p100)
-  - [{{ A’shir, the Fated Flame}}{{ 101}}](#p101)
-  - [{{ Axnos}}{{ 101}}](#p101)
-  - [{{ The Brakeman}}{{ 102}}](#p102)
-  - [{{ The Circle of Stars}}{{ 102}}](#p102)
-  - [{{ The Cheshire}}{{ 102}}](#p102)
-  - [{{ Derelis}}{{ 103}}](#p103)
-  - [{{ Erimia}}{{ 103}}](#p103)
-  - [{{ Fah’rin, The Howling Blizzard}}{{ 103}}](#p103)
-  - [{{ Fayne Lightfeet}}{{ 104}}](#p104)
-  - [{{ Golgolgoss, The Watcher}}{{ 104}}](#p104)
-  - [{{ The Grey Ocean}}{{ 104}}](#p104)
-  - [{{ Gunvald}}{{ 105}}](#p105)
-  - [{{ Gutom, The Bloody Rose}}{{ 105}}](#p105)
-  - [{{ Heleniel, The Sin Seeker}}{{ 105}}](#p105)
-  - [{{ Hestora}}{{ 105}}](#p105)
-  - [{{ Heures}}{{ 106}}](#p106)
-  - [{{ The Home of Hearth and Health}}{{ 106}}](#p106)
-  - [{{ Kohtalo, Patron of Fate Forgers}}{{ 106}}](#p106)
-  - [{{ Krun Darr}}{{ 107}}](#p107)
-  - [{{ Kujani}}{{ 107}}](#p107)
-  - [{{ Levona, Duchess of Hell}}{{ 107}}](#p107)
-  - [{{ Lotus}}{{ 108}}](#p108)
-  - [{{ Luxandra, The Everbloom}}{{ 108}}](#p108)
-  - [{{ Lysanthyr, The Unending Delight}}{{ 108}}](#p108)
-  - [{{ The Great and Noble Manaat Al-Karim}}{{ 109}}](#p109)
-  - [{{ Maiden of the Garden}}{{ 109}}](#p109)
-  - [{{ Mendastarum, Devourer of Truth}}{{ 110}}](#p110)
-  - [{{ Nesdonin}}{{ 110}}](#p110)
-  - [{{ Nimane, The Forge Matron}}{{ 110}}](#p110)
-  - [{{ Noctune}}{{ 111}}](#p111)
-  - [{{ Novissime, The Orchid Reaper}}{{ 111}}](#p111)
-  - [{{ Oenos}}{{ 111}}](#p111)
-  - [{{ The Path of the Great Spirits}}{{ 112}}](#p112)
-  - [{{ Peko-Amuzo, The Trickster Prince}}{{ 112}}](#p112)
-  - [{{ Riahn, He Who Eclipses the Stars}}{{ 112}}](#p112)
-  - [{{ Seraphion, The Highest Throne}}{{ 113}}](#p113)
-  - [{{ Sinnesh, The Den Mother}}{{ 113}}](#p113)
-  - [{{ Satya, the Peerless Seeker}}{{ 113}}](#p113)
-  - [{{ The Eyes}}{{ 114}}](#p114)
-  - [{{ The Living Mandate}}{{ 114}}](#p114)
-  - [{{ The Three Sisters}}{{ 114}}](#p114)
-  - [{{ The World Weave}}{{ 115}}](#p115)
-  - [{{ Trella, The Night Sky}}{{ 115}}](#p115)
-  - [{{ Tycheam}}{{ 116}}](#p116)
-  - [{{ Unmortus, The Dead Guardian}}{{ 116}}](#p116)
-  - [{{ Valexia, the Flesh Crafter}}{{ 117}}](#p117)
-  - [{{ Veskahule}}{{ 117}}](#p117)
-  - [{{ Xan’Zyk, the First Incarnation}}{{ 117}}](#p117)
-  - [{{ Xeesis}}{{ 118}}](#p118)
-  - [{{ Zegarek}}{{ 118}}](#p118)
-- ### [{{ Menu}}{{ 119}}](#p119)
+  - [{{ Covalon Safety Inspectors}}{{ 78}}](#p78)
+  - [{{ Fellowship of Many Shrines}}{{ 78}}](#p78)
+- #### [{{ Pre-Cataclysm Civilizations}}{{ 79}}](#p79)
+  - [{{ Alatar}}{{ 79}}](#p79)
+  - [{{ Armed Steppes}}{{ 80}}](#p80)
+  - [{{ The Briarmurk}}{{ 80}}](#p80)
+  - [{{ Drifthaven}}{{ 81}}](#p81)
+  - [{{ The Fey Courts}}{{ 82}}](#p82)
+  - [{{ Garn}}{{ 83}}](#p83)
+  - [{{ Gornlar}}{{ 83}}](#p83)
+  - [{{ Ikouga}}{{ 84}}](#p84)
+  - [{{ Kuraimori (暗い森)}}{{ 86}}](#p86)
+  - [{{ Middlemist}}{{ 86}}](#p86)
+  - [{{ The Misty Shores}}{{ 87}}](#p87)
+  - [{{ Ostengrad}}{{ 87}}](#p87)
+  - [{{ Primrose}}{{ 88}}](#p88)
+  - [{{ Pudersnö}}{{ 89}}](#p89)
+  - [{{ Ratchethallow}}{{ 90}}](#p90)
+  - [{{ Taltain}}{{ 92}}](#p92)
+  - [{{ Tarunga}}{{ 93}}](#p93)
+  - [{{ Tymoria}}{{ 93}}](#p93)
+  - [{{ The Kingdom of Varceta}}{{ 94}}](#p94)
+  - [{{ Verndhelt}}{{ 95}}](#p95)
+  - [{{ The Kingdom of Vyrm}}{{ 96}}](#p96)
+  - [{{ Whitespire}}{{ 96}}](#p96)
+- #### [{{ Deities, Faith, and Ideologies}}{{ 97}}](#p97)
+  - [{{ Abhirash, the Final Verdict}}{{ 99}}](#p99)
+  - [{{ Aelia}}{{ 99}}](#p99)
+  - [{{ A’shir, the Fated Flame}}{{ 100}}](#p100)
+  - [{{ Axnos}}{{ 100}}](#p100)
+  - [{{ The Brakeman}}{{ 101}}](#p101)
+  - [{{ The Circle of Stars}}{{ 101}}](#p101)
+  - [{{ The Cheshire}}{{ 101}}](#p101)
+  - [{{ Derelis}}{{ 102}}](#p102)
+  - [{{ Erimia}}{{ 102}}](#p102)
+  - [{{ Fah’rin, The Howling Blizzard}}{{ 102}}](#p102)
+  - [{{ Fayne Lightfeet}}{{ 103}}](#p103)
+  - [{{ Golgolgoss, The Watcher}}{{ 103}}](#p103)
+  - [{{ The Grey Ocean}}{{ 103}}](#p103)
+  - [{{ Gunvald}}{{ 104}}](#p104)
+  - [{{ Gutom, The Bloody Rose}}{{ 104}}](#p104)
+  - [{{ Heleniel, The Sin Seeker}}{{ 104}}](#p104)
+  - [{{ Hestora}}{{ 104}}](#p104)
+  - [{{ Heures}}{{ 105}}](#p105)
+  - [{{ The Home of Hearth and Health}}{{ 105}}](#p105)
+  - [{{ Kohtalo, Patron of Fate Forgers}}{{ 105}}](#p105)
+  - [{{ Krun Darr}}{{ 106}}](#p106)
+  - [{{ Kujani}}{{ 106}}](#p106)
+  - [{{ Levona, Duchess of Hell}}{{ 106}}](#p106)
+  - [{{ Lotus}}{{ 107}}](#p107)
+  - [{{ Luxandra, The Everbloom}}{{ 107}}](#p107)
+  - [{{ Lysanthyr, The Unending Delight}}{{ 107}}](#p107)
+  - [{{ The Great and Noble Manaat Al-Karim}}{{ 108}}](#p108)
+  - [{{ Maiden of the Garden}}{{ 108}}](#p108)
+  - [{{ Mendastarum, Devourer of Truth}}{{ 109}}](#p109)
+  - [{{ Nesdonin}}{{ 109}}](#p109)
+  - [{{ Nimane, The Forge Matron}}{{ 109}}](#p109)
+  - [{{ Noctune}}{{ 110}}](#p110)
+  - [{{ Novissime, The Orchid Reaper}}{{ 110}}](#p110)
+  - [{{ Oenos}}{{ 110}}](#p110)
+  - [{{ The Path of the Great Spirits}}{{ 111}}](#p111)
+  - [{{ Peko-Amuzo, The Trickster Prince}}{{ 111}}](#p111)
+  - [{{ Riahn, He Who Eclipses the Stars}}{{ 111}}](#p111)
+  - [{{ Seraphion, The Highest Throne}}{{ 112}}](#p112)
+  - [{{ Sinnesh, The Den Mother}}{{ 112}}](#p112)
+  - [{{ Satya, the Peerless Seeker}}{{ 112}}](#p112)
+  - [{{ The Eyes}}{{ 113}}](#p113)
+  - [{{ The Living Mandate}}{{ 113}}](#p113)
+  - [{{ The Three Sisters}}{{ 113}}](#p113)
+  - [{{ The World Weave}}{{ 114}}](#p114)
+  - [{{ Trella, The Night Sky}}{{ 114}}](#p114)
+  - [{{ Tycheam}}{{ 115}}](#p115)
+  - [{{ Unmortus, The Dead Guardian}}{{ 115}}](#p115)
+  - [{{ Valexia, the Flesh Crafter}}{{ 116}}](#p116)
+  - [{{ Veskahule}}{{ 116}}](#p116)
+  - [{{ Xan’Zyk, the First Incarnation}}{{ 116}}](#p116)
+  - [{{ Xeesis}}{{ 117}}](#p117)
+  - [{{ Zegarek}}{{ 117}}](#p117)
+- ### [{{ Menu}}{{ 118}}](#p118)
 </div>
 </div>
 
