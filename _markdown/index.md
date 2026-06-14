@@ -185,7 +185,7 @@ Covalon does not allow players to have multiple Discord accounts within the serv
 
 ### 6. Self-Promotion
 
-Self-promotion should be kept to a reasonable limit, and should use the proper channels. For example, if you want to advertise your artistic talents, use the #artwork channel.
+Self-promotion should be minimal. Long-standing community members are permitted to advertise their talents in the appropriate channels as long as it is infrequent and organic. A long-standing community member is someone who has been active in the server for over a year. If you're unsure if you can advertise your service, please #create-a-ticket.
 
 ### 7. Questions and Concerns
 
