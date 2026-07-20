@@ -1,4 +1,4 @@
-{{titlebar,width:60% Covalon Player's Guide rev 26.06.14 }}
+{{titlebar,width:60% Covalon Player's Guide rev 26.07.19 }}
 :
 :
  
@@ -122,9 +122,12 @@ Covalon is a "living world" style tabletop RPG campaign, using the Pathfinder 2e
   - [{{ The Sundered Circle}}{{ 78}}](#p78)
   - [{{ Covalon Safety Inspectors}}{{ 78}}](#p78)
   - [{{ Fellowship of Many Shrines}}{{ 78}}](#p78)
-- #### [{{ Pre-Cataclysm Civilizations}}{{ 79}}](#p79)
-- #### [{{ Deities, Faith, and Ideologies}}{{ 97}}](#p97)
+  - [{{ Sophisticated Society for Supporting Scales and Slithers}}{{ 79}}](#p79)
+- #### [{{ Pre-Cataclysm Civilizations}}{{ 80}}](#p80)
+- #### [{{ Deities, Faith, and Ideologies}}{{ 98}}](#p98)
+
 }}
+
 
 
 {{pageNumber,auto}}
@@ -1021,7 +1024,7 @@ Time passes in Covalon at the same rate that time passes in real life. Player ch
 
 Players are required to roll their downtime checks in #downtime-rolls, using our Dice Maiden bot. When rolling, please include the reason for the roll in the roll command. For example, if you were rolling a check to Earn Income using Performance and you had a +7 bonus to Performance, you would type: 
 
-`/roll 1d20+7 !Earn Income` 
+`/roll 1d20+7 !Earn Income` to roll once, or `/roll 7 1d20+7 !Earn Income` to roll seven days at once. 
 
 
 }}
@@ -1173,7 +1176,7 @@ In order for a creature to be approved for Raise a Creature, it must have the an
 ------
 You visit Doc's Medical Center and solicit treatment from a healer. You are restored to full hit points, and your wounded condition (if any) is removed. If you have an animal companion(s) or familiar(s), they are also restored to full hit points.
 
-By paying 1 gp, the infirmary will also remove any conditions affecting you. The infirmary can remove any conditions (except doomed) as long as that condition was inflicted by an environmental effect, a creature or hazard with a level lesser than or equal to that of the settlement's, or by a spell with a level lesser than or equal to that of half the settlement's level (rounded up). (For a list of applicable conditions, see pages 618 - 623 in the Core Rulebook.)
+By paying 1 gp, the infirmary will also remove any conditions affecting you. The infirmary can remove any conditions (except doomed) as long as that condition was inflicted by an environmental effect, a creature or hazard with a level lesser than or equal to that of the settlement's, or by a spell with a level lesser than or equal to that of half the settlement's level (rounded up). (For a list of applicable conditions, see page 442 in the Player Core Rulebook.)
 
 <br>
 
@@ -3762,6 +3765,42 @@ A place for the faithful of Covalon to celebrate, record, and share religious cu
 *Fellowship of Many Shrines Guild Heraldry.* 
 {text-align:center}
 
+{{pageNumber,auto}}
+
+\page
+
+{{template
+### Sophisticated Society for Supporting Scales and Slithers
+---
+Reptiles and reptile adjacent covalonians unite!
+
+{{indented
+**Goals** Host lizard themed activities, raise awareness for reptile ancestries, collect knowledge about reptile races, add cold blooded accommodations to low temperature areas of Covalon
+
+---
+
+**Headquarters** The Serpent's Den
+
+**Leader** Kexyl
+
+**Members** T'Ket, Diamond, Sybil, Archimedes, Atlacamani, Varrox, Tekhan
+
+---
+
+**Membership Requirements** A reptile ancestry, or other lizard traits! Or just... really passionate about lizards
+
+**Values** Reptile pride, hosting fun events, building cold blooded accommodations
+
+**Anathema** Destroying natural habitats of reptiles
+}}
+}}
+
+\column
+
+![](https://raw.githubusercontent.com/covalon/covalon-guide/refs/heads/gh-pages/assets/covalon/PlayersGuide/Guilds/sssss%20guild%20heraldry.png){width:500px,margin:"0px -80px"}
+:
+*SSSSS Guild Heraldry.* 
+{text-align:center}
 
 {{pageNumber,auto}}
 
@@ -5325,7 +5364,7 @@ Our bravest fighters delved below, and slew the beast in its adamantine lair. Wi
 ## Deities, Faith, and Ideologies
 {{
 
-The various religions practiced in Elleaterra are as varied and distinct as the people themselves. The religions listed in this section are not comprehensive list, but represent major religions practiced in Elleaterra. These deities are all player submitted and free for anyone to use for their characters. If you're looking to worship a deity witha thematic or mechanics you feel are missing, feel free to #create-a-ticket with a deity submission. 
+The faiths practiced in Elleaterra are as varied as its people. This section is not a comprehensive list, but represent the major faiths in our setting. These deities are all player submitted and free for anyone to use for their PCs. If you feel a specific niche is missing, you may #create-a-ticket to submit a new deity for review. Your submission must not overlap with existing deities mechanically or thematically to be approved. 
 
 ##### Table 4-1: Deities
 | Diety                                | Sanctification   | Domains                                 | Alt Domains          | Weapon
@@ -6483,83 +6522,84 @@ Zegarek was most often followed by the more bold of the hunters from the earlier
   - [{{ The Sundered Circle}}{{ 78}}](#p78)
   - [{{ Covalon Safety Inspectors}}{{ 78}}](#p78)
   - [{{ Fellowship of Many Shrines}}{{ 78}}](#p78)
-- #### [{{ Pre-Cataclysm Civilizations}}{{ 79}}](#p79)
-  - [{{ Alatar}}{{ 79}}](#p79)
-  - [{{ Armed Steppes}}{{ 80}}](#p80)
-  - [{{ The Briarmurk}}{{ 80}}](#p80)
-  - [{{ Drifthaven}}{{ 81}}](#p81)
-  - [{{ The Fey Courts}}{{ 82}}](#p82)
-  - [{{ Garn}}{{ 83}}](#p83)
-  - [{{ Gornlar}}{{ 83}}](#p83)
-  - [{{ Ikouga}}{{ 84}}](#p84)
-  - [{{ Kuraimori (暗い森)}}{{ 86}}](#p86)
-  - [{{ Middlemist}}{{ 86}}](#p86)
-  - [{{ The Misty Shores}}{{ 87}}](#p87)
-  - [{{ Ostengrad}}{{ 87}}](#p87)
-  - [{{ Primrose}}{{ 88}}](#p88)
-  - [{{ Pudersnö}}{{ 89}}](#p89)
-  - [{{ Ratchethallow}}{{ 90}}](#p90)
-  - [{{ Taltain}}{{ 92}}](#p92)
-  - [{{ Tarunga}}{{ 93}}](#p93)
-  - [{{ Tymoria}}{{ 93}}](#p93)
-  - [{{ The Kingdom of Varceta}}{{ 94}}](#p94)
-  - [{{ Verndhelt}}{{ 95}}](#p95)
-  - [{{ The Kingdom of Vyrm}}{{ 96}}](#p96)
-  - [{{ Whitespire}}{{ 96}}](#p96)
-- #### [{{ Deities, Faith, and Ideologies}}{{ 97}}](#p97)
-  - [{{ Abhirash, the Final Verdict}}{{ 99}}](#p99)
-  - [{{ Aelia}}{{ 99}}](#p99)
-  - [{{ A’shir, the Fated Flame}}{{ 100}}](#p100)
-  - [{{ Axnos}}{{ 100}}](#p100)
-  - [{{ The Brakeman}}{{ 101}}](#p101)
-  - [{{ The Circle of Stars}}{{ 101}}](#p101)
-  - [{{ The Cheshire}}{{ 101}}](#p101)
-  - [{{ Derelis}}{{ 102}}](#p102)
-  - [{{ Erimia}}{{ 102}}](#p102)
-  - [{{ Fah’rin, The Howling Blizzard}}{{ 102}}](#p102)
-  - [{{ Fayne Lightfeet}}{{ 103}}](#p103)
-  - [{{ Golgolgoss, The Watcher}}{{ 103}}](#p103)
-  - [{{ The Grey Ocean}}{{ 103}}](#p103)
-  - [{{ Gunvald}}{{ 104}}](#p104)
-  - [{{ Gutom, The Bloody Rose}}{{ 104}}](#p104)
-  - [{{ Heleniel, The Sin Seeker}}{{ 104}}](#p104)
-  - [{{ Hestora}}{{ 104}}](#p104)
-  - [{{ Heures}}{{ 105}}](#p105)
-  - [{{ The Home of Hearth and Health}}{{ 105}}](#p105)
-  - [{{ Kohtalo, Patron of Fate Forgers}}{{ 105}}](#p105)
-  - [{{ Krun Darr}}{{ 106}}](#p106)
-  - [{{ Kujani}}{{ 106}}](#p106)
-  - [{{ Levona, Duchess of Hell}}{{ 106}}](#p106)
-  - [{{ Lotus}}{{ 107}}](#p107)
-  - [{{ Luxandra, The Everbloom}}{{ 107}}](#p107)
-  - [{{ Lysanthyr, The Unending Delight}}{{ 107}}](#p107)
-  - [{{ The Great and Noble Manaat Al-Karim}}{{ 108}}](#p108)
-  - [{{ Maiden of the Garden}}{{ 108}}](#p108)
-  - [{{ Mendastarum, Devourer of Truth}}{{ 109}}](#p109)
-  - [{{ Nesdonin}}{{ 109}}](#p109)
-  - [{{ Nimane, The Forge Matron}}{{ 109}}](#p109)
-  - [{{ Noctune}}{{ 110}}](#p110)
-  - [{{ Novissime, The Orchid Reaper}}{{ 110}}](#p110)
-  - [{{ Oenos}}{{ 110}}](#p110)
-  - [{{ The Path of the Great Spirits}}{{ 111}}](#p111)
-  - [{{ Peko-Amuzo, The Trickster Prince}}{{ 111}}](#p111)
-  - [{{ Riahn, He Who Eclipses the Stars}}{{ 111}}](#p111)
-  - [{{ Seraphion, The Highest Throne}}{{ 112}}](#p112)
-  - [{{ Sinnesh, The Den Mother}}{{ 112}}](#p112)
-  - [{{ Satya, the Peerless Seeker}}{{ 112}}](#p112)
-  - [{{ The Eyes}}{{ 113}}](#p113)
-  - [{{ The Living Mandate}}{{ 113}}](#p113)
-  - [{{ The Three Sisters}}{{ 113}}](#p113)
-  - [{{ The World Weave}}{{ 114}}](#p114)
-  - [{{ Trella, The Night Sky}}{{ 114}}](#p114)
-  - [{{ Tycheam}}{{ 115}}](#p115)
-  - [{{ Unmortus, The Dead Guardian}}{{ 115}}](#p115)
-  - [{{ Valexia, the Flesh Crafter}}{{ 116}}](#p116)
-  - [{{ Veskahule}}{{ 116}}](#p116)
-  - [{{ Xan’Zyk, the First Incarnation}}{{ 116}}](#p116)
-  - [{{ Xeesis}}{{ 117}}](#p117)
-  - [{{ Zegarek}}{{ 117}}](#p117)
-- ### [{{ Menu}}{{ 118}}](#p118)
+  - [{{ Sophisticated Society for Supporting Scales and Slithers}}{{ 79}}](#p79)
+- #### [{{ Pre-Cataclysm Civilizations}}{{ 80}}](#p80)
+  - [{{ Alatar}}{{ 80}}](#p80)
+  - [{{ Armed Steppes}}{{ 81}}](#p81)
+  - [{{ The Briarmurk}}{{ 81}}](#p81)
+  - [{{ Drifthaven}}{{ 82}}](#p82)
+  - [{{ The Fey Courts}}{{ 83}}](#p83)
+  - [{{ Garn}}{{ 84}}](#p84)
+  - [{{ Gornlar}}{{ 84}}](#p84)
+  - [{{ Ikouga}}{{ 85}}](#p85)
+  - [{{ Kuraimori (暗い森)}}{{ 87}}](#p87)
+  - [{{ Middlemist}}{{ 87}}](#p87)
+  - [{{ The Misty Shores}}{{ 88}}](#p88)
+  - [{{ Ostengrad}}{{ 88}}](#p88)
+  - [{{ Primrose}}{{ 89}}](#p89)
+  - [{{ Pudersnö}}{{ 90}}](#p90)
+  - [{{ Ratchethallow}}{{ 91}}](#p91)
+  - [{{ Taltain}}{{ 93}}](#p93)
+  - [{{ Tarunga}}{{ 94}}](#p94)
+  - [{{ Tymoria}}{{ 94}}](#p94)
+  - [{{ The Kingdom of Varceta}}{{ 95}}](#p95)
+  - [{{ Verndhelt}}{{ 96}}](#p96)
+  - [{{ The Kingdom of Vyrm}}{{ 97}}](#p97)
+  - [{{ Whitespire}}{{ 97}}](#p97)
+- #### [{{ Deities, Faith, and Ideologies}}{{ 98}}](#p98)
+  - [{{ Abhirash, the Final Verdict}}{{ 100}}](#p100)
+  - [{{ Aelia}}{{ 100}}](#p100)
+  - [{{ A’shir, the Fated Flame}}{{ 101}}](#p101)
+  - [{{ Axnos}}{{ 101}}](#p101)
+  - [{{ The Brakeman}}{{ 102}}](#p102)
+  - [{{ The Circle of Stars}}{{ 102}}](#p102)
+  - [{{ The Cheshire}}{{ 102}}](#p102)
+  - [{{ Derelis}}{{ 103}}](#p103)
+  - [{{ Erimia}}{{ 103}}](#p103)
+  - [{{ Fah’rin, The Howling Blizzard}}{{ 103}}](#p103)
+  - [{{ Fayne Lightfeet}}{{ 104}}](#p104)
+  - [{{ Golgolgoss, The Watcher}}{{ 104}}](#p104)
+  - [{{ The Grey Ocean}}{{ 104}}](#p104)
+  - [{{ Gunvald}}{{ 105}}](#p105)
+  - [{{ Gutom, The Bloody Rose}}{{ 105}}](#p105)
+  - [{{ Heleniel, The Sin Seeker}}{{ 105}}](#p105)
+  - [{{ Hestora}}{{ 105}}](#p105)
+  - [{{ Heures}}{{ 106}}](#p106)
+  - [{{ The Home of Hearth and Health}}{{ 106}}](#p106)
+  - [{{ Kohtalo, Patron of Fate Forgers}}{{ 106}}](#p106)
+  - [{{ Krun Darr}}{{ 107}}](#p107)
+  - [{{ Kujani}}{{ 107}}](#p107)
+  - [{{ Levona, Duchess of Hell}}{{ 107}}](#p107)
+  - [{{ Lotus}}{{ 108}}](#p108)
+  - [{{ Luxandra, The Everbloom}}{{ 108}}](#p108)
+  - [{{ Lysanthyr, The Unending Delight}}{{ 108}}](#p108)
+  - [{{ The Great and Noble Manaat Al-Karim}}{{ 109}}](#p109)
+  - [{{ Maiden of the Garden}}{{ 109}}](#p109)
+  - [{{ Mendastarum, Devourer of Truth}}{{ 110}}](#p110)
+  - [{{ Nesdonin}}{{ 110}}](#p110)
+  - [{{ Nimane, The Forge Matron}}{{ 110}}](#p110)
+  - [{{ Noctune}}{{ 111}}](#p111)
+  - [{{ Novissime, The Orchid Reaper}}{{ 111}}](#p111)
+  - [{{ Oenos}}{{ 111}}](#p111)
+  - [{{ The Path of the Great Spirits}}{{ 112}}](#p112)
+  - [{{ Peko-Amuzo, The Trickster Prince}}{{ 112}}](#p112)
+  - [{{ Riahn, He Who Eclipses the Stars}}{{ 112}}](#p112)
+  - [{{ Seraphion, The Highest Throne}}{{ 113}}](#p113)
+  - [{{ Sinnesh, The Den Mother}}{{ 113}}](#p113)
+  - [{{ Satya, the Peerless Seeker}}{{ 113}}](#p113)
+  - [{{ The Eyes}}{{ 114}}](#p114)
+  - [{{ The Living Mandate}}{{ 114}}](#p114)
+  - [{{ The Three Sisters}}{{ 114}}](#p114)
+  - [{{ The World Weave}}{{ 115}}](#p115)
+  - [{{ Trella, The Night Sky}}{{ 115}}](#p115)
+  - [{{ Tycheam}}{{ 116}}](#p116)
+  - [{{ Unmortus, The Dead Guardian}}{{ 116}}](#p116)
+  - [{{ Valexia, the Flesh Crafter}}{{ 117}}](#p117)
+  - [{{ Veskahule}}{{ 117}}](#p117)
+  - [{{ Xan’Zyk, the First Incarnation}}{{ 117}}](#p117)
+  - [{{ Xeesis}}{{ 118}}](#p118)
+  - [{{ Zegarek}}{{ 118}}](#p118)
+- ### [{{ Menu}}{{ 119}}](#p119)
 </div>
 </div>
 
