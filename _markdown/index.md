@@ -1,4 +1,4 @@
-{{titlebar,width:60% Covalon Player's Guide rev 26.07.19 }}
+{{titlebar,width:60% Covalon Player's Guide rev 26.08.02 }}
 :
 :
  
@@ -32,6 +32,7 @@ Covalon is a "living world" style tabletop RPG campaign, using the Pathfinder 2e
 {{pageNumber,auto}}
 
 \page
+
 
 {{toc,wide
 # Contents
@@ -125,8 +126,8 @@ Covalon is a "living world" style tabletop RPG campaign, using the Pathfinder 2e
   - [{{ Sophisticated Society for Supporting Scales and Slithers}}{{ 79}}](#p79)
 - #### [{{ Pre-Cataclysm Civilizations}}{{ 80}}](#p80)
 - #### [{{ Deities, Faith, and Ideologies}}{{ 98}}](#p98)
-
 }}
+
 
 
 
@@ -5374,6 +5375,7 @@ The faiths practiced in Elleaterra are as varied as its people. This section is 
 | A'shir, the Fated Flame              | can choose unholy| destruction, fate, fire, time           | none                 | fire poi     |
 | Axnos                                | can choose either| cities, knowledge, introspection, toil  | travel               | polytool     |
 | The Brakeman                         | can choose holy  | toil, protection, might, travel         | metal, death         | maul         |
+| The Cabal of Everlasting Rest        | can choose holy  | death, repose, soul, undeath            | introspection, vigil | scythe       |
 | The Circle of Stars                  | can choose holy  | healing, moon, star, sun                | travel               | sickle       |
 | The Cheshire                         | can choose unholy| death, decay, cold                      | trickery             | bladed scarf |
 | Derelis                              | must choose holy | ambition, protection, dragon, zeal      | duty                 | longsword    |
@@ -5394,7 +5396,6 @@ The faiths practiced in Elleaterra are as varied as its people. This section is 
 | Levona, Duchess of Hell              |must choose unholy| confidence, fire, trickery, tyranny     | none                 | whip         |
 | Lotus                                | can choose holy  | change, healing, magic, protection      | none                 | fist         |
 | Luxandra, The Everbloom              | can choose holy  | creation, passion, protection, zeal     | none                 | longbow      |
-| Lysanthyr, the Unending Delight      | can choose unholy| delirium, indulgence, passion, undeath  | none                 | asp coil     |
 
                 
 
@@ -5407,6 +5408,7 @@ The faiths practiced in Elleaterra are as varied as its people. This section is 
 ##### Table 4-1: Deities cont.
 | Diety                                | Sanctification   | Domains                                 | Alt Domains          | Weapon
 | :------------------------------------ | :---------------- | :--------------------------------------- | :--------------------: | :---------- |
+| Lysanthyr, the Unending Delight      | can choose unholy| delirium, indulgence, passion, undeath  | none                 | asp coil     |
 | Maiden of the Garden                  | can choose either | passion, wealth, time, luck              | none                   | shield boss |
 | Manaat al-Karim                       | can choose holy   | air, fire, dust                          | sun, freedom           | wish knife or wish blade  |
 | Mendastarum, Devourer of Truth        |must choose unholy | delirium, knowledge, magic, trickery     | glyph                  | asp coil    |
@@ -5538,7 +5540,7 @@ Followers pray to Axnos in the hopes of being granted opportunities to explore f
 ### The Brakeman
 {{wide,columns:2
 
-The Brakeman started as a figure of rumor and folklore among rail workers: when an accident was avoided through seemingly miraculous means, they'd credit an anonymous "Brakeman at the switch." When misfortune befell management who had treated employees badly, it was credited to the  same figure  with "The Brakeman is watching". Over time, the superstitious invocation of the Brakeman became an actual cult, invoked to  watch over the safety of public works, those traveling by mechanical conveyance, and to bless labor movements and wildcat strikes.  Some Brakeman stories associate the figure with guiding the souls of the dead to the afterlife, gathering them aboard a phantom train as it heads towards what they dub the last stop.
+The Brakeman started as a figure of rumor and folklore among rail workers: when an accident was avoided through miraculous means, they'd credit an anonymous "Brakeman at the switch." When misfortune befell management who had treated employees badly, it was credited to the  same figure: "The Brakeman is watching". The superstitious invocation of the Brakeman became an actual cult, invoked to  watch over the safety of public works, those traveling by mechanical conveyance, and to bless labor movements and wildcat strikes.  Some stories associate the figure with guiding the souls of the dead to the afterlife, gathering them aboard a phantom train as it heads towards the last stop.
 :
 **Edicts** Protect others on vehicles, assist with large infrastructure projects<br>
 **Anathema** Trust Management, use forced labor<br>
@@ -5552,6 +5554,29 @@ The Brakeman started as a figure of rumor and folklore among rail workers: when 
 **Alternate Domain** metal, death <br>
 **Cleric Spells** 1st: carryall, 4th: sliding blocks, 7th: heaving earth <br>
 }}
+
+{{wide
+---
+}}
+
+### The Cabal of Everlasting Rest
+{{wide,columns:2
+Followers of the Cabal know well the inevitability of life, death, and undeath, each a valuable moment in a soul's journey towards its final resting place. This pantheon was originally formed by worshippers of various deities working together to handle undead related strife and unrest in their communities. The Cabal's beliefs have expanded beyond its founding, with undeath seen as an additional step along a soul's pathway, sometimes taken willingly, sometimes forced, or skipped entirely. Followers of the Cabal see it as their duty to guide souls in all stages of life along their individual path towards peace. The Cabal's followers include grief counselors, funeral attendants, gravekeepers, and undertakers just as often as it includes holy warriors and priests.
+:
+**Edicts** Guide the living and the dead towards peace, Provide counsel to those affected by death and undeath, Free unwilling sentient undead from servitude  <br> 
+**Anathema** Willingly allow malevolent or mindless undead to attack your community, Disrespect the dead   
+**Pantheon Members** Aelia, Golgolgoss, The Gray Ocean, The Path of Great Spirits, Unmortis
+
+#### Devotee Benefits  
+  
+**Divine Font** heal or harm <br>
+**Divine Sanctification** can choose holy <br>
+**Divine Skill** occultism <br>
+**Favored Weapon** scythe <br>
+**Domains** death, repose, soul, undeath <br>
+**Alternate Domain** introspection, vigil <br>
+**Cleric Spells** 1st: equal footing, 3rd: moth's supper, 4th: life's flowing river <br>
+}}
 {{wide
 ---
 }}
@@ -5559,9 +5584,10 @@ The Brakeman started as a figure of rumor and folklore among rail workers: when 
 ### The Circle of Stars
 {{wide,columns:2
 The Circle of Stars is a loose pantheon of celestial deities of both day and night. It is worshipped primarily by agrarian cultures who place heavy reliance on their community’s safety. They recognize the union of the sun, moon, and stars as important as the union between seed and soil. The sun provides their crops, the night provides their rest, while the moon and stars keep them lit well enough to keep watch over their fields. 
-:
 Different communities and individuals may value different gods or goddesses within the pantheon differently, placing a greater emphasis on love or celebration of newcomers, or on maintaining a purifying fire in the face of the undead. Regardless, those who worship The Circle of Stars form strong bonds with those around them, and will do anything to keep them safe.
-:
+
+\column
+
 **Edicts** foster community with bonds as bright as stars, heal the downtrodden, improve your talents for the sake of your community, celebrate your bonds regularly  <br> 
 **Anathema** turn away a weary or wounded traveler, allow harm to come to a member of your community through negligence, maintain bonds with those who do not honor yours    
 **Pantheon Members** Aelia, Noctune, Trella
@@ -5576,9 +5602,11 @@ Different communities and individuals may value different gods or goddesses with
 **Alternate Domain** travel <br>
 **Cleric Spells** 1st: protector tree, 2nd: blazing bolt, 6th: blanket of stars <br>
 }}
-{{wide
----
-}}
+
+
+{{pageNumber,auto}}
+\page
+
 ### The Cheshire
 {{wide,columns:2
 
@@ -5598,10 +5626,9 @@ The final goddess of an unknown pantheon. Records suggest that she was just anot
 **Alternate Domain** trickery <br>
 **Cleric Spells** 1st: snowball, 4th: chroma leach, 8th: horrid wilting <br>
 }}
-
-{{pageNumber,auto}}
-\page
-
+{{wide
+---
+}}
 ### Derelis
 {{wide,columns:2
 Derelis was a very ancient, powerful dragon that died many years ago. Stories tell of his crusade for justice, peace, and honor among men and dragons alike. He is a patron to good dragons and any others commited to doing the right thing.
@@ -5644,7 +5671,7 @@ Erimia, The Wild Mother, Mother Nature, she has been called many names. She prot
 }}
 ### Fah'rin, The Howling Blizzard
 {{wide,columns:2
-Every year, as the winters of the north end, stories of the cold months find their way to the cities of the countryside. Many stories claim that the howls on the wind during blizzards were accompanied by a feeling of being watched by something just out of view. Stories of Fah’rin tell of a massive wolf-like deity that seeks to halt the world; burying it beneath layers of snow and ice, perfectly preserved, perfectly still. Followers of Fah’rin can often be seen carrying her unholy symbol, a wolven face with an open maw, its fangs made of ice.
+Every winter, stories of the cold months find their way to the cities of the countryside. They claim the howls on the wind during blizzards were accompanied by a feeling of being watched by something hidden. They tell of a massive wolf-like deity that seeks to halt the world; burying it beneath snow and ice, perfectly preserved, perfectly still. Followers of Fah’rin can often be seen carrying her unholy symbol, a wolven face with an open maw and fangs of ice.
 :
 **Edicts** sculpt ice into vicious shapes, do not fear the cold, perfect yourself <br>
 **Anathema** create fires for warmth, intentionally melt ice, harm a wolf that has done you no wrong <br>
@@ -6552,8 +6579,9 @@ Zegarek was most often followed by the more bold of the hunters from the earlier
   - [{{ A’shir, the Fated Flame}}{{ 101}}](#p101)
   - [{{ Axnos}}{{ 101}}](#p101)
   - [{{ The Brakeman}}{{ 102}}](#p102)
+  - [{{ The Cabal of Everlasting Rest}}{{ 102}}](#p102)
   - [{{ The Circle of Stars}}{{ 102}}](#p102)
-  - [{{ The Cheshire}}{{ 102}}](#p102)
+  - [{{ The Cheshire}}{{ 103}}](#p103)
   - [{{ Derelis}}{{ 103}}](#p103)
   - [{{ Erimia}}{{ 103}}](#p103)
   - [{{ Fah’rin, The Howling Blizzard}}{{ 103}}](#p103)
