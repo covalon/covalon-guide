@@ -1,4 +1,4 @@
-{{titlebar,width:60% Covalon Player's Guide rev 26.08.02 }}
+{{titlebar,width:60% Covalon Player's Guide rev 26.09.20 }}
 :
 :
  
@@ -33,7 +33,6 @@ Covalon is a "living world" style tabletop RPG campaign, using the Pathfinder 2e
 
 \page
 
-
 {{toc,wide
 # Contents
 
@@ -52,7 +51,7 @@ Covalon is a "living world" style tabletop RPG campaign, using the Pathfinder 2e
 - #### [{{ Character Backstory}}{{ 8}}](#p8)
 - #### [{{ Web and App-Based Character Sheets}}{{ 8}}](#p8)
 - #### [{{ Requesting New Character Options}}{{ 8}}](#p8)
-- #### [{{ Rebuilding Your Character}}{{ 8}}](#p8)
+- #### [{{ Rebuilding Your Character}}{{ 9}}](#p9)
 - #### [{{ Retiring Your Character}}{{ 9}}](#p9)
 - ### [{{ Chapter 3: Covalon Gameplay}}{{ 10}}](#p10)
 - #### [{{ General Rules}}{{ 10}}](#p10)
@@ -127,7 +126,6 @@ Covalon is a "living world" style tabletop RPG campaign, using the Pathfinder 2e
 - #### [{{ Pre-Cataclysm Civilizations}}{{ 80}}](#p80)
 - #### [{{ Deities, Faith, and Ideologies}}{{ 98}}](#p98)
 }}
-
 
 
 
@@ -209,7 +207,7 @@ We take the safety of our community very seriously. If at any point, you feel ha
 
 ## Roleplay Guidelines
 
-These guidelines should be observed during role playing, whether in an adventure or in the Discord text channels.
+These guidelines should be observed during role play, in an adventure and in server text channels.
 ### 1. Avoid Powergaming
 
 Do not narrate what another character says or does. Player actions are to be decided by the players themselves. This is a collaborative storytelling setting, please don't force someone to change their character or story to suit your needs.
@@ -218,7 +216,7 @@ Do not narrate what another character says or does. Player actions are to be dec
 Do not be excessively violent or sexually explicit. Conversation topics and roleplay themes should be kept appropriate for a PG-13 rating.
 ### 3. One Character per Player
 
-Your player character must be the character you use for roleplay; you cannot roleplay as NPCs. You may roleplay as your familiar, eidolon, or companion, but you may only actively roleplay in a single roleplay channel at a time.
+Your player character must be the character you use for roleplay; you cannot roleplay as NPCs. You may roleplay as your familiar, eidolon, or companion, but you may only actively roleplay in a single Realtime Location (see #roleplay-channels-guide) RP channel at a time. 
 ### 4. Dice Rolls
 
 Please restrict dice rolling in text channels to their designated channels.
@@ -370,7 +368,7 @@ AI is not permitted for use to generate text roleplay in RP channels.
 
 }}
 {{separator}}
-Before you can participate in Covalon, you need to create a character. If you don't own the Pathfinder 2e source books or you're new to the game, you can find all rules and character options at the [Archives of Nethys](https://2e.aonprd.com/PlayersGuide.aspx) website. Each player may only have one active character until they reach max level (see Alternate Character rules), so create a character that you'll love to play!
+Before you can participate in Covalon, you need to create a level 1 character. If you don't own the Pathfinder 2e source books or you're new to the game, you can find all rules and character options at the [Archives of Nethys](https://2e.aonprd.com/PlayersGuide.aspx) website. Each player may only have one active character until they reach max level (see Alternate Character rules), so create a character that you'll love to play!
 
 }}
 
@@ -406,8 +404,9 @@ Your character's starting 15 gp may be used to purchase equipment from the follo
 - Common level 0 items
 - Uncommon level 0 classic firearms
 - Uncommon level 0 items that your character has access to via a feat (such as Elven Weapon Familiarity or Monastic Weaponry)
+- Level 0 weapons on the "Purchasable" tab of the [Crafter's Compendium](<https://docs.google.com/spreadsheets/d/1gcVr4Zk02KkMo44fHfEk5RPuspAKWAwyKj6pAYrwWzM/edit?usp=sharing>)
 
-Please note that the starting equipment your character has access to may be different from what is purchasable from the General Store in Covalon after character creation.
+
 
 {{note
 ##### Access to Uncommon Options
@@ -432,12 +431,13 @@ All characters have access to classic firearms. This includes most non-magical f
 {{
 Covalon does not use any of the Variant Rules systems from the Gamemastery Guide (GMG). This includes Free Archetype, Dual-Class PCs, Ancestry Paragon, Proficiency without Level, etc.
 :
-You'll need to create a backstory for your character that describes who they are and what their life was like prior to joining Covalon. In order to create a character backstory that is cohesive with the campaign's world, please reference the Campaign Lore section of this guide. The key questions you'll want to answer for your character's backstory are:
+You'll need to create a backstory for your character that describes who they are and what their life was like prior to joining Covalon. In order to create a character backstory that is cohesive with the campaign's world, please reference the Campaign Lore section of this guide. The key questions for your character's backstory are:
 :
-"What was my character's life like before the Cataclysm?"
-"How did the Cataclysm affect my character?"
-"What's my character's motivation for continuing to survive?"
-In addition, your character must be an immigrant to Covalon and they may not have any NPCs or backstory characters accompany them.
+- "What was my character's life like before the Cataclysm?"
+- "How did the Cataclysm affect my character?"
+- "What's my character's motivation for continuing to survive?"
+
+In addition, your character may not have any NPCs or backstory characters accompany them.
 :
 Once you're ready to submit your character to the Administrators and Moderators for approval, go to the #create-a-ticket channel in the Discord server and create a ticket, then post a link to your digital character sheet. If you need help building your character, feel free to ask questions in the #newbie-help-and-discussion channel.
 }}
@@ -458,15 +458,22 @@ As an alternative to Pathbuilder 2e, [Wanderer's Guide](https://wanderersguide.a
 
 ## Requesting New Character Options
 
-If you'd like to utilize a character option that isn't listed in the [Server Allowlist](https://docs.google.com/spreadsheets/d/1yUXF_IAmpim6wkB7QT5l6K_lS5DgOppv99BHjMYbNIU/edit#gid=2120003232), you can #create-a-ticket to request the Administrators to review it during their next meeting. Character options from new Paizo book releases are not automatically flagged for review; they must be submitted for review by a player via a ticket.
+If you'd like to utilize a character option that isn't listed in the [Server Allowlist](https://docs.google.com/spreadsheets/d/1yUXF_IAmpim6wkB7QT5l6K_lS5DgOppv99BHjMYbNIU/edit#gid=2120003232), you can #create-a-ticket to request the staff to review it during their next meeting. 
 
 {{note
 ##### REFLAVORING CHARACTER OPTIONS
 {text-align:center}
 
-In order to maintain a fair gaming environment for all players, Covalon restricts the use of reflavoring equipment, abilities, and other character options. For example, a longsword cannot be reflavored as a shovel or a machete, it must be a longsword. A snake familiar cannot be reflavored as a tiny dragon or a hydra, it must be a snake.
+In order to maintain a fair gaming environment for all players, Covalon restricts the use of reflavoring equipment, abilities, and other character options. For example, a longsword cannot be reflavored as a shovel or a machete, it must be a longsword. A snake familiar cannot be reflavored as a tiny dragon or a hydra, it must be a snake. 
+
+Please note that this does not restrict you from adding additional detail to your items; your longsword *can* be your grandfather's long lost heirloom with a dragon-tooth pommel and gold inlay.
 }}
 
+
+
+{{pageNumber,auto}}
+
+\page
 ## Rebuilding Your Character
 
 If you're unhappy with your character, you may rebuild any or all aspects of that character with no cost before reaching level 4 by submitting a ticket with the changes.
@@ -474,11 +481,7 @@ If you're unhappy with your character, you may rebuild any or all aspects of tha
 The exception to this rule is starting equipment - you can only swap out your starting equipment if you are level 1 with 0 XP. Characters that ascend past level 3 but later have their level reduced (due to a failed Terran Reincarnation or reviving at a lower level due to a low level Contract of Terran Revival) are not eligible for free rebuilds, and must retrain or have the ritual of Terran Reincarnation performed on them instead. 
 
  You must #create-a-ticket to have your rebuild or reincarnation approved by staff.
-
-{{pageNumber,auto}}
-
-\page
-
+ 
 ## Retiring Your Character
 
 If you aren't enjoying playing your character or if you just want to start over with a new one, you can voluntarily retire your current character. A retired character must forfeit all of their equipment, currency, and titles - these cannot be donated to another character before retirement. If the character owns private property, a business, or a guild hall, the property may be transferred to another tenant, employee, or guild member respectively, otherwise the property is forfeit as well. Once a character has been retired, they can never be played again.
@@ -744,7 +747,7 @@ When a core character becomes an alt character, they are de-leveled to the alt c
 ### Multiple Character Restrictions
 
 #### Roleplay
-Your characters can never interact together in RP. You may not actively role play as multiple characters at the same time, even in different channels or threads. Remember you can always “time bubble” an RP into a separate thread to return to later. 
+Your characters can never interact together in RP. You may not actively role play as multiple characters at the same time in multiple Realtime Location channels. Remember you can always “time bubble” an RP into a separate thread to return to later. 
 
 #### Inventory
 Your characters have completely separate inventories—items and gold cannot be shared. 
@@ -1377,14 +1380,11 @@ Committing a crime can be a fun way to spice up roleplaying, especially when use
 
 
 #### Roleplay Laws
-If a player character breaks a Roleplay Law, the crime can be reported by the victim of the crime, any witness to the crime, or the perpetrator themselves (if they feel guilty and want to turn themselves in). Depending on the severity of the crime, an appropriate consequence will be administered. These consequences only exist for the purposes of roleplaying and have no effect on mechanical aspects of the server, such adventures or downtime systems. A player character who commits an Infraction will receive an official warning and may be ordered to take remedial classes. A player character who commits a Misdemeanor will be asked to complete community service as atonement. Lastly, a player who commits a Felony must atone for it by serving jail time. With forenotice, the staff team can use the Chronicler account to act as NPC guards in a roleplay scene.
+If a player character breaks a Roleplay Law, the crime can be reported by the victim of the crime, any witness to the crime, or the perpetrator themselves (if they feel guilty and want to turn themselves in). Depending on the severity of the crime, an appropriate consequence will be administered. These consequences only exist for the purposes of roleplaying and have no effect on mechanical aspects of the server, such adventures or downtime systems. A player character who commits an Infraction will receive an official warning and may be ordered to take remedial classes. A player character who commits a Misdemeanor will be asked to complete community service as atonement. Lastly, a player who commits a Felony must atone for it by serving jail time. 
 
 \column
 
-#### Trials
-Sometimes, when a crime is reported, the evidence isn't clear enough to support a conviction against a player character, or the victim or criminal may want to argue that a consequence for a particular instance of a crime should be more or less severe. In either of these circumstances, a trial can be requested by a victim or criminal. During a trial, a plaintiff (either the victim, their appointed representative, or a representative for the city of Covalon) and the defendant (either the alleged criminal, convicted criminal, or their appointed representative) argue their case before a staff member(s) (roleplaying as a Covalon NPC judge) and a panel of six jurors, made up of randomly selected volunteers. The staff member(s) will guide the trial by asking questions and instructing the plaintiff and defendant when to present their evidence or call for witness testimonies. After all evidence has been presented and arguments have been made, the jury will determine the outcome of the case via a simple majority vote. After the vote, the details of sentencing (if applicable) will be determined by the staff member(s).
 
-Like other role playing events, upcoming trials are scheduled in the #scheduled-events channel, and players may sign up to potentially serve on the jury. No XP or gold is awarded, but all jurors earn a Hero Point for their service. Trials can take place over voice chat or text chat, and should not last more than two hours.
 
 {{pageNumber,auto}}
 
@@ -6478,7 +6478,7 @@ Zegarek was most often followed by the more bold of the hunters from the earlier
 - #### [{{ Character Backstory}}{{ 8}}](#p8)
 - #### [{{ Web and App-Based Character Sheets}}{{ 8}}](#p8)
 - #### [{{ Requesting New Character Options}}{{ 8}}](#p8)
-- #### [{{ Rebuilding Your Character}}{{ 8}}](#p8)
+- #### [{{ Rebuilding Your Character}}{{ 9}}](#p9)
 - #### [{{ Retiring Your Character}}{{ 9}}](#p9)
 - ### [{{ Chapter 3: Covalon Gameplay}}{{ 10}}](#p10)
 - #### [{{ General Rules}}{{ 10}}](#p10)

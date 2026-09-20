@@ -1,6 +1,6 @@
 
 
-{{titlebar,width:60% Covalon GM's Guide rev 2026.04.21}}
+{{titlebar,width:60% Covalon GM's Guide rev 2026.09.20}}
 ::::
 {{wide
 # Covalon GM's Guide
@@ -560,7 +560,7 @@ Expedition Finales are fully pre-built boss encounters with special mechanics th
 When you GM a Finale, the character you claim GM rewards on can unlock that Finale's Soul Seed. 
 
 ##### APL Adjustments
-Finales are designed as single encounters of moderate to severe difficulty for the middle APL of their tier, e.g. APL 11 for Tier 4. To run a Finale for one APL above middle of tier, apply the elite template every stat block. To run a Finale for one APL below middle of tier, apply the weak adjustment to every stat block. 
+Finales are designed as single encounters of moderate to severe difficulty for the middle APL of their tier, e.g. APL 11 for Tier 4. To run a Finale for one APL above middle of tier, apply the elite template to every stat block. To run a Finale for one APL below middle of tier, apply the weak adjustment to every stat block. 
 
 ##### Normal Mode and Hard Mode
 Finales come in two versions: Normal Mode or Hard Mode. For a short time when a Finale first releases (usually the release weekend), it can only be run by Covalon administrators, moderators, and Senior Dungeon Guides, and only in Hard Mode, for the maximum APL in the highest two tiers of play. The opening weekend is the "canonical" version of the boss fight. Every time the Finale is run after this, the boss is flavored as a "facsimile," a copy created by the Maw with all the same combat capabilities. After the initial period, Finales can be run by any Dungeon Guide in either Normal or Hard Mode.  
@@ -648,7 +648,7 @@ All new characters to the dungeoneering society must sign a dungeoneering contra
 Areas where strong emotions were released tend to magnetize portals to those areas. For example, say a village burned to the ground during the cataclysm and all the villagers were incinerated in a matter of minutes. The screams of terror and pain from the villagers would create a strong emotional magnet that might influence a portal key more than anything else in its object memory (hence why many portals tend to open to ruins or other sites of tragedy). The other major factor that influences portals are ley lines, which are invisible loci of magical power scattered across the world. Ley line interference is highly unpredictable, and can cause portals to open quite a distance off from the source of the object memory feeding the portal. As a result, it is impossible to "pinpoint" a specific location with portals.
 
 ### Holding Portals Open
-Once a portal is opened, it must be receive a constant flow of magical energy in order to remain stable. Portal specialists are capable of keeping portals open, though keeping one open for too long can cause quite a bit of strain on the spellcaster. For this reason, excursions should be kept to no more than a few hours in length.
+Once a portal is opened, it must be receive a constant flow of magical energy in order to remain stable. Portal specialists are capable of keeping portals open, though keeping one open for too long can cause quite a bit of strain on the spellcaster. For this reason, dungeons should be kept to no more than a few hours in length.
 
 {{note
 This is also a great, in-universe way to keep the party moving inside an adventure and prevent excessive stalling or delaying tactics.
